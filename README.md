@@ -16,20 +16,22 @@
 |  Dev   |   23606    | 2023/12/14 |      [aka.ms/WIP23606](aka.ms/WIP23606)      |
 |  Beta  | 22635.2850 | 2023/12/09 | [aka.ms/WIP-Beta-12-8](aka.ms/WIP-Beta-12-8) |
 
-## Canary 频道 - 公告中已知问题
+## Canary - 公告已知问题
 
 //
 
 //
 
-## Canary 频道 - 用户反馈
+## Canary - 用户反馈
 
 //
 
 //
 
-## Canary 频道 - 归档 (已做出更改)
+## Canary - 归档 (已做出更改)
 
 //
 
 //
+
+[回到顶部](https://github.com/Lingggao/LGHUB#%E7%81%B5%E7%B3%95%E4%B8%AD%E5%BF%83-linggao-hub)
