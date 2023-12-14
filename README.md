@@ -58,7 +58,7 @@ Microsoft 官方回复：“我们正在调查导致部分 Insiders 无法打开
 
 编号：LG002  
 版本：Canary 25951 - 26016  
-**问题**：**部分热门游戏可能无法正常运行。**  
+**问题**：**部分热门游戏可能无法正常运行**。  
 状态：<img src="Images/I.png" width = "17%" />  
 Microsoft 官方回复：“如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)*  
 <img src="Images/M.png" width = "15%" />
@@ -67,7 +67,7 @@ Microsoft 官方回复：“如果您在预览体验版本中玩游戏时发现�
 
 编号：LG003  
 版本：Canary 26016  
-**问题**：**点击 “设置”>“系统”>“电源” 时菜单崩溃。**  
+**问题**：**点击 “设置”>“系统”>“电源” 时菜单崩溃**。  
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式，作为一种变通方案。使用 powercfg /overlaysetactive 设置用户配置的活动电源模式，使用 powercfg /q OVERLAY_SCHEME_CURRENT 获取用户配置的活动电源模式。查看下面的网站详细了解 powercfg。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
 
@@ -77,7 +77,7 @@ Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式�
 
 编号：LG004  
 版本：Canary 26010 - 26016  
-**问题**：**打开打印队列时提示 “找不到应用程序”。**  
+**问题**：**打开打印队列时提示 “找不到应用程序”**。  
 状态：<img src="Images/L.png" width = "10%" />  
 
 ## Canary - 用户反馈
