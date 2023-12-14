@@ -78,7 +78,14 @@ Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式�
 编号：LG004  
 版本：Canary 26010 - 26016  
 **问题**：**打开打印队列时提示 “找不到应用程序”**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "10%" />
+
+---
+
+编号：LG005  
+版本：Canary 26010  
+**问题**：**Windows RE (恢复环境) 无法正确呈现**。  
+状态：Canary 26016 - <img src="Images/C_0.png" width = "12%" /> - 已修复
 
 ## Canary - 用户反馈
 
