@@ -78,10 +78,16 @@ Microsoft 官方回复 (如果有)：#####
 
 ## Canary - 归档 (已做出更改 >14 天)
 
-//
+&emsp;&emsp;记录 Microsoft 已做出更改 14 - 28 天的问题。
 
-//
+[Microsoft 已做出更改 >28 天的问题]()
 
-//
+---
 
 [回到顶部](https://github.com/Lingggao/LGHUB#%E7%81%B5%E7%B3%95%E4%B8%AD%E5%BF%83-linggao-hub)
+
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" width = "3%" />
+
+在 “[署名 - 相同方式共享 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)” 协议 (CC BY-SA 4.0) 之条款下提供。
+
+2023, 高楷修 (Ling Gao), 灵糕中心 (Linggao Hub), [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)
