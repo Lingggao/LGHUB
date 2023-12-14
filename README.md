@@ -1,4 +1,4 @@
-<img src="Images/WIP.png" width = "45%" />
+<img src="Images/WIP.png" width = "40%" />
 
 # 灵糕中心 (Linggao Hub)
 
