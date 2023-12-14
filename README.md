@@ -71,7 +71,14 @@ Microsoft 官方回复：“如果您在预览体验版本中玩游戏时发现�
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式，作为一种变通方案。使用 powercfg /overlaysetactive 设置用户配置的活动电源模式，使用 powercfg /q OVERLAY_SCHEME_CURRENT 获取用户配置的活动电源模式。查看下面的网站详细了解 powercfg。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
 
-[自定义 Windows 性能电源滑块](https://learn.microsoft.com/windows-hardware/customize/desktop/customize-power-slider)
+[自定义 Windows 性能电源滑块](https://learn.microsoft.com/windows-hardware/customize/desktop/customize-power-slider) *(Microsoft Learn)*
+
+---
+
+编号：LG004  
+版本：Canary 26010 - 26016  
+**问题**：**打开打印队列时提示 “找不到应用程序”。**  
+状态：<img src="Images/L.png" width = "10%" />  
 
 ## Canary - 用户反馈
 
