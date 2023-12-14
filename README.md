@@ -42,7 +42,7 @@ Microsoft 官方回复 (如果有)：xxxxx
 版本：Canary 26016  
 问题：xxxxx  
 状态：正在处理  
-<img src="Images/W.png" width = "10%" />
+<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复 (如果有)：xxxxx  
 典型反馈：[aka.ms/AAxxxxx](https://aka.ms/fbh)  
 图像等补充信息 (如果有)    
