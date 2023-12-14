@@ -24,19 +24,13 @@
 
 **标准格式**
 
-编号：LGxxx
-
-版本：Canary xxxxx
-
-问题：xxxxx
-
-状态：正在调查 / 正在处理 / 需要更多详细信息 / 所做的更改 / (其他)
-
-Microsoft 官方回复 (如果有)：xxxxx
-
-典型反馈：[aka.ms/AAxxxxx](https://aka.ms/fbh)
-
-图像等补充信息 (如果有)
+编号：LGxxx  
+版本：Canary xxxxx  
+问题：xxxxx  
+状态：正在调查 / 正在处理 / 需要更多详细信息 / 所做的更改 / (其他)  
+Microsoft 官方回复 (如果有)：xxxxx  
+典型反馈：[aka.ms/AAxxxxx](https://aka.ms/fbh)  
+图像等补充信息 (如果有)  
 
 ## Canary - 公告已知问题
 
@@ -109,3 +103,4 @@ Microsoft 官方回复 (如果有)：xxxxx
 在 “[署名 - 相同方式共享 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)” 协议 (CC BY-SA 4.0) 之条款下提供。
 
 2023, 高楷修 (Ling Gao), 灵糕中心 (Linggao Hub), [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)
+
