@@ -1,6 +1,6 @@
-# 灵糕中心 (Linggao Hub)
+<img src="Images/WIP.png" width = "50%" />
 
-<img src="Images/WIP.png" width = "30%" />
+# 灵糕中心 (Linggao Hub)
 
 [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)
 
