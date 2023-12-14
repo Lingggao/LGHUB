@@ -26,7 +26,7 @@
 
 编号：LGxxx  
 版本：Canary xxxxx  
-问题：xxxxx  
+问题：**xxxxx**  
 状态：正在调查 / 正在处理 / 需要更多详细信息 / 所做的更改 / (其他)  
 Microsoft 官方回复 (如果有)：xxxxx  
 典型反馈：[aka.ms/AAxxxxx](https://aka.ms/fbh)  
@@ -40,12 +40,10 @@ Microsoft 官方回复 (如果有)：xxxxx
 
 编号：LG000  
 版本：Canary 26016  
-问题：xxxxx  
-状态：正在处理  
-<img src="Images/W.png" width = "10%" />  
+问题：无法下载 Build 26016 更新，显示 8024200D 错误。  
+状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复 (如果有)：xxxxx  
-典型反馈：[aka.ms/AAxxxxx](https://aka.ms/fbh)  
-图像等补充信息 (如果有)    
+典型反馈：无  
 
 ---
 
