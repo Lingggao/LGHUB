@@ -38,7 +38,7 @@ Microsoft 官方回复 (如果有)：#####
 
 ## Canary - 公告已知问题
 
-&emsp;&emsp;记录 [Windows Insider 博客](https://blogs.windows.com/windows-insider)中已经明确的已知问题。
+&emsp;&emsp;记录 [Windows Insider 博客](https://blogs.windows.com/windows-insider)中明确公开的已知问题。
 
 ---
 
@@ -58,11 +58,27 @@ Microsoft 官方回复 (如果有)：#####
 
 ## Canary - 用户反馈
 
+&emsp;&emsp;记录[反馈中心应用](https://aka.ms/fbh)中 Microsoft 明确响应的问题。
+
+---
+
+//
+
+//
+
+//
+
+---
+
+//
+
 //
 
 //
 
 ## Canary - 归档 (已做出更改)
+
+//
 
 //
 
