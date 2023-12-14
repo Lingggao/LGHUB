@@ -29,7 +29,7 @@
 问题：**xxxxx**  
 状态：正在调查 / 正在处理 / 需要更多详细信息 / 所做的更改 / (其他)  
 Microsoft 官方回复 (如果有)：xxxxx  
-典型反馈：[aka.ms/AAxxxxx](https://aka.ms/fbh)  
+典型反馈 (如果有)：[aka.ms/AAxxxxx](https://aka.ms/fbh)  
 图像等补充信息 (如果有)    
 
 ## Canary - 公告已知问题
@@ -40,10 +40,9 @@ Microsoft 官方回复 (如果有)：xxxxx
 
 编号：LG000  
 版本：Canary 26016  
-问题：无法下载 Build 26016 更新，显示 8024200D 错误。  
+问题：**无法下载 Build 26016 更新，显示 8024200D 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
-Microsoft 官方回复 (如果有)：xxxxx  
-典型反馈：无  
+Microsoft 官方回复：“部分 Insiders 可能遇到 ‘下载循环’，即 Build 26016 更新下载多次后出现 8024200D 错误。通常第 4 次尝试时可以成功下载并安装。我们正在积极监控中。” *(Ling 译)*  
 
 ---
 
