@@ -1,6 +1,6 @@
 # 灵糕中心 (Linggao Hub)
 
-[https://github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)
+[github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)
 
 &emsp;&emsp;用于标记 “哪些 Windows 11 预览体验版本 (**Canary 频道**) 反馈正在由 Microsoft 调查 / 处理 / 已做出更改” 的信息枢纽。由 2021 Windows Insider Most Valuable Professional (MVP) · **Ling Gao** 先生管理。
 
@@ -10,13 +10,39 @@
 
 ## 外部测试版
 
-|  频道  |  最新版本  |    时间    |                     公告                     |
-| :----: | :--------: | :--------: | :------------------------------------------: |
-| Canary |   26016    | 2023/12/14 |      [aka.ms/WIP26016](aka.ms/WIP26016)      |
-|  Dev   |   23606    | 2023/12/14 |      [aka.ms/WIP23606](aka.ms/WIP23606)      |
-|  Beta  | 22635.2850 | 2023/12/09 | [aka.ms/WIP-Beta-12-8](aka.ms/WIP-Beta-12-8) |
+|  频道  |  最新版本  |    时间    |                         公告                         |
+| :----: | :--------: | :--------: | :--------------------------------------------------: |
+| Canary |   26016    | 2023/12/14 |      [aka.ms/WIP26016](https://aka.ms/WIP26016)      |
+|  Dev   |   23606    | 2023/12/14 |      [aka.ms/WIP23606](https://aka.ms/WIP23606)      |
+|  Beta  | 22635.2850 | 2023/12/09 | [aka.ms/WIP-Beta-12-8](https://aka.ms/WIP-Beta-12-8) |
 
 ## Canary - 公告已知问题
+
+记录 [Windows Insider 博客](https://blogs.windows.com/windows-insider)中已经明确的已知问题。
+
+**通用格式**
+
+编号：LG###
+
+问题：#####
+
+状态：正在调查 / 正在处理
+
+典型反馈：
+
+图像 (可选)
+
+---
+
+//
+
+//
+
+//
+
+---
+
+//
 
 //
 
