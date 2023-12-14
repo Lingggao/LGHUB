@@ -30,7 +30,7 @@
 状态：正在调查 / 正在处理 / 需要更多详细信息 / 所做的更改 / (其他)  
 Microsoft 官方回复 (如果有)：xxxxx  
 典型反馈 (如果有)：[aka.ms/AAxxxxx](https://aka.ms/fbh)  
-图像等补充信息 (如果有)    
+图像等补充信息 (如果有)
 
 ## Canary - 公告已知问题
 
@@ -85,7 +85,16 @@ Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式�
 编号：LG005  
 版本：Canary 26010  
 **问题**：**Windows RE (恢复环境) 无法正确呈现**。  
-状态：Canary 26016 - <img src="Images/C_0.png" width = "12%" /> - 已修复
+状态：Canary 26016 - <img src="Images/C_0.png" width = "12%" /> - 已修复 √
+
+---
+
+编号：LG006  
+版本：Canary 26002 - 26010  
+**问题**：**无法在桌面上使用 Ctrl 快捷键、Alt + F4 快捷键、Del 删除键**。  
+状态：Canary 26016 - <img src="Images/C_0.png" width = "12%" /> - 已修复 √  
+Microsoft 官方回复：“如果您需要操作桌面文件，请暂时访问文件资源管理器中的 ‘桌面’ 文件夹。导致三种按键失效的根本原因一致，我们已经确认原因并将其在 Build 26016 中修复。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAo73hv](https://aka.ms/AAo73hv)
 
 ## Canary - 用户反馈
 
