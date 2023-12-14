@@ -50,9 +50,9 @@ Microsoft 官方回复：“部分 Insiders 可能遇到 ‘下载循环’，�
 版本：Canary 26010 - 26016  
 **问题**：**无法打开设置菜单 / 设置菜单崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
-Microsoft 官方回复：“我们正在调查导致部分 Insiders 无法打开 ‘设置’ 菜单的问题。如果您正在受此影响，请查看下方社区话题了解解决方案。” *(Ling 译)*
+Microsoft 官方回复：“我们正在调查导致部分 Insiders 无法打开 ‘设置’ 菜单的问题。如果您正在受此影响，请查看下面的社区话题了解解决方案。” *(Ling 译)*
 
-[临时解决方案](https://aka.ms/26010SettingsCrash) *(Jason Howard 著)*  
+[临时解决方案](https://aka.ms/26010SettingsCrash) *(Jason Howard 整理)*  
 
 ## Canary - 用户反馈
 
