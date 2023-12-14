@@ -4,7 +4,7 @@
 
 [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)
 
-&emsp;&emsp;用于标记 “Windows 11 预览体验版本 (**Canary 频道**) 哪些反馈正在由 Microsoft 调查 / 处理 / 已做出更改” 的信息枢纽。由 2021 Windows Insider Most Valuable Professional (MVP) · **Ling Gao** 先生管理。
+&emsp;&emsp;用于标记 “**Windows 11 预览体验版本 (Canary 频道) 哪些反馈正在由 Microsoft 调查 / 处理 / 已做出更改**” 的信息枢纽。由 2021 Windows Insider Most Valuable Professional (MVP) · **Ling Gao** 先生管理。
 
 &emsp;&emsp;**声明**：灵糕中心的管理者不是 Microsoft 公司全职员工 (FTE)，不能代表 Microsoft 公司立场、态度。中心无意且无法代替 “反馈中心” (Feedback Hub) 应用的重要作用。中心不提供 Microsoft 产品技术支持服务。中心不接受有关 Windows 11 预览体验版本的反馈，用户应始终通过 “反馈中心” 应用提交。
 
@@ -76,7 +76,7 @@ Microsoft 官方回复 (如果有)：#####
 
 //
 
-## Canary - 归档 (已做出更改)
+## Canary - 归档 (已做出更改 >14 天)
 
 //
 
