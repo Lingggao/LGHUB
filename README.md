@@ -20,10 +20,6 @@
 |  Dev   |   23606    | 2023/12/14 |      [aka.ms/WIP23606](https://aka.ms/WIP23606)      |
 |  Beta  | 22635.2850 | 2023/12/09 | [aka.ms/WIP-Beta-12-8](https://aka.ms/WIP-Beta-12-8) |
 
-## Canary - 公告已知问题
-
-&emsp;&emsp;记录 [Windows Insider 博客](https://blogs.windows.com/windows-insider)中已经明确的已知问题。
-
 **通用格式**
 
 编号：LG###
@@ -39,6 +35,10 @@ Microsoft 官方回复 (如果有)：#####
 典型反馈：[aka.ms/AA#####](https://aka.ms/fbh)
 
 图像等补充信息 (如果有)
+
+## Canary - 公告已知问题
+
+&emsp;&emsp;记录 [Windows Insider 博客](https://blogs.windows.com/windows-insider)中已经明确的已知问题。
 
 ---
 
