@@ -110,7 +110,7 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo73ko](https://aka.ms/AAo73ko)
 
-
+<img src="Images/LG007.png" width = "50%" />
 
 
 ---
