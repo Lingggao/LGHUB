@@ -36,7 +36,7 @@ Microsoft 官方回复 (如果有)：xxxxx
 图像等补充信息 (如果有)
 ```
 
-## 一、Canary - 公告已知问题
+## ✦ Canary - 公告已知问题
 
 &emsp;&emsp;记录 [Windows Insider 博客](https://blogs.windows.com/windows-insider)中明确公开的已知问题。
 
@@ -100,7 +100,7 @@ Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式�
 Microsoft 官方回复：“如果您需要操作桌面文件，请暂时访问文件资源管理器中的 ‘桌面’ 文件夹。导致三种按键失效的根本原因一致，我们已经确认原因并将其在 Build 26016 中修复。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo73hv](https://aka.ms/AAo73hv)
 
-## 二、Canary - 用户反馈问题
+## ✦ Canary - 用户反馈问题
 
 &emsp;&emsp;记录[反馈中心应用](https://aka.ms/fbh)中 Microsoft 明确响应的问题。
 
@@ -231,6 +231,14 @@ Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 �
 **问题**：**部分游戏无法识别 Xbox 控制器 (手柄) 输入**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAny4gq](https://aka.ms/AAny4gq)
+
+---
+
+编号：LG021  
+版本：Canary 26002 - 26016  
+**问题**：**调节任务栏 “快速设置” 中的音量滑块时不再发出声音**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAo4oyt](https://aka.ms/AAo4oyt)
 
 ---
 
