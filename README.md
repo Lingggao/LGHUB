@@ -218,6 +218,22 @@ Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 �
 
 ---
 
+编号：LG019  
+版本：Canary 25997 - 26016  
+**问题**：**远程桌面显示 “图形组件无法启动” 错误**。  
+状态：<img src="Images/W.png" width = "10%" />  
+典型反馈：[aka.ms/AAnyzb4](https://aka.ms/AAnyzb4)
+
+---
+
+编号：LG020  
+版本：Canary 25982 - 26016  
+**问题**：**部分游戏无法识别 Xbox 控制器 (手柄) 输入**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAny4gq](https://aka.ms/AAny4gq)
+
+---
+
 占  
 位  
 符
