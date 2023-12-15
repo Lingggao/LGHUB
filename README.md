@@ -32,7 +32,7 @@ Microsoft 官方回复 (如果有)：xxxxx
 典型反馈 (如果有)：[aka.ms/AAxxxxx](https://aka.ms/fbh)  
 图像等补充信息 (如果有)
 
-## Canary - 公告已知问题
+## 一、Canary - 公告已知问题
 
 &emsp;&emsp;记录 [Windows Insider 博客](https://blogs.windows.com/windows-insider)中明确公开的已知问题。
 
@@ -96,7 +96,7 @@ Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式�
 Microsoft 官方回复：“如果您需要操作桌面文件，请暂时访问文件资源管理器中的 ‘桌面’ 文件夹。导致三种按键失效的根本原因一致，我们已经确认原因并将其在 Build 26016 中修复。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo73hv](https://aka.ms/AAo73hv)
 
-## Canary - 用户反馈
+## 二、Canary - 用户反馈
 
 &emsp;&emsp;记录[反馈中心应用](https://aka.ms/fbh)中 Microsoft 明确响应的问题。
 
@@ -115,11 +115,19 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 
 ---
 
+编号：LG008  
+版本：Canary 26002 - 26016  
+**问题**：**“Wallpaper Engine：壁纸引擎” 软件崩溃**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈 (如果有)：[aka.ms/AAnwevt](https://aka.ms/AAnwevt)
+
+---
+
 占  
 位  
 符
 
-## Canary - 归档 (已做出更改 >14 天)
+## 三、Canary - 归档 (已做出更改 >14 天)
 
 &emsp;&emsp;记录 Microsoft 已做出更改 14 - 28 天的问题。无特殊情况，问题归档后不再更新。
 
