@@ -180,6 +180,32 @@ Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 �
 
 ---
 
+编号：LG015  
+版本：Canary 25992 - 26016  
+**问题**：**在文件资源管理器中按下两次 F11 后地址栏将被冻结**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAnkkd6](https://aka.ms/AAnkkd6)
+
+---
+
+编号：LG016  
+版本：ALL - Canary 25992  
+**问题**：**文件资源管理器中 Filter 功能被错误地翻译为 “滤镜”**。  
+状态：Canary 25997 - <img src="Images/C_0.png" width = "12%" /> - 已修复 √  
+典型反馈：[aka.ms/AAo5wfq](https://aka.ms/AAo5wfq)
+
+---
+
+编号：LG017  
+版本：ALL  
+**问题**：**xxxxx**  
+状态：2023 年 10 月 20 日 - <img src="Images/C_0.png" width = "12%" /> - 已修复 √  
+典型反馈：[aka.ms/AAo6pov](https://aka.ms/AAo6pov)
+
+
+
+---
+
 占  
 位  
 符
