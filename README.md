@@ -242,6 +242,25 @@ Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 �
 
 ---
 
+编号：LG022  
+版本：Canary 25997 - 26016  
+**问题**：**Windows Sandbox 显示 0x80072746 错误**。  
+状态：<img src="Images/W.png" width = "10%" />  
+典型反馈：[aka.ms/AAo6y4i](https://aka.ms/AAo6y4i)
+
+---
+
+编号：LG023  
+版本：Canary 26010  
+**问题**：**电脑显示 Microsoft 365 家庭版订阅已过期，但实际上仍处于激活状态**。  
+状态：Canary 26016 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“我们已经完成了调查，并在服务器端进行了更改，因此这个问题现在应该已经解决。您可能需要重新启动一次电脑。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAo6y4m](https://aka.ms/AAo6y4m)
+
+
+
+---
+
 占  
 位  
 符
