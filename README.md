@@ -151,6 +151,14 @@ Microsoft 官方回复：“Snipping 工作人员已完成调查，并在 11.231
 
 ---
 
+编号：LG012  
+版本：ALL  
+**问题**：**截图工具的 “设置” 页面存在中文语法错误**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAo6pkw](https://aka.ms/AAo6pkw)
+
+---
+
 占  
 位  
 符
