@@ -22,6 +22,7 @@
 |  Dev   |   23606    | 2023/12/14 |       [aka.ms/WIP23606](https://aka.ms/WIP23606)       |
 |  Beta  | 22635.2915 | 2023/12/15 | [aka.ms/WIP-Beta-12-14](https://aka.ms/wip-beta-12-14) |
 
+```
 **标准格式**
 
 编号：LGxxx  
@@ -31,6 +32,7 @@
 Microsoft 官方回复 (如果有)：xxxxx  
 典型反馈 (如果有)：[aka.ms/AAxxxxx](https://aka.ms/fbh)  
 图像等补充信息 (如果有)
+```
 
 ## 一、Canary - 公告已知问题
 
