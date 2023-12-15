@@ -267,7 +267,7 @@ Microsoft 官方回复：“我们已经完成了调查，并在服务器端进�
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo7div](https://aka.ms/AAo7div)
 
-
+<img src="Images/LG024.png" width = "50%" />
 
 ---
 
