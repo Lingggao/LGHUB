@@ -137,7 +137,7 @@ Microsoft 官方回复：“Snipping 工作人员已完成调查，并在 11.231
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo74l5](https://aka.ms/AAo74l5)
 
-<img src="Images/LG010.png" width = "30%" />
+<img src="Images/LG010.png" width = "25%" />
 
 ---
 
@@ -147,7 +147,7 @@ Microsoft 官方回复：“Snipping 工作人员已完成调查，并在 11.231
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo74m3](https://aka.ms/AAo74m3)
 
-<img src="Images/LG011.png" width = "30%" />
+<img src="Images/LG011.png" width = "25%" />
 
 ---
 
