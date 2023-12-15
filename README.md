@@ -257,7 +257,7 @@ Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 �
 Microsoft 官方回复：“我们已经完成了调查，并在服务器端进行了更改，因此这个问题现在应该已经解决。您可能需要重新启动一次电脑。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo6y4m](https://aka.ms/AAo6y4m)
 
-
+<img src="Images/LG023.png" width = "20%" />
 
 ---
 
