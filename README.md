@@ -89,14 +89,14 @@ Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式�
 编号：LG005  
 版本：Canary 26010  
 **问题**：**Windows RE (恢复环境) 无法正确呈现**。  
-状态：Canary 26016 - <img src="Images/C_0.png" width = "12%" /> - 已修复 √
+状态：Canary 26016 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓
 
 ---
 
 编号：LG006  
 版本：Canary 26002 - 26010  
 **问题**：**无法在桌面上使用 Ctrl 快捷键、Alt + F4 快捷键、Del 删除键**。  
-状态：Canary 26016 - <img src="Images/C_0.png" width = "12%" /> - 已修复 √  
+状态：Canary 26016 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 Microsoft 官方回复：“如果您需要操作桌面文件，请暂时访问文件资源管理器中的 ‘桌面’ 文件夹。导致三种按键失效的根本原因一致，我们已经确认原因并将其在 Build 26016 中修复。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo73hv](https://aka.ms/AAo73hv)
 
@@ -129,7 +129,7 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 编号：LG009  
 版本：ALL  
 **问题**：**通过快捷键截图后无法直接打开图片**。  
-状态：截图工具 11.2310.54.0 - <img src="Images/C_0.png" width = "12%" /> - 已修复 √  
+状态：截图工具 11.2310.54.0 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 Microsoft 官方回复：“Snipping 工作人员已完成调查，并在 11.2310.54.0 版本中包含了修复程序。如果您在使用此版本 (或更高版本) 时仍然遇到问题，请立即提交新的反馈。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo7jbd](https://aka.ms/AAo7jbd)
 
@@ -178,7 +178,7 @@ Microsoft 官方回复：“Snipping 工作人员已完成调查，并在 11.231
 编号：LG014  
 版本：Canary 25997 - 26002  
 **问题**：**在文件资源管理器中打开上下文菜单时崩溃 / 显示为旧版样式**。  
-状态：Canary 26010 - <img src="Images/C_0.png" width = "12%" /> - 已修复 √  
+状态：Canary 26010 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 中得到修复。如果您在更新后仍然遇到问题，请立即提交新的反馈。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAnslj4](https://aka.ms/AAnslj4)
 
@@ -195,7 +195,7 @@ Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 �
 编号：LG016  
 版本：ALL - Canary 25992  
 **问题**：**文件资源管理器中 Filter 功能被错误地翻译为 “滤镜”**。  
-状态：Canary 25997 - <img src="Images/C_0.png" width = "12%" /> - 已修复 √  
+状态：Canary 25997 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAo5wfq](https://aka.ms/AAo5wfq)
 
 ---
@@ -203,7 +203,7 @@ Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 �
 编号：LG017  
 版本：ALL  
 **问题**：**反馈中心无法在中国大陆网络环境中使用**。  
-状态：2023 年 10 月 20 日 - <img src="Images/C_0.png" width = "12%" /> - 已修复 √  
+状态：2023 年 10 月 20 日 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAo6pov](https://aka.ms/AAo6pov)
 
 <img src="Images/LG017.png" width = "40%" />
