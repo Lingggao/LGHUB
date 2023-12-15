@@ -122,6 +122,15 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 
 ---
 
+编号：LG009  
+版本：ALL  
+**问题**：**通过快捷键截图后无法直接打开图片**。  
+状态：截图工具 11.2310.54.0 - <img src="Images/C_0.png" width = "12%" /> - 已修复 √  
+Microsoft 官方回复：“Snipping 工作人员已完成调查，并在 11.2310.54.0 版本中包含了修复程序。如果您在使用此版本 (或更高版本) 时仍然遇到问题，请立即提交新的反馈。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAo7jbd](https://aka.ms/AAo7jbd)
+
+---
+
 占  
 位  
 符
