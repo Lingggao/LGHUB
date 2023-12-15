@@ -157,6 +157,18 @@ Microsoft 官方回复：“Snipping 工作人员已完成调查，并在 11.231
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo6pkw](https://aka.ms/AAo6pkw)
 
+
+
+---
+
+编号：LG013  
+版本：Canary 26002 - 26016  
+**问题**：**“设置”>“应用”>“启动” 页面中的图标异常**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAo5wd6](https://aka.ms/AAo5wd6)
+
+
+
 ---
 
 占  
