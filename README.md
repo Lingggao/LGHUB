@@ -141,6 +141,16 @@ Microsoft 官方回复：“Snipping 工作人员已完成调查，并在 11.231
 
 ---
 
+编号：LG011  
+版本：Canary 26002 - 26016  
+**问题**：**无法通过任务栏 “快速设置” 导航至 “节能模式” 菜单**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAo74m3](https://aka.ms/AAo74m3)
+
+
+
+---
+
 占  
 位  
 符
