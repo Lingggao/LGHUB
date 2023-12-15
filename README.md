@@ -171,6 +171,15 @@ Microsoft 官方回复：“Snipping 工作人员已完成调查，并在 11.231
 
 ---
 
+编号：LG014  
+版本：Canary 25997 - 26002  
+**问题**：**在文件资源管理器中打开上下文菜单时崩溃 / 显示为旧版样式**。  
+状态：Canary 26010 - <img src="Images/C_0.png" width = "12%" /> - 已修复 √  
+Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 中得到修复。如果您在更新后仍然遇到问题，请立即提交新的反馈。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAnslj4](https://aka.ms/AAnslj4)
+
+---
+
 占  
 位  
 符
