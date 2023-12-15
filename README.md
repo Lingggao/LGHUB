@@ -261,6 +261,16 @@ Microsoft 官方回复：“我们已经完成了调查，并在服务器端进�
 
 ---
 
+编号：LG024  
+版本：Canary 26002 - 26016  
+**问题**：**Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误。**  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAo7div](https://aka.ms/AAo7div)
+
+
+
+---
+
 占  
 位  
 符
