@@ -198,11 +198,11 @@ Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 �
 
 编号：LG017  
 版本：ALL  
-**问题**：**xxxxx**  
+**问题**：**反馈中心无法在中国大陆网络环境中使用**。  
 状态：2023 年 10 月 20 日 - <img src="Images/C_0.png" width = "12%" /> - 已修复 √  
 典型反馈：[aka.ms/AAo6pov](https://aka.ms/AAo6pov)
 
-
+<img src="Images/LG017.png" width = "40%" />
 
 ---
 
