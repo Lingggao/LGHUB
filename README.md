@@ -22,9 +22,9 @@
 |  Dev   |   23606    | 2023/12/14 |       [aka.ms/WIP23606](https://aka.ms/WIP23606)       |
 |  Beta  | 22635.2915 | 2023/12/15 | [aka.ms/WIP-Beta-12-14](https://aka.ms/wip-beta-12-14) |
 
-```
 **标准格式**
 
+```markdown
 编号：LGxxx  
 版本：Canary xxxxx  
 **问题**：**xxxxx**  
