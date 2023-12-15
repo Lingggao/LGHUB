@@ -138,7 +138,7 @@ Microsoft 官方回复：“Snipping 工作人员已完成调查，并在 11.231
 编号：LG010  
 版本：Canary 26010 - 26016  
 **问题**：**任务栏 “快速设置” 中滑块颜色异常**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAo74l5](https://aka.ms/AAo74l5)
 
 <img src="Images/LG010.png" width = "25%" />
@@ -263,11 +263,28 @@ Microsoft 官方回复：“我们已经完成了调查，并在服务器端进�
 
 编号：LG024  
 版本：Canary 26002 - 26016  
-**问题**：**Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误。**  
+**问题**：**Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo7div](https://aka.ms/AAo7div)
 
 <img src="Images/LG024.png" width = "50%" />
+
+---
+
+编号：LG025  
+版本：Canary 未知 - 26016  
+**问题**：**关闭电脑时电脑重新启动**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAo6y4u](https://aka.ms/AAo6y4u)
+
+---
+
+编号：LG026  
+版本：ALL  
+**问题**：**无法在 Microsoft Edge 中打印**。  
+状态：<img src="Images/W.png" width = "10%" />  
+Microsoft 官方回复：“Edge 团队正在处理此事。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAo7djt](https://aka.ms/AAo7djt)
 
 ---
 
