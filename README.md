@@ -112,14 +112,13 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 
 <img src="Images/LG007.png" width = "50%" />
 
-
 ---
 
 编号：LG008  
 版本：Canary 26002 - 26016  
 **问题**：**“Wallpaper Engine：壁纸引擎” 软件崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
-典型反馈 (如果有)：[aka.ms/AAnwevt](https://aka.ms/AAnwevt)
+典型反馈：[aka.ms/AAnwevt](https://aka.ms/AAnwevt)
 
 ---
 
