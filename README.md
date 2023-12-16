@@ -302,7 +302,7 @@ Microsoft 官方回复：“Edge 团队正在处理此事。” *(Ling 译)* <im
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo7kib](https://aka.ms/AAo7kib)
 
-
+<img src="Images/LG028.png" width = "50%" />
 
 ---
 
