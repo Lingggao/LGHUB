@@ -306,6 +306,29 @@ Microsoft 官方回复：“Edge 团队正在处理此事。” *(Ling 译)* <im
 
 ---
 
+编号：LG029  
+版本：Canary 26002 - 26016  
+**问题**：**桌面背景变黑 / 桌面图标消失**。  
+状态：<img src="Images/L.png" width = "10%" />  
+Microsoft 官方回复：“此问题似乎与部分壁纸软件或桌面个性化软件有关。在我们调查期间，您可能需要暂时关闭这类软件。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAo7kvj](https://aka.ms/AAo7kvj)
+
+---
+
+编号：LG030  
+版本：Canary 25905 - 26016  
+**问题**：**在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAlzfg7](https://aka.ms/AAlzfg7)
+
+---
+
+占  
+位  
+符
+
+---
+
 占  
 位  
 符
