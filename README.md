@@ -100,6 +100,18 @@ Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式�
 Microsoft 官方回复：“如果您需要操作桌面文件，请暂时访问文件资源管理器中的 ‘桌面’ 文件夹。导致三种按键失效的根本原因一致，我们已经确认原因并将其在 Build 26016 中修复。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo73hv](https://aka.ms/AAo73hv)
 
+---
+
+占  
+位  
+符
+
+---
+
+占  
+位  
+符
+
 ## ✦ Canary - 用户反馈问题
 
 &emsp;&emsp;记录[反馈中心应用](https://aka.ms/fbh)中 Microsoft 明确响应的问题。
