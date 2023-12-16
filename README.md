@@ -272,7 +272,7 @@ Microsoft 官方回复：“我们已经完成了调查，并在服务器端进�
 ---
 
 编号：LG025  
-版本：Canary 未知 - 26016  
+版本：未知 - Canary 26016  
 **问题**：**关闭电脑时电脑重新启动**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo6y4u](https://aka.ms/AAo6y4u)
@@ -285,6 +285,24 @@ Microsoft 官方回复：“我们已经完成了调查，并在服务器端进�
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“Edge 团队正在处理此事。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo7djt](https://aka.ms/AAo7djt)
+
+---
+
+编号：LG027  
+版本：Canary 26010 - 26016  
+**问题**：**打开 “设置”>“Windows 更新” 页面一段时间后设置菜单随机崩溃**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAo6qvy](https://aka.ms/AAo6qvy)
+
+---
+
+编号：LG028  
+版本：未知 - Canary 26016  
+**问题**：**文件资源管理器地址栏中图标和箭头间有一个缝隙，可能导致不小心切换为编辑模式**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAo7kib](https://aka.ms/AAo7kib)
+
+
 
 ---
 
