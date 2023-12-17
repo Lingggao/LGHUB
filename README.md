@@ -16,13 +16,21 @@
 
 [反馈中心](https://aka.ms/fbh) | [深入了解反馈](https://learn.microsoft.com/zh-cn/windows-insider/feedback) | [Flight Hub](https://learn.microsoft.com/en-us/windows-insider/flight-hub) | Windows 预览体验计划 - [网站](https://www.microsoft.com/zh-cn/windowsinsider) · [博客](https://blogs.windows.com/windows-insider) · [X (Twitter)](https://twitter.com/windowsinsider) · [社区](https://answers.microsoft.com/zh-hans/insider/forum)
 
-## 外部测试版
+## ✦ 总览
 
 |  频道  |  最新版本  |    时间    |                          公告                          |
 | :----: | :--------: | :--------: | :----------------------------------------------------: |
 | Canary |   26016    | 2023/12/14 |       [aka.ms/WIP26016](https://aka.ms/WIP26016)       |
 |  Dev   |   23606    | 2023/12/14 |       [aka.ms/WIP23606](https://aka.ms/WIP23606)       |
 |  Beta  | 22635.2915 | 2023/12/15 | [aka.ms/WIP-Beta-12-14](https://aka.ms/wip-beta-12-14) |
+
+[^我]: 是
+
+|      |      |      |
+| ---- | ---- | ---- |
+|      |      |      |
+|      |      |      |
+|      |      |      |
 
 **标准格式**
 
