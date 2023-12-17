@@ -12,7 +12,7 @@
 
 &emsp;&emsp;**宗旨**：独立管理、服务用户、信息精准、更新及时。
 
-&emsp;&emsp;上次更新时间：2023 年 12 月 17 日 22:00 (UTC+8)，记录的反馈数量：32
+&emsp;&emsp;上次更新时间：2023 年 12 月 18 日 2:00 (UTC+8)，记录的反馈数量：32
 
 [反馈中心](https://aka.ms/fbh) | [深入了解反馈](https://learn.microsoft.com/zh-cn/windows-insider/feedback) | [Flight Hub](https://learn.microsoft.com/en-us/windows-insider/flight-hub) | Windows 预览体验计划 - [网站](https://www.microsoft.com/zh-cn/windowsinsider) · [博客](https://blogs.windows.com/windows-insider) · [X (Twitter)](https://twitter.com/windowsinsider) · [社区](https://answers.microsoft.com/zh-hans/insider/forum)
 
@@ -24,40 +24,41 @@
 |  Dev   |   23606    | 2023/12/14 |       [aka.ms/WIP23606](https://aka.ms/WIP23606)       |
 |  Beta  | 22635.2915 | 2023/12/15 | [aka.ms/WIP-Beta-12-14](https://aka.ms/wip-beta-12-14) |
 
-| 编号  |                        问题                         |       状态       |
-| :---: | :-------------------------------------------------: | :--------------: |
-| LG000 | **无法下载 Build 26016 更新，显示 8024200D 错误**。 |     正在处理     |
-| LG001 |        **无法打开设置菜单 / 设置菜单崩溃**。        |     正在调查     |
-| LG002 |         **部分热门游戏可能无法正常运行**。          | 需要更多详细信息 |
-| LG003 |     **点击 “设置”>“系统”>“电源” 时菜单崩溃**。      |     正在处理     |
-| LG004 |      **打开打印队列时提示 “找不到应用程序”**。      |     正在调查     |
-| LG005 |                                                     |                  |
-| LG006 |                                                     |                  |
-| LG007 |                                                     |                  |
-| LG008 |                                                     |                  |
-| LG009 |                                                     |                  |
-| LG010 |                                                     |                  |
-| LG011 |                                                     |                  |
-| LG012 |                                                     |                  |
-| LG013 |                                                     |                  |
-| LG014 |                                                     |                  |
-| LG015 |                                                     |                  |
-| LG016 |                                                     |                  |
-| LG017 |                                                     |                  |
-| LG018 |                                                     |                  |
-| LG019 |                                                     |                  |
-| LG020 |                                                     |                  |
-| LG021 |                                                     |                  |
-| LG022 |                                                     |                  |
-| LG023 |                                                     |                  |
-| LG024 |                                                     |                  |
-| LG025 |                                                     |                  |
-| LG026 |                                                     |                  |
-| LG027 |                                                     |                  |
-| LG028 |                                                     |                  |
-| LG029 |                                                     |                  |
-| LG030 |                                                     |                  |
-| LG031 |                                                     |                  |
+| 编号  |                             问题                             |       状态       |
+| :---: | :----------------------------------------------------------: | :--------------: |
+| LG000 |     **无法下载 Build 26016 更新，显示 8024200D 错误**。      |     正在处理     |
+| LG001 |            **无法打开设置菜单 / 设置菜单崩溃**。             |     正在调查     |
+| LG002 |              **部分热门游戏可能无法正常运行**。              | 需要更多详细信息 |
+| LG003 |          **点击 “设置”>“系统”>“电源” 时菜单崩溃**。          |     正在处理     |
+| LG004 |          **打开打印队列时提示 “找不到应用程序”**。           |     正在调查     |
+| LG005 |           **Windows RE (恢复环境) 无法正确呈现**。           |     已修复 ✓     |
+| LG006 | **无法在桌面上使用 Ctrl 快捷键、Alt + F4 快捷键、Del 删除键**。 |     已修复 ✓     |
+|  ——   | [Canary - 公告已知问题](https://github.com/Lingggao/LGHUB?tab=readme-ov-file#-canary---%E5%85%AC%E5%91%8A%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%98) ▲ \| ▼ [Canary - 用户反馈问题](https://github.com/Lingggao/LGHUB?tab=readme-ov-file#-canary---%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E9%97%AE%E9%A2%98) |        ——        |
+| LG007 |                                                              |                  |
+| LG008 |                                                              |                  |
+| LG009 |                                                              |                  |
+| LG010 |                                                              |                  |
+| LG011 |                                                              |                  |
+| LG012 |                                                              |                  |
+| LG013 |                                                              |                  |
+| LG014 |                                                              |                  |
+| LG015 |                                                              |                  |
+| LG016 |                                                              |                  |
+| LG017 |                                                              |                  |
+| LG018 |                                                              |                  |
+| LG019 |                                                              |                  |
+| LG020 |                                                              |                  |
+| LG021 |                                                              |                  |
+| LG022 |                                                              |                  |
+| LG023 |                                                              |                  |
+| LG024 |                                                              |                  |
+| LG025 |                                                              |                  |
+| LG026 |                                                              |                  |
+| LG027 |                                                              |                  |
+| LG028 |                                                              |                  |
+| LG029 |                                                              |                  |
+| LG030 |                                                              |                  |
+| LG031 |                                                              |                  |
 
 **标准格式**
 
