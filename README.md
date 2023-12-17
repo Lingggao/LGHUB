@@ -12,7 +12,7 @@
 
 &emsp;&emsp;**宗旨**：独立管理、服务用户、信息精准、更新及时。
 
-&emsp;&emsp;上次更新时间：2023 年 12 月 16 日 14:00 (UTC+8)，记录的反馈数量：31
+&emsp;&emsp;上次更新时间：2023 年 12 月 17 日 18:00 (UTC+8)，记录的反馈数量：31
 
 [反馈中心](https://aka.ms/fbh) | [深入了解反馈](https://learn.microsoft.com/zh-cn/windows-insider/feedback) | [Flight Hub](https://learn.microsoft.com/en-us/windows-insider/flight-hub) | Windows 预览体验计划 - [网站](https://www.microsoft.com/zh-cn/windowsinsider) · [博客](https://blogs.windows.com/windows-insider) · [X (Twitter)](https://twitter.com/windowsinsider) · [社区](https://answers.microsoft.com/zh-hans/insider/forum)
 
@@ -111,6 +111,8 @@ Microsoft 官方回复：“如果您需要操作桌面文件，请暂时访问�
 占  
 位  
 符
+
+[**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
 ## ✦ Canary - 用户反馈问题
 
@@ -344,6 +346,8 @@ Microsoft 官方回复：“此问题似乎与部分壁纸软件或桌面个性�
 占  
 位  
 符
+
+[**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
 ## ✦ Canary - 归档 (已做出更改 >14 天)
 
