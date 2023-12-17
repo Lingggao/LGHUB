@@ -100,18 +100,6 @@ Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式�
 Microsoft 官方回复：“如果您需要操作桌面文件，请暂时访问文件资源管理器中的 ‘桌面’ 文件夹。导致三种按键失效的根本原因一致，我们已经确认原因并将其在 Build 26016 中修复。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo73hv](https://aka.ms/AAo73hv)
 
----
-
-占  
-位  
-符
-
----
-
-占  
-位  
-符
-
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
 ## ✦ Canary - 用户反馈问题
@@ -335,18 +323,6 @@ Microsoft 官方回复：“此问题似乎与部分壁纸软件或桌面个性�
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAlzfg7](https://aka.ms/AAlzfg7)
 
----
-
-占  
-位  
-符
-
----
-
-占  
-位  
-符
-
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
 ## ✦ Canary - 归档 (已做出更改 >14 天)
@@ -357,15 +333,7 @@ Microsoft 官方回复：“此问题似乎与部分壁纸软件或桌面个性�
 
 ---
 
-占  
-位  
-符
-
----
-
-占  
-位  
-符
+&emsp;&emsp;暂无。
 
 ---
 
