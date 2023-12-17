@@ -331,6 +331,8 @@ Microsoft 官方回复：“此问题似乎与部分壁纸软件或桌面个性�
 状态：<img src="Images/L.png" width = "10%" />  
 Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
 
+<img src="Images/LG031.png" width = "35%" />
+
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
 ## ✦ Canary - 归档 (已做出更改 >14 天)
