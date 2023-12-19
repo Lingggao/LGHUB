@@ -16,7 +16,7 @@
 
 ## ✦ 总览
 
-&emsp;&emsp;上次更新时间：2023 年 12 月 18 日 2:00 (UTC+8)，记录的反馈数量：32
+&emsp;&emsp;上次更新时间：2023 年 12 月 19 日 15:00 (UTC+8)，记录的反馈数量：32
 
 |  频道  |  最新版本  |    时间    |                          公告                          |
 | :----: | :--------: | :--------: | :----------------------------------------------------: |
@@ -35,7 +35,7 @@
 | LG006  | 无法在桌面上使用 Ctrl 快捷键、Alt + F4 快捷键、Del 删除键。  |     已修复 ✓     |
 | **——** | [**Canary - 公告已知问题**](https://github.com/Lingggao/LGHUB?tab=readme-ov-file#-canary---%E5%85%AC%E5%91%8A%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%98) **▲ \| ▼** [**Canary - 用户反馈问题**](https://github.com/Lingggao/LGHUB?tab=readme-ov-file#-canary---%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E9%97%AE%E9%A2%98) |      **——**      |
 | LG007  |            切换桌面时任务栏应用图标可能随机消失。            |     正在调查     |
-| LG008  |           “Wallpaper Engine：壁纸引擎” 软件崩溃。            |     正在调查     |
+| LG008  |        “Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃。         |     正在调查     |
 | LG009  |              通过快捷键截图后无法直接打开图片。              |     已修复 ✓     |
 | LG010  |              任务栏 “快速设置” 中滑块颜色异常。              |     正在处理     |
 | LG011  |      无法通过任务栏 “快速设置” 导航至 “节能模式” 菜单。      |     正在调查     |
@@ -158,7 +158,7 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 
 编号：LG008  
 版本：Canary 26002 - 26016  
-**问题**：**“Wallpaper Engine：壁纸引擎” 软件崩溃**。  
+**问题**：**“Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAnwevt](https://aka.ms/AAnwevt)
 
