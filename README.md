@@ -16,7 +16,7 @@
 
 ## ✦ 总览
 
-&emsp;&emsp;上次更新时间：2023 年 12 月 19 日 15:00 (UTC+8)，记录的反馈数量：32
+&emsp;&emsp;上次更新时间：2023 年 12 月 20 日 17:00 (UTC+8)，记录的反馈数量：38
 
 |  频道  |  最新版本  |    时间    |                          公告                          |
 | :----: | :--------: | :--------: | :----------------------------------------------------: |
@@ -59,6 +59,12 @@
 | LG029  |                桌面背景变黑 / 桌面图标消失。                 |     正在调查     |
 | LG030  | 在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。 |     正在调查     |
 | LG031  |    Microsoft Edge (正式版) “固定到任务栏” 功能可能失效。     |     正在调查     |
+| LG032  | 连接 Citrix Desktop Viewer (CDViewer.exe) 几秒钟后，USER32.dll 崩溃。 |     正在处理     |
+| LG033  | “阿凡达：潘多拉边境” (Avatar Frontiers of Pandora) 游戏崩溃。 |     正在调查     |
+| LG034  |          Grand Theft Auto V (GTA 5) 游戏无法运行。           |     正在调查     |
+| LG035  |  极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃。  |     正在调查     |
+| LG036  |      任务栏自动隐藏后，鼠标悬停在托盘区域无法将其激活。      |     正在处理     |
+| LG037  |    显示 WDAG (Edge) - Container: Error: 0x80004005 错误。    |     正在处理     |
 
 **标准格式**
 
@@ -135,6 +141,8 @@ Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式�
 状态：Canary 26016 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 Microsoft 官方回复：“如果您需要操作桌面文件，请暂时访问文件资源管理器中的 ‘桌面’ 文件夹。导致三种按键失效的根本原因一致，我们已经确认原因并将其在 Build 26016 中修复。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo73hv](https://aka.ms/AAo73hv)
+
+---
 
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
@@ -410,7 +418,18 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 Microsoft 官方回复：“我们已经找出问题所在，正在修复中。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo9oc7](https://aka.ms/AAo9oc7)
 
+<img src="Images/LG036.png" width = "50%" />
 
+---
+
+编号：LG037  
+版本：Canary 25997 - 26016  
+**问题**：**显示 WDAG (Edge) - Container: Error: 0x80004005 错误**。  
+状态：<img src="Images/W.png" width = "10%" />  
+Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAnzef8](https://aka.ms/AAnzef8)
+
+---
 
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
