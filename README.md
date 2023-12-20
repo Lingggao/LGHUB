@@ -369,6 +369,49 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 
 <img src="Images/LG031.png" width = "35%" />
 
+---
+
+编号：LG032  
+版本：Canary 26016  
+**问题**：**连接 Citrix Desktop Viewer (CDViewer.exe) 几秒钟后，USER32.dll 崩溃**。  
+状态：<img src="Images/W.png" width = "10%" />  
+典型反馈：[aka.ms/AAoa2a8](https://aka.ms/AAoa2a8)
+
+---
+
+编号：LG033  
+版本：Canary 26016  
+**问题**：**“阿凡达：潘多拉边境” (Avatar Frontiers of Pandora) 游戏崩溃**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAoa2ag](https://aka.ms/AAoa2ag)
+
+---
+
+编号：LG034  
+版本：Canary 26016  
+**问题**：**Grand Theft Auto V (GTA 5) 游戏无法运行**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAo9e71](https://aka.ms/AAo9e71)
+
+---
+
+编号：LG035  
+版本：Canary 26016  
+**问题**：**极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAo9e77](https://aka.ms/AAo9e77)
+
+---
+
+编号：LG036  
+版本：Canary 26002 - 26016  
+**问题**：**任务栏自动隐藏后，鼠标悬停在托盘区域无法将其激活**。  
+状态：<img src="Images/W.png" width = "10%" />  
+Microsoft 官方回复：“我们已经找出问题所在，正在修复中。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAo9oc7](https://aka.ms/AAo9oc7)
+
+
+
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
 ## ✦ Canary - 归档 (已做出更改 >14 天)
