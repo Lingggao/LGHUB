@@ -14,9 +14,9 @@
 
 [反馈中心](https://aka.ms/fbh) | [深入了解反馈](https://learn.microsoft.com/zh-cn/windows-insider/feedback) | [Flight Hub](https://learn.microsoft.com/en-us/windows-insider/flight-hub) | Windows 预览体验计划 - [网站](https://www.microsoft.com/zh-cn/windowsinsider) · [博客](https://blogs.windows.com/windows-insider) · [X (Twitter)](https://twitter.com/windowsinsider) · [社区](https://answers.microsoft.com/zh-hans/insider/forum)
 
-## ✦ 总览
+## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2023 年 12 月 20 日 17:00 (UTC+8)，记录的反馈数量：38
+&emsp;&emsp;上次更新时间：2023 年 12 月 21 日 18:00 (UTC+8)，记录的反馈数量：38
 
 |  频道  |  最新版本  |    时间    |                          公告                          |
 | :----: | :--------: | :--------: | :----------------------------------------------------: |
@@ -78,7 +78,7 @@ Microsoft 官方回复 (如果有)：xxxxx
 图像等补充信息 (如果有)
 ```
 
-## ✦ Canary - 公告已知问题
+## ✦ Canary - 公告已知问题 ✦
 
 &emsp;&emsp;记录 [Windows Insider 博客](https://blogs.windows.com/windows-insider)中明确公开的已知问题。
 
@@ -146,7 +146,7 @@ Microsoft 官方回复：“如果您需要操作桌面文件，请暂时访问�
 
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
-## ✦ Canary - 用户反馈问题
+## ✦ Canary - 用户反馈问题 ✦
 
 &emsp;&emsp;记录[反馈中心应用](https://aka.ms/fbh)中 Microsoft 明确响应的问题。
 
@@ -433,7 +433,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
-## ✦ Canary - 归档 (已做出更改 >14 天)
+## ✦ Canary - 归档 (已做出更改 >14 天) ✦
 
 &emsp;&emsp;记录 Microsoft 已做出更改 14 - 28 天的问题。无特殊情况，问题归档后不再更新。
 
