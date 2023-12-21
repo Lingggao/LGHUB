@@ -464,3 +464,5 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 在 “[署名 - 相同方式共享 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)” 协议 (CC BY-SA 4.0) 之条款下提供。
 
 2023, 高楷修 (Ling Gao), 灵糕中心 (Linggao Hub), [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB) & [lingggao.github.io/LGHUB](https://lingggao.github.io/LGHUB)
+
+[字体许可使用授权书](Images/字体许可使用授权书.png)
