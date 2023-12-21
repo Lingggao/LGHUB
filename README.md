@@ -33,6 +33,7 @@
 | LG004  |            打开打印队列时提示 “找不到应用程序”。             |     正在调查     |
 | LG005  |             Windows RE (恢复环境) 无法正确呈现。             |     已修复 ✓     |
 | LG006  | 无法在桌面上使用 Ctrl 快捷键、Alt + F4 快捷键、Del 删除键。  |     已修复 ✓     |
+| LG038  | Windows 电脑自动安装 HP Smart 应用 / 打印机图标变化，型号显示为 LaserJet M101-M106 / 双击打印机时显示 “此页面无可用任务” 错误。 |     已修复 ✓     |
 | **——** | [**Canary - 公告已知问题**](https://github.com/Lingggao/LGHUB?tab=readme-ov-file#-canary---%E5%85%AC%E5%91%8A%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%98) **▲ \| ▼** [**Canary - 用户反馈问题**](https://github.com/Lingggao/LGHUB?tab=readme-ov-file#-canary---%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E9%97%AE%E9%A2%98) |      **——**      |
 | LG007  |            切换桌面时任务栏应用图标可能随机消失。            |     正在调查     |
 | LG008  |        “Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃。         |     正在调查     |
@@ -65,7 +66,6 @@
 | LG035  |  极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃。  |     正在调查     |
 | LG036  |      任务栏自动隐藏后，鼠标悬停在托盘区域无法将其激活。      |     正在处理     |
 | LG037  |    显示 WDAG (Edge) - Container: Error: 0x80004005 错误。    |     正在处理     |
-| LG038  | Windows 电脑自动安装 HP Smart 应用 / 打印机图标变化，型号显示为 LaserJet M101-M106 / 双击打印机时显示 “此页面无可用任务” 错误。 |     已修复 ✓     |
 
 **标准格式**
 
