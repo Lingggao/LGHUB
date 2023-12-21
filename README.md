@@ -16,7 +16,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2023 年 12 月 21 日 18:00 (UTC+8)，记录的反馈数量：38
+&emsp;&emsp;上次更新时间：2023 年 12 月 21 日 18:00 (UTC+8)，记录的反馈数量：39
 
 |  频道  |  最新版本  |    时间    |                          公告                          |
 | :----: | :--------: | :--------: | :----------------------------------------------------: |
@@ -65,6 +65,7 @@
 | LG035  |  极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃。  |     正在调查     |
 | LG036  |      任务栏自动隐藏后，鼠标悬停在托盘区域无法将其激活。      |     正在处理     |
 | LG037  |    显示 WDAG (Edge) - Container: Error: 0x80004005 错误。    |     正在处理     |
+| LG038  | Windows 电脑自动安装 HP Smart 应用 / 打印机图标变化，型号显示为 LaserJet M101-M106 / 双击打印机时显示 “此页面无可用任务” 错误。 |     已修复 ✓     |
 
 **标准格式**
 
@@ -428,6 +429,17 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAnzef8](https://aka.ms/AAnzef8)
+
+---
+
+编号：LG038  
+版本：ALL  
+**问题**：**Windows 电脑自动安装 HP Smart 应用 / 打印机图标变化，型号显示为 LaserJet M101-M106 / 双击打印机时显示 “此页面无可用任务” 错误**。  
+状态：2023 年 12 月 16 日 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“Microsoft 正在调查此问题，并与合作伙伴协调解决方案。我们的调查表明，此问题不是由惠普方面引起的。在大多数情况下，打印机应当仍可正常使用。用户可以使用下面的 ‘Microsoft 打印机元数据疑难解答工具’ 解决此问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[Known issues](https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-23H2#printer-names-and-icons-might-be-changed-and-hp-smart-app-automatically-installs)
+
+[KB5034510：Microsoft 打印机元数据疑难解答工具 - 2023 年 12 月](https://support.microsoft.com/zh-cn/topic/kb5034510-microsoft-%E6%89%93%E5%8D%B0%E6%9C%BA%E5%85%83%E6%95%B0%E6%8D%AE%E7%96%91%E9%9A%BE%E8%A7%A3%E7%AD%94%E5%B7%A5%E5%85%B7-2023-%E5%B9%B4-12-%E6%9C%88-b3197f24-fd25-430d-96d2-70f2044ce6a1) *(Microsoft Support)*
 
 ---
 
