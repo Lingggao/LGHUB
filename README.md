@@ -441,6 +441,8 @@ Microsoft 官方回复：“Microsoft 正在调查此问题，并与合作伙伴
 
 [KB5034510：Microsoft 打印机元数据疑难解答工具 - 2023 年 12 月](https://support.microsoft.com/zh-cn/topic/kb5034510-microsoft-%E6%89%93%E5%8D%B0%E6%9C%BA%E5%85%83%E6%95%B0%E6%8D%AE%E7%96%91%E9%9A%BE%E8%A7%A3%E7%AD%94%E5%B7%A5%E5%85%B7-2023-%E5%B9%B4-12-%E6%9C%88-b3197f24-fd25-430d-96d2-70f2044ce6a1) *(Microsoft Support)*
 
+<img src="Images/LG038.png" width = "20%" />
+
 ---
 
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
