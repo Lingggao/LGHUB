@@ -465,4 +465,4 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 
 2023, 高楷修 (Ling Gao), 灵糕中心 (Linggao Hub), [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB) & [lingggao.github.io/LGHUB](https://lingggao.github.io/LGHUB)
 
-[字体许可使用授权书](Images/字体许可使用授权书.png)
+[字体许可使用授权书](Images/字体许可使用授权书.png) | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FLGHUB&count_bg=%23F1F1F2&title_bg=%230078D7&icon=microsoft.svg&icon_color=%23FFFFFF&title=LGHUB&edge_flat=false)](https://hits.seeyoufarm.com)
