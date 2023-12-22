@@ -16,7 +16,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2023 年 12 月 21 日 18:00 (UTC+8)，记录的反馈数量：39
+&emsp;&emsp;上次更新时间：2023 年 12 月 22 日 23:00 (UTC+8)，记录的反馈数量：40
+
+&emsp;&emsp;中心更新目录：**今日更新 LG039**。- Ling 12/22 😀
 
 |  频道  |  最新版本  |    时间    |                          公告                          |
 | :----: | :--------: | :--------: | :----------------------------------------------------: |
@@ -66,6 +68,7 @@
 | LG035  |  极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃。  |     正在调查     |
 | LG036  |      任务栏自动隐藏后，鼠标悬停在托盘区域无法将其激活。      |     正在处理     |
 | LG037  |    显示 WDAG (Edge) - Container: Error: 0x80004005 错误。    |     正在处理     |
+| LG039  |               Copilot (预览版) 可能无法启动。                |     正在调查     |
 
 **标准格式**
 
@@ -442,6 +445,16 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAnzef8](https://aka.ms/AAnzef8)
+
+---
+
+编号：LG039  
+版本：Canary 26016  
+**问题**：**Copilot (预览版) 可能无法启动**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAoan4g](https://aka.ms/AAoan4g)
+
+<img src="Images/LG039.png" width = "50%" />
 
 ---
 
