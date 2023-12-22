@@ -445,6 +445,16 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 
 ---
 
+编号：LG039  
+版本：Canary 26016  
+**问题**：**Copilot (预览版) 可能无法启动**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈 (如果有)：[aka.ms/AAoan4g](https://aka.ms/AAoan4g)
+
+<img src="Images/LG039.png" width = "50%" />
+
+---
+
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
 ## ✦ Canary - 归档 (已做出更改 >14 天) ✦
