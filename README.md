@@ -66,6 +66,7 @@
 | LG035  |  极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃。  |     正在调查     |
 | LG036  |      任务栏自动隐藏后，鼠标悬停在托盘区域无法将其激活。      |     正在处理     |
 | LG037  |    显示 WDAG (Edge) - Container: Error: 0x80004005 错误。    |     正在处理     |
+| LG039  |               Copilot (预览版) 可能无法启动。                |     正在调查     |
 
 **标准格式**
 
@@ -449,7 +450,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 版本：Canary 26016  
 **问题**：**Copilot (预览版) 可能无法启动**。  
 状态：<img src="Images/L.png" width = "10%" />  
-典型反馈 (如果有)：[aka.ms/AAoan4g](https://aka.ms/AAoan4g)
+典型反馈：[aka.ms/AAoan4g](https://aka.ms/AAoan4g)
 
 <img src="Images/LG039.png" width = "50%" />
 
