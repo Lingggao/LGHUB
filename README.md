@@ -16,9 +16,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2023 年 12 月 22 日 23:00 (UTC+8)，记录的反馈数量：40，访问次数：xx
+&emsp;&emsp;上次更新时间：2023 年 12 月 22 日 23:00 (UTC+8)，记录的反馈数量：40，访问次数：80+
 
-&emsp;&emsp;中心更新目录：**今日更新 LG039**。- Ling 12/22 😀
+&emsp;&emsp;中心更新目录：今日无更新。- Ling 12/23 😌
 
 |  频道  |  最新版本  |    时间    |                          公告                          |
 | :----: | :--------: | :--------: | :----------------------------------------------------: |
@@ -478,4 +478,4 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 
 2023, 高楷修 (Ling Gao), 灵糕中心 (Linggao Hub), [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB) & [lingggao.github.io/LGHUB](https://lingggao.github.io/LGHUB)
 
-[字体许可使用授权书](Images/字体许可使用授权书.png) | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FLGHUB&count_bg=%23737373&title_bg=%230078D7&icon=microsoft.svg&icon_color=%23FFFFFF&title=LGHUB&edge_flat=false)](https://hits.seeyoufarm.com) (访问次数统计：今日 / 合计)
+[字体许可使用授权书](Images/字体许可使用授权书.png) | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FLGHUB&count_bg=%23737373&title_bg=%230078D7&icon=microsoft.svg&icon_color=%23FFFFFF&title=LGHUB&edge_flat=false)](https://hits.seeyoufarm.com) (访问次数统计：今日 / 累计)
