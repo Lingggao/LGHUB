@@ -16,9 +16,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2023 年 12 月 24 日 19:00 (UTC+8)。记录的反馈数量：41，访问次数：130+
+&emsp;&emsp;上次更新时间：2023 年 12 月 26 日 18:00 (UTC+8)。记录的反馈数量：42，访问次数：140+
 
-&emsp;&emsp;中心更新目录：今日无更新。- Ling 12/25 😌 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
+&emsp;&emsp;中心更新目录：**今日更新 LG041**。- Ling 12/26 😀 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
 |  频道  |  最新版本  |    时间    |                          公告                          |
 | :----: | :--------: | :--------: | :----------------------------------------------------: |
@@ -70,6 +70,7 @@
 | LG037  |    显示 WDAG (Edge) - Container: Error: 0x80004005 错误。    |     正在处理     |
 | LG039  |               Copilot (预览版) 可能无法启动。                |     正在调查     |
 | LG040  |    文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效。    |     正在调查     |
+| LG041  |                   SurfShark VPN 停止工作。                   |     正在调查     |
 
 **标准格式**
 
@@ -466,6 +467,14 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 典型反馈：[aka.ms/AAoawwk](https://aka.ms/AAoawwk)
 
 <img src="Images/LG040.png" width = "30%" />
+
+---
+
+编号：LG041  
+版本：Canary 26016  
+**问题**：**SurfShark VPN 停止工作**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAobhcg](https://aka.ms/AAobhcg)
 
 ---
 
