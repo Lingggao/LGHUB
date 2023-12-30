@@ -32,7 +32,7 @@
 | LG001  |              无法打开设置菜单 / 设置菜单崩溃。               |     正在调查     |
 | LG002  |                部分热门游戏可能无法正常运行。                | 需要更多详细信息 |
 | LG003  |            点击 “设置”>“系统”>“电源” 时菜单崩溃。            |     正在处理     |
-| LG004  |            打开打印队列时提示 “找不到应用程序”。             |     正在调查     |
+| LG004  |            打开打印队列时提示 “找不到应用程序”。             |     正在处理     |
 | LG005  |             Windows RE (恢复环境) 无法正确呈现。             |     已修复 ✓     |
 | LG006  | 无法在桌面上使用 Ctrl 快捷键、Alt + F4 快捷键、Del 删除键。  |     已修复 ✓     |
 | LG038  | Windows 电脑自动安装 HP Smart 应用 / 打印机图标变化，型号显示为 LaserJet M101-M106 / 双击打印机时显示 “此页面无可用任务” 错误。 |     已修复 ✓     |
@@ -130,7 +130,13 @@ Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式�
 编号：LG004  
 版本：Canary 26010 - 26016  
 **问题**：**打开打印队列时提示 “找不到应用程序”**。  
-状态：<img src="Images/L.png" width = "10%" />
+状态：<img src="Images/W.png" width = "10%" />  
+Microsoft 官方回复：“感谢您在我们调查工作中的耐心等待。作为一种变通方案，您可以使用 WIN + R 打开运行窗口，然后输入以下内容来打开打印队列
+```
+explorer.exe shell:appsFolder\Microsoft.Windows.PrintQueueActionCenter_cw5n1h2txyewy!App
+```
+更新：我们已经找到了问题原因并正在着手修复。
+” *(Caozhi Li 译)* <img src="Images/M.png" width = "15%" />
 
 ---
 
