@@ -16,9 +16,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2023 年 12 月 26 日 18:00 (UTC+8)。记录的反馈数量：42，访问次数：160+
+&emsp;&emsp;上次更新时间：2023 年 12 月 30 日 23:00 (UTC+8)。记录的反馈数量：42，访问次数：200+
 
-&emsp;&emsp;中心更新目录：今日无更新。- Ling 12/28 😌 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
+&emsp;&emsp;中心更新目录：今日无更新。- Ling 12/30 😌 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
 |  频道  |  最新版本  |    时间    |                          公告                          |
 | :----: | :--------: | :--------: | :----------------------------------------------------: |
@@ -32,9 +32,9 @@
 | LG001  |              无法打开设置菜单 / 设置菜单崩溃。               |     正在调查     |
 | LG002  |                部分热门游戏可能无法正常运行。                | 需要更多详细信息 |
 | LG003  |            点击 “设置”>“系统”>“电源” 时菜单崩溃。            |     正在处理     |
-| LG004  |            打开打印队列时提示 “找不到应用程序”。             |     正在调查     |
+| LG004  |            打开打印队列时提示 “找不到应用程序”。             |     正在处理     |
 | LG005  |             Windows RE (恢复环境) 无法正确呈现。             |     已修复 ✓     |
-| LG006  | 无法在桌面上使用 Ctrl 快捷键、Alt + F4 快捷键、Del 删除键。  |     已修复 ✓     |
+| LG006  | 无法在桌面上使用 Ctrl 快捷键、ALT + F4 快捷键、Del 删除键。  |     已修复 ✓     |
 | LG038  | Windows 电脑自动安装 HP Smart 应用 / 打印机图标变化，型号显示为 LaserJet M101-M106 / 双击打印机时显示 “此页面无可用任务” 错误。 |     已修复 ✓     |
 | **——** | [**Canary - 公告已知问题**](https://github.com/Lingggao/LGHUB?tab=readme-ov-file#-canary---%E5%85%AC%E5%91%8A%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%98) **▲ \| ▼** [**Canary - 用户反馈问题**](https://github.com/Lingggao/LGHUB?tab=readme-ov-file#-canary---%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E9%97%AE%E9%A2%98) |      **——**      |
 | LG007  |            切换桌面时任务栏应用图标可能随机消失。            |     正在调查     |
@@ -130,7 +130,9 @@ Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式�
 编号：LG004  
 版本：Canary 26010 - 26016  
 **问题**：**打开打印队列时提示 “找不到应用程序”**。  
-状态：<img src="Images/L.png" width = "10%" />
+状态：<img src="Images/W.png" width = "10%" />  
+Microsoft 官方回复：“我们已经找出问题所在，正在修复中。您可以复制 explorer.exe shell:appsFolder\Microsoft.Windows.PrintQueueActionCenter_cw5n1h2txyewy!App 到运行窗口 (WIN + R 快捷键) 打开打印队列，作为一种变通方案。” *(Caozhi Li 线索，Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAod17l](https://aka.ms/AAod17l)
 
 ---
 
@@ -143,7 +145,7 @@ Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式�
 
 编号：LG006  
 版本：Canary 26002 - 26010  
-**问题**：**无法在桌面上使用 Ctrl 快捷键、Alt + F4 快捷键、Del 删除键**。  
+**问题**：**无法在桌面上使用 Ctrl 快捷键、ALT + F4 快捷键、Del 删除键**。  
 状态：Canary 26016 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 Microsoft 官方回复：“如果您需要操作桌面文件，请暂时访问文件资源管理器中的 ‘桌面’ 文件夹。导致三种按键失效的根本原因一致，我们已经确认原因并将其在 Build 26016 中修复。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo73hv](https://aka.ms/AAo73hv)
