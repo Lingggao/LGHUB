@@ -16,7 +16,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2023 年 12 月 30 日 23:00 (UTC+8)。记录的反馈数量：42，访问次数：200+
+&emsp;&emsp;上次更新时间：2023 年 12 月 30 日 23:00 (UTC+8)。记录的反馈数量：42，访问次数：210+
 
 &emsp;&emsp;中心更新目录：今日无更新。- Ling 12/30 😌 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
