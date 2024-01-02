@@ -16,9 +16,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2023 年 12 月 30 日 23:00 (UTC+8)。记录的反馈数量：42，访问次数：220+
+&emsp;&emsp;上次更新时间：2024 年 1 月 2 日 13:00 (UTC+8)。记录的反馈数量：43，访问次数：230+
 
-&emsp;&emsp;中心更新目录：今日无更新。- Ling 12/31 🎇🎆 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
+&emsp;&emsp;中心更新目录：**今日更新 LG042**。- Ling 1/2 😀 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
 |  频道  |  最新版本  |    时间    |                          公告                          |
 | :----: | :--------: | :--------: | :----------------------------------------------------: |
@@ -71,6 +71,7 @@
 | LG039  |               Copilot (预览版) 可能无法启动。                |     正在调查     |
 | LG040  |    文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效。    |     正在调查     |
 | LG041  |                   SurfShark VPN 停止工作。                   |     正在调查     |
+| LG042  |             自动 HDR 功能在游戏过程中意外关闭。              | 需要更多详细信息 |
 
 **标准格式**
 
@@ -480,6 +481,16 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 
 ---
 
+编号：LG042  
+版本：未知 - Canary 26016  
+**问题**：**自动 HDR 功能在游戏过程中意外关闭**。  
+状态：<img src="Images/I.png" width = "17%" />  
+Microsoft 官方回复：“我们需要更多细节。请在反馈中心使用 ‘重现问题’ 功能，向我们发送日志。” *(Ling 译)*  
+<img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAo77ve](https://aka.ms/AAo77ve)
+
+---
+
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
 ## ✦ Canary - 归档 (已做出更改 >14 天) ✦
@@ -498,6 +509,6 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 
 在 “[署名 - 相同方式共享 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)” 协议 (CC BY-SA 4.0) 之条款下提供。
 
-2023, 高楷修 (Ling Gao), 灵糕中心 (Linggao Hub), [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB) & [lingggao.github.io/LGHUB](https://lingggao.github.io/LGHUB)
+2023 - 2024, 高楷修 (Ling Gao), 灵糕中心 (Linggao Hub), [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)
 
 [字体许可使用授权书](Images/字体许可使用授权书.png) | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FLGHUB&count_bg=%23737373&title_bg=%230078D7&icon=microsoft.svg&icon_color=%23FFFFFF&title=LGHUB&edge_flat=false)](https://hits.seeyoufarm.com) (访问次数统计：今日 / 累计)
