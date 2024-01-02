@@ -1,3 +1,4 @@
+<SPAN ID = 'HEAD'/>
 <img src="Images/LING.png" width = "25%" />
 
 # 灵糕中心 (Linggao Hub)
@@ -504,6 +505,8 @@ Microsoft 官方回复：“我们需要更多细节。请在反馈中心使用 
 [Microsoft 已做出更改 >28 天的问题](28+.md)
 
 ---
+
+[回到顶部](#HEAD)
 
 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.xlarge.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/by.xlarge.png" width = "3%" /> <img src="https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png" width = "3%" />
 
