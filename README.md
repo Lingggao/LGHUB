@@ -73,7 +73,8 @@
 | [LG040](#LG040) |    文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效。    |     正在调查     |
 | [LG041](#LG041) |                   SurfShark VPN 停止工作。                   |     正在调查     |
 | [LG042](#LG042) |             自动 HDR 功能在游戏过程中意外关闭。              | 需要更多详细信息 |
-|     **——**      | [**Canary - 公告已知问题**](https://github.com/Lingggao/LGHUB?tab=readme-ov-file#-canary---%E5%85%AC%E5%91%8A%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%98) **▲ \|▼** [**Canary - 用户反馈问题**](https://github.com/Lingggao/LGHUB?tab=readme-ov-file#-canary---%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E9%97%AE%E9%A2%98) |      **——**      |
+|     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \|▼** [**Canary - 归档 (已做出更改 >14 天)**](#2) |      **——**      |
+|                 |                                                              |                  |
 
 **标准格式**
 
