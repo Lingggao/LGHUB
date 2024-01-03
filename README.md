@@ -37,7 +37,7 @@
 | [LG005](#LG005) |             Windows RE (恢复环境) 无法正确呈现。             |     已修复 ✓     |
 | [LG006](#LG006) | 无法在桌面上使用 Ctrl 快捷键、ALT + F4 快捷键、Del 删除键。  |     已修复 ✓     |
 | [LG038](#LG038) | Windows 电脑自动安装 HP Smart 应用 / 打印机图标变化，型号显示为 LaserJet M101-M106 / 双击打印机时显示 “此页面无可用任务” 错误。 |     已修复 ✓     |
-|     **——**      | [**Canary - 公告已知问题**](https://github.com/Lingggao/LGHUB?tab=readme-ov-file#-canary---%E5%85%AC%E5%91%8A%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%98) **▲ \| ▼** [**Canary - 用户反馈问题**](https://github.com/Lingggao/LGHUB?tab=readme-ov-file#-canary---%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E9%97%AE%E9%A2%98) |      **——**      |
+|     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |      **——**      |
 | [LG007](#LG007) |            切换桌面时任务栏应用图标可能随机消失。            |     正在调查     |
 | [LG008](#LG008) |        “Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃。         |     正在调查     |
 | [LG009](#LG009) |              通过快捷键截图后无法直接打开图片。              |     已修复 ✓     |
@@ -73,6 +73,7 @@
 | [LG040](#LG040) |    文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效。    |     正在调查     |
 | [LG041](#LG041) |                   SurfShark VPN 停止工作。                   |     正在调查     |
 | [LG042](#LG042) |             自动 HDR 功能在游戏过程中意外关闭。              | 需要更多详细信息 |
+|     **——**      | [**Canary - 公告已知问题**](https://github.com/Lingggao/LGHUB?tab=readme-ov-file#-canary---%E5%85%AC%E5%91%8A%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%98) **▲ \|▼** [**Canary - 用户反馈问题**](https://github.com/Lingggao/LGHUB?tab=readme-ov-file#-canary---%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E9%97%AE%E9%A2%98) |      **——**      |
 
 **标准格式**
 
@@ -85,6 +86,8 @@ Microsoft 官方回复 (如果有)：xxxxx
 典型反馈 (如果有)：[aka.ms/AAxxxxx](https://aka.ms/fbh)  
 图像等补充信息 (如果有)
 ```
+
+<SPAN ID = '0'/>
 
 ## ✦ Canary - 公告已知问题 ✦
 
@@ -168,6 +171,8 @@ Microsoft 官方回复：“Microsoft 正在调查此问题，并与合作伙伴
 ---
 
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
+
+<SPAN ID = '1'/>
 
 ## ✦ Canary - 用户反馈问题 ✦
 
@@ -493,6 +498,8 @@ Microsoft 官方回复：“我们需要更多细节。请在反馈中心使用 
 ---
 
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
+
+<SPAN ID = '2'/>
 
 ## ✦ Canary - 归档 (已做出更改 >14 天) ✦
 
