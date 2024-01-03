@@ -117,7 +117,7 @@ Microsoft 官方回复：“我们正在调查导致部分 Insiders 无法打开
 版本：Canary 25951 - 26020  
 **问题**：**部分热门游戏可能无法正常运行**。  
 状态：<img src="Images/I.png" width = "17%" />  
-Microsoft 官方回复：“如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。从 Build 26016 开始，更多游戏正在受到多个错误的影响。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
+Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多个错误的影响。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
 
 ---
 
