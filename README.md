@@ -32,7 +32,7 @@
 | [LG000](#LG000) |       无法下载 Build 26016 更新，显示 8024200D 错误。        |     正在处理     |
 | [LG001](#LG001) |              无法打开设置菜单 / 设置菜单崩溃。               |     正在调查     |
 | [LG002](#LG002) |                部分热门游戏可能无法正常运行。                | 需要更多详细信息 |
-| [LG003](#LG003) |            点击 “设置”>“系统”>“电源” 时菜单崩溃。            |     正在处理     |
+| [LG003](#LG003) |            点击 “设置”>“系统”>“电源” 时菜单崩溃。            |     已修复 ✓     |
 | [LG004](#LG004) |            打开打印队列时提示 “找不到应用程序”。             |     正在处理     |
 | [LG005](#LG005) |             Windows RE (恢复环境) 无法正确呈现。             |     已修复 ✓     |
 | [LG006](#LG006) | 无法在桌面上使用 Ctrl 快捷键、ALT + F4 快捷键、Del 删除键。  |     已修复 ✓     |
@@ -101,7 +101,7 @@ Microsoft 官方回复：“部分 Insiders 可能遇到 ‘下载循环’，�
 ---
 
 <SPAN ID = 'LG001'/>编号：LG001  
-版本：Canary 26010 - 26016  
+版本：Canary 26010 - 26020  
 **问题**：**无法打开设置菜单 / 设置菜单崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 Microsoft 官方回复：“我们正在调查导致部分 Insiders 无法打开 ‘设置’ 菜单的问题。如果您正在受此影响，请查看下面的社区话题了解解决方案。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
@@ -111,7 +111,7 @@ Microsoft 官方回复：“我们正在调查导致部分 Insiders 无法打开
 ---
 
 <SPAN ID = 'LG002'/>编号：LG002  
-版本：Canary 25951 - 26016  
+版本：Canary 25951 - 26020  
 **问题**：**部分热门游戏可能无法正常运行**。  
 状态：<img src="Images/I.png" width = "17%" />  
 Microsoft 官方回复：“如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)*  
@@ -122,7 +122,7 @@ Microsoft 官方回复：“如果您在预览体验版本中玩游戏时发现�
 <SPAN ID = 'LG003'/>编号：LG003  
 版本：Canary 26016  
 **问题**：**点击 “设置”>“系统”>“电源” 时菜单崩溃**。  
-状态：<img src="Images/W.png" width = "10%" />  
+状态：Canary 26020 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式，作为一种变通方案。使用 powercfg /overlaysetactive 设置用户配置的活动电源模式，使用 powercfg /q OVERLAY_SCHEME_CURRENT 获取用户配置的活动电源模式。查看下面的网站详细了解 powercfg。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
 
 [自定义 Windows 性能电源滑块](https://learn.microsoft.com/windows-hardware/customize/desktop/customize-power-slider) *(Microsoft Learn)*
@@ -130,7 +130,7 @@ Microsoft 官方回复：“您可以使用命令在电脑上配置电源模式�
 ---
 
 <SPAN ID = 'LG004'/>编号：LG004  
-版本：Canary 26010 - 26016  
+版本：Canary 26010 - 26020  
 **问题**：**打开打印队列时提示 “找不到应用程序”**。  
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“我们已经找出问题所在，正在修复中。您可以复制 explorer.exe shell:appsFolder\Microsoft.Windows.PrintQueueActionCenter_cw5n1h2txyewy!App 到运行窗口 (WIN + R 快捷键) 打开打印队列，作为一种变通方案。” *(Caozhi Li 线索，Ling 译)* <img src="Images/M.png" width = "15%" />  
