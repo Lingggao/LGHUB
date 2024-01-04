@@ -407,7 +407,7 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG032'/>编号：LG032  
-版本：Canary 26020  
+版本：Canary 26016 - 26020  
 **问题**：**连接 Citrix Desktop Viewer (CDViewer.exe) 几秒钟后，USER32.dll 崩溃**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAoa2a8](https://aka.ms/AAoa2a8)
@@ -415,7 +415,7 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG033'/>编号：LG033  
-版本：Canary 26020  
+版本：Canary 26016 - 26020  
 **问题**：**“阿凡达：潘多拉边境” (Avatar Frontiers of Pandora) 游戏崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoa2ag](https://aka.ms/AAoa2ag)
@@ -423,7 +423,7 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG034'/>编号：LG034  
-版本：Canary 26020  
+版本：Canary 26016 - 26020  
 **问题**：**Grand Theft Auto V (GTA 5) 游戏无法运行**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo9e71](https://aka.ms/AAo9e71)
@@ -431,7 +431,7 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG035'/>编号：LG035  
-版本：Canary 26020  
+版本：Canary 26016 - 26020  
 **问题**：**极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo9e77](https://aka.ms/AAo9e77)
@@ -459,7 +459,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG039'/>编号：LG039  
-版本：Canary 26020  
+版本：Canary 26016 - 26020  
 **问题**：**Copilot (预览版) 可能无法启动**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoan4g](https://aka.ms/AAoan4g)
@@ -479,7 +479,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG041'/>编号：LG041  
-版本：Canary 26020  
+版本：Canary 26016 - 26020  
 **问题**：**SurfShark VPN 停止工作**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAobhcg](https://aka.ms/AAobhcg)
