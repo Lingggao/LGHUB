@@ -17,7 +17,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 1 月 4 日 3:00 (UTC+8)。记录的反馈数量：43，访问次数：250+
+&emsp;&emsp;上次更新时间：2024 年 1 月 4 日 10:00 (UTC+8)。记录的反馈数量：43，访问次数：280+
 
 &emsp;&emsp;中心更新目录：正在更新······ - Ling 1/4 😊 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
@@ -42,7 +42,7 @@
 | [LG008](#LG008) |        “Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃。         |     正在调查     |
 | [LG009](#LG009) |              通过快捷键截图后无法直接打开图片。              |     已修复 ✓     |
 | [LG010](#LG010) |              任务栏 “快速设置” 中滑块颜色异常。              |     正在处理     |
-| [LG011](#LG011) |      无法通过任务栏 “快速设置” 导航至 “节能模式” 菜单。      |     正在调查     |
+| [LG011](#LG011) |      无法通过任务栏 “快速设置” 导航至 “节能模式” 菜单。      |     已修复 ✓     |
 | [LG012](#LG012) |           截图工具的 “设置” 页面存在中文语法错误。           |     正在调查     |
 | [LG013](#LG013) |           “设置”>“应用”>“启动” 页面中的图标异常。            |     正在调查     |
 | [LG014](#LG014) |  在文件资源管理器中打开上下文菜单时崩溃 / 显示为旧版样式。   |     已修复 ✓     |
@@ -180,7 +180,7 @@ Microsoft 官方回复：“Microsoft 正在调查此问题，并与合作伙伴
 ---
 
 <SPAN ID = 'LG007'/>编号：LG007  
-版本：ALL - Canary 26016  
+版本：ALL - Canary 26020  
 **问题**：**切换桌面时任务栏应用图标可能随机消失**。  
 状态：<img src="Images/L.png" width = "10%" />  
 Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正在持续调查有关此问题的报告。” *(Ling 译)*  
@@ -192,7 +192,7 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 ---
 
 <SPAN ID = 'LG008'/>编号：LG008  
-版本：Canary 26002 - 26016  
+版本：Canary 26002 - 26020  
 **问题**：**“Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAnwevt](https://aka.ms/AAnwevt)
@@ -209,7 +209,7 @@ Microsoft 官方回复：“Snipping 工作人员已完成调查，并在 11.231
 ---
 
 <SPAN ID = 'LG010'/>编号：LG010  
-版本：Canary 26010 - 26016  
+版本：Canary 26010 - 26020  
 **问题**：**任务栏 “快速设置” 中滑块颜色异常**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAo74l5](https://aka.ms/AAo74l5)
@@ -221,7 +221,7 @@ Microsoft 官方回复：“Snipping 工作人员已完成调查，并在 11.231
 <SPAN ID = 'LG011'/>编号：LG011  
 版本：Canary 26002 - 26016  
 **问题**：**无法通过任务栏 “快速设置” 导航至 “节能模式” 菜单**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：Canary 26020 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAo74m3](https://aka.ms/AAo74m3)
 
 <img src="Images/LG011.png" width = "25%" />
@@ -239,7 +239,7 @@ Microsoft 官方回复：“Snipping 工作人员已完成调查，并在 11.231
 ---
 
 <SPAN ID = 'LG013'/>编号：LG013  
-版本：Canary 26002 - 26016  
+版本：Canary 26002 - 26020  
 **问题**：**“设置”>“应用”>“启动” 页面中的图标异常**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo5wd6](https://aka.ms/AAo5wd6)
@@ -258,7 +258,7 @@ Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 �
 ---
 
 <SPAN ID = 'LG015'/>编号：LG015  
-版本：Canary 25992 - 26016  
+版本：Canary 25992 - 26020  
 **问题**：**在文件资源管理器中按下两次 F11 后地址栏将被冻结**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAnkkd6](https://aka.ms/AAnkkd6)
@@ -284,7 +284,7 @@ Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 �
 ---
 
 <SPAN ID = 'LG018'/>编号：LG018  
-版本：Canary 25987 - 26016  
+版本：Canary 25987 - 26020  
 **问题**：**Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAo7kst](https://aka.ms/AAo7kst)
@@ -292,7 +292,7 @@ Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 �
 ---
 
 <SPAN ID = 'LG019'/>编号：LG019  
-版本：Canary 25997 - 26016  
+版本：Canary 25997 - 26020  
 **问题**：**远程桌面显示 “图形组件无法启动” 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAnyzb4](https://aka.ms/AAnyzb4)
@@ -300,7 +300,7 @@ Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 �
 ---
 
 <SPAN ID = 'LG020'/>编号：LG020  
-版本：Canary 25982 - 26016  
+版本：Canary 25982 - 26020  
 **问题**：**部分游戏无法识别 Xbox 控制器 (手柄) 输入**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAny4gq](https://aka.ms/AAny4gq)
@@ -308,7 +308,7 @@ Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 �
 ---
 
 <SPAN ID = 'LG021'/>编号：LG021  
-版本：Canary 26002 - 26016  
+版本：Canary 26002 - 26020  
 **问题**：**调节任务栏 “快速设置” 中的音量滑块时不再发出声音**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo4oyt](https://aka.ms/AAo4oyt)
@@ -316,7 +316,7 @@ Microsoft 官方回复：“此问题应当已经在 Canary 频道 Build 26010 �
 ---
 
 <SPAN ID = 'LG022'/>编号：LG022  
-版本：Canary 25997 - 26016  
+版本：Canary 25997 - 26020  
 **问题**：**Windows Sandbox 显示 0x80072746 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAo6y4i](https://aka.ms/AAo6y4i)
@@ -335,7 +335,7 @@ Microsoft 官方回复：“我们已经完成了调查，并在服务器端进�
 ---
 
 <SPAN ID = 'LG024'/>编号：LG024  
-版本：Canary 26002 - 26016  
+版本：Canary 26002 - 26020  
 **问题**：**Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo7div](https://aka.ms/AAo7div)
@@ -345,7 +345,7 @@ Microsoft 官方回复：“我们已经完成了调查，并在服务器端进�
 ---
 
 <SPAN ID = 'LG025'/>编号：LG025  
-版本：未知 - Canary 26016  
+版本：未知 - Canary 26020  
 **问题**：**关闭电脑时电脑重新启动**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo6y4u](https://aka.ms/AAo6y4u)
@@ -362,7 +362,7 @@ Microsoft 官方回复：“Edge 团队正在处理此事。” *(Ling 译)* <im
 ---
 
 <SPAN ID = 'LG027'/>编号：LG027  
-版本：Canary 26010 - 26016  
+版本：Canary 26010 - 26020  
 **问题**：**打开 “设置”>“Windows 更新” 页面一段时间后设置菜单随机崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo6qvy](https://aka.ms/AAo6qvy)
@@ -370,7 +370,7 @@ Microsoft 官方回复：“Edge 团队正在处理此事。” *(Ling 译)* <im
 ---
 
 <SPAN ID = 'LG028'/>编号：LG028  
-版本：未知 - Canary 26016  
+版本：未知 - Canary 26020  
 **问题**：**文件资源管理器地址栏中图标和箭头间有一个缝隙，可能导致不小心切换为编辑模式**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo7kib](https://aka.ms/AAo7kib)
@@ -380,7 +380,7 @@ Microsoft 官方回复：“Edge 团队正在处理此事。” *(Ling 译)* <im
 ---
 
 <SPAN ID = 'LG029'/>编号：LG029  
-版本：Canary 26002 - 26016  
+版本：Canary 26002 - 26020  
 **问题**：**桌面背景变黑 / 桌面图标消失**。  
 状态：<img src="Images/L.png" width = "10%" />  
 Microsoft 官方回复：“此问题似乎与部分壁纸软件或桌面个性化软件有关。在我们调查期间，您可能需要暂时关闭这类软件。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
@@ -389,7 +389,7 @@ Microsoft 官方回复：“此问题似乎与部分壁纸软件或桌面个性�
 ---
 
 <SPAN ID = 'LG030'/>编号：LG030  
-版本：Canary 25905 - 26016  
+版本：Canary 25905 - 26020  
 **问题**：**在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAlzfg7](https://aka.ms/AAlzfg7)
@@ -407,7 +407,7 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG032'/>编号：LG032  
-版本：Canary 26016  
+版本：Canary 26020  
 **问题**：**连接 Citrix Desktop Viewer (CDViewer.exe) 几秒钟后，USER32.dll 崩溃**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAoa2a8](https://aka.ms/AAoa2a8)
@@ -415,7 +415,7 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG033'/>编号：LG033  
-版本：Canary 26016  
+版本：Canary 26020  
 **问题**：**“阿凡达：潘多拉边境” (Avatar Frontiers of Pandora) 游戏崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoa2ag](https://aka.ms/AAoa2ag)
@@ -423,7 +423,7 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG034'/>编号：LG034  
-版本：Canary 26016  
+版本：Canary 26020  
 **问题**：**Grand Theft Auto V (GTA 5) 游戏无法运行**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo9e71](https://aka.ms/AAo9e71)
@@ -431,7 +431,7 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG035'/>编号：LG035  
-版本：Canary 26016  
+版本：Canary 26020  
 **问题**：**极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo9e77](https://aka.ms/AAo9e77)
@@ -439,7 +439,7 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG036'/>编号：LG036  
-版本：Canary 26002 - 26016  
+版本：Canary 26002 - 26020  
 **问题**：**任务栏自动隐藏后，鼠标悬停在托盘区域无法将其激活**。  
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“我们已经找出问题所在，正在修复中。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
@@ -450,7 +450,7 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 ---
 
 <SPAN ID = 'LG037'/>编号：LG037  
-版本：Canary 25997 - 26016  
+版本：Canary 25997 - 26020  
 **问题**：**显示 WDAG (Edge) - Container: Error: 0x80004005 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
@@ -459,7 +459,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG039'/>编号：LG039  
-版本：Canary 26016  
+版本：Canary 26020  
 **问题**：**Copilot (预览版) 可能无法启动**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoan4g](https://aka.ms/AAoan4g)
@@ -469,7 +469,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG040'/>编号：LG040  
-版本：未知 - Canary 26016  
+版本：未知 - Canary 26020  
 **问题**：**文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoawwk](https://aka.ms/AAoawwk)
@@ -479,7 +479,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG041'/>编号：LG041  
-版本：Canary 26016  
+版本：Canary 26020  
 **问题**：**SurfShark VPN 停止工作**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAobhcg](https://aka.ms/AAobhcg)
@@ -487,7 +487,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG042'/>编号：LG042  
-版本：未知 - Canary 26016  
+版本：未知 - Canary 26020  
 **问题**：**自动 HDR 功能在游戏过程中意外关闭**。  
 状态：<img src="Images/I.png" width = "17%" />  
 Microsoft 官方回复：“我们需要更多细节。请在反馈中心使用 ‘重现问题’ 功能，向我们发送日志。” *(Ling 译)*  
