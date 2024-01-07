@@ -80,6 +80,8 @@
 | [LG023](#LG023) | 电脑显示 Microsoft 365 家庭版订阅已过期，但实际上仍处于激活状态。 |     已修复 ✓     |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |      **——**      |
 
+[**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
+
 **标准格式**
 
 ```markdown
