@@ -17,9 +17,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 1 月 5 日 21:00 (UTC+8)。记录的反馈数量：43，访问次数：300+
+&emsp;&emsp;上次更新时间：2024 年 1 月 7 日 17:30 (UTC+8)。记录的反馈数量：47，访问次数：330+
 
-&emsp;&emsp;中心更新目录：今日无更新。- Ling 1/5 😌 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
+&emsp;&emsp;中心更新目录：**今日更新 LG043-46**。- Ling 1/7 😀 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
 |  频道  |  最新版本  |   时间   |                        公告                        |
 | :----: | :--------: | :------: | :------------------------------------------------: |
@@ -73,6 +73,10 @@
 | [LG040](#LG040) |    文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效。    |     正在调查     |
 | [LG041](#LG041) |                   SurfShark VPN 停止工作。                   |     正在调查     |
 | [LG042](#LG042) |             自动 HDR 功能在游戏过程中意外关闭。              | 需要更多详细信息 |
+| [LG043](#LG043) |    Copilot 无法与其他窗口正确重叠 / 显示在其他窗口后方。     |     正在调查     |
+| [LG044](#LG044) |  将鼠标悬停在 Copilot 图标上时，单词错误地拼写为 Co-pilot。  |     正在调查     |
+| [LG045](#LG045) |                        共享窗口崩溃。                        |     正在处理     |
+| [LG046](#LG046) |           远程桌面显示 0x3 错误 / 0x11 扩展错误。            |     正在调查     |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 >14 天)**](#2) |      **——**      |
 
 **标准格式**
@@ -493,6 +497,38 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 Microsoft 官方回复：“我们需要更多细节。请在反馈中心使用 ‘重现问题’ 功能，向我们发送日志。” *(Ling 译)*  
 <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo77ve](https://aka.ms/AAo77ve)
+
+---
+
+<SPAN ID = 'LG043'/>编号：LG043  
+版本：Canary 26020  
+**问题**：**Copilot 无法与其他窗口正确重叠 / 显示在其他窗口后方**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAoi08a](https://aka.ms/AAoi08a)
+
+---
+
+<SPAN ID = 'LG044'/>编号：LG044  
+版本：Canary 26020  
+**问题**：**将鼠标悬停在 Copilot 图标上时，单词错误地拼写为 Co-pilot**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAoi08e](https://aka.ms/AAoi08e)
+
+---
+
+<SPAN ID = 'LG045'/>编号：LG045  
+版本：ALL  
+**问题**：**共享窗口崩溃**。  
+状态：<img src="Images/W.png" width = "10%" />  
+典型反馈：[aka.ms/AAohsni](https://aka.ms/AAohsni)
+
+---
+
+<SPAN ID = 'LG046'/>编号：LG046  
+版本：Canary 26020  
+**问题**：**远程桌面显示 0x3 错误 / 0x11 扩展错误**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAnyjyk](https://aka.ms/AAnyjyk)
 
 ---
 
