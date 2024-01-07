@@ -17,7 +17,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 1 月 7 日 18:00 (UTC+8)。记录的反馈数量：47，访问次数：360+
+&emsp;&emsp;上次更新时间：2024 年 1 月 7 日 19:00 (UTC+8)。记录的反馈数量：47，访问次数：370+
 
 &emsp;&emsp;中心更新目录：**今日更新 LG043 - 46**。- Ling 1/7 😀 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
@@ -544,6 +544,8 @@ Microsoft 官方回复：“我们已经完成了调查，并在服务器端进�
 ---
 
 [Microsoft 已做出更改 >28 天的问题](28+.md)
+
+[**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
 ---
 
