@@ -17,9 +17,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 1 月 7 日 19:00 (UTC+8)。记录的反馈数量：47，访问次数：370+
+&emsp;&emsp;上次更新时间：2024 年 1 月 10 日 19:00 (UTC+8)。记录的反馈数量：51，访问次数：390+
 
-&emsp;&emsp;中心更新目录：**今日更新 LG043 - 46**。- Ling 1/7 😀 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
+&emsp;&emsp;中心更新目录：**今日更新 LG047 - 050**。- Ling 1/10 😀 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
 |  频道  |  最新版本  |   时间   |                        公告                        |
 | :----: | :--------: | :------: | :------------------------------------------------: |
@@ -66,6 +66,10 @@
 | [LG044](#LG044) |  将鼠标悬停在 Copilot 图标上时，单词错误地拼写为 Co-pilot。  |     正在调查     |
 | [LG045](#LG045) |                        共享窗口崩溃。                        |     正在处理     |
 | [LG046](#LG046) |           远程桌面显示 0x3 错误 / 0x11 扩展错误。            |     正在调查     |
+| [LG047](#LG047) |                                                              |     正在处理     |
+| [LG048](#LG048) |                                                              |     正在调查     |
+| [LG049](#LG049) |                                                              |     正在调查     |
+| [LG050](#LG050) |                                                              |     正在调查     |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 14 - 28 天)**](#2) |      **——**      |
 | [LG000](#LG000) |       无法下载 Build 26016 更新，显示 8024200D 错误。        |     已修复 ✓     |
 | [LG003](#LG003) |            点击 “设置”>“系统”>“电源” 时菜单崩溃。            |     已修复 ✓     |
@@ -428,6 +432,38 @@ Microsoft 官方回复：“我们需要更多细节。请在反馈中心使用 
 **问题**：**远程桌面显示 0x3 错误 / 0x11 扩展错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAnyjyk](https://aka.ms/AAnyjyk)
+
+---
+
+<SPAN ID = 'LG047'/>编号：LG047  
+版本：Canary 26020  
+**问题**：**运行 WinSCP 时电脑出现 win32kbase.sys 绿屏**。  
+状态：<img src="Images/W.png" width = "10%" />  
+典型反馈：[aka.ms/AAoiwp6](https://aka.ms/AAoiwp6)
+
+---
+
+<SPAN ID = 'LG048'/>编号：LG048  
+版本：Canary 26016 - 26020  
+**问题**：**极限竞速：地平线 5 (Forza Horizon 5) 游戏停止工作，显示 0xc0000005 错误**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAojirz](https://aka.ms/AAojirz)
+
+---
+
+<SPAN ID = 'LG049'/>编号：LG049  
+版本：Canary 26020  
+**问题**：**事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAoipfs](https://aka.ms/AAoipfs)
+
+---
+
+<SPAN ID = 'LG050'/>编号：LG050  
+版本：Canary 26016 - 26020  
+**问题**：**启动 Print Spooler 服务时显示错误 / 崩溃**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAoiwqe](https://aka.ms/AAoiwqe)
 
 ---
 
