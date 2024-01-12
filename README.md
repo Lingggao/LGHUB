@@ -17,9 +17,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 1 月 10 日 19:00 (UTC+8)。记录的反馈数量：51，访问次数：390+
+&emsp;&emsp;上次更新时间：2024 年 1 月 12 日 19:00 (UTC+8)。记录的反馈数量：51，访问次数：390+
 
-&emsp;&emsp;中心更新目录：**今日更新 LG047 - 050**。- Ling 1/10 😀 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
+&emsp;&emsp;中心更新目录：**今日更新 LG047 - 050**。- Ling 1/12 😀 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
 |  频道  |  最新版本  |   时间   |                        公告                        |
 | :----: | :--------: | :------: | :------------------------------------------------: |
@@ -464,6 +464,15 @@ Microsoft 官方回复：“我们需要更多细节。请在反馈中心使用 
 **问题**：**启动 Print Spooler 服务时显示错误 / 崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoiwqe](https://aka.ms/AAoiwqe)
+
+---
+
+<SPAN ID = 'LG051'/>编号：LG051  
+版本：Canary 26016 - 26020  
+**问题**：**Windows 更新菜单 “使用时段” 中显示的时间与选择的时间不一致**。  
+状态：<img src="Images/W.png" width = "10%" />  
+Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAoj5el](https://aka.ms/AAoj5el)
 
 ---
 
