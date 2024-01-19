@@ -36,7 +36,6 @@
 | [LG007](#LG007) |            切换桌面时任务栏应用图标可能随机消失。            |     正在调查     |
 | [LG008](#LG008) |        “Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃。         |     正在调查     |
 | [LG010](#LG010) |              任务栏 “快速设置” 中滑块颜色异常。              |     正在处理     |
-| [LG012](#LG012) |           截图工具的 “设置” 页面存在中文语法错误。           |     正在调查     |
 | [LG013](#LG013) |           “设置”>“应用”>“启动” 页面中的图标异常。            |     正在调查     |
 | [LG015](#LG015) |      在文件资源管理器中按下两次 F11 后地址栏将被冻结。       |     正在调查     |
 | [LG018](#LG018) | Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误。 |     正在处理     |
@@ -83,6 +82,7 @@
 | [LG016](#LG016) |     文件资源管理器中 Filter 功能被错误地翻译为 “滤镜”。      |     已修复 ✓     |
 | [LG017](#LG017) |            反馈中心无法在中国大陆网络环境中使用。            |     已修复 ✓     |
 | [LG023](#LG023) | 电脑显示 Microsoft 365 家庭版订阅已过期，但实际上仍处于激活状态。 |     已修复 ✓     |
+| [LG012](#LG012) |           截图工具的 “设置” 页面存在中文语法错误。           |     已修复 ✓     |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |      **——**      |
 
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
@@ -171,16 +171,6 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 典型反馈：[aka.ms/AAo74l5](https://aka.ms/AAo74l5)
 
 <img src="Images/LG010.png" width = "25%" />
-
----
-
-<SPAN ID = 'LG012'/>编号：LG012  
-版本：ALL  
-**问题**：**截图工具的 “设置” 页面存在中文语法错误**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAo6pkw](https://aka.ms/AAo6pkw)
-
-<img src="Images/LG012.png" width = "50%" />
 
 ---
 
@@ -590,6 +580,16 @@ Microsoft 官方回复：“我们已经完成了调查，并在服务器端进�
 典型反馈：[aka.ms/AAo6y4m](https://aka.ms/AAo6y4m)
 
 <img src="Images/LG023.png" width = "20%" />
+
+---
+
+<SPAN ID = 'LG012'/>编号：LG012  
+版本：ALL  
+**问题**：**截图工具的 “设置” 页面存在中文语法错误**。  
+状态：截图工具 11.2312.33.0 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAo6pkw](https://aka.ms/AAo6pkw)
+
+<img src="Images/LG012.png" width = "50%" />
 
 ---
 
