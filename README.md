@@ -29,48 +29,32 @@
 
 | 编号 (点击跳转) |                             问题                             |       状态       |
 | :-------------: | :----------------------------------------------------------: | :--------------: |
-|                 |                                                              |                  |
 | [LG002](#LG002) |                部分热门游戏可能无法正常运行。                | 需要更多详细信息 |
 | [LG004](#LG004) |            打开打印队列时提示 “找不到应用程序”。             |     正在处理     |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |      **——**      |
 | [LG007](#LG007) |            切换桌面时任务栏应用图标可能随机消失。            |     正在调查     |
 | [LG008](#LG008) |        “Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃。         |     正在调查     |
-|                 |                                                              |                  |
 | [LG013](#LG013) |           “设置”>“应用”>“启动” 页面中的图标异常。            |     正在调查     |
 | [LG015](#LG015) |      在文件资源管理器中按下两次 F11 后地址栏将被冻结。       |     正在调查     |
 | [LG018](#LG018) | Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误。 |     正在处理     |
 | [LG019](#LG019) |            远程桌面显示 “图形组件无法启动” 错误。            |     正在处理     |
-|                 |                                                              |                  |
 | [LG021](#LG021) |      调节任务栏 “快速设置” 中的音量滑块时不再发出声音。      |     正在调查     |
 | [LG022](#LG022) |            Windows Sandbox 显示 0x80072746 错误。            |     正在处理     |
 | [LG024](#LG024) | Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误。 |     正在调查     |
-|                 |                                                              |                  |
-|                 |                                                              |                  |
-|                 |                                                              |                  |
 | [LG028](#LG028) | 文件资源管理器地址栏中图标和箭头间有一个缝隙，可能导致不小心切换为编辑模式。 |     正在调查     |
-|                 |                                                              |                  |
 | [LG030](#LG030) | 在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。 |     正在调查     |
 | [LG031](#LG031) |    Microsoft Edge (正式版) “固定到任务栏” 功能可能失效。     |     正在调查     |
-|                 |                                                              |                  |
 | [LG033](#LG033) | “阿凡达：潘多拉边境” (Avatar Frontiers of Pandora) 游戏崩溃。 |     正在调查     |
 | [LG034](#LG034) |          Grand Theft Auto V (GTA 5) 游戏无法运行。           |     正在调查     |
 | [LG035](#LG035) |  极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃。  |     正在调查     |
-|                 |                                                              |                  |
 | [LG037](#LG037) |    显示 WDAG (Edge) - Container: Error: 0x80004005 错误。    |     正在处理     |
-|                 |                                                              |                  |
 | [LG040](#LG040) |    文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效。    |     正在调查     |
-|                 |                                                              |                  |
-|                 |                                                              |                  |
-|                 |                                                              |                  |
-| [LG044](#LG044) |  将鼠标悬停在 Copilot 图标上时，单词错误地拼写为 Co-pilot。  |     正在调查     |
 | [LG045](#LG045) |                        共享窗口崩溃。                        |     正在处理     |
 | [LG046](#LG046) |           远程桌面显示 0x3 错误 / 0x11 扩展错误。            |     正在调查     |
 | [LG047](#LG047) |         运行 WinSCP 时电脑出现 win32kbase.sys 绿屏。         |     正在处理     |
 | [LG048](#LG048) | 极限竞速：地平线 5 (Forza Horizon 5) 游戏停止运行，显示 0xc0000005 错误。 |     正在调查     |
 | [LG049](#LG049) |  事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)。   |     正在调查     |
 | [LG050](#LG050) |          启动 Print Spooler 服务时显示错误 / 崩溃。          |     正在调查     |
-| [LG051](#LG051) | Windows 更新菜单 “使用时段” 中显示的时间与选择的时间不一致。 |     正在处理     |
-| [LG052](#LG052) |    锁屏界面 Windows 聚焦随机显示其他语言的内容 (如泰文)。    |     正在处理     |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 14 - 28 天)**](#2) |      **——**      |
 | [LG000](#LG000) |       无法下载 Build 26016 更新，显示 8024200D 错误。        |     已修复 ✓     |
 | [LG003](#LG003) |            点击 “设置”>“系统”>“电源” 时菜单崩溃。            |     已修复 ✓     |
@@ -98,9 +82,9 @@
 | [LG041](#LG041) |                   SurfShark VPN 停止工作。                   |     已修复 ✓     |
 | [LG042](#LG042) |             自动 HDR 功能在游戏过程中意外关闭。              |     已修复 ✓     |
 | [LG043](#LG043) |    Copilot 无法与其他窗口正确重叠 / 显示在其他窗口后方。     |     已修复 ✓     |
-|                 |                                                              |                  |
-|                 |                                                              |                  |
-|                 |                                                              |                  |
+| [LG044](#LG044) |  将鼠标悬停在 Copilot 图标上时，单词错误地拼写为 Co-pilot。  |     已修复 ✓     |
+| [LG051](#LG051) | Windows 更新菜单 “使用时段” 中显示的时间与选择的时间不一致。 |     已修复 ✓     |
+| [LG052](#LG052) |    锁屏界面 Windows 聚焦随机显示其他语言的内容 (如泰文)。    |     已修复 ✓     |
 |                 |                                                              |                  |
 |                 |                                                              |                  |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |      **——**      |
@@ -305,14 +289,6 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 
 ---
 
-<SPAN ID = 'LG044'/>编号：LG044  
-版本：Canary 26020  
-**问题**：**将鼠标悬停在 Copilot 图标上时，单词错误地拼写为 Co-pilot**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAoi08e](https://aka.ms/AAoi08e)
-
----
-
 <SPAN ID = 'LG045'/>编号：LG045  
 版本：ALL  
 **问题**：**共享窗口崩溃**。  
@@ -322,7 +298,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG046'/>编号：LG046  
-版本：Canary 26020  
+版本：Canary 26020 - 26040  
 **问题**：**远程桌面显示 0x3 错误 / 0x11 扩展错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAnyjyk](https://aka.ms/AAnyjyk)
@@ -330,7 +306,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG047'/>编号：LG047  
-版本：Canary 26020  
+版本：Canary 26020 - 26040  
 **问题**：**运行 WinSCP 时电脑出现 win32kbase.sys 绿屏**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAoiwp6](https://aka.ms/AAoiwp6)
@@ -338,7 +314,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG048'/>编号：LG048  
-版本：Canary 26016 - 26020  
+版本：Canary 26016 - 26040  
 **问题**：**极限竞速：地平线 5 (Forza Horizon 5) 游戏停止运行，显示 0xc0000005 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAojirz](https://aka.ms/AAojirz)
@@ -346,7 +322,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG049'/>编号：LG049  
-版本：Canary 26020  
+版本：Canary 26020 - 26040  
 **问题**：**事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoipfs](https://aka.ms/AAoipfs)
@@ -354,29 +330,10 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG050'/>编号：LG050  
-版本：Canary 26016 - 26020  
+版本：Canary 26016 - 26040  
 **问题**：**启动 Print Spooler 服务时显示错误 / 崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoiwqe](https://aka.ms/AAoiwqe)
-
----
-
-<SPAN ID = 'LG051'/>编号：LG051  
-版本：Canary 26016 - 26020  
-**问题**：**Windows 更新菜单 “使用时段” 中显示的时间与选择的时间不一致**。  
-状态：<img src="Images/W.png" width = "10%" />  
-Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAoj5el](https://aka.ms/AAoj5el)
-
-<img src="Images/LG051.png" width = "50%" />
-
----
-
-<SPAN ID = 'LG052'/>编号：LG052  
-版本：Canary 26020  
-**问题**：**锁屏界面 Windows 聚焦随机显示其他语言的内容 (如泰文)**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AAopddk](https://aka.ms/AAopddk)
 
 ---
 
@@ -504,6 +461,33 @@ Microsoft 官方回复：“我们需要更多细节。请在反馈中心使用 
 **问题**：**Copilot 无法与其他窗口正确重叠 / 显示在其他窗口后方**。  
 状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAoi08a](https://aka.ms/AAoi08a)
+
+---
+
+<SPAN ID = 'LG044'/>编号：LG044  
+版本：Canary 26020  
+**问题**：**将鼠标悬停在 Copilot 图标上时，单词错误地拼写为 Co-pilot**。  
+状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAoi08e](https://aka.ms/AAoi08e)
+
+---
+
+<SPAN ID = 'LG051'/>编号：LG051  
+版本：Canary 26016 - 26020  
+**问题**：**Windows 更新菜单 “使用时段” 中显示的时间与选择的时间不一致**。  
+状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAoj5el](https://aka.ms/AAoj5el)
+
+<img src="Images/LG051.png" width = "50%" />
+
+---
+
+<SPAN ID = 'LG052'/>编号：LG052  
+版本：Canary 26020  
+**问题**：**锁屏界面 Windows 聚焦随机显示其他语言的内容 (如泰文)**。  
+状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAopddk](https://aka.ms/AAopddk)
 
 ---
 
