@@ -17,7 +17,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 1 月 27 日 11:00 (UTC+8)。记录的反馈数量：53，访问次数：490+
+&emsp;&emsp;上次更新时间：2024 年 1 月 27 日 12:00 (UTC+8)。记录的反馈数量：53，访问次数：490+
 
 &emsp;&emsp;中心更新目录：今日更新反馈状态。- Ling 1/27 😗 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
@@ -29,29 +29,29 @@
 
 | 编号 (点击跳转) |                             问题                             |       状态       |
 | :-------------: | :----------------------------------------------------------: | :--------------: |
-| [LG001](#LG001) |            可能无法打开设置菜单 / 设置菜单崩溃。             |     正在调查     |
+|                 |                                                              |                  |
 | [LG002](#LG002) |                部分热门游戏可能无法正常运行。                | 需要更多详细信息 |
 | [LG004](#LG004) |            打开打印队列时提示 “找不到应用程序”。             |     正在处理     |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |      **——**      |
 | [LG007](#LG007) |            切换桌面时任务栏应用图标可能随机消失。            |     正在调查     |
 | [LG008](#LG008) |        “Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃。         |     正在调查     |
-| [LG010](#LG010) |              任务栏 “快速设置” 中滑块颜色异常。              |     正在处理     |
+|                 |                                                              |                  |
 | [LG013](#LG013) |           “设置”>“应用”>“启动” 页面中的图标异常。            |     正在调查     |
 | [LG015](#LG015) |      在文件资源管理器中按下两次 F11 后地址栏将被冻结。       |     正在调查     |
 | [LG018](#LG018) | Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误。 |     正在处理     |
 | [LG019](#LG019) |            远程桌面显示 “图形组件无法启动” 错误。            |     正在处理     |
-| [LG020](#LG020) |          部分游戏无法识别 Xbox 控制器 (手柄) 输入。          |     正在调查     |
+|                 |                                                              |                  |
 | [LG021](#LG021) |      调节任务栏 “快速设置” 中的音量滑块时不再发出声音。      |     正在调查     |
 | [LG022](#LG022) |            Windows Sandbox 显示 0x80072746 错误。            |     正在处理     |
 | [LG024](#LG024) | Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误。 |     正在调查     |
-| [LG025](#LG025) |                   关闭电脑时电脑重新启动。                   |     正在调查     |
-| [LG026](#LG026) |                无法在 Microsoft Edge 中打印。                |     正在处理     |
-| [LG027](#LG027) | 打开 “设置”>“Windows 更新” 页面一段时间后设置菜单随机崩溃。  |     正在调查     |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
 | [LG028](#LG028) | 文件资源管理器地址栏中图标和箭头间有一个缝隙，可能导致不小心切换为编辑模式。 |     正在调查     |
-| [LG029](#LG029) |                桌面背景变黑 / 桌面图标消失。                 |     正在调查     |
+|                 |                                                              |                  |
 | [LG030](#LG030) | 在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。 |     正在调查     |
 | [LG031](#LG031) |    Microsoft Edge (正式版) “固定到任务栏” 功能可能失效。     |     正在调查     |
-| [LG032](#LG032) | 连接 Citrix Desktop Viewer (CDViewer.exe) 几秒钟后，USER32.dll 崩溃。 |     正在处理     |
+|                 |                                                              |                  |
 | [LG033](#LG033) | “阿凡达：潘多拉边境” (Avatar Frontiers of Pandora) 游戏崩溃。 |     正在调查     |
 | [LG034](#LG034) |          Grand Theft Auto V (GTA 5) 游戏无法运行。           |     正在调查     |
 | [LG035](#LG035) |  极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃。  |     正在调查     |
@@ -84,7 +84,19 @@
 | [LG017](#LG017) |            反馈中心无法在中国大陆网络环境中使用。            |     已修复 ✓     |
 | [LG023](#LG023) | 电脑显示 Microsoft 365 家庭版订阅已过期，但实际上仍处于激活状态。 |     已修复 ✓     |
 | [LG012](#LG012) |           截图工具的 “设置” 页面存在中文语法错误。           |     已修复 ✓     |
-|      嘟嘟       |                             嘟嘟                             |       嘟嘟       |
+|    **嘟嘟**     |                           **嘟嘟**                           |     **嘟嘟**     |
+| [LG001](#LG001) |            可能无法打开设置菜单 / 设置菜单崩溃。             |     已修复 ✓     |
+| [LG010](#LG010) |              任务栏 “快速设置” 中滑块颜色异常。              |     已修复 ✓     |
+| [LG020](#LG020) |          部分游戏无法识别 Xbox 控制器 (手柄) 输入。          |     已修复 ✓     |
+| [LG025](#LG025) |                   关闭电脑时电脑重新启动。                   |     已修复 ✓     |
+| [LG026](#LG026) |                无法在 Microsoft Edge 中打印。                |     已修复 ✓     |
+| [LG027](#LG027) | 打开 “设置”>“Windows 更新” 页面一段时间后设置菜单随机崩溃。  |     已修复 ✓     |
+| [LG029](#LG029) |                桌面背景变黑 / 桌面图标消失。                 |     已修复 ✓     |
+| [LG032](#LG032) | 连接 Citrix Desktop Viewer (CDViewer.exe) 几秒钟后，USER32.dll 崩溃。 |     已修复 ✓     |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
 |                 |                                                              |                  |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |      **——**      |
 
@@ -107,16 +119,6 @@ Microsoft 官方回复 (如果有)：xxxxx
 ## ✦ Canary - 公告已知问题 ✦
 
 &emsp;&emsp;记录 [Windows Insider 博客](https://blogs.windows.com/windows-insider)中明确公开的已知问题。
-
----
-
-<SPAN ID = 'LG001'/>编号：LG001  
-版本：Canary 26010 - 26020  
-**问题**：**可能无法打开设置菜单 / 设置菜单崩溃**。  
-状态：<img src="Images/L.png" width = "10%" />  
-Microsoft 官方回复：“我们正在调查导致部分 Insiders 无法打开 ‘设置’ 菜单的问题。如果您正在受此影响，请查看下面的社区话题了解解决方案。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
-
-[临时解决方案](https://aka.ms/26010SettingsCrash) *(Jason Howard 整理)*
 
 ---
 
@@ -148,7 +150,7 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 ---
 
 <SPAN ID = 'LG007'/>编号：LG007  
-版本：ALL - Canary 26020  
+版本：ALL - Canary 26040  
 **问题**：**切换桌面时任务栏应用图标可能随机消失**。  
 状态：<img src="Images/L.png" width = "10%" />  
 Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正在持续调查有关此问题的报告。” *(Ling 译)*  
@@ -160,25 +162,15 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 ---
 
 <SPAN ID = 'LG008'/>编号：LG008  
-版本：Canary 26002 - 26020  
+版本：Canary 26002 - 26040  
 **问题**：**“Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAnwevt](https://aka.ms/AAnwevt)
 
 ---
 
-<SPAN ID = 'LG010'/>编号：LG010  
-版本：Canary 26010 - 26020  
-**问题**：**任务栏 “快速设置” 中滑块颜色异常**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AAo74l5](https://aka.ms/AAo74l5)
-
-<img src="Images/LG010.png" width = "25%" />
-
----
-
 <SPAN ID = 'LG013'/>编号：LG013  
-版本：Canary 26002 - 26020  
+版本：Canary 26002 - 26040  
 **问题**：**“设置”>“应用”>“启动” 页面中的图标异常**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo5wd6](https://aka.ms/AAo5wd6)
@@ -188,7 +180,7 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 ---
 
 <SPAN ID = 'LG015'/>编号：LG015  
-版本：Canary 25992 - 26020  
+版本：Canary 25992 - 26040  
 **问题**：**在文件资源管理器中按下两次 F11 后地址栏将被冻结**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAnkkd6](https://aka.ms/AAnkkd6)
@@ -196,7 +188,7 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 ---
 
 <SPAN ID = 'LG018'/>编号：LG018  
-版本：Canary 25987 - 26020  
+版本：Canary 25987 - 26040  
 **问题**：**Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAo7kst](https://aka.ms/AAo7kst)
@@ -204,23 +196,15 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 ---
 
 <SPAN ID = 'LG019'/>编号：LG019  
-版本：Canary 25997 - 26020  
+版本：Canary 25997 - 26040  
 **问题**：**远程桌面显示 “图形组件无法启动” 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAnyzb4](https://aka.ms/AAnyzb4)
 
 ---
 
-<SPAN ID = 'LG020'/>编号：LG020  
-版本：Canary 25982 - 26020  
-**问题**：**部分游戏无法识别 Xbox 控制器 (手柄) 输入**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAny4gq](https://aka.ms/AAny4gq)
-
----
-
 <SPAN ID = 'LG021'/>编号：LG021  
-版本：Canary 26002 - 26020  
+版本：Canary 26002 - 26040  
 **问题**：**调节任务栏 “快速设置” 中的音量滑块时不再发出声音**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo4oyt](https://aka.ms/AAo4oyt)
@@ -228,7 +212,7 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 ---
 
 <SPAN ID = 'LG022'/>编号：LG022  
-版本：Canary 25997 - 26020  
+版本：Canary 25997 - 26040  
 **问题**：**Windows Sandbox 显示 0x80072746 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAo6y4i](https://aka.ms/AAo6y4i)
@@ -236,7 +220,7 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 ---
 
 <SPAN ID = 'LG024'/>编号：LG024  
-版本：Canary 26002 - 26020  
+版本：Canary 26002 - 26040  
 **问题**：**Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo7div](https://aka.ms/AAo7div)
@@ -245,33 +229,8 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 
 ---
 
-<SPAN ID = 'LG025'/>编号：LG025  
-版本：未知 - Canary 26020  
-**问题**：**关闭电脑时电脑重新启动**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAo6y4u](https://aka.ms/AAo6y4u)
-
----
-
-<SPAN ID = 'LG026'/>编号：LG026  
-版本：ALL  
-**问题**：**无法在 Microsoft Edge 中打印**。  
-状态：<img src="Images/W.png" width = "10%" />  
-Microsoft 官方回复：“Edge 团队正在处理此事。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAo7djt](https://aka.ms/AAo7djt)
-
----
-
-<SPAN ID = 'LG027'/>编号：LG027  
-版本：Canary 26010 - 26020  
-**问题**：**打开 “设置”>“Windows 更新” 页面一段时间后设置菜单随机崩溃**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAo6qvy](https://aka.ms/AAo6qvy)
-
----
-
 <SPAN ID = 'LG028'/>编号：LG028  
-版本：未知 - Canary 26020  
+版本：未知 - Canary 26040  
 **问题**：**文件资源管理器地址栏中图标和箭头间有一个缝隙，可能导致不小心切换为编辑模式**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo7kib](https://aka.ms/AAo7kib)
@@ -280,17 +239,8 @@ Microsoft 官方回复：“Edge 团队正在处理此事。” *(Ling 译)* <im
 
 ---
 
-<SPAN ID = 'LG029'/>编号：LG029  
-版本：Canary 26002 - 26020  
-**问题**：**桌面背景变黑 / 桌面图标消失**。  
-状态：<img src="Images/L.png" width = "10%" />  
-Microsoft 官方回复：“此问题似乎与部分壁纸软件或桌面个性化软件有关。在我们调查期间，您可能需要暂时关闭这类软件。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAo7kvj](https://aka.ms/AAo7kvj)
-
----
-
 <SPAN ID = 'LG030'/>编号：LG030  
-版本：Canary 25905 - 26020  
+版本：Canary 25905 - 26040  
 **问题**：**在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAlzfg7](https://aka.ms/AAlzfg7)
@@ -304,14 +254,6 @@ Microsoft 官方回复：“此问题似乎与部分壁纸软件或桌面个性�
 Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
 
 <img src="Images/LG031.png" width = "35%" />
-
----
-
-<SPAN ID = 'LG032'/>编号：LG032  
-版本：Canary 26016 - 26020  
-**问题**：**连接 Citrix Desktop Viewer (CDViewer.exe) 几秒钟后，USER32.dll 崩溃**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AAoa2a8](https://aka.ms/AAoa2a8)
 
 ---
 
@@ -490,7 +432,73 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 
 ---
 
-//
+<SPAN ID = 'LG001'/>编号：LG001  
+版本：Canary 26010 - 26020  
+**问题**：**可能无法打开设置菜单 / 设置菜单崩溃**。  
+状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“我们正在调查导致部分 Insiders 无法打开 ‘设置’ 菜单的问题。如果您正在受此影响，请查看下面的社区话题了解解决方案。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
+
+[临时解决方案](https://aka.ms/26010SettingsCrash) *(Jason Howard 整理)*
+
+---
+
+<SPAN ID = 'LG010'/>编号：LG010  
+版本：Canary 26010 - 26020  
+**问题**：**任务栏 “快速设置” 中滑块颜色异常**。  
+状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAo74l5](https://aka.ms/AAo74l5)
+
+<img src="Images/LG010.png" width = "25%" />
+
+---
+
+<SPAN ID = 'LG020'/>编号：LG020  
+版本：Canary 25982 - 26020  
+**问题**：**部分游戏无法识别 Xbox 控制器 (手柄) 输入**。  
+状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAny4gq](https://aka.ms/AAny4gq)
+
+---
+
+<SPAN ID = 'LG025'/>编号：LG025  
+版本：未知 - Canary 26020  
+**问题**：**关闭电脑时电脑重新启动**。  
+状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAo6y4u](https://aka.ms/AAo6y4u)
+
+---
+
+<SPAN ID = 'LG026'/>编号：LG026  
+版本：ALL  
+**问题**：**无法在 Microsoft Edge 中打印**。  
+状态：<img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“Edge 团队正在处理此事。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAo7djt](https://aka.ms/AAo7djt)
+
+---
+
+<SPAN ID = 'LG027'/>编号：LG027  
+版本：Canary 26010 - 26020  
+**问题**：**打开 “设置”>“Windows 更新” 页面一段时间后设置菜单随机崩溃**。  
+状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAo6qvy](https://aka.ms/AAo6qvy)
+
+---
+
+<SPAN ID = 'LG029'/>编号：LG029  
+版本：Canary 26002 - 26020  
+**问题**：**桌面背景变黑 / 桌面图标消失**。  
+状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“此问题似乎与部分壁纸软件或桌面个性化软件有关。在我们调查期间，您可能需要暂时关闭这类软件。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAo7kvj](https://aka.ms/AAo7kvj)
+
+---
+
+<SPAN ID = 'LG032'/>编号：LG032  
+版本：Canary 26016 - 26020  
+**问题**：**连接 Citrix Desktop Viewer (CDViewer.exe) 几秒钟后，USER32.dll 崩溃**。  
+状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAoa2a8](https://aka.ms/AAoa2a8)
 
 ---
 
