@@ -19,7 +19,7 @@
 
 &emsp;&emsp;上次更新时间：2024 年 1 月 27 日 13:00 (UTC+8)。记录的反馈数量：53，访问次数：500+
 
-&emsp;&emsp;中心更新目录：今日更新反馈状态。- Ling 1/27 😗 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
+&emsp;&emsp;中心更新目录：**今日更新 LG053 - 054 和反馈状态**。- Ling 1/27 😘 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
 |  频道  |  最新版本  |   时间    |                         公告                         |
 | :----: | :--------: | :-------: | :--------------------------------------------------: |
@@ -29,6 +29,8 @@
 
 | 编号 (点击跳转) |                             问题                             |       状态       |
 | :-------------: | :----------------------------------------------------------: | :--------------: |
+| [LG053](#LG053) |                                                              |                  |
+| [LG054](#LG054) |                                                              |                  |
 | [LG002](#LG002) |                部分热门游戏可能无法正常运行。                | 需要更多详细信息 |
 | [LG004](#LG004) |            打开打印队列时提示 “找不到应用程序”。             |     正在处理     |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |      **——**      |
@@ -68,7 +70,7 @@
 | [LG017](#LG017) |            反馈中心无法在中国大陆网络环境中使用。            |     已修复 ✓     |
 | [LG023](#LG023) | 电脑显示 Microsoft 365 家庭版订阅已过期，但实际上仍处于激活状态。 |     已修复 ✓     |
 | [LG012](#LG012) |           截图工具的 “设置” 页面存在中文语法错误。           |     已修复 ✓     |
-|    **嘟嘟**     |                           **嘟嘟**                           |     **嘟嘟**     |
+|     **NEW**     |                           **NEW**                            |     **NEW**      |
 | [LG001](#LG001) |            可能无法打开设置菜单 / 设置菜单崩溃。             |     已修复 ✓     |
 | [LG010](#LG010) |              任务栏 “快速设置” 中滑块颜色异常。              |     已修复 ✓     |
 | [LG020](#LG020) |          部分游戏无法识别 Xbox 控制器 (手柄) 输入。          |     已修复 ✓     |
@@ -85,8 +87,6 @@
 | [LG044](#LG044) |  将鼠标悬停在 Copilot 图标上时，单词错误地拼写为 Co-pilot。  |     已修复 ✓     |
 | [LG051](#LG051) | Windows 更新菜单 “使用时段” 中显示的时间与选择的时间不一致。 |     已修复 ✓     |
 | [LG052](#LG052) |    锁屏界面 Windows 聚焦随机显示其他语言的内容 (如泰文)。    |     已修复 ✓     |
-|                 |                                                              |                  |
-|                 |                                                              |                  |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |      **——**      |
 
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
@@ -108,6 +108,22 @@ Microsoft 官方回复 (如果有)：xxxxx
 ## ✦ Canary - 公告已知问题 ✦
 
 &emsp;&emsp;记录 [Windows Insider 博客](https://blogs.windows.com/windows-insider)中明确公开的已知问题。
+
+---
+
+<SPAN ID = 'LG053'/>编号：LG053  
+版本：Canary 26040  
+**问题**：**xxxxx**  
+状态：<img src="Images/L.png" width = "10%" />  
+Microsoft 官方回复：xxxxx
+
+---
+
+<SPAN ID = 'LG054'/>编号：LG054  
+版本：Canary 26040  
+**问题**：**xxxxx**  
+状态：<img src="Images/L.png" width = "10%" />  
+Microsoft 官方回复：xxxxx
 
 ---
 
