@@ -350,7 +350,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 <SPAN ID = 'LG001'/>编号：LG001  
 版本：Canary 26010 - 26020  
 **问题**：**可能无法打开设置菜单 / 设置菜单崩溃**。  
-状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 Microsoft 官方回复：“我们正在调查导致部分 Insiders 无法打开 ‘设置’ 菜单的问题。如果您正在受此影响，请查看下面的社区话题了解解决方案。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
 
 [临时解决方案](https://aka.ms/26010SettingsCrash) *(Jason Howard 整理)*
@@ -360,7 +360,7 @@ Microsoft 官方回复：“我们正在调查导致部分 Insiders 无法打开
 <SPAN ID = 'LG010'/>编号：LG010  
 版本：Canary 26010 - 26020  
 **问题**：**任务栏 “快速设置” 中滑块颜色异常**。  
-状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAo74l5](https://aka.ms/AAo74l5)
 
 <img src="Images/LG010.png" width = "25%" />
@@ -370,7 +370,7 @@ Microsoft 官方回复：“我们正在调查导致部分 Insiders 无法打开
 <SPAN ID = 'LG020'/>编号：LG020  
 版本：Canary 25982 - 26020  
 **问题**：**部分游戏无法识别 Xbox 控制器 (手柄) 输入**。  
-状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAny4gq](https://aka.ms/AAny4gq)
 
 ---
@@ -378,7 +378,7 @@ Microsoft 官方回复：“我们正在调查导致部分 Insiders 无法打开
 <SPAN ID = 'LG025'/>编号：LG025  
 版本：未知 - Canary 26020  
 **问题**：**关闭电脑时电脑重新启动**。  
-状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAo6y4u](https://aka.ms/AAo6y4u)
 
 ---
@@ -386,7 +386,7 @@ Microsoft 官方回复：“我们正在调查导致部分 Insiders 无法打开
 <SPAN ID = 'LG026'/>编号：LG026  
 版本：ALL  
 **问题**：**无法在 Microsoft Edge 中打印**。  
-状态：<img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：<img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 Microsoft 官方回复：“Edge 团队正在处理此事。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo7djt](https://aka.ms/AAo7djt)
 
@@ -395,7 +395,7 @@ Microsoft 官方回复：“Edge 团队正在处理此事。” *(Ling 译)* <im
 <SPAN ID = 'LG027'/>编号：LG027  
 版本：Canary 26010 - 26020  
 **问题**：**打开 “设置”>“Windows 更新” 页面一段时间后设置菜单随机崩溃**。  
-状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAo6qvy](https://aka.ms/AAo6qvy)
 
 ---
@@ -403,7 +403,7 @@ Microsoft 官方回复：“Edge 团队正在处理此事。” *(Ling 译)* <im
 <SPAN ID = 'LG029'/>编号：LG029  
 版本：Canary 26002 - 26020  
 **问题**：**桌面背景变黑 / 桌面图标消失**。  
-状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 Microsoft 官方回复：“此问题似乎与部分壁纸软件或桌面个性化软件有关。在我们调查期间，您可能需要暂时关闭这类软件。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo7kvj](https://aka.ms/AAo7kvj)
 
@@ -412,7 +412,7 @@ Microsoft 官方回复：“此问题似乎与部分壁纸软件或桌面个性�
 <SPAN ID = 'LG032'/>编号：LG032  
 版本：Canary 26016 - 26020  
 **问题**：**连接 Citrix Desktop Viewer (CDViewer.exe) 几秒钟后，USER32.dll 崩溃**。  
-状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAoa2a8](https://aka.ms/AAoa2a8)
 
 ---
@@ -420,7 +420,7 @@ Microsoft 官方回复：“此问题似乎与部分壁纸软件或桌面个性�
 <SPAN ID = 'LG036'/>编号：LG036  
 版本：Canary 26002 - 26020  
 **问题**：**任务栏自动隐藏后，鼠标悬停在托盘区域无法将其激活**。  
-状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 Microsoft 官方回复：“我们已经找出问题所在，正在修复中。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo9oc7](https://aka.ms/AAo9oc7)
 
@@ -431,7 +431,7 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 <SPAN ID = 'LG039'/>编号：LG039  
 版本：Canary 26016 - 26020  
 **问题**：**Copilot (预览版) 可能无法启动**。  
-状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAoan4g](https://aka.ms/AAoan4g)
 
 <img src="Images/LG039.png" width = "50%" />
@@ -441,7 +441,7 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 <SPAN ID = 'LG041'/>编号：LG041  
 版本：Canary 26016 - 26020  
 **问题**：**SurfShark VPN 停止工作**。  
-状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAobhcg](https://aka.ms/AAobhcg)
 
 ---
@@ -449,7 +449,7 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 <SPAN ID = 'LG042'/>编号：LG042  
 版本：未知 - Canary 26020  
 **问题**：**自动 HDR 功能在游戏过程中意外关闭**。  
-状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 Microsoft 官方回复：“我们需要更多细节。请在反馈中心使用 ‘重现问题’ 功能，向我们发送日志。” *(Ling 译)*  
 <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAo77ve](https://aka.ms/AAo77ve)
@@ -459,7 +459,7 @@ Microsoft 官方回复：“我们需要更多细节。请在反馈中心使用 
 <SPAN ID = 'LG043'/>编号：LG043  
 版本：Canary 26020  
 **问题**：**Copilot 无法与其他窗口正确重叠 / 显示在其他窗口后方**。  
-状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAoi08a](https://aka.ms/AAoi08a)
 
 ---
@@ -467,7 +467,7 @@ Microsoft 官方回复：“我们需要更多细节。请在反馈中心使用 
 <SPAN ID = 'LG044'/>编号：LG044  
 版本：Canary 26020  
 **问题**：**将鼠标悬停在 Copilot 图标上时，单词错误地拼写为 Co-pilot**。  
-状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAoi08e](https://aka.ms/AAoi08e)
 
 ---
@@ -475,7 +475,7 @@ Microsoft 官方回复：“我们需要更多细节。请在反馈中心使用 
 <SPAN ID = 'LG051'/>编号：LG051  
 版本：Canary 26016 - 26020  
 **问题**：**Windows 更新菜单 “使用时段” 中显示的时间与选择的时间不一致**。  
-状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAoj5el](https://aka.ms/AAoj5el)
 
@@ -486,7 +486,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 <SPAN ID = 'LG052'/>编号：LG052  
 版本：Canary 26020  
 **问题**：**锁屏界面 Windows 聚焦随机显示其他语言的内容 (如泰文)**。  
-状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAopddk](https://aka.ms/AAopddk)
 
 ---
