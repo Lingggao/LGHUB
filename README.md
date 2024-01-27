@@ -17,7 +17,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 1 月 27 日 13:00 (UTC+8)。记录的反馈数量：53，访问次数：500+
+&emsp;&emsp;上次更新时间：2024 年 1 月 27 日 13:00 (UTC+8)。记录的反馈数量：55，访问次数：530+
 
 &emsp;&emsp;中心更新目录：**今日更新 LG053 - 054 和反馈状态**。- Ling 1/27 😘 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
@@ -29,8 +29,8 @@
 
 | 编号 (点击跳转) |                             问题                             |       状态       |
 | :-------------: | :----------------------------------------------------------: | :--------------: |
-| [LG053](#LG053) |                                                              |     正在调查     |
-| [LG054](#LG054) |                                                              |     正在调查     |
+| [LG053](#LG053) |              使用多显示器时，屏幕可能出现冻结。              |     正在调查     |
+| [LG054](#LG054) |   Microsoft Store 中的部分视频流媒体应用可能无法正常播放。   |     正在调查     |
 | [LG002](#LG002) |                部分热门游戏可能无法正常运行。                | 需要更多详细信息 |
 | [LG004](#LG004) |            打开打印队列时提示 “找不到应用程序”。             |     正在处理     |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |      **——**      |
@@ -100,17 +100,18 @@ Microsoft 官方回复 (如果有)：xxxxx
 
 <SPAN ID = 'LG053'/>编号：LG053  
 版本：Canary 26040  
-**问题**：**xxxxx**  
+**问题**：**使用多显示器时，屏幕可能出现冻结**。  
 状态：<img src="Images/L.png" width = "10%" />  
-Microsoft 官方回复：xxxxx
+Microsoft 官方回复：“如果遇到此问题，请按下 CTRL + WIN + Shift + B 快捷键重启 DWM。” *(Ling 译)*  
+<img src="Images/M.png" width = "15%" />
 
 ---
 
 <SPAN ID = 'LG054'/>编号：LG054  
 版本：Canary 26040  
-**问题**：**xxxxx**  
+**问题**：**Microsoft Store 中的部分视频流媒体应用可能无法正常播放**。  
 状态：<img src="Images/L.png" width = "10%" />  
-Microsoft 官方回复：xxxxx
+Microsoft 官方回复：“请暂时使用浏览器播放视频，作为一种变通方案。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
 
 ---
 
@@ -118,7 +119,8 @@ Microsoft 官方回复：xxxxx
 版本：Canary 25951 - 26040  
 **问题**：**部分热门游戏可能无法正常运行**。  
 状态：<img src="Images/I.png" width = "17%" />  
-Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多个错误的影响。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
+Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多个错误的影响。从 Build 26040 开始，部分游戏可能导致电脑绿屏。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)*  
+<img src="Images/M.png" width = "15%" />
 
 ---
 
