@@ -17,7 +17,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 1 月 27 日 12:00 (UTC+8)。记录的反馈数量：53，访问次数：490+
+&emsp;&emsp;上次更新时间：2024 年 1 月 27 日 13:00 (UTC+8)。记录的反馈数量：53，访问次数：500+
 
 &emsp;&emsp;中心更新目录：今日更新反馈状态。- Ling 1/27 😗 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
@@ -55,13 +55,13 @@
 | [LG033](#LG033) | “阿凡达：潘多拉边境” (Avatar Frontiers of Pandora) 游戏崩溃。 |     正在调查     |
 | [LG034](#LG034) |          Grand Theft Auto V (GTA 5) 游戏无法运行。           |     正在调查     |
 | [LG035](#LG035) |  极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃。  |     正在调查     |
-| [LG036](#LG036) |      任务栏自动隐藏后，鼠标悬停在托盘区域无法将其激活。      |     正在处理     |
+|                 |                                                              |                  |
 | [LG037](#LG037) |    显示 WDAG (Edge) - Container: Error: 0x80004005 错误。    |     正在处理     |
-| [LG039](#LG039) |               Copilot (预览版) 可能无法启动。                |     正在调查     |
+|                 |                                                              |                  |
 | [LG040](#LG040) |    文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效。    |     正在调查     |
-| [LG041](#LG041) |                   SurfShark VPN 停止工作。                   |     正在调查     |
-| [LG042](#LG042) |             自动 HDR 功能在游戏过程中意外关闭。              | 需要更多详细信息 |
-| [LG043](#LG043) |    Copilot 无法与其他窗口正确重叠 / 显示在其他窗口后方。     |     正在调查     |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
 | [LG044](#LG044) |  将鼠标悬停在 Copilot 图标上时，单词错误地拼写为 Co-pilot。  |     正在调查     |
 | [LG045](#LG045) |                        共享窗口崩溃。                        |     正在处理     |
 | [LG046](#LG046) |           远程桌面显示 0x3 错误 / 0x11 扩展错误。            |     正在调查     |
@@ -93,6 +93,11 @@
 | [LG027](#LG027) | 打开 “设置”>“Windows 更新” 页面一段时间后设置菜单随机崩溃。  |     已修复 ✓     |
 | [LG029](#LG029) |                桌面背景变黑 / 桌面图标消失。                 |     已修复 ✓     |
 | [LG032](#LG032) | 连接 Citrix Desktop Viewer (CDViewer.exe) 几秒钟后，USER32.dll 崩溃。 |     已修复 ✓     |
+| [LG036](#LG036) |      任务栏自动隐藏后，鼠标悬停在托盘区域无法将其激活。      |     已修复 ✓     |
+| [LG039](#LG039) |               Copilot (预览版) 可能无法启动。                |     已修复 ✓     |
+| [LG041](#LG041) |                   SurfShark VPN 停止工作。                   |     已修复 ✓     |
+| [LG042](#LG042) |             自动 HDR 功能在游戏过程中意外关闭。              |     已修复 ✓     |
+| [LG043](#LG043) |    Copilot 无法与其他窗口正确重叠 / 显示在其他窗口后方。     |     已修复 ✓     |
 |                 |                                                              |                  |
 |                 |                                                              |                  |
 |                 |                                                              |                  |
@@ -258,7 +263,7 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG033'/>编号：LG033  
-版本：Canary 26016 - 26020  
+版本：Canary 26016 - 26040  
 **问题**：**“阿凡达：潘多拉边境” (Avatar Frontiers of Pandora) 游戏崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoa2ag](https://aka.ms/AAoa2ag)
@@ -266,7 +271,7 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG034'/>编号：LG034  
-版本：Canary 26016 - 26020  
+版本：Canary 26016 - 26040  
 **问题**：**Grand Theft Auto V (GTA 5) 游戏无法运行**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo9e71](https://aka.ms/AAo9e71)
@@ -274,26 +279,15 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG035'/>编号：LG035  
-版本：Canary 26016 - 26020  
+版本：Canary 26016 - 26040  
 **问题**：**极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo9e77](https://aka.ms/AAo9e77)
 
 ---
 
-<SPAN ID = 'LG036'/>编号：LG036  
-版本：Canary 26002 - 26020  
-**问题**：**任务栏自动隐藏后，鼠标悬停在托盘区域无法将其激活**。  
-状态：<img src="Images/W.png" width = "10%" />  
-Microsoft 官方回复：“我们已经找出问题所在，正在修复中。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAo9oc7](https://aka.ms/AAo9oc7)
-
-<img src="Images/LG036.png" width = "50%" />
-
----
-
 <SPAN ID = 'LG037'/>编号：LG037  
-版本：Canary 25997 - 26020  
+版本：Canary 25997 - 26040  
 **问题**：**显示 WDAG (Edge) - Container: Error: 0x80004005 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
@@ -301,49 +295,13 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 
 ---
 
-<SPAN ID = 'LG039'/>编号：LG039  
-版本：Canary 26016 - 26020  
-**问题**：**Copilot (预览版) 可能无法启动**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAoan4g](https://aka.ms/AAoan4g)
-
-<img src="Images/LG039.png" width = "50%" />
-
----
-
 <SPAN ID = 'LG040'/>编号：LG040  
-版本：未知 - Canary 26020  
+版本：未知 - Canary 26040  
 **问题**：**文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoawwk](https://aka.ms/AAoawwk)
 
 <img src="Images/LG040.png" width = "30%" />
-
----
-
-<SPAN ID = 'LG041'/>编号：LG041  
-版本：Canary 26016 - 26020  
-**问题**：**SurfShark VPN 停止工作**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAobhcg](https://aka.ms/AAobhcg)
-
----
-
-<SPAN ID = 'LG042'/>编号：LG042  
-版本：未知 - Canary 26020  
-**问题**：**自动 HDR 功能在游戏过程中意外关闭**。  
-状态：<img src="Images/I.png" width = "17%" />  
-Microsoft 官方回复：“我们需要更多细节。请在反馈中心使用 ‘重现问题’ 功能，向我们发送日志。” *(Ling 译)*  
-<img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAo77ve](https://aka.ms/AAo77ve)
-
----
-
-<SPAN ID = 'LG043'/>编号：LG043  
-版本：Canary 26020  
-**问题**：**Copilot 无法与其他窗口正确重叠 / 显示在其他窗口后方**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAoi08a](https://aka.ms/AAoi08a)
 
 ---
 
@@ -499,6 +457,53 @@ Microsoft 官方回复：“此问题似乎与部分壁纸软件或桌面个性�
 **问题**：**连接 Citrix Desktop Viewer (CDViewer.exe) 几秒钟后，USER32.dll 崩溃**。  
 状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAoa2a8](https://aka.ms/AAoa2a8)
+
+---
+
+<SPAN ID = 'LG036'/>编号：LG036  
+版本：Canary 26002 - 26020  
+**问题**：**任务栏自动隐藏后，鼠标悬停在托盘区域无法将其激活**。  
+状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“我们已经找出问题所在，正在修复中。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAo9oc7](https://aka.ms/AAo9oc7)
+
+<img src="Images/LG036.png" width = "50%" />
+
+---
+
+<SPAN ID = 'LG039'/>编号：LG039  
+版本：Canary 26016 - 26020  
+**问题**：**Copilot (预览版) 可能无法启动**。  
+状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAoan4g](https://aka.ms/AAoan4g)
+
+<img src="Images/LG039.png" width = "50%" />
+
+---
+
+<SPAN ID = 'LG041'/>编号：LG041  
+版本：Canary 26016 - 26020  
+**问题**：**SurfShark VPN 停止工作**。  
+状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAobhcg](https://aka.ms/AAobhcg)
+
+---
+
+<SPAN ID = 'LG042'/>编号：LG042  
+版本：未知 - Canary 26020  
+**问题**：**自动 HDR 功能在游戏过程中意外关闭**。  
+状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“我们需要更多细节。请在反馈中心使用 ‘重现问题’ 功能，向我们发送日志。” *(Ling 译)*  
+<img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAo77ve](https://aka.ms/AAo77ve)
+
+---
+
+<SPAN ID = 'LG043'/>编号：LG043  
+版本：Canary 26020  
+**问题**：**Copilot 无法与其他窗口正确重叠 / 显示在其他窗口后方**。  
+状态：Canary 26040 - <img src="C:/Users/hnist/Desktop/LGHUB/Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAoi08a](https://aka.ms/AAoi08a)
 
 ---
 
