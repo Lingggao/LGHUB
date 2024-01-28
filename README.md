@@ -17,9 +17,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 1 月 27 日 13:00 (UTC+8)。记录的反馈数量：55，访问次数：530+
+&emsp;&emsp;上次更新时间：2024 年 1 月 27 日 13:00 (UTC+8)。记录的反馈数量：55，访问次数：550+
 
-&emsp;&emsp;中心更新目录：**今日更新 LG053 - 054 和反馈状态**。- Ling 1/27 😘 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
+&emsp;&emsp;中心更新目录：今日无更新。- Ling 1/28 😊 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
 |  频道  |  最新版本  |   时间    |                         公告                         |
 | :----: | :--------: | :-------: | :--------------------------------------------------: |
@@ -348,7 +348,9 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 
 ## ✦ Canary - 归档 (已做出更改 >14 天) ✦
 
-&emsp;&emsp;记录 Microsoft 已做出更改 14 - 28 天的问题。无特殊情况，问题归档后不再更新。
+&emsp;&emsp;记录 Microsoft 已做出更改 14 - 28 天的问题 & 超过 30 日无新增赞成票的问题。
+
+&emsp;&emsp;无特殊情况，问题归档后不再更新。
 
 ---
 
