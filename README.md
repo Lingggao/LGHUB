@@ -17,15 +17,15 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 1 月 29 日 15:00 (UTC+8)。记录的反馈数量：56，访问次数：570+
+&emsp;&emsp;上次更新时间：2024 年 2 月 2 日 19:00 (UTC+8)。记录的反馈数量：65，访问次数：610+
 
-&emsp;&emsp;中心更新目录：**今日更新 LG055**。- Ling 1/29 😊 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
+&emsp;&emsp;中心更新目录：**今日更新 LG056 - 064**。- Ling 2/2 😀 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
-|  频道  |  最新版本  |   时间    |                         公告                         |
-| :----: | :--------: | :-------: | :--------------------------------------------------: |
-| Canary |   26040    | 2024/1/27 |      [aka.ms/wip26040](https://aka.ms/wip26040)      |
-|  Dev   |   23620    | 2024/1/26 |      [aka.ms/wip23620](https://aka.ms/wip23620)      |
-|  Beta  | 22635.3130 | 2024/1/26 | [aka.ms/wip-beta-1-25](https://aka.ms/wip-beta-1-25) |
+|  频道  |  最新版本  |   时间    |                        公告                        |
+| :----: | :--------: | :-------: | :------------------------------------------------: |
+| Canary |   26040    | 2024/1/27 |     [aka.ms/wip26040](https://aka.ms/wip26040)     |
+|  Dev   |   23620    | 2024/1/26 |     [aka.ms/wip23620](https://aka.ms/wip23620)     |
+|  Beta  | 22635.3139 | 2024/2/2  | [aka.ms/wip-beta-2-1](https://aka.ms/wip-beta-2-1) |
 
 | 编号 (点击跳转) |                             问题                             |       状态       |
 | :-------------: | :----------------------------------------------------------: | :--------------: |
@@ -58,6 +58,15 @@
 | [LG049](#LG049) |  事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)。   |     正在调查     |
 | [LG050](#LG050) |          启动 Print Spooler 服务时显示错误 / 崩溃。          |     正在调查     |
 | [LG055](#LG055) |              隐藏 “购物” 等小组件后其再次出现。              |     正在调查     |
+| [LG056](#LG056) |           **显示器黑屏 / 电脑无法从睡眠中唤醒**。            |     正在处理     |
+| [LG057](#LG057) |            **战眼 (BattlEye) 反作弊系统不兼容**。            |     正在调查     |
+| [LG058](#LG058) | **在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误**。 |     正在调查     |
+| [LG059](#LG059) |             **罗布乐思 (Roblox) 无法正常运行**。             |     正在调查     |
+| [LG060](#LG060) |          **堡垒之夜 (Fortnite) 游戏无法正常运行**。          |     正在调查     |
+| [LG061](#LG061) |                  **EA 反作弊系统不兼容**。                   |     正在调查     |
+| [LG062](#LG062) |  **彩虹六号：围攻 (Rainbow Six Siege) 游戏无法正常运行**。   |     正在调查     |
+| [LG063](#LG063) |            **绝地求生 (PUBG) 游戏无法正常运行**。            |     正在调查     |
+| [LG064](#LG064) | **全新安装 Windows 11 时，系统生成 Windows.old 空文件夹**。  |     正在调查     |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 14 - 28 天)**](#2) |      **——**      |
 | [LG001](#LG001) |            可能无法打开设置菜单 / 设置菜单崩溃。             |     已修复 ✓     |
 | [LG010](#LG010) |              任务栏 “快速设置” 中滑块颜色异常。              |     已修复 ✓     |
@@ -350,6 +359,79 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 典型反馈：[aka.ms/AAotzrh](https://aka.ms/AAotzrh)
 
 <img src="Images/LG055.png" width = "35%" />
+
+---
+
+<SPAN ID = 'LG056'/>编号：LG056  
+版本：Canary 26040  
+**问题**：**显示器黑屏 / 电脑无法从睡眠中唤醒**。  
+状态：<img src="Images/W.png" width = "10%" />  
+Microsoft 官方回复：“如果您遇到了这种情况，请尝试按下键盘快捷键 WIN + CTRL + Shift + B，看看能否解决问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAovgp0](https://aka.ms/AAovgp0)
+
+---
+
+<SPAN ID = 'LG057'/>编号：LG057  
+版本：Canary 26040  
+**问题**：**战眼 (BattlEye) 反作弊系统不兼容**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAox7us](https://aka.ms/AAox7us)
+
+---
+
+<SPAN ID = 'LG058'/>编号：LG058  
+版本：Canary 26040  
+**问题**：**在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAov9fo](https://aka.ms/AAov9fo)
+
+---
+
+<SPAN ID = 'LG059'/>编号：LG059  
+版本：Canary 26040  
+**问题**：**罗布乐思 (Roblox) 无法正常运行**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAovw5h](https://aka.ms/AAovw5h)
+
+---
+
+<SPAN ID = 'LG060'/>编号：LG060  
+版本：Canary 26040  
+**问题**：**堡垒之夜 (Fortnite) 游戏无法正常运行**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAow3xj](https://aka.ms/AAow3xj)
+
+---
+
+<SPAN ID = 'LG061'/>编号：LG061  
+版本：Canary 26040  
+**问题**：**EA 反作弊系统不兼容**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAox7vk](https://aka.ms/AAox7vk)
+
+---
+
+<SPAN ID = 'LG062'/>编号：LG062  
+版本：Canary 26040  
+**问题**：**彩虹六号：围攻 (Rainbow Six Siege) 游戏无法正常运行**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAow3xx](https://aka.ms/AAow3xx)
+
+---
+
+<SPAN ID = 'LG063'/>编号：LG063  
+版本：Canary 26040  
+**问题**：**绝地求生 (PUBG) 游戏无法正常运行**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAn5erb](https://aka.ms/AAn5erb)
+
+---
+
+<SPAN ID = 'LG064'/>编号：LG064  
+版本：Canary 26040  
+**问题**：**全新安装 Windows 11 时，系统生成 Windows.old 空文件夹**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAovgrv](https://aka.ms/AAovgrv)
 
 ---
 
