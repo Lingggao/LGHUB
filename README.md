@@ -17,9 +17,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 2 月 9 日 5:00 (UTC+8)。记录的反馈数量：66，访问次数：670+
+&emsp;&emsp;上次更新时间：2024 年 2 月 9 日 7:00 (UTC+8)。记录的反馈数量：66，访问次数：680+
 
-&emsp;&emsp;中心更新目录：**####**。- Ling 2/9 😀 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
+&emsp;&emsp;中心更新目录：**####**。- Ling 2/9 🎇 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
 |  频道  |    最新版本    |   时间   |                             公告                             |
 | :----: | :------------: | :------: | :----------------------------------------------------------: |
@@ -29,13 +29,12 @@
 
 | 编号 (点击跳转) |                             问题                             |       状态       |
 | :-------------: | :----------------------------------------------------------: | :--------------: |
-| [LG053](#LG053) |                使用多显示器时，屏幕可能冻结。                |     正在调查     |
-| [LG054](#LG054) |   Microsoft Store 中的部分视频流媒体应用可能无法正常播放。   |     正在调查     |
 | [LG002](#LG002) |                部分热门游戏可能无法正常运行。                | 需要更多详细信息 |
-| [LG004](#LG004) |            打开打印队列时提示 “找不到应用程序”。             |     正在处理     |
+| [LG054](#LG054) |   Microsoft Store 中的部分视频流媒体应用可能无法正常播放。   |     正在调查     |
+| [LG056](#LG056) |             显示器黑屏 / 电脑无法从睡眠中唤醒。              |     正在处理     |
+|                 |                                                              |                  |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |      **——**      |
 | [LG007](#LG007) |            切换桌面时任务栏应用图标可能随机消失。            |     正在调查     |
-| [LG008](#LG008) |        “Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃。         |     正在调查     |
 | [LG013](#LG013) |           “设置”>“应用”>“启动” 页面中的图标异常。            |     正在调查     |
 | [LG015](#LG015) |      在文件资源管理器中按下两次 F11 后地址栏将被冻结。       |     正在调查     |
 | [LG018](#LG018) | Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误。 |     正在处理     |
@@ -58,7 +57,6 @@
 | [LG049](#LG049) |  事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)。   |     正在调查     |
 | [LG050](#LG050) |          启动 Print Spooler 服务时显示错误 / 崩溃。          |     正在调查     |
 | [LG055](#LG055) |              隐藏 “购物” 等小组件后其再次出现。              |     正在调查     |
-| [LG056](#LG056) |             显示器黑屏 / 电脑无法从睡眠中唤醒。              |     正在处理     |
 | [LG057](#LG057) |              战眼 (BattlEye) 反作弊系统不兼容。              |     正在调查     |
 | [LG058](#LG058) | 在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误。 |     正在调查     |
 | [LG059](#LG059) |               罗布乐思 (Roblox) 无法正常运行。               |     正在调查     |
@@ -67,8 +65,13 @@
 | [LG062](#LG062) |    彩虹六号：围攻 (Rainbow Six Siege) 游戏无法正常运行。     |     正在调查     |
 | [LG063](#LG063) |              绝地求生 (PUBG) 游戏无法正常运行。              |     正在调查     |
 | [LG064](#LG064) |   全新安装 Windows 11 时，系统生成 Windows.old 空文件夹。    |     正在调查     |
-| [LG065](#LG065) |            **使用浏览器观看视频时屏幕可能冻结**。            |     正在处理     |
+| [LG065](#LG065) |              使用浏览器观看视频时屏幕可能冻结。              |     正在处理     |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 14 - 28 天)**](#2) |      **——**      |
+| [LG053](#LG053) |                使用多显示器时，屏幕可能冻结。                |     已修复 ✓     |
+| [LG004](#LG004) |            打开打印队列时提示 “找不到应用程序”。             |     已修复 ✓     |
+| [LG008](#LG008) |        “Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃。         |     已修复 ✓     |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
 |                 |                                                              |                  |
 |                 |                                                              |                  |
 |                 |                                                              |                  |
@@ -98,11 +101,11 @@ Microsoft 官方回复 (如果有)：xxxxx
 
 ---
 
-<SPAN ID = 'LG053'/>编号：LG053  
-版本：Canary 26040  
-**问题**：**使用多显示器时，屏幕可能冻结**。  
-状态：<img src="Images/L.png" width = "10%" />  
-Microsoft 官方回复：“如果遇到此问题，请按下 CTRL + WIN + Shift + B 快捷键重启 DWM。” *(Ling 译)*  
+<SPAN ID = 'LG002'/>编号：LG002  
+版本：Canary 25951 - 26040  
+**问题**：**部分热门游戏可能无法正常运行**。  
+状态：<img src="Images/I.png" width = "17%" />  
+Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多个错误的影响。从 Build 26040 开始，部分游戏可能导致电脑绿屏。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)*  
 <img src="Images/M.png" width = "15%" />
 
 ---
@@ -115,21 +118,16 @@ Microsoft 官方回复：“请暂时使用浏览器播放视频，作为一种�
 
 ---
 
-<SPAN ID = 'LG002'/>编号：LG002  
-版本：Canary 25951 - 26040  
-**问题**：**部分热门游戏可能无法正常运行**。  
-状态：<img src="Images/I.png" width = "17%" />  
-Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多个错误的影响。从 Build 26040 开始，部分游戏可能导致电脑绿屏。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)*  
-<img src="Images/M.png" width = "15%" />
+<SPAN ID = 'LG056'/>编号：LG056  
+版本：Canary 26040  
+**问题**：**显示器黑屏 / 电脑无法从睡眠中唤醒**。  
+状态：<img src="Images/W.png" width = "10%" />  
+Microsoft 官方回复：“如果您遇到了这种情况，请尝试按下键盘快捷键 WIN + CTRL + Shift + B，看看能否解决问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAovgp0](https://aka.ms/AAovgp0)
 
 ---
 
-<SPAN ID = 'LG004'/>编号：LG004  
-版本：Canary 26010 - 26040  
-**问题**：**打开打印队列时提示 “找不到应用程序”**。  
-状态：<img src="Images/W.png" width = "10%" />  
-Microsoft 官方回复：“我们已经找出问题所在，正在修复中。您可以复制 explorer.exe shell:appsFolder\Microsoft.Windows.PrintQueueActionCenter_cw5n1h2txyewy!App 到运行窗口 (WIN + R 快捷键) 打开打印队列，作为一种变通方案。” *(Caozhi Li 线索，Ling 译)* <img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAod17l](https://aka.ms/AAod17l)
+//
 
 ---
 
@@ -152,14 +150,6 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 典型反馈：[aka.ms/AAo73ko](https://aka.ms/AAo73ko)
 
 <img src="Images/LG007.png" width = "50%" />
-
----
-
-<SPAN ID = 'LG008'/>编号：LG008  
-版本：Canary 26002 - 26040  
-**问题**：**“Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAnwevt](https://aka.ms/AAnwevt)
 
 ---
 
@@ -352,15 +342,6 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 
 ---
 
-<SPAN ID = 'LG056'/>编号：LG056  
-版本：Canary 26040  
-**问题**：**显示器黑屏 / 电脑无法从睡眠中唤醒**。  
-状态：<img src="Images/W.png" width = "10%" />  
-Microsoft 官方回复：“如果您遇到了这种情况，请尝试按下键盘快捷键 WIN + CTRL + Shift + B，看看能否解决问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAovgp0](https://aka.ms/AAovgp0)
-
----
-
 <SPAN ID = 'LG057'/>编号：LG057  
 版本：Canary 26040  
 **问题**：**战眼 (BattlEye) 反作弊系统不兼容**。  
@@ -445,7 +426,29 @@ Microsoft 官方回复：“如果您遇到了这种情况，请尝试按下键�
 
 ---
 
-//
+<SPAN ID = 'LG053'/>编号：LG053  
+版本：Canary 26040  
+**问题**：**使用多显示器时，屏幕可能冻结**。  
+状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“如果遇到此问题，请按下 CTRL + WIN + Shift + B 快捷键重启 DWM。” *(Ling 译)*  
+<img src="Images/M.png" width = "15%" />
+
+---
+
+<SPAN ID = 'LG004'/>编号：LG004  
+版本：Canary 26010 - 26040  
+**问题**：**打开打印队列时提示 “找不到应用程序”**。  
+状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“我们已经找出问题所在，正在修复中。您可以复制 explorer.exe shell:appsFolder\Microsoft.Windows.PrintQueueActionCenter_cw5n1h2txyewy!App 到运行窗口 (WIN + R 快捷键) 打开打印队列，作为一种变通方案。” *(Caozhi Li 线索，Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAod17l](https://aka.ms/AAod17l)
+
+---
+
+<SPAN ID = 'LG008'/>编号：LG008  
+版本：Canary 26002 - 26040  
+**问题**：**“Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃**。  
+状态：Wallpaper Engine Beta - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAnwevt](https://aka.ms/AAnwevt)
 
 ---
 
