@@ -19,20 +19,19 @@
 
 &emsp;&emsp;上次更新时间：2024 年 2 月 9 日 7:00 (UTC+8)。记录的反馈数量：66，访问次数：680+
 
-&emsp;&emsp;中心更新目录：**####**。- Ling 2/9 🎇 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
+&emsp;&emsp;中心更新目录：**祝大家身体健康、工作顺利、阖家幸福、龙年吉祥！**- Ling 2/9 🐉 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
-|  频道  |    最新版本    |   时间   |                             公告                             |
-| :----: | :------------: | :------: | :----------------------------------------------------------: |
-| Canary |   **26052**    | 2024/2/9 | [aka.ms/wip26052](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-26052-canary-and-dev-channels) |
-|  Dev   |   **26052**    | 2024/2/9 | [aka.ms/wip26052](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-26052-canary-and-dev-channels) |
-|  Beta  | **22635.3140** | 2024/2/9 | [aka.ms/wip-beta-2-8](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-22635-3140-beta-channel) |
+|     频道     |      最新版本       |   时间   |                             公告                             |
+| :----------: | :-----------------: | :------: | :----------------------------------------------------------: |
+| Canary & Dev |   [新] **26052**    | 2024/2/9 | [aka.ms/wip26052](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-26052-canary-and-dev-channels) |
+|     Beta     | [新] **22635.3140** | 2024/2/9 | [aka.ms/wip-beta-2-8](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-22635-3140-beta-channel) |
 
 | 编号 (点击跳转) |                             问题                             |       状态       |
 | :-------------: | :----------------------------------------------------------: | :--------------: |
 | [LG002](#LG002) |                部分热门游戏可能无法正常运行。                | 需要更多详细信息 |
-| [LG054](#LG054) |   Microsoft Store 中的部分视频流媒体应用可能无法正常播放。   |     正在调查     |
+| [LG054](#LG054) |   Microsoft Store 中的部分视频流媒体应用可能无法正常播放。   |     正在处理     |
 | [LG056](#LG056) |             显示器黑屏 / 电脑无法从睡眠中唤醒。              |     正在处理     |
-|                 |                                                              |                  |
+| [LG066](#LG066) | 设置 > 系统 > 屏幕 > 显示卡位置出现 “显示连接” 选项，点击时菜单崩溃。 |     正在处理     |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |      **——**      |
 | [LG013](#LG013) |           “设置”>“应用”>“启动” 页面中的图标异常。            |     正在调查     |
 | [LG015](#LG015) |      在文件资源管理器中按下两次 F11 后地址栏将被冻结。       |     正在调查     |
@@ -61,6 +60,7 @@
 | [LG064](#LG064) |   全新安装 Windows 11 时，系统生成 Windows.old 空文件夹。    |     正在调查     |
 | [LG065](#LG065) |              使用浏览器观看视频时屏幕可能冻结。              |     正在处理     |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 14 - 28 天)**](#2) |      **——**      |
+| [LG067](#LG067) |       设置 > 个性化 > 任务栏位置的 Copilot 图标偏黄。        |     已修复 ✓     |
 | [LG053](#LG053) |                使用多显示器时，屏幕可能冻结。                |     已修复 ✓     |
 | [LG004](#LG004) |            打开打印队列时提示 “找不到应用程序”。             |     已修复 ✓     |
 | [LG008](#LG008) |        “Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃。         |     已修复 ✓     |
@@ -70,7 +70,6 @@
 | [LG047](#LG047) |         运行 WinSCP 时电脑出现 win32kbase.sys 绿屏。         |     已修复 ✓     |
 | [LG048](#LG048) | 极限竞速：地平线 5 (Forza Horizon 5) 游戏停止运行，显示 0xc0000005 错误。 |     已修复 ✓     |
 | [LG050](#LG050) |          启动 Print Spooler 服务时显示错误 / 崩溃。          |     已修复 ✓     |
-|                 |                                                              |                  |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |      **——**      |
 
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
@@ -107,7 +106,7 @@ Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多
 <SPAN ID = 'LG054'/>编号：LG054  
 版本：Canary 26040 - 26052  
 **问题**：**Microsoft Store 中的部分视频流媒体应用可能无法正常播放**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“请暂时使用浏览器播放视频，作为一种变通方案。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
 
 ---
@@ -123,11 +122,11 @@ Microsoft 官方回复：“如果您遇到了这种情况，请尝试按下键�
 
 <SPAN ID = 'LG066'/>编号：LG066  
 版本：Canary 26052  
-**问题**：**设置 > 系统 > 屏幕 > 显示卡路径出现 “显示连接” 选项，点击时菜单崩溃**。  
+**问题**：**设置 > 系统 > 屏幕 > 显示卡位置出现 “显示连接” 选项，点击时菜单崩溃**。  
 状态：<img src="Images/W.png" width = "10%" />  
-Microsoft 官方回复：“。” *(Ling 译)*
+Microsoft 官方回复：“此选项将在未来的版本中移除。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
 
-
+<img src="Images/LG066.png" width = "50%" />
 
 ---
 
@@ -371,6 +370,14 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 &emsp;&emsp;记录 Microsoft 已做出更改 14 - 28 天的问题 & 超过 30 日无新增赞成票的问题。
 
 &emsp;&emsp;无特殊情况，问题归档后不再更新。
+
+---
+
+<SPAN ID = 'LG067'/>编号：LG067  
+版本：Canary 26040  
+**问题**：**设置 > 个性化 > 任务栏位置的 Copilot 图标偏黄**。  
+状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAou9q9](https://aka.ms/AAou9q9)
 
 ---
 
