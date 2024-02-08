@@ -19,7 +19,7 @@
 
 &emsp;&emsp;上次更新时间：2024 年 2 月 9 日 7:00 (UTC+8)。记录的反馈数量：66，访问次数：680+
 
-&emsp;&emsp;中心更新目录：**祝大家身体健康、工作顺利、阖家幸福、龙年吉祥！**- Ling 2/9 🐉 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图]()
+&emsp;&emsp;中心更新目录：**祝大家身体健康、工作顺利、阖家幸福、龙年吉祥！**- Ling 2/9 🐉 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [获取已修复图]()
 
 |     频道     |      最新版本       |   时间   |                             公告                             |
 | :----------: | :-----------------: | :------: | :----------------------------------------------------------: |
