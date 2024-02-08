@@ -17,15 +17,15 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 2 月 4 日 19:00 (UTC+8)。记录的反馈数量：66，访问次数：650+
+&emsp;&emsp;上次更新时间：2024 年 2 月 9 日 5:00 (UTC+8)。记录的反馈数量：66，访问次数：670+
 
-&emsp;&emsp;中心更新目录：**今日更新 LG065**。- Ling 2/4 😀 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
+&emsp;&emsp;中心更新目录：**####**。- Ling 2/9 😀 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png)
 
-|  频道  |  最新版本  |   时间    |                        公告                        |
-| :----: | :--------: | :-------: | :------------------------------------------------: |
-| Canary |   26040    | 2024/1/27 |     [aka.ms/wip26040](https://aka.ms/wip26040)     |
-|  Dev   |   23620    | 2024/1/26 |     [aka.ms/wip23620](https://aka.ms/wip23620)     |
-|  Beta  | 22635.3139 | 2024/2/2  | [aka.ms/wip-beta-2-1](https://aka.ms/wip-beta-2-1) |
+|  频道  |    最新版本    |   时间   |                             公告                             |
+| :----: | :------------: | :------: | :----------------------------------------------------------: |
+| Canary |   **26052**    | 2024/2/9 | [aka.ms/wip26052](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-26052-canary-and-dev-channels) |
+|  Dev   |   **26052**    | 2024/2/9 | [aka.ms/wip26052](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-26052-canary-and-dev-channels) |
+|  Beta  | **22635.3140** | 2024/2/9 | [aka.ms/wip-beta-2-8](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-22635-3140-beta-channel) |
 
 | 编号 (点击跳转) |                             问题                             |       状态       |
 | :-------------: | :----------------------------------------------------------: | :--------------: |
@@ -69,22 +69,11 @@
 | [LG064](#LG064) |   全新安装 Windows 11 时，系统生成 Windows.old 空文件夹。    |     正在调查     |
 | [LG065](#LG065) |            **使用浏览器观看视频时屏幕可能冻结**。            |     正在处理     |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 14 - 28 天)**](#2) |      **——**      |
-| [LG001](#LG001) |            可能无法打开设置菜单 / 设置菜单崩溃。             |     已修复 ✓     |
-| [LG010](#LG010) |              任务栏 “快速设置” 中滑块颜色异常。              |     已修复 ✓     |
-| [LG020](#LG020) |          部分游戏无法识别 Xbox 控制器 (手柄) 输入。          |     已修复 ✓     |
-| [LG025](#LG025) |                   关闭电脑时电脑重新启动。                   |     已修复 ✓     |
-| [LG026](#LG026) |                无法在 Microsoft Edge 中打印。                |     已修复 ✓     |
-| [LG027](#LG027) | 打开 “设置”>“Windows 更新” 页面一段时间后设置菜单随机崩溃。  |     已修复 ✓     |
-| [LG029](#LG029) |                桌面背景变黑 / 桌面图标消失。                 |     已修复 ✓     |
-| [LG032](#LG032) | 连接 Citrix Desktop Viewer (CDViewer.exe) 几秒钟后，USER32.dll 崩溃。 |     已修复 ✓     |
-| [LG036](#LG036) |      任务栏自动隐藏后，鼠标悬停在托盘区域无法将其激活。      |     已修复 ✓     |
-| [LG039](#LG039) |               Copilot (预览版) 可能无法启动。                |     已修复 ✓     |
-| [LG041](#LG041) |                   SurfShark VPN 停止工作。                   |     已修复 ✓     |
-| [LG042](#LG042) |             自动 HDR 功能在游戏过程中意外关闭。              |     已修复 ✓     |
-| [LG043](#LG043) |    Copilot 无法与其他窗口正确重叠 / 显示在其他窗口后方。     |     已修复 ✓     |
-| [LG044](#LG044) |  将鼠标悬停在 Copilot 图标上时，单词错误地拼写为 Co-pilot。  |     已修复 ✓     |
-| [LG051](#LG051) | Windows 更新菜单 “使用时段” 中显示的时间与选择的时间不一致。 |     已修复 ✓     |
-| [LG052](#LG052) |    锁屏界面 Windows 聚焦随机显示其他语言的内容 (如泰文)。    |     已修复 ✓     |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |      **——**      |
 
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
@@ -456,147 +445,7 @@ Microsoft 官方回复：“如果您遇到了这种情况，请尝试按下键�
 
 ---
 
-<SPAN ID = 'LG001'/>编号：LG001  
-版本：Canary 26010 - 26020  
-**问题**：**可能无法打开设置菜单 / 设置菜单崩溃**。  
-状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-Microsoft 官方回复：“我们正在调查导致部分 Insiders 无法打开 ‘设置’ 菜单的问题。如果您正在受此影响，请查看下面的社区话题了解解决方案。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
-
-[临时解决方案](https://aka.ms/26010SettingsCrash) *(Jason Howard 整理)*
-
----
-
-<SPAN ID = 'LG010'/>编号：LG010  
-版本：Canary 26010 - 26020  
-**问题**：**任务栏 “快速设置” 中滑块颜色异常**。  
-状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAo74l5](https://aka.ms/AAo74l5)
-
-<img src="Images/LG010.png" width = "25%" />
-
----
-
-<SPAN ID = 'LG020'/>编号：LG020  
-版本：Canary 25982 - 26020  
-**问题**：**部分游戏无法识别 Xbox 控制器 (手柄) 输入**。  
-状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAny4gq](https://aka.ms/AAny4gq)
-
----
-
-<SPAN ID = 'LG025'/>编号：LG025  
-版本：未知 - Canary 26020  
-**问题**：**关闭电脑时电脑重新启动**。  
-状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAo6y4u](https://aka.ms/AAo6y4u)
-
----
-
-<SPAN ID = 'LG026'/>编号：LG026  
-版本：ALL  
-**问题**：**无法在 Microsoft Edge 中打印**。  
-状态：<img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-Microsoft 官方回复：“Edge 团队正在处理此事。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAo7djt](https://aka.ms/AAo7djt)
-
----
-
-<SPAN ID = 'LG027'/>编号：LG027  
-版本：Canary 26010 - 26020  
-**问题**：**打开 “设置”>“Windows 更新” 页面一段时间后设置菜单随机崩溃**。  
-状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAo6qvy](https://aka.ms/AAo6qvy)
-
----
-
-<SPAN ID = 'LG029'/>编号：LG029  
-版本：Canary 26002 - 26020  
-**问题**：**桌面背景变黑 / 桌面图标消失**。  
-状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-Microsoft 官方回复：“此问题似乎与部分壁纸软件或桌面个性化软件有关。在我们调查期间，您可能需要暂时关闭这类软件。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAo7kvj](https://aka.ms/AAo7kvj)
-
----
-
-<SPAN ID = 'LG032'/>编号：LG032  
-版本：Canary 26016 - 26020  
-**问题**：**连接 Citrix Desktop Viewer (CDViewer.exe) 几秒钟后，USER32.dll 崩溃**。  
-状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAoa2a8](https://aka.ms/AAoa2a8)
-
----
-
-<SPAN ID = 'LG036'/>编号：LG036  
-版本：Canary 26002 - 26020  
-**问题**：**任务栏自动隐藏后，鼠标悬停在托盘区域无法将其激活**。  
-状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-Microsoft 官方回复：“我们已经找出问题所在，正在修复中。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAo9oc7](https://aka.ms/AAo9oc7)
-
-<img src="Images/LG036.png" width = "50%" />
-
----
-
-<SPAN ID = 'LG039'/>编号：LG039  
-版本：Canary 26016 - 26020  
-**问题**：**Copilot (预览版) 可能无法启动**。  
-状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAoan4g](https://aka.ms/AAoan4g)
-
-<img src="Images/LG039.png" width = "50%" />
-
----
-
-<SPAN ID = 'LG041'/>编号：LG041  
-版本：Canary 26016 - 26020  
-**问题**：**SurfShark VPN 停止工作**。  
-状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAobhcg](https://aka.ms/AAobhcg)
-
----
-
-<SPAN ID = 'LG042'/>编号：LG042  
-版本：未知 - Canary 26020  
-**问题**：**自动 HDR 功能在游戏过程中意外关闭**。  
-状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-Microsoft 官方回复：“我们需要更多细节。请在反馈中心使用 ‘重现问题’ 功能，向我们发送日志。” *(Ling 译)*  
-<img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAo77ve](https://aka.ms/AAo77ve)
-
----
-
-<SPAN ID = 'LG043'/>编号：LG043  
-版本：Canary 26020  
-**问题**：**Copilot 无法与其他窗口正确重叠 / 显示在其他窗口后方**。  
-状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAoi08a](https://aka.ms/AAoi08a)
-
----
-
-<SPAN ID = 'LG044'/>编号：LG044  
-版本：Canary 26020  
-**问题**：**将鼠标悬停在 Copilot 图标上时，单词错误地拼写为 Co-pilot**。  
-状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAoi08e](https://aka.ms/AAoi08e)
-
----
-
-<SPAN ID = 'LG051'/>编号：LG051  
-版本：Canary 26016 - 26020  
-**问题**：**Windows 更新菜单 “使用时段” 中显示的时间与选择的时间不一致**。  
-状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAoj5el](https://aka.ms/AAoj5el)
-
-<img src="Images/LG051.png" width = "50%" />
-
----
-
-<SPAN ID = 'LG052'/>编号：LG052  
-版本：Canary 26020  
-**问题**：**锁屏界面 Windows 聚焦随机显示其他语言的内容 (如泰文)**。  
-状态：Canary 26040 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAopddk](https://aka.ms/AAopddk)
+//
 
 ---
 
