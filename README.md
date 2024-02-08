@@ -34,12 +34,10 @@
 | [LG056](#LG056) |             显示器黑屏 / 电脑无法从睡眠中唤醒。              |     正在处理     |
 |                 |                                                              |                  |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |      **——**      |
-| [LG007](#LG007) |            切换桌面时任务栏应用图标可能随机消失。            |     正在调查     |
 | [LG013](#LG013) |           “设置”>“应用”>“启动” 页面中的图标异常。            |     正在调查     |
 | [LG015](#LG015) |      在文件资源管理器中按下两次 F11 后地址栏将被冻结。       |     正在调查     |
 | [LG018](#LG018) | Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误。 |     正在处理     |
 | [LG019](#LG019) |            远程桌面显示 “图形组件无法启动” 错误。            |     正在处理     |
-| [LG021](#LG021) |      调节任务栏 “快速设置” 中的音量滑块时不再发出声音。      |     正在调查     |
 | [LG022](#LG022) |            Windows Sandbox 显示 0x80072746 错误。            |     正在处理     |
 | [LG024](#LG024) | Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误。 |     正在调查     |
 | [LG028](#LG028) | 文件资源管理器地址栏中图标和箭头间有一个缝隙，可能导致不小心切换为编辑模式。 |     正在调查     |
@@ -47,15 +45,11 @@
 | [LG031](#LG031) |    Microsoft Edge (正式版) “固定到任务栏” 功能可能失效。     |     正在调查     |
 | [LG033](#LG033) | “阿凡达：潘多拉边境” (Avatar Frontiers of Pandora) 游戏崩溃。 |     正在调查     |
 | [LG034](#LG034) |          Grand Theft Auto V (GTA 5) 游戏无法运行。           |     正在调查     |
-| [LG035](#LG035) |  极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃。  |     正在调查     |
 | [LG037](#LG037) |    显示 WDAG (Edge) - Container: Error: 0x80004005 错误。    |     正在处理     |
 | [LG040](#LG040) |    文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效。    |     正在调查     |
 | [LG045](#LG045) |                        共享窗口崩溃。                        |     正在处理     |
 | [LG046](#LG046) |           远程桌面显示 0x3 错误 / 0x11 扩展错误。            |     正在调查     |
-| [LG047](#LG047) |         运行 WinSCP 时电脑出现 win32kbase.sys 绿屏。         |     正在处理     |
-| [LG048](#LG048) | 极限竞速：地平线 5 (Forza Horizon 5) 游戏停止运行，显示 0xc0000005 错误。 |     正在调查     |
 | [LG049](#LG049) |  事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)。   |     正在调查     |
-| [LG050](#LG050) |          启动 Print Spooler 服务时显示错误 / 崩溃。          |     正在调查     |
 | [LG055](#LG055) |              隐藏 “购物” 等小组件后其再次出现。              |     正在调查     |
 | [LG057](#LG057) |              战眼 (BattlEye) 反作弊系统不兼容。              |     正在调查     |
 | [LG058](#LG058) | 在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误。 |     正在调查     |
@@ -70,12 +64,12 @@
 | [LG053](#LG053) |                使用多显示器时，屏幕可能冻结。                |     已修复 ✓     |
 | [LG004](#LG004) |            打开打印队列时提示 “找不到应用程序”。             |     已修复 ✓     |
 | [LG008](#LG008) |        “Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃。         |     已修复 ✓     |
-|                 |                                                              |                  |
-|                 |                                                              |                  |
-|                 |                                                              |                  |
-|                 |                                                              |                  |
-|                 |                                                              |                  |
-|                 |                                                              |                  |
+| [LG007](#LG007) |            切换桌面时任务栏应用图标可能随机消失。            |     已修复 ✓     |
+| [LG021](#LG021) |      调节任务栏 “快速设置” 中的音量滑块时不再发出声音。      |     已修复 ✓     |
+| [LG035](#LG035) |  极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃。  |     已修复 ✓     |
+| [LG047](#LG047) |         运行 WinSCP 时电脑出现 win32kbase.sys 绿屏。         |     已修复 ✓     |
+| [LG048](#LG048) | 极限竞速：地平线 5 (Forza Horizon 5) 游戏停止运行，显示 0xc0000005 错误。 |     已修复 ✓     |
+| [LG050](#LG050) |          启动 Print Spooler 服务时显示错误 / 崩溃。          |     已修复 ✓     |
 |                 |                                                              |                  |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |      **——**      |
 
@@ -102,7 +96,7 @@ Microsoft 官方回复 (如果有)：xxxxx
 ---
 
 <SPAN ID = 'LG002'/>编号：LG002  
-版本：Canary 25951 - 26040  
+版本：Canary 25951 - 26052  
 **问题**：**部分热门游戏可能无法正常运行**。  
 状态：<img src="Images/I.png" width = "17%" />  
 Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多个错误的影响。从 Build 26040 开始，部分游戏可能导致电脑绿屏。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)*  
@@ -111,7 +105,7 @@ Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多
 ---
 
 <SPAN ID = 'LG054'/>编号：LG054  
-版本：Canary 26040  
+版本：Canary 26040 - 26052  
 **问题**：**Microsoft Store 中的部分视频流媒体应用可能无法正常播放**。  
 状态：<img src="Images/L.png" width = "10%" />  
 Microsoft 官方回复：“请暂时使用浏览器播放视频，作为一种变通方案。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
@@ -119,7 +113,7 @@ Microsoft 官方回复：“请暂时使用浏览器播放视频，作为一种�
 ---
 
 <SPAN ID = 'LG056'/>编号：LG056  
-版本：Canary 26040  
+版本：Canary 26040 - 26052  
 **问题**：**显示器黑屏 / 电脑无法从睡眠中唤醒**。  
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“如果您遇到了这种情况，请尝试按下键盘快捷键 WIN + CTRL + Shift + B，看看能否解决问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
@@ -127,7 +121,13 @@ Microsoft 官方回复：“如果您遇到了这种情况，请尝试按下键�
 
 ---
 
-//
+<SPAN ID = 'LG066'/>编号：LG066  
+版本：Canary 26052  
+**问题**：**设置 > 系统 > 屏幕 > 显示卡路径出现 “显示连接” 选项，点击时菜单崩溃**。  
+状态：<img src="Images/W.png" width = "10%" />  
+Microsoft 官方回复：“。” *(Ling 译)*
+
+
 
 ---
 
@@ -141,20 +141,8 @@ Microsoft 官方回复：“如果您遇到了这种情况，请尝试按下键�
 
 ---
 
-<SPAN ID = 'LG007'/>编号：LG007  
-版本：ALL - Canary 26040  
-**问题**：**切换桌面时任务栏应用图标可能随机消失**。  
-状态：<img src="Images/L.png" width = "10%" />  
-Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正在持续调查有关此问题的报告。” *(Ling 译)*  
-<img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAo73ko](https://aka.ms/AAo73ko)
-
-<img src="Images/LG007.png" width = "50%" />
-
----
-
 <SPAN ID = 'LG013'/>编号：LG013  
-版本：Canary 26002 - 26040  
+版本：Canary 26002 - 26052  
 **问题**：**“设置”>“应用”>“启动” 页面中的图标异常**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo5wd6](https://aka.ms/AAo5wd6)
@@ -164,7 +152,7 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 ---
 
 <SPAN ID = 'LG015'/>编号：LG015  
-版本：Canary 25992 - 26040  
+版本：Canary 25992 - 26052  
 **问题**：**在文件资源管理器中按下两次 F11 后地址栏将被冻结**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAnkkd6](https://aka.ms/AAnkkd6)
@@ -172,7 +160,7 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 ---
 
 <SPAN ID = 'LG018'/>编号：LG018  
-版本：Canary 25987 - 26040  
+版本：Canary 25987 - 26052  
 **问题**：**Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAo7kst](https://aka.ms/AAo7kst)
@@ -180,23 +168,15 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 ---
 
 <SPAN ID = 'LG019'/>编号：LG019  
-版本：Canary 25997 - 26040  
+版本：Canary 25997 - 26052  
 **问题**：**远程桌面显示 “图形组件无法启动” 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAnyzb4](https://aka.ms/AAnyzb4)
 
 ---
 
-<SPAN ID = 'LG021'/>编号：LG021  
-版本：Canary 26002 - 26040  
-**问题**：**调节任务栏 “快速设置” 中的音量滑块时不再发出声音**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAo4oyt](https://aka.ms/AAo4oyt)
-
----
-
 <SPAN ID = 'LG022'/>编号：LG022  
-版本：Canary 25997 - 26040  
+版本：Canary 25997 - 26052  
 **问题**：**Windows Sandbox 显示 0x80072746 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAo6y4i](https://aka.ms/AAo6y4i)
@@ -204,7 +184,7 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 ---
 
 <SPAN ID = 'LG024'/>编号：LG024  
-版本：Canary 26002 - 26040  
+版本：Canary 26002 - 26052  
 **问题**：**Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo7div](https://aka.ms/AAo7div)
@@ -214,7 +194,7 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 ---
 
 <SPAN ID = 'LG028'/>编号：LG028  
-版本：未知 - Canary 26040  
+版本：未知 - Canary 26052  
 **问题**：**文件资源管理器地址栏中图标和箭头间有一个缝隙，可能导致不小心切换为编辑模式**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo7kib](https://aka.ms/AAo7kib)
@@ -224,7 +204,7 @@ Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正�
 ---
 
 <SPAN ID = 'LG030'/>编号：LG030  
-版本：Canary 25905 - 26040  
+版本：Canary 25905 - 26052  
 **问题**：**在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAlzfg7](https://aka.ms/AAlzfg7)
@@ -242,7 +222,7 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG033'/>编号：LG033  
-版本：Canary 26016 - 26040  
+版本：Canary 26016 - 26052  
 **问题**：**“阿凡达：潘多拉边境” (Avatar Frontiers of Pandora) 游戏崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoa2ag](https://aka.ms/AAoa2ag)
@@ -250,23 +230,15 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG034'/>编号：LG034  
-版本：Canary 26016 - 26040  
+版本：Canary 26016 - 26052  
 **问题**：**Grand Theft Auto V (GTA 5) 游戏无法运行**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo9e71](https://aka.ms/AAo9e71)
 
 ---
 
-<SPAN ID = 'LG035'/>编号：LG035  
-版本：Canary 26016 - 26040  
-**问题**：**极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAo9e77](https://aka.ms/AAo9e77)
-
----
-
 <SPAN ID = 'LG037'/>编号：LG037  
-版本：Canary 25997 - 26040  
+版本：Canary 25997 - 26052  
 **问题**：**显示 WDAG (Edge) - Container: Error: 0x80004005 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
@@ -275,7 +247,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG040'/>编号：LG040  
-版本：未知 - Canary 26040  
+版本：未知 - Canary 26052  
 **问题**：**文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoawwk](https://aka.ms/AAoawwk)
@@ -293,47 +265,23 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG046'/>编号：LG046  
-版本：Canary 26020 - 26040  
+版本：Canary 26020 - 26052  
 **问题**：**远程桌面显示 0x3 错误 / 0x11 扩展错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAnyjyk](https://aka.ms/AAnyjyk)
 
 ---
 
-<SPAN ID = 'LG047'/>编号：LG047  
-版本：Canary 26020 - 26040  
-**问题**：**运行 WinSCP 时电脑出现 win32kbase.sys 绿屏**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AAoiwp6](https://aka.ms/AAoiwp6)
-
----
-
-<SPAN ID = 'LG048'/>编号：LG048  
-版本：Canary 26016 - 26040  
-**问题**：**极限竞速：地平线 5 (Forza Horizon 5) 游戏停止运行，显示 0xc0000005 错误**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAojirz](https://aka.ms/AAojirz)
-
----
-
 <SPAN ID = 'LG049'/>编号：LG049  
-版本：Canary 26020 - 26040  
+版本：Canary 26020 - 26052  
 **问题**：**事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoipfs](https://aka.ms/AAoipfs)
 
 ---
 
-<SPAN ID = 'LG050'/>编号：LG050  
-版本：Canary 26016 - 26040  
-**问题**：**启动 Print Spooler 服务时显示错误 / 崩溃**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAoiwqe](https://aka.ms/AAoiwqe)
-
----
-
 <SPAN ID = 'LG055'/>编号：LG055  
-版本：Canary 26040  
+版本：Canary 26040 - 26052  
 **问题**：**隐藏 “购物” 等小组件后其再次出现**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAotzrh](https://aka.ms/AAotzrh)
@@ -343,7 +291,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG057'/>编号：LG057  
-版本：Canary 26040  
+版本：Canary 26040 - 26052  
 **问题**：**战眼 (BattlEye) 反作弊系统不兼容**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAox7us](https://aka.ms/AAox7us)
@@ -351,7 +299,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG058'/>编号：LG058  
-版本：Canary 26040  
+版本：Canary 26040 - 26052  
 **问题**：**在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAov9fo](https://aka.ms/AAov9fo)
@@ -359,7 +307,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG059'/>编号：LG059  
-版本：Canary 26040  
+版本：Canary 26040 - 26052  
 **问题**：**罗布乐思 (Roblox) 无法正常运行**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAovw5h](https://aka.ms/AAovw5h)
@@ -367,7 +315,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG060'/>编号：LG060  
-版本：Canary 26040  
+版本：Canary 26040 - 26052  
 **问题**：**堡垒之夜 (Fortnite) 游戏无法正常运行**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAow3xj](https://aka.ms/AAow3xj)
@@ -375,7 +323,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG061'/>编号：LG061  
-版本：Canary 26040  
+版本：Canary 26040 - 26052  
 **问题**：**EA 反作弊系统不兼容**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAox7vk](https://aka.ms/AAox7vk)
@@ -383,7 +331,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG062'/>编号：LG062  
-版本：Canary 26040  
+版本：Canary 26040 - 26052  
 **问题**：**彩虹六号：围攻 (Rainbow Six Siege) 游戏无法正常运行**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAow3xx](https://aka.ms/AAow3xx)
@@ -391,7 +339,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG063'/>编号：LG063  
-版本：Canary 26040  
+版本：Canary 26040 - 26052  
 **问题**：**绝地求生 (PUBG) 游戏无法正常运行**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAn5erb](https://aka.ms/AAn5erb)
@@ -399,7 +347,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG064'/>编号：LG064  
-版本：Canary 26040  
+版本：Canary 26040 - 26052  
 **问题**：**全新安装 Windows 11 时，系统生成 Windows.old 空文件夹**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAovgrv](https://aka.ms/AAovgrv)
@@ -407,7 +355,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG065'/>编号：LG065  
-版本：Canary 26040  
+版本：Canary 26040 - 26052  
 **问题**：**使用浏览器观看视频时屏幕可能冻结**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAoxr0y](https://aka.ms/AAoxr0y)  
@@ -449,6 +397,58 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 **问题**：**“Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃**。  
 状态：Wallpaper Engine Beta - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAnwevt](https://aka.ms/AAnwevt)
+
+---
+
+<SPAN ID = 'LG007'/>编号：LG007  
+版本：ALL - Canary 26040  
+**问题**：**切换桌面时任务栏应用图标可能随机消失**。  
+状态：Dev 23580 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正在持续调查有关此问题的报告。” *(Ling 译)*  
+<img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAo73ko](https://aka.ms/AAo73ko)
+
+<img src="Images/LG007.png" width = "50%" />
+
+---
+
+<SPAN ID = 'LG021'/>编号：LG021  
+版本：Canary 26002 - 26040  
+**问题**：**调节任务栏 “快速设置” 中的音量滑块时不再发出声音**。  
+状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAo4oyt](https://aka.ms/AAo4oyt)
+
+---
+
+<SPAN ID = 'LG035'/>编号：LG035  
+版本：Canary 26016 - 26040  
+**问题**：**极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃**。  
+状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAo9e77](https://aka.ms/AAo9e77)
+
+---
+
+<SPAN ID = 'LG047'/>编号：LG047  
+版本：Canary 26020 - 26040  
+**问题**：**运行 WinSCP 时电脑出现 win32kbase.sys 绿屏**。  
+状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAoiwp6](https://aka.ms/AAoiwp6)
+
+---
+
+<SPAN ID = 'LG048'/>编号：LG048  
+版本：Canary 26016 - 26040  
+**问题**：**极限竞速：地平线 5 (Forza Horizon 5) 游戏停止运行，显示 0xc0000005 错误**。  
+状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAojirz](https://aka.ms/AAojirz)
+
+---
+
+<SPAN ID = 'LG050'/>编号：LG050  
+版本：Canary 26016 - 26040  
+**问题**：**启动 Print Spooler 服务时显示错误 / 崩溃**。  
+状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAoiwqe](https://aka.ms/AAoiwqe)
 
 ---
 
