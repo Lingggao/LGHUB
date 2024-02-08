@@ -379,6 +379,8 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAou9q9](https://aka.ms/AAou9q9)
 
+<img src="Images/LG067.png" width = "20%" />
+
 ---
 
 <SPAN ID = 'LG053'/>编号：LG053  
