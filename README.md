@@ -17,7 +17,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 2 月 16 日 13:00 (UTC+8)。记录的反馈数量：77，访问次数：780+
+&emsp;&emsp;上次更新时间：2024 年 2 月 16 日 13:00 (UTC+8)。记录的反馈数量：85，访问次数：790+
 
 &emsp;&emsp;中心更新目录：**祝大家身体健康、工作顺利、阖家幸福、龙年吉祥！**- Ling 🐉 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [获取已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
@@ -63,9 +63,12 @@
 | [LG065](#LG065) |              使用浏览器观看视频时屏幕可能冻结。              |          正在处理          |
 | [LG077](#LG077) |      **启用 “管理移动设备” 时，“手机连接” 应用断线**。       |          正在调查          |
 | [LG078](#LG078) |                    **电脑无法播放音频**。                    |          正在调查          |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
+| [LG079](#LG079) |          **无法使用 Office，显示 0x426-0x0 错误**。          |          正在调查          |
+| [LG080](#LG080) |                     **Visio 应用崩溃**。                     |          正在处理          |
+| [LG081](#LG081) |             **无法登录 Microsoft Sudoku 游戏**。             |          正在调查          |
+| [LG082](#LG082) |     **文件资源管理器右键菜单中的图标显示在错误的位置**。     |          正在调查          |
+| [LG083](#LG083) |                      **光标阴影异常**。                      |          正在调查          |
+| [LG084](#LG084) |                      **光标随机消失**。                      |          正在调查          |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 14 - 28 天)**](#2) |           **——**           |
 | [LG056](#LG056) |             显示器黑屏 / 电脑无法从睡眠中唤醒。              |          已修复 ✓          |
 | [LG054](#LG054) |   Microsoft Store 中的部分视频流媒体应用可能无法正常播放。   |          已修复 ✓          |
@@ -393,6 +396,55 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 状态：<img src="Images/L.png" width = "10%" />  
 Microsoft 官方回复：“如果您受到此问题影响，请尽可能地提交反馈，捕获 ‘尝试播放音频但没有声音’ 的跟踪信息。请向 ‘设备和驱动程序’ - ‘音频和声音’ 类别提交。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAp2b8r](https://aka.ms/AAp2b8r)
+
+---
+
+<SPAN ID = 'LG079'/>编号：LG079  
+版本：Canary 26040 - 26058  
+**问题**：**无法使用 Office，显示 0x426-0x0 错误**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp3qas](https://aka.ms/AAp3qas)
+
+---
+
+<SPAN ID = 'LG080'/>编号：LG080  
+版本：Canary 26052 - 26058  
+**问题**：**Visio 应用崩溃**。  
+状态：<img src="Images/W.png" width = "10%" />  
+Microsoft 官方回复：“我们已经找出问题所在，正在修复中。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAp5m7i](https://aka.ms/AAp5m7i)
+
+---
+
+<SPAN ID = 'LG081'/>编号：LG081  
+版本：ALL  
+**问题**：**无法登录 Microsoft Sudoku 游戏**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp536h](https://aka.ms/AAp536h)
+
+---
+
+<SPAN ID = 'LG082'/>编号：LG082  
+版本：Canary 26058  
+**问题**：**文件资源管理器右键菜单中的图标显示在错误的位置**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp536r](https://aka.ms/AAp536r)
+
+---
+
+<SPAN ID = 'LG083'/>编号：LG083  
+版本：Canary 26058  
+**问题**：**光标阴影异常**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp4zrc](https://aka.ms/AAp4zrc)
+
+---
+
+<SPAN ID = 'LG084'/>编号：LG084  
+版本：Canary 26058  
+**问题**：**光标随机消失**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp4op2](https://aka.ms/AAp4op2)
 
 ---
 
