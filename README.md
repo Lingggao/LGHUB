@@ -17,7 +17,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 2 月 16 日 11:00 (UTC+8)。记录的反馈数量：69，访问次数：760+
+&emsp;&emsp;上次更新时间：2024 年 2 月 16 日 11:00 (UTC+8)。记录的反馈数量：71，访问次数：760+
 
 &emsp;&emsp;中心更新目录：**祝大家身体健康、工作顺利、阖家幸福、龙年吉祥！**- Ling 🐉 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [获取已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
@@ -32,7 +32,7 @@
 | [LG068](#LG068) |       **回退系统将导致开发驱动器硬盘损坏并丢失数据**。       |          正在处理          |
 | [LG066](#LG066) | 设置 > 系统 > 屏幕 > 显示卡位置出现 “显示连接” 选项，点击时菜单崩溃。 |          正在处理          |
 | [LG069](#LG069) |     **安装此版本时可能自动回退，错误代码 0xC1900101**。      |          正在调查          |
-|                 |                                                              |                            |
+| [LG070](#LG070) | **连接 VPN 时，托盘网络图标 / 部分应用可能提示无 Internet**。 |          正在处理          |
 |                 |                                                              |                            |
 |                 |                                                              |                            |
 |                 |                                                              |                            |
@@ -129,6 +129,13 @@ Microsoft 官方回复：“此选项将在未来的版本中移除。” *(Ling
 版本：Canary 26058  
 **问题**：**安装此版本时可能自动回退，错误代码 0xC1900101**。  
 状态：<img src="Images/L.png" width = "10%" />
+
+----
+
+<SPAN ID = 'LG070'/>编号：LG070  
+版本：Canary 26058  
+**问题**：**连接 VPN 时，托盘网络图标 / 部分应用可能提示无 Internet**。  
+状态：<img src="Images/W.png" width = "10%" />
 
 ----
 
