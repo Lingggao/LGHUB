@@ -60,16 +60,16 @@
 | [LG064](#LG064) |   全新安装 Windows 11 时，系统生成 Windows.old 空文件夹。    |     正在调查     |
 | [LG065](#LG065) |              使用浏览器观看视频时屏幕可能冻结。              |     正在处理     |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 14 - 28 天)**](#2) |      **——**      |
-| [LG067](#LG067) |       设置 > 个性化 > 任务栏位置的 Copilot 图标偏黄。        |     已修复 ✓     |
-| [LG053](#LG053) |                使用多显示器时，屏幕可能冻结。                |     已修复 ✓     |
-| [LG004](#LG004) |            打开打印队列时提示 “找不到应用程序”。             |     已修复 ✓     |
-| [LG008](#LG008) |        “Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃。         |     已修复 ✓     |
-| [LG007](#LG007) |            切换桌面时任务栏应用图标可能随机消失。            |     已修复 ✓     |
-| [LG021](#LG021) |      调节任务栏 “快速设置” 中的音量滑块时不再发出声音。      |     已修复 ✓     |
-| [LG035](#LG035) |  极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃。  |     已修复 ✓     |
-| [LG047](#LG047) |         运行 WinSCP 时电脑出现 win32kbase.sys 绿屏。         |     已修复 ✓     |
-| [LG048](#LG048) | 极限竞速：地平线 5 (Forza Horizon 5) 游戏停止运行，显示 0xc0000005 错误。 |     已修复 ✓     |
-| [LG050](#LG050) |          启动 Print Spooler 服务时显示错误 / 崩溃。          |     已修复 ✓     |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
+|                 |                                                              |                  |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |      **——**      |
 
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
@@ -373,91 +373,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 
 ---
 
-<SPAN ID = 'LG067'/>编号：LG067  
-版本：Canary 26040  
-**问题**：**设置 > 个性化 > 任务栏位置的 Copilot 图标偏黄**。  
-状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAou9q9](https://aka.ms/AAou9q9)
-
-<img src="Images/LG067.png" width = "20%" />
-
----
-
-<SPAN ID = 'LG053'/>编号：LG053  
-版本：Canary 26040  
-**问题**：**使用多显示器时，屏幕可能冻结**。  
-状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-Microsoft 官方回复：“如果遇到此问题，请按下 CTRL + WIN + Shift + B 快捷键重启 DWM。” *(Ling 译)*  
-<img src="Images/M.png" width = "15%" />
-
----
-
-<SPAN ID = 'LG004'/>编号：LG004  
-版本：Canary 26010 - 26040  
-**问题**：**打开打印队列时提示 “找不到应用程序”**。  
-状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-Microsoft 官方回复：“我们已经找出问题所在，正在修复中。您可以复制 explorer.exe shell:appsFolder\Microsoft.Windows.PrintQueueActionCenter_cw5n1h2txyewy!App 到运行窗口 (WIN + R 快捷键) 打开打印队列，作为一种变通方案。” *(Caozhi Li 线索，Ling 译)* <img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAod17l](https://aka.ms/AAod17l)
-
----
-
-<SPAN ID = 'LG008'/>编号：LG008  
-版本：Canary 26002 - 26040  
-**问题**：**“Wallpaper Engine：壁纸引擎” 等壁纸软件崩溃**。  
-状态：Wallpaper Engine Beta - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAnwevt](https://aka.ms/AAnwevt)
-
----
-
-<SPAN ID = 'LG007'/>编号：LG007  
-版本：ALL - Canary 26040  
-**问题**：**切换桌面时任务栏应用图标可能随机消失**。  
-状态：Dev 23580 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-Microsoft 官方回复：“我们在 Dev 频道中对此进行了修复，正在持续调查有关此问题的报告。” *(Ling 译)*  
-<img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAo73ko](https://aka.ms/AAo73ko)
-
-<img src="Images/LG007.png" width = "50%" />
-
----
-
-<SPAN ID = 'LG021'/>编号：LG021  
-版本：Canary 26002 - 26040  
-**问题**：**调节任务栏 “快速设置” 中的音量滑块时不再发出声音**。  
-状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAo4oyt](https://aka.ms/AAo4oyt)
-
----
-
-<SPAN ID = 'LG035'/>编号：LG035  
-版本：Canary 26016 - 26040  
-**问题**：**极限竞速 (Forza Motorsport) Racing World 无法运行 / 崩溃**。  
-状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAo9e77](https://aka.ms/AAo9e77)
-
----
-
-<SPAN ID = 'LG047'/>编号：LG047  
-版本：Canary 26020 - 26040  
-**问题**：**运行 WinSCP 时电脑出现 win32kbase.sys 绿屏**。  
-状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAoiwp6](https://aka.ms/AAoiwp6)
-
----
-
-<SPAN ID = 'LG048'/>编号：LG048  
-版本：Canary 26016 - 26040  
-**问题**：**极限竞速：地平线 5 (Forza Horizon 5) 游戏停止运行，显示 0xc0000005 错误**。  
-状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAojirz](https://aka.ms/AAojirz)
-
----
-
-<SPAN ID = 'LG050'/>编号：LG050  
-版本：Canary 26016 - 26040  
-**问题**：**启动 Print Spooler 服务时显示错误 / 崩溃**。  
-状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAoiwqe](https://aka.ms/AAoiwqe)
+//
 
 ---
 
