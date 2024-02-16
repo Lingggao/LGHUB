@@ -51,7 +51,7 @@
 | [LG034](#LG034) |          Grand Theft Auto V (GTA 5) 游戏无法运行。           |          正在调查          |
 | [LG037](#LG037) |    显示 WDAG (Edge) - Container: Error: 0x80004005 错误。    |          正在处理          |
 | [LG040](#LG040) |    文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效。    |          正在调查          |
-| [LG045](#LG045) |                        共享窗口崩溃。                        |          正在处理          |
+|                 |                                                              |                            |
 | [LG046](#LG046) |           远程桌面显示 0x3 错误 / 0x11 扩展错误。            |          正在调查          |
 | [LG049](#LG049) |  事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)。   |          正在调查          |
 | [LG055](#LG055) |              隐藏 “购物” 等小组件后其再次出现。              |          正在调查          |
@@ -71,7 +71,7 @@
 | [LG022](#LG022) |     Windows Sandbox 显示 0x80072746 / 0x800736b3 错误。      |          已修复 ✓          |
 |                 |                                                              |                            |
 | [LG028](#LG028) | 文件资源管理器地址栏中图标和箭头间有一个缝隙，可能导致不小心切换为编辑模式。 |          已修复 ✓          |
-|                 |                                                              |                            |
+| [LG045](#LG045) |                        共享窗口崩溃。                        |          已修复 ✓          |
 |                 |                                                              |                            |
 |                 |                                                              |                            |
 |                 |                                                              |                            |
@@ -264,7 +264,7 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG037'/>编号：LG037  
-版本：Canary 25997 - 26052  
+版本：Canary 25997 - 26058  
 **问题**：**显示 WDAG (Edge) - Container: Error: 0x80004005 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
@@ -273,7 +273,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG040'/>编号：LG040  
-版本：未知 - Canary 26052  
+版本：未知 - Canary 26058  
 **问题**：**文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoawwk](https://aka.ms/AAoawwk)
@@ -282,16 +282,8 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 
 ---
 
-<SPAN ID = 'LG045'/>编号：LG045  
-版本：ALL  
-**问题**：**共享窗口崩溃**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AAohsni](https://aka.ms/AAohsni)
-
----
-
 <SPAN ID = 'LG046'/>编号：LG046  
-版本：Canary 26020 - 26052  
+版本：Canary 26020 - 26058  
 **问题**：**远程桌面显示 0x3 错误 / 0x11 扩展错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAnyjyk](https://aka.ms/AAnyjyk)
@@ -299,7 +291,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG049'/>编号：LG049  
-版本：Canary 26020 - 26052  
+版本：Canary 26020 - 26058  
 **问题**：**事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoipfs](https://aka.ms/AAoipfs)
@@ -307,7 +299,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG055'/>编号：LG055  
-版本：Canary 26040 - 26052  
+版本：Canary 26040 - 26058  
 **问题**：**隐藏 “购物” 等小组件后其再次出现**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAotzrh](https://aka.ms/AAotzrh)
@@ -317,7 +309,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG057'/>编号：LG057  
-版本：Canary 26040 - 26052  
+版本：Canary 26040 - 26058  
 **问题**：**战眼 (BattlEye) 反作弊系统不兼容**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAox7us](https://aka.ms/AAox7us)
@@ -325,7 +317,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG058'/>编号：LG058  
-版本：Canary 26040 - 26052  
+版本：Canary 26040 - 26058  
 **问题**：**在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAov9fo](https://aka.ms/AAov9fo)
@@ -333,7 +325,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG059'/>编号：LG059  
-版本：Canary 26040 - 26052  
+版本：Canary 26040 - 26058  
 **问题**：**罗布乐思 (Roblox) 无法正常运行**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAovw5h](https://aka.ms/AAovw5h)
@@ -341,7 +333,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG060'/>编号：LG060  
-版本：Canary 26040 - 26052  
+版本：Canary 26040 - 26058  
 **问题**：**堡垒之夜 (Fortnite) 游戏无法正常运行**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAow3xj](https://aka.ms/AAow3xj)
@@ -349,7 +341,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG061'/>编号：LG061  
-版本：Canary 26040 - 26052  
+版本：Canary 26040 - 26058  
 **问题**：**EA 反作弊系统不兼容**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAox7vk](https://aka.ms/AAox7vk)
@@ -357,7 +349,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG062'/>编号：LG062  
-版本：Canary 26040 - 26052  
+版本：Canary 26040 - 26058  
 **问题**：**彩虹六号：围攻 (Rainbow Six Siege) 游戏无法正常运行**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAow3xx](https://aka.ms/AAow3xx)
@@ -365,7 +357,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG063'/>编号：LG063  
-版本：Canary 26040 - 26052  
+版本：Canary 26040 - 26058  
 **问题**：**绝地求生 (PUBG) 游戏无法正常运行**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAn5erb](https://aka.ms/AAn5erb)
@@ -373,7 +365,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG064'/>编号：LG064  
-版本：Canary 26040 - 26052  
+版本：Canary 26040 - 26058  
 **问题**：**全新安装 Windows 11 时，系统生成 Windows.old 空文件夹**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAovgrv](https://aka.ms/AAovgrv)
@@ -381,7 +373,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG065'/>编号：LG065  
-版本：Canary 26040 - 26052  
+版本：Canary 26040 - 26058  
 **问题**：**使用浏览器观看视频时屏幕可能冻结**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAoxr0y](https://aka.ms/AAoxr0y)  
@@ -440,6 +432,14 @@ Microsoft 官方回复：“请暂时使用浏览器播放视频，作为一种�
 典型反馈：[aka.ms/AAo7kib](https://aka.ms/AAo7kib)
 
 <img src="Images/LG028.png" width = "50%" />
+
+---
+
+<SPAN ID = 'LG045'/>编号：LG045  
+版本：ALL  
+**问题**：**共享窗口崩溃**。  
+状态：ALL - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAohsni](https://aka.ms/AAohsni)
 
 ---
 
