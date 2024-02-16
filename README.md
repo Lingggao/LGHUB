@@ -17,14 +17,14 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 2 月 9 日 7:00 (UTC+8)。记录的反馈数量：68，访问次数：690+
+&emsp;&emsp;上次更新时间：2024 年 2 月 16 日 11:00 (UTC+8)。记录的反馈数量：68，访问次数：750+
 
-&emsp;&emsp;中心更新目录：**祝大家身体健康、工作顺利、阖家幸福、龙年吉祥！**- Ling 2/9 🐉 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [获取已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;中心更新目录：**祝大家身体健康、工作顺利、阖家幸福、龙年吉祥！**- Ling 🐉 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [获取已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
-|     频道     |      最新版本       |   时间   |                             公告                             |
-| :----------: | :-----------------: | :------: | :----------------------------------------------------------: |
-| Canary & Dev |   [新] **26052**    | 2024/2/9 | [aka.ms/wip26052](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-26052-canary-and-dev-channels) |
-|     Beta     | [新] **22635.3140** | 2024/2/9 | [aka.ms/wip-beta-2-8](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-22635-3140-beta-channel) |
+|     频道     |    最新版本    |   时间    |                             公告                             |
+| :----------: | :------------: | :-------: | :----------------------------------------------------------: |
+| Canary & Dev | [新] **26058** | 2024/2/15 | [aka.ms/wip26058](https://blogs.windows.com/windows-insider/2024/02/14/announcing-windows-11-insider-preview-build-26058-canary-and-dev-channels) |
+|     Beta     |   22635.3140   | 2024/2/9  | [aka.ms/wip-beta-2-8](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-22635-3140-beta-channel) |
 
 | 编号 (点击跳转) |                             问题                             |       状态       |
 | :-------------: | :----------------------------------------------------------: | :--------------: |
