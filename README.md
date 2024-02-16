@@ -17,7 +17,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 2 月 16 日 12:00 (UTC+8)。记录的反馈数量：75，访问次数：780+
+&emsp;&emsp;上次更新时间：2024 年 2 月 16 日 13:00 (UTC+8)。记录的反馈数量：77，访问次数：780+
 
 &emsp;&emsp;中心更新目录：**祝大家身体健康、工作顺利、阖家幸福、龙年吉祥！**- Ling 🐉 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [获取已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
@@ -42,16 +42,13 @@
 | [LG015](#LG015) |      在文件资源管理器中按下两次 F11 后地址栏将被冻结。       |          正在调查          |
 | [LG018](#LG018) | Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误。 |          正在处理          |
 | [LG019](#LG019) |            远程桌面显示 “图形组件无法启动” 错误。            |          正在处理          |
-|                 |                                                              |                            |
 | [LG024](#LG024) | Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误。 |          正在调查          |
-|                 |                                                              |                            |
 | [LG030](#LG030) | 在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。 |          正在调查          |
 | [LG031](#LG031) |    Microsoft Edge (正式版) “固定到任务栏” 功能可能失效。     |          正在调查          |
 | [LG033](#LG033) | “阿凡达：潘多拉边境” (Avatar Frontiers of Pandora) 游戏崩溃。 |          正在调查          |
 | [LG034](#LG034) |          Grand Theft Auto V (GTA 5) 游戏无法运行。           |          正在调查          |
 | [LG037](#LG037) |    显示 WDAG (Edge) - Container: Error: 0x80004005 错误。    |          正在处理          |
 | [LG040](#LG040) |    文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效。    |          正在调查          |
-|                 |                                                              |                            |
 | [LG046](#LG046) |           远程桌面显示 0x3 错误 / 0x11 扩展错误。            |          正在调查          |
 | [LG049](#LG049) |  事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)。   |          正在调查          |
 | [LG055](#LG055) |              隐藏 “购物” 等小组件后其再次出现。              |          正在调查          |
@@ -67,14 +64,11 @@
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 14 - 28 天)**](#2) |           **——**           |
 | [LG056](#LG056) |             显示器黑屏 / 电脑无法从睡眠中唤醒。              |          已修复 ✓          |
 | [LG054](#LG054) |   Microsoft Store 中的部分视频流媒体应用可能无法正常播放。   |          已修复 ✓          |
-|                 |                                                              |                            |
+| [LG075](#LG075) |     “设置”>“系统”>“可选功能” 页面中所有功能均为 0 字节。     |          已修复 ✓          |
 | [LG022](#LG022) |     Windows Sandbox 显示 0x80072746 / 0x800736b3 错误。      |          已修复 ✓          |
-|                 |                                                              |                            |
+| [LG076](#LG076) |                                                              |                            |
 | [LG028](#LG028) | 文件资源管理器地址栏中图标和箭头间有一个缝隙，可能导致不小心切换为编辑模式。 |          已修复 ✓          |
 | [LG045](#LG045) |                        共享窗口崩溃。                        |          已修复 ✓          |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |           **——**           |
 
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
@@ -409,7 +403,11 @@ Microsoft 官方回复：“请暂时使用浏览器播放视频，作为一种�
 
 ---
 
-//0字节
+<SPAN ID = 'LG075'/>编号：LG075  
+版本：Canary 26052  
+**问题**：**“设置”>“系统”>“可选功能” 页面中所有功能均为 0 字节**。  
+状态：Canary 26058 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAp5tnp](https://aka.ms/AAp5tnp)
 
 ---
 
@@ -421,7 +419,10 @@ Microsoft 官方回复：“请暂时使用浏览器播放视频，作为一种�
 
 ---
 
-//上次检查时间
+<SPAN ID = 'LG076'/>编号：LG076  
+版本：Canary 26052  
+**问题**：**“设置”>“Windows 更新” 页面的 “上次检查时间” 存在错误**。  
+状态：Canary 26058 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓
 
 ---
 
