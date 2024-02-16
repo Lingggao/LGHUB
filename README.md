@@ -17,7 +17,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 2 月 16 日 12:00 (UTC+8)。记录的反馈数量：71，访问次数：760+
+&emsp;&emsp;上次更新时间：2024 年 2 月 16 日 12:00 (UTC+8)。记录的反馈数量：72，访问次数：760+
 
 &emsp;&emsp;中心更新目录：**祝大家身体健康、工作顺利、阖家幸福、龙年吉祥！**- Ling 🐉 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [获取已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
@@ -105,7 +105,7 @@ Microsoft 官方回复 (如果有)：xxxxx
 Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多个错误的影响。从 Build 26040 开始，部分游戏可能导致电脑绿屏。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)*  
 <img src="Images/M.png" width = "15%" />
 
-----
+---
 
 <SPAN ID = 'LG068'/>编号：LG068  
 版本：Canary 26052 - 26058  
@@ -123,21 +123,21 @@ Microsoft 官方回复：“此选项将在未来的版本中移除。” *(Ling
 
 <img src="Images/LG066.png" width = "50%" />
 
-----
+---
 
 <SPAN ID = 'LG069'/>编号：LG069  
 版本：Canary 26058  
 **问题**：**安装此版本时可能自动回退，错误代码 0xC1900101**。  
 状态：<img src="Images/L.png" width = "10%" />
 
-----
+---
 
 <SPAN ID = 'LG070'/>编号：LG070  
 版本：Canary 26058  
 **问题**：**连接 VPN 时，托盘网络图标 / 部分应用可能提示无 Internet**。  
 状态：<img src="Images/W.png" width = "10%" />
 
-----
+---
 
 <SPAN ID = 'LG071'/>编号：LG071  
 版本：Canary 26052 - 26058  
@@ -147,6 +147,8 @@ Microsoft 官方回复：“我们正在调查此问题，请耐心等待。” 
 典型反馈：[aka.ms/AAp5tgd](https://aka.ms/AAp5tgd)
 
 <img src="Images/LG071.png" width = "15%" />
+
+---
 
 ---
 
@@ -400,7 +402,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 Microsoft 官方回复：“如果您遇到了这种情况，请尝试按下键盘快捷键 WIN + CTRL + Shift + B，看看能否解决问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAovgp0](https://aka.ms/AAovgp0)
 
-----
+---
 
 <SPAN ID = 'LG054'/>编号：LG054  
 版本：Canary 26040 - 26052  
@@ -408,19 +410,19 @@ Microsoft 官方回复：“如果您遇到了这种情况，请尝试按下键�
 状态：Canary 26058 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 Microsoft 官方回复：“请暂时使用浏览器播放视频，作为一种变通方案。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
 
-----
+---
 
 //0字节
 
-----
+---
 
 //Windows 沙盒
 
-----
+---
 
 //上次检查时间
 
-----
+---
 
 
 
