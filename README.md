@@ -17,7 +17,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 2 月 16 日 11:00 (UTC+8)。记录的反馈数量：71，访问次数：760+
+&emsp;&emsp;上次更新时间：2024 年 2 月 16 日 12:00 (UTC+8)。记录的反馈数量：71，访问次数：760+
 
 &emsp;&emsp;中心更新目录：**祝大家身体健康、工作顺利、阖家幸福、龙年吉祥！**- Ling 🐉 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [获取已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
@@ -138,6 +138,13 @@ Microsoft 官方回复：“此选项将在未来的版本中移除。” *(Ling
 状态：<img src="Images/W.png" width = "10%" />
 
 ----
+
+<SPAN ID = 'LG071'/>编号：LG071  
+版本：Canary 26052 - 26058  
+**问题**：**输入切换器 (WIN + 空格) 变为旧版样式，且显示位置错误**。  
+状态：<img src="Images/L.png" width = "10%" />  
+Microsoft 官方回复：“我们正在调查此问题，请耐心等待。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAp5tgd](https://aka.ms/AAp5tgd)
 
 
 
