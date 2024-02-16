@@ -150,6 +150,13 @@ Microsoft 官方回复：“我们正在调查此问题，请耐心等待。” 
 
 ---
 
+<SPAN ID = 'LG072'/>编号：LG072  
+版本：Canary 26058  
+**问题**：**此版本无法显示在 “设置”>“Windows 更新”>“更新历史记录” 中**。  
+状态：<img src="Images/L.png" width = "10%" />
+
+
+
 ---
 
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
