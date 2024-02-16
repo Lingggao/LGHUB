@@ -42,9 +42,9 @@
 | [LG015](#LG015) |      在文件资源管理器中按下两次 F11 后地址栏将被冻结。       |          正在调查          |
 | [LG018](#LG018) | Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误。 |          正在处理          |
 | [LG019](#LG019) |            远程桌面显示 “图形组件无法启动” 错误。            |          正在处理          |
-| [LG022](#LG022) |            Windows Sandbox 显示 0x80072746 错误。            |          正在处理          |
+|                 |                                                              |                            |
 | [LG024](#LG024) | Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误。 |          正在调查          |
-| [LG028](#LG028) | 文件资源管理器地址栏中图标和箭头间有一个缝隙，可能导致不小心切换为编辑模式。 |          正在调查          |
+|                 |                                                              |                            |
 | [LG030](#LG030) | 在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。 |          正在调查          |
 | [LG031](#LG031) |    Microsoft Edge (正式版) “固定到任务栏” 功能可能失效。     |          正在调查          |
 | [LG033](#LG033) | “阿凡达：潘多拉边境” (Avatar Frontiers of Pandora) 游戏崩溃。 |          正在调查          |
@@ -68,9 +68,9 @@
 | [LG056](#LG056) |             显示器黑屏 / 电脑无法从睡眠中唤醒。              |          已修复 ✓          |
 | [LG054](#LG054) |   Microsoft Store 中的部分视频流媒体应用可能无法正常播放。   |          已修复 ✓          |
 |                 |                                                              |                            |
+| [LG022](#LG022) |     Windows Sandbox 显示 0x80072746 / 0x800736b3 错误。      |          已修复 ✓          |
 |                 |                                                              |                            |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
+| [LG028](#LG028) | 文件资源管理器地址栏中图标和箭头间有一个缝隙，可能导致不小心切换为编辑模式。 |          已修复 ✓          |
 |                 |                                                              |                            |
 |                 |                                                              |                            |
 |                 |                                                              |                            |
@@ -186,7 +186,7 @@ Microsoft 官方回复：“此问题将在未来的版本中得到修复。” 
 ---
 
 <SPAN ID = 'LG013'/>编号：LG013  
-版本：Canary 26002 - 26052  
+版本：Canary 26002 - 26058  
 **问题**：**“设置”>“应用”>“启动” 页面中的图标异常**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo5wd6](https://aka.ms/AAo5wd6)
@@ -196,7 +196,7 @@ Microsoft 官方回复：“此问题将在未来的版本中得到修复。” 
 ---
 
 <SPAN ID = 'LG015'/>编号：LG015  
-版本：Canary 25992 - 26052  
+版本：Canary 25992 - 26058  
 **问题**：**在文件资源管理器中按下两次 F11 后地址栏将被冻结**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAnkkd6](https://aka.ms/AAnkkd6)
@@ -204,7 +204,7 @@ Microsoft 官方回复：“此问题将在未来的版本中得到修复。” 
 ---
 
 <SPAN ID = 'LG018'/>编号：LG018  
-版本：Canary 25987 - 26052  
+版本：Canary 25987 - 26058  
 **问题**：**Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAo7kst](https://aka.ms/AAo7kst)
@@ -212,23 +212,15 @@ Microsoft 官方回复：“此问题将在未来的版本中得到修复。” 
 ---
 
 <SPAN ID = 'LG019'/>编号：LG019  
-版本：Canary 25997 - 26052  
+版本：Canary 25997 - 26058  
 **问题**：**远程桌面显示 “图形组件无法启动” 错误**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAnyzb4](https://aka.ms/AAnyzb4)
 
 ---
 
-<SPAN ID = 'LG022'/>编号：LG022  
-版本：Canary 25997 - 26052  
-**问题**：**Windows Sandbox 显示 0x80072746 错误**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AAo6y4i](https://aka.ms/AAo6y4i)
-
----
-
 <SPAN ID = 'LG024'/>编号：LG024  
-版本：Canary 26002 - 26052  
+版本：Canary 26002 - 26058  
 **问题**：**Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo7div](https://aka.ms/AAo7div)
@@ -237,18 +229,8 @@ Microsoft 官方回复：“此问题将在未来的版本中得到修复。” 
 
 ---
 
-<SPAN ID = 'LG028'/>编号：LG028  
-版本：未知 - Canary 26052  
-**问题**：**文件资源管理器地址栏中图标和箭头间有一个缝隙，可能导致不小心切换为编辑模式**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAo7kib](https://aka.ms/AAo7kib)
-
-<img src="Images/LG028.png" width = "50%" />
-
----
-
 <SPAN ID = 'LG030'/>编号：LG030  
-版本：Canary 25905 - 26052  
+版本：Canary 25905 - 26058  
 **问题**：**在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAlzfg7](https://aka.ms/AAlzfg7)
@@ -266,7 +248,7 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG033'/>编号：LG033  
-版本：Canary 26016 - 26052  
+版本：Canary 26016 - 26058  
 **问题**：**“阿凡达：潘多拉边境” (Avatar Frontiers of Pandora) 游戏崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoa2ag](https://aka.ms/AAoa2ag)
@@ -274,7 +256,7 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 ---
 
 <SPAN ID = 'LG034'/>编号：LG034  
-版本：Canary 26016 - 26052  
+版本：Canary 26016 - 26058  
 **问题**：**Grand Theft Auto V (GTA 5) 游戏无法运行**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo9e71](https://aka.ms/AAo9e71)
@@ -439,7 +421,11 @@ Microsoft 官方回复：“请暂时使用浏览器播放视频，作为一种�
 
 ---
 
-//Windows 沙盒
+<SPAN ID = 'LG022'/>编号：LG022  
+版本：Canary 25997 - 26052  
+**问题**：**Windows Sandbox 显示 0x80072746 / 0x800736b3 错误**。  
+状态：Canary 26058 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAo6y4i](https://aka.ms/AAo6y4i)
 
 ---
 
@@ -447,7 +433,13 @@ Microsoft 官方回复：“请暂时使用浏览器播放视频，作为一种�
 
 ---
 
+<SPAN ID = 'LG028'/>编号：LG028  
+版本：未知 - Canary 26052  
+**问题**：**文件资源管理器地址栏中图标和箭头间有一个缝隙，可能导致不小心切换为编辑模式**。  
+状态：Canary 26058 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAo7kib](https://aka.ms/AAo7kib)
 
+<img src="Images/LG028.png" width = "50%" />
 
 ---
 
