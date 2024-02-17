@@ -17,26 +17,26 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 2 月 16 日 13:00 (UTC+8)。记录的反馈数量：85，访问次数：810+
+&emsp;&emsp;上次更新时间：2024 年 2 月 17 日 10:00 (UTC+8)。记录的反馈数量：95，访问次数：830+
 
-&emsp;&emsp;中心更新目录：**祝大家身体健康、工作顺利、阖家幸福、龙年吉祥！**- Ling 🐉 [获取总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [获取已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;中心更新目录：**祝大家身体健康、工作顺利、阖家幸福、龙年吉祥！**- Ling 🐉 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
-|     频道     |    最新版本    |   时间    |                             公告                             |
-| :----------: | :------------: | :-------: | :----------------------------------------------------------: |
-| Canary & Dev | [新] **26058** | 2024/2/15 | [aka.ms/wip26058](https://blogs.windows.com/windows-insider/2024/02/14/announcing-windows-11-insider-preview-build-26058-canary-and-dev-channels) |
-|     Beta     |   22635.3140   | 2024/2/9  | [aka.ms/wip-beta-2-8](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-22635-3140-beta-channel) |
+|     频道     |  最新版本  |   时间    |                             公告                             |
+| :----------: | :--------: | :-------: | :----------------------------------------------------------: |
+| Canary & Dev |   26058    | 2024/2/15 | [aka.ms/wip26058](https://blogs.windows.com/windows-insider/2024/02/14/announcing-windows-11-insider-preview-build-26058-canary-and-dev-channels) |
+|     Beta     | 22635.3140 | 2024/2/9  | [aka.ms/wip-beta-2-8](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-22635-3140-beta-channel) |
 
 | 编号 (点击跳转) |                             问题                             |            状态            |
 | :-------------: | :----------------------------------------------------------: | :------------------------: |
 | [LG002](#LG002) |                部分热门游戏可能无法正常运行。                | 需要更多详细信息、正在处理 |
-| [LG068](#LG068) |       **回退系统将导致开发驱动器硬盘损坏并丢失数据**。       |          正在处理          |
+| [LG068](#LG068) |         回退系统将导致开发驱动器硬盘损坏并丢失数据。         |          正在处理          |
 | [LG066](#LG066) | 设置 > 系统 > 屏幕 > 显示卡位置出现 “显示连接” 选项，点击时菜单崩溃。 |          正在处理          |
-| [LG069](#LG069) |     **安装此版本时可能自动回退，错误代码 0xC1900101**。      |          正在调查          |
-| [LG070](#LG070) | **连接 VPN 时，托盘网络图标 / 部分应用可能提示无 Internet**。 |          正在处理          |
-| [LG071](#LG071) |  **输入切换器 (WIN + 空格) 变为旧版样式，且显示位置错误**。  |          正在调查          |
-| [LG072](#LG072) | **此版本无法显示在 “设置”>“Windows 更新”>“更新历史记录” 页面**。 |          正在调查          |
-| [LG073](#LG073) |       **文件资源管理器的右键菜单可能丢失亚克力效果**。       |          正在处理          |
-| [LG074](#LG074) |              **小组件看板可能不显示任何内容**。              |          正在处理          |
+| [LG069](#LG069) |       安装此版本时可能自动回退，错误代码 0xC1900101。        |          正在调查          |
+| [LG070](#LG070) |  连接 VPN 时，托盘网络图标 / 部分应用可能提示无 Internet。   |          正在处理          |
+| [LG071](#LG071) |    输入切换器 (WIN + 空格) 变为旧版样式，且显示位置错误。    |          正在调查          |
+| [LG072](#LG072) | 此版本无法显示在 “设置”>“Windows 更新”>“更新历史记录” 页面。 |          正在调查          |
+| [LG073](#LG073) |         文件资源管理器的右键菜单可能丢失亚克力效果。         |          正在处理          |
+| [LG074](#LG074) |                小组件看板可能不显示任何内容。                |          正在处理          |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |           **——**           |
 | [LG013](#LG013) |           “设置”>“应用”>“启动” 页面中的图标异常。            |          正在调查          |
 | [LG015](#LG015) |      在文件资源管理器中按下两次 F11 后地址栏将被冻结。       |          正在调查          |
@@ -61,14 +61,24 @@
 | [LG063](#LG063) |              绝地求生 (PUBG) 游戏无法正常运行。              |          正在调查          |
 | [LG064](#LG064) |   全新安装 Windows 11 时，系统生成 Windows.old 空文件夹。    |          正在调查          |
 | [LG065](#LG065) |              使用浏览器观看视频时屏幕可能冻结。              |          正在处理          |
-| [LG077](#LG077) |      **启用 “管理移动设备” 时，“手机连接” 应用断线**。       |          正在调查          |
-| [LG078](#LG078) |                    **电脑无法播放音频**。                    |          正在调查          |
-| [LG079](#LG079) |          **无法使用 Office，显示 0x426-0x0 错误**。          |          正在调查          |
-| [LG080](#LG080) |                     **Visio 应用崩溃**。                     |          正在处理          |
-| [LG081](#LG081) |             **无法登录 Microsoft Sudoku 游戏**。             |          正在调查          |
-| [LG082](#LG082) |     **文件资源管理器右键菜单中的图标显示在错误的位置**。     |          正在调查          |
-| [LG083](#LG083) |                      **光标阴影异常**。                      |          正在调查          |
-| [LG084](#LG084) |                      **光标随机消失**。                      |          正在调查          |
+| [LG077](#LG077) |        启用 “管理移动设备” 时，“手机连接” 应用断线。         |          正在调查          |
+| [LG078](#LG078) |                      电脑无法播放音频。                      |          正在调查          |
+| [LG079](#LG079) |            无法使用 Office，显示 0x426-0x0 错误。            |          正在调查          |
+| [LG080](#LG080) |                       Visio 应用崩溃。                       |          正在处理          |
+| [LG081](#LG081) |               无法登录 Microsoft Sudoku 游戏。               |          正在调查          |
+| [LG082](#LG082) |       文件资源管理器右键菜单中的图标显示在错误的位置。       |          正在调查          |
+| [LG083](#LG083) |                    光标阴影 / 形状异常。                     |          正在调查          |
+| [LG084](#LG084) |                    光标随机消失 / 卡住。                     |          正在调查          |
+| [LG085](#LG085) |       **战地风云 2042 (Battlefield 2042) 游戏崩溃**。        |          正在调查          |
+| [LG086](#LG086) |      **逃离塔科夫 (Escape from Tarkov) 游戏无法启动**。      |          正在调查          |
+| [LG087](#LG087) |             **新版 Microsoft Teams 应用崩溃**。              |          正在调查          |
+| [LG088](#LG088) |     **无法使用截图工具对开始菜单 / 右键菜单进行截图**。      |          正在调查          |
+| [LG089](#LG089) |               **Steam 平台窗口可能无法打开**。               |          正在调查          |
+| [LG090](#LG090) |      **百战天虫：大杀器 (Worms W.M.D) 游戏无法启动**。       |          正在调查          |
+| [LG091](#LG091) | **生化危机4：重制版 (Resident Evil 4 Remake) 游戏无法启动**。 |          正在调查          |
+| [LG092](#LG092) |            **命运 2 (Destiny 2) 游戏无法启动**。             |          正在调查          |
+| [LG093](#LG093) |                 **放大镜无法跟随鼠标移动**。                 |          正在调查          |
+| [LG094](#LG094) |         **相机和 Studio Effects 可能无法正常工作**。         |          正在调查          |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 14 - 28 天)**](#2) |           **——**           |
 | [LG056](#LG056) |             显示器黑屏 / 电脑无法从睡眠中唤醒。              |          已修复 ✓          |
 | [LG054](#LG054) |   Microsoft Store 中的部分视频流媒体应用可能无法正常播放。   |          已修复 ✓          |
@@ -434,7 +444,7 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 
 <SPAN ID = 'LG083'/>编号：LG083  
 版本：Canary 26058  
-**问题**：**光标阴影异常**。  
+**问题**：**光标阴影 / 形状异常**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAp4zrc](https://aka.ms/AAp4zrc)
 
@@ -442,9 +452,89 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 
 <SPAN ID = 'LG084'/>编号：LG084  
 版本：Canary 26058  
-**问题**：**光标随机消失**。  
+**问题**：**光标随机消失 / 卡住**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAp4op2](https://aka.ms/AAp4op2)
+
+---
+
+<SPAN ID = 'LG085'/>编号：LG085  
+版本：Canary 26052 - 26058  
+**问题**：**战地风云 2042 (Battlefield 2042) 游戏崩溃**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp40f1](https://aka.ms/AAp40f1)
+
+---
+
+<SPAN ID = 'LG086'/>编号：LG086  
+版本：Canary 26052 - 26058  
+**问题**：**逃离塔科夫 (Escape from Tarkov) 游戏无法启动**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp6nv5](https://aka.ms/AAp6nv5)
+
+---
+
+<SPAN ID = 'LG087'/>编号：LG087  
+版本：Canary 26040 - 26058  
+**问题**：**新版 Microsoft Teams 应用崩溃**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp5inl](https://aka.ms/AAp5inl)
+
+---
+
+<SPAN ID = 'LG088'/>编号：LG088  
+版本：ALL  
+**问题**：**无法使用截图工具对开始菜单 / 右键菜单进行截图**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp5evo](https://aka.ms/AAp5evo)
+
+---
+
+<SPAN ID = 'LG089'/>编号：LG089  
+版本：Canary 26052 - 26058  
+**问题**：**Steam 平台窗口可能无法打开**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp5wml](https://aka.ms/AAp5wml)
+
+---
+
+<SPAN ID = 'LG090'/>编号：LG090  
+版本：Canary 26058  
+**问题**：**百战天虫：大杀器 (Worms W.M.D) 游戏无法启动**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp5p23](https://aka.ms/AAp5p23)
+
+---
+
+<SPAN ID = 'LG091'/>编号：LG091  
+版本：Canary 26052 - 26058  
+**问题**：**生化危机4：重制版 (Resident Evil 4 Remake) 游戏无法启动**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp6bv6](https://aka.ms/AAp6bv6)
+
+---
+
+<SPAN ID = 'LG092'/>编号：LG092  
+版本：Canary 26058  
+**问题**：**命运 2 (Destiny 2) 游戏无法启动**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp5wnk](https://aka.ms/AAp5wnk)
+
+---
+
+<SPAN ID = 'LG093'/>编号：LG093  
+版本：Canary 26058  
+**问题**：**放大镜无法跟随鼠标移动**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp5woq](https://aka.ms/AAp5woq)
+
+---
+
+<SPAN ID = 'LG094'/>编号：LG094  
+版本：Canary 26052 - 26058  
+**问题**：**相机和 Studio Effects 可能无法正常工作**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp3q1v](https://aka.ms/AAp3q1v)
 
 ---
 
