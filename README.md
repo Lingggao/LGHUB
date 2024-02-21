@@ -17,7 +17,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 2 月 21 日 12:00 (UTC+8)。记录的反馈数量：102，访问次数：880+
+&emsp;&emsp;上次更新时间：2024 年 2 月 21 日 13:00 (UTC+8)。记录的反馈数量：102，访问次数：900+
 
 &emsp;&emsp;中心更新目录：**今日更新 LG095-101。**- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
@@ -38,6 +38,7 @@
 | [LG073](#LG073) |         文件资源管理器的右键菜单可能丢失亚克力效果。         |          正在处理          |
 | [LG074](#LG074) |                小组件看板可能不显示任何内容。                |          正在处理          |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |           **——**           |
+| [LGH00](#LGH00) | **[集合]** **大量游戏 / 反作弊系统 / 游戏平台无法正常运行**。(含列表) | 需要更多详细信息、正在处理 |
 | [LG013](#LG013) |           “设置”>“应用”>“启动” 页面中的图标异常。            |          正在调查          |
 | [LG015](#LG015) |      在文件资源管理器中按下两次 F11 后地址栏将被冻结。       |          正在调查          |
 | [LG018](#LG018) | Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误。 |          正在处理          |
@@ -81,7 +82,7 @@
 | [LG094](#LG094) |           相机和 Studio Effects 可能无法正常工作。           |          正在调查          |
 | [LG095](#LG095) | **通过 Microsoft Store / Xbox 下载盗贼之海 (Sea of Thieves) 游戏时显示 0x87E0000D 错误**。 |          正在处理          |
 | [LG097](#LG097) |           **最终决战 (THE FINALS) 游戏无法启动**。           |          正在调查          |
-| [LG098](#LG098) |          **战地 5 (Battlefield Ⅴ) 游戏无法启动**。           |          正在调查          |
+| [LG098](#LG098) |           **战地 5 (BattlefieldⅤ) 游戏无法启动**。           |          正在调查          |
 | [LG099](#LG099) |      **赛博朋克 2077 (Cyberpunk 2077) 游戏无法启动**。       |          正在调查          |
 | [LG100](#LG100) |        **守望先锋：归来 (OVERWATCH2) 游戏无法启动**。        |          正在调查          |
 | [LG101](#LG101) |                **EA SPORTS FC 24 游戏崩溃**。                |          正在调查          |
@@ -201,6 +202,37 @@ Microsoft 官方回复：“此问题将在未来的版本中得到修复。” 
 ## ✦ Canary - 用户反馈问题 ✦
 
 &emsp;&emsp;记录[反馈中心应用](https://aka.ms/fbh)中 Microsoft 明确响应的问题。
+
+---
+
+<SPAN ID = 'LGH00'/>编号：LGH00  
+版本：Canary  
+**集合**：**大量游戏 / 反作弊系统 / 游戏平台无法正常运行**。  
+状态：<img src="Images/I.png" width = "17%" /> <img src="Images/W.png" width = "10%" />  
+Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多个错误的影响。从 Build 26040 开始，部分游戏可能导致电脑绿屏。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)*  
+<img src="Images/M.png" width = "15%" />
+
+列表 (排名不分先后)
+
+- 阿凡达：潘多拉边境 (Avatar Frontiers of Pandora)
+- Grand Theft Auto V (GTA 5)
+- 战眼 (BattlEye) 反作弊系统
+- 罗布乐思 (Roblox)
+- 堡垒之夜 (Fortnite)
+- EA 反作弊系统
+- 彩虹六号：围攻 (Rainbow Six Siege)
+- 绝地求生 (PUBG)
+- 战地风云 2042 (Battlefield 2042)
+- 逃离塔科夫 (Escape from Tarkov)
+- Steam 平台
+- 百战天虫：大杀器 (Worms W.M.D)
+- 生化危机4：重制版 (Resident Evil 4 Remake)
+- 命运 2 (Destiny 2)
+- 最终决战 (THE FINALS)
+- 战地 5 (BattlefieldⅤ)
+- 赛博朋克 2077 (Cyberpunk 2077)
+- 守望先锋：归来 (OVERWATCH2)
+- EA SPORTS FC 24
 
 ---
 
@@ -566,7 +598,7 @@ Microsoft 官方回复：“感谢反馈，请查看下方的图片。” *(Ling
 
 <SPAN ID = 'LG098'/>编号：LG098  
 版本：Canary 26058  
-**问题**：**战地 5 (Battlefield Ⅴ) 游戏无法启动**。  
+**问题**：**战地 5 (BattlefieldⅤ) 游戏无法启动**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAp81aj](https://aka.ms/AAp81aj)
 
