@@ -46,20 +46,12 @@
 | [LG024](#LG024) | Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误。 |          正在调查          |
 | [LG030](#LG030) | 在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。 |          正在调查          |
 | [LG031](#LG031) |    Microsoft Edge (正式版) “固定到任务栏” 功能可能失效。     |          正在调查          |
-| [LG033](#LG033) | “阿凡达：潘多拉边境” (Avatar Frontiers of Pandora) 游戏崩溃。 |          正在调查          |
-| [LG034](#LG034) |          Grand Theft Auto V (GTA 5) 游戏无法运行。           |          正在调查          |
 | [LG037](#LG037) |    显示 WDAG (Edge) - Container: Error: 0x80004005 错误。    |          正在处理          |
 | [LG040](#LG040) |    文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效。    |          正在调查          |
 | [LG046](#LG046) |           远程桌面显示 0x3 错误 / 0x11 扩展错误。            |          正在调查          |
 | [LG049](#LG049) |  事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)。   |          正在调查          |
 | [LG055](#LG055) |              隐藏 “购物” 等小组件后其再次出现。              |          正在调查          |
-| [LG057](#LG057) |              战眼 (BattlEye) 反作弊系统不兼容。              |          正在调查          |
 | [LG058](#LG058) | 在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误。 |          正在调查          |
-| [LG059](#LG059) |               罗布乐思 (Roblox) 无法正常运行。               |          正在调查          |
-| [LG060](#LG060) |            堡垒之夜 (Fortnite) 游戏无法正常运行。            |          正在调查          |
-| [LG061](#LG061) |                    EA 反作弊系统不兼容。                     |          正在调查          |
-| [LG062](#LG062) |    彩虹六号：围攻 (Rainbow Six Siege) 游戏无法正常运行。     |          正在调查          |
-| [LG063](#LG063) |              绝地求生 (PUBG) 游戏无法正常运行。              |          正在调查          |
 | [LG064](#LG064) |   全新安装 Windows 11 时，系统生成 Windows.old 空文件夹。    |          正在调查          |
 | [LG065](#LG065) |              使用浏览器观看视频时屏幕可能冻结。              |          正在处理          |
 | [LG077](#LG077) |        启用 “管理移动设备” 时，“手机连接” 应用断线。         |          正在调查          |
@@ -70,22 +62,11 @@
 | [LG082](#LG082) |       文件资源管理器右键菜单中的图标显示在错误的位置。       |          正在调查          |
 | [LG083](#LG083) |                    光标阴影 / 形状异常。                     |          正在调查          |
 | [LG084](#LG084) |                    光标随机消失 / 卡住。                     |          正在调查          |
-| [LG085](#LG085) |         战地风云 2042 (Battlefield 2042) 游戏崩溃。          |          正在调查          |
-| [LG086](#LG086) |        逃离塔科夫 (Escape from Tarkov) 游戏无法启动。        |          正在调查          |
 | [LG087](#LG087) |               新版 Microsoft Teams 应用崩溃。                |          正在调查          |
 | [LG088](#LG088) |       无法使用截图工具对开始菜单 / 右键菜单进行截图。        |          正在调查          |
-| [LG089](#LG089) |                 Steam 平台窗口可能无法打开。                 |          正在调查          |
-| [LG090](#LG090) |        百战天虫：大杀器 (Worms W.M.D) 游戏无法启动。         |          正在调查          |
-| [LG091](#LG091) |  生化危机4：重制版 (Resident Evil 4 Remake) 游戏无法启动。   |          正在调查          |
-| [LG092](#LG092) |              命运 2 (Destiny 2) 游戏无法启动。               |          正在调查          |
 | [LG093](#LG093) |                   放大镜无法跟随鼠标移动。                   |          正在调查          |
 | [LG094](#LG094) |           相机和 Studio Effects 可能无法正常工作。           |          正在调查          |
 | [LG095](#LG095) | **通过 Microsoft Store / Xbox 下载盗贼之海 (Sea of Thieves) 游戏时显示 0x87E0000D 错误**。 |          正在处理          |
-| [LG097](#LG097) |           **最终决战 (THE FINALS) 游戏无法启动**。           |          正在调查          |
-| [LG098](#LG098) |           **战地 5 (BattlefieldⅤ) 游戏无法启动**。           |          正在调查          |
-| [LG099](#LG099) |      **赛博朋克 2077 (Cyberpunk 2077) 游戏无法启动**。       |          正在调查          |
-| [LG100](#LG100) |        **守望先锋：归来 (OVERWATCH2) 游戏无法启动**。        |          正在调查          |
-| [LG101](#LG101) |                **EA SPORTS FC 24 游戏崩溃**。                |          正在调查          |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |           **——**           |
 | [LG056](#LG056) |             显示器黑屏 / 电脑无法从睡眠中唤醒。              |          已修复 ✓          |
 | [LG054](#LG054) |   Microsoft Store 中的部分视频流媒体应用可能无法正常播放。   |          已修复 ✓          |
@@ -234,7 +215,7 @@ Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多
 - 守望先锋：归来 (OVERWATCH2)
 - EA SPORTS FC 24
 
-[展开反馈列表]()
+[展开反馈列表](LGH00.md)
 
 ---
 
@@ -300,22 +281,6 @@ Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* 
 
 ---
 
-<SPAN ID = 'LG033'/>编号：LG033  
-版本：Canary 26016 - 26058  
-**问题**：**“阿凡达：潘多拉边境” (Avatar Frontiers of Pandora) 游戏崩溃**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAoa2ag](https://aka.ms/AAoa2ag)
-
----
-
-<SPAN ID = 'LG034'/>编号：LG034  
-版本：Canary 26016 - 26058  
-**问题**：**Grand Theft Auto V (GTA 5) 游戏无法运行**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAo9e71](https://aka.ms/AAo9e71)
-
----
-
 <SPAN ID = 'LG037'/>编号：LG037  
 版本：Canary 25997 - 26058  
 **问题**：**显示 WDAG (Edge) - Container: Error: 0x80004005 错误**。  
@@ -361,59 +326,11 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 
 ---
 
-<SPAN ID = 'LG057'/>编号：LG057  
-版本：Canary 26040 - 26058  
-**问题**：**战眼 (BattlEye) 反作弊系统不兼容**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAox7us](https://aka.ms/AAox7us)
-
----
-
 <SPAN ID = 'LG058'/>编号：LG058  
 版本：Canary 26040 - 26058  
 **问题**：**在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAov9fo](https://aka.ms/AAov9fo)
-
----
-
-<SPAN ID = 'LG059'/>编号：LG059  
-版本：Canary 26040 - 26058  
-**问题**：**罗布乐思 (Roblox) 无法正常运行**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAovw5h](https://aka.ms/AAovw5h)
-
----
-
-<SPAN ID = 'LG060'/>编号：LG060  
-版本：Canary 26040 - 26058  
-**问题**：**堡垒之夜 (Fortnite) 游戏无法正常运行**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAow3xj](https://aka.ms/AAow3xj)
-
----
-
-<SPAN ID = 'LG061'/>编号：LG061  
-版本：Canary 26040 - 26058  
-**问题**：**EA 反作弊系统不兼容**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAox7vk](https://aka.ms/AAox7vk)
-
----
-
-<SPAN ID = 'LG062'/>编号：LG062  
-版本：Canary 26040 - 26058  
-**问题**：**彩虹六号：围攻 (Rainbow Six Siege) 游戏无法正常运行**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAow3xx](https://aka.ms/AAow3xx)
-
----
-
-<SPAN ID = 'LG063'/>编号：LG063  
-版本：Canary 26040 - 26058  
-**问题**：**绝地求生 (PUBG) 游戏无法正常运行**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAn5erb](https://aka.ms/AAn5erb)
 
 ---
 
@@ -499,22 +416,6 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 
 ---
 
-<SPAN ID = 'LG085'/>编号：LG085  
-版本：Canary 26052 - 26058  
-**问题**：**战地风云 2042 (Battlefield 2042) 游戏崩溃**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAp40f1](https://aka.ms/AAp40f1)
-
----
-
-<SPAN ID = 'LG086'/>编号：LG086  
-版本：Canary 26052 - 26058  
-**问题**：**逃离塔科夫 (Escape from Tarkov) 游戏无法启动**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAp6nv5](https://aka.ms/AAp6nv5)
-
----
-
 <SPAN ID = 'LG087'/>编号：LG087  
 版本：Canary 26040 - 26058  
 **问题**：**新版 Microsoft Teams 应用崩溃**。  
@@ -528,38 +429,6 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 **问题**：**无法使用截图工具对开始菜单 / 右键菜单进行截图**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAp5evo](https://aka.ms/AAp5evo)
-
----
-
-<SPAN ID = 'LG089'/>编号：LG089  
-版本：Canary 26052 - 26058  
-**问题**：**Steam 平台窗口可能无法打开**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAp5wml](https://aka.ms/AAp5wml)
-
----
-
-<SPAN ID = 'LG090'/>编号：LG090  
-版本：Canary 26058  
-**问题**：**百战天虫：大杀器 (Worms W.M.D) 游戏无法启动**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAp5p23](https://aka.ms/AAp5p23)
-
----
-
-<SPAN ID = 'LG091'/>编号：LG091  
-版本：Canary 26052 - 26058  
-**问题**：**生化危机4：重制版 (Resident Evil 4 Remake) 游戏无法启动**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAp6bv6](https://aka.ms/AAp6bv6)
-
----
-
-<SPAN ID = 'LG092'/>编号：LG092  
-版本：Canary 26058  
-**问题**：**命运 2 (Destiny 2) 游戏无法启动**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAp5wnk](https://aka.ms/AAp5wnk)
 
 ---
 
@@ -587,46 +456,6 @@ Microsoft 官方回复：“感谢反馈，请查看下方的图片。” *(Ling
 典型反馈：[aka.ms/AAp7hon](https://aka.ms/AAp7hon)
 
 <img src="Images/LG095.png" width = "40%" />
-
----
-
-<SPAN ID = 'LG097'/>编号：LG097  
-版本：Canary 26040 - 26058  
-**问题**：**最终决战 (THE FINALS) 游戏无法启动**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAp2lrp](https://aka.ms/AAp2lrp)
-
----
-
-<SPAN ID = 'LG098'/>编号：LG098  
-版本：Canary 26058  
-**问题**：**战地 5 (BattlefieldⅤ) 游戏无法启动**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAp81aj](https://aka.ms/AAp81aj)
-
----
-
-<SPAN ID = 'LG099'/>编号：LG099  
-版本：Canary 26058  
-**问题**：**赛博朋克 2077 (Cyberpunk 2077) 游戏无法启动**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAp81aj](https://aka.ms/AAp81aj)
-
----
-
-<SPAN ID = 'LG100'/>编号：LG100  
-版本：Canary 26058  
-**问题**：**守望先锋：归来 (OVERWATCH2) 游戏无法启动**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAp8ed6](https://aka.ms/AAp8ed6)
-
----
-
-<SPAN ID = 'LG101'/>编号：LG101  
-版本：Canary 26058  
-**问题**：**EA SPORTS FC 24 游戏崩溃**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAp8kid](https://aka.ms/AAp8kid)
 
 ---
 
