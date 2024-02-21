@@ -83,6 +83,8 @@
 | [LG097](#LG097) |           **最终决战 (THE FINALS) 游戏无法启动**。           |          正在调查          |
 | [LG098](#LG098) |          **战地 5 (Battlefield Ⅴ) 游戏无法启动**。           |          正在调查          |
 | [LG099](#LG099) |      **赛博朋克 2077 (Cyberpunk 2077) 游戏无法启动**。       |          正在调查          |
+| [LG100](#LG100) |        **守望先锋：归来 (OVERWATCH2) 游戏无法启动**。        |          正在调查          |
+| [LG101](#LG101) |                **EA SPORTS FC 24 游戏崩溃**。                |          正在调查          |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |           **——**           |
 | [LG056](#LG056) |             显示器黑屏 / 电脑无法从睡眠中唤醒。              |          已修复 ✓          |
 | [LG054](#LG054) |   Microsoft Store 中的部分视频流媒体应用可能无法正常播放。   |          已修复 ✓          |
@@ -575,6 +577,22 @@ Microsoft 官方回复：“感谢反馈，请查看下方的图片。” *(Ling
 **问题**：**赛博朋克 2077 (Cyberpunk 2077) 游戏无法启动**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAp81aj](https://aka.ms/AAp81aj)
+
+---
+
+<SPAN ID = 'LG100'/>编号：LG100  
+版本：Canary 26058  
+**问题**：**守望先锋：归来 (OVERWATCH2) 游戏无法启动**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp8ed6](https://aka.ms/AAp8ed6)
+
+---
+
+<SPAN ID = 'LG101'/>编号：LG101  
+版本：Canary 26058  
+**问题**：**EA SPORTS FC 24 游戏崩溃**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAp8kid](https://aka.ms/AAp8kid)
 
 ---
 
