@@ -538,6 +538,17 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 
 ---
 
+<SPAN ID = 'LG095'/>编号：LG095  
+版本：ALL  
+**问题**：**通过 Microsoft Store / Xbox 下载盗贼之海 (Sea of Thieves) 游戏时显示 0x87E0000D 错误**。  
+状态：<img src="Images/W.png" width = "10%" />  
+Microsoft 官方回复：“感谢反馈，请查看下方的图片。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAp7hon](https://aka.ms/AAp7hon)
+
+
+
+---
+
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
 <SPAN ID = '2'/>
