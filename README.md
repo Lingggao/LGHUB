@@ -17,14 +17,14 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 2 月 17 日 10:00 (UTC+8)。记录的反馈数量：95，访问次数：830+
+&emsp;&emsp;上次更新时间：2024 年 2 月 21 日 12:00 (UTC+8)。记录的反馈数量：95，访问次数：880+
 
-&emsp;&emsp;中心更新目录：**祝大家身体健康、工作顺利、阖家幸福、龙年吉祥！**- Ling 🐉 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;中心更新目录：**今日更新。**- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
 |     频道     |  最新版本  |   时间    |                             公告                             |
 | :----------: | :--------: | :-------: | :----------------------------------------------------------: |
 | Canary & Dev |   26058    | 2024/2/15 | [aka.ms/wip26058](https://blogs.windows.com/windows-insider/2024/02/14/announcing-windows-11-insider-preview-build-26058-canary-and-dev-channels) |
-|     Beta     | 22635.3140 | 2024/2/9  | [aka.ms/wip-beta-2-8](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-22635-3140-beta-channel) |
+|     Beta     | 22635.3209 | 2024/2/17 | [aka.ms/wip-beta-2-16](https://blogs.windows.com/windows-insider/2024/02/16/announcing-windows-11-insider-preview-build-22635-3209-beta-channel) |
 
 | 编号 (点击跳转) |                             问题                             |            状态            |
 | :-------------: | :----------------------------------------------------------: | :------------------------: |
@@ -79,7 +79,7 @@
 | [LG092](#LG092) |            **命运 2 (Destiny 2) 游戏无法启动**。             |          正在调查          |
 | [LG093](#LG093) |                 **放大镜无法跟随鼠标移动**。                 |          正在调查          |
 | [LG094](#LG094) |         **相机和 Studio Effects 可能无法正常工作**。         |          正在调查          |
-|     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 14 - 28 天)**](#2) |           **——**           |
+|     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |           **——**           |
 | [LG056](#LG056) |             显示器黑屏 / 电脑无法从睡眠中唤醒。              |          已修复 ✓          |
 | [LG054](#LG054) |   Microsoft Store 中的部分视频流媒体应用可能无法正常播放。   |          已修复 ✓          |
 | [LG075](#LG075) |     “设置”>“系统”>“可选功能” 页面中所有功能均为 0 字节。     |          已修复 ✓          |
@@ -542,9 +542,9 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 
 <SPAN ID = '2'/>
 
-## ✦ Canary - 归档 (已做出更改 >14 天) ✦
+## ✦ Canary - 归档 (已做出更改) ✦
 
-&emsp;&emsp;记录 Microsoft 已做出更改 14 - 28 天的问题 & 超过 30 日无新增赞成票的问题。
+&emsp;&emsp;记录 Microsoft 已做出更改 0 - 28 天的问题 & 超过 30 日无新增赞成票的问题。
 
 &emsp;&emsp;无特殊情况，问题归档后不再更新。
 
