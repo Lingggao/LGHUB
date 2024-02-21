@@ -545,7 +545,16 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 Microsoft 官方回复：“感谢反馈，请查看下方的图片。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAp7hon](https://aka.ms/AAp7hon)
 
+<img src="Images/LG095.png" width = "40%" />
 
+---
+
+<SPAN ID = 'LG096'/>编号：LG096  
+版本：Canary xxxxx  
+**问题**：**xxxxx**  
+状态：正在调查 / 正在处理 / 需要更多详细信息 / 所做的更改 / (其他)  
+Microsoft 官方回复：xxxxx  
+典型反馈：[aka.ms/AAxxxxx](https://aka.ms/fbh)
 
 ---
 
