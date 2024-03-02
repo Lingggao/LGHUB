@@ -17,9 +17,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 2 日 19:00 (UTC+8)。记录的反馈数量：104，访问次数：1020+
+&emsp;&emsp;上次更新时间：2024 年 3 月 2 日 19:00 (UTC+8)。记录的反馈数量：108，访问次数：1030+
 
-&emsp;&emsp;中心更新目录：**今日更新 LG102-###。**- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;中心更新目录：**今日更新 LG102 - 107。**- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
 |  频道  |    最新版本     |   时间    |                             公告                             |
 | :----: | :-------------: | :-------: | :----------------------------------------------------------: |
@@ -35,7 +35,7 @@
 | [LG069](#LG069) |       安装此版本时可能自动回退，错误代码 0xC1900101。        |          正在处理          |
 | [LG071](#LG071) |    输入切换器 (WIN + 空格) 变为旧版样式，且显示位置错误。    |          正在处理          |
 | [LG073](#LG073) |         文件资源管理器的右键菜单可能丢失亚克力效果。         |          正在处理          |
-| [LG083](#LG083) |                    光标阴影 / 形状异常。                     |          正在处理          |
+| [LG083](#LG083) |                 光标阴影 / 形状 / 颜色异常。                 |          正在处理          |
 | [LG084](#LG084) |                    光标随机消失 / 卡住。                     |          正在处理          |
 | [LG082](#LG082) |       文件资源管理器右键菜单中的图标显示在错误的位置。       |          正在处理          |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |           **——**           |
@@ -59,12 +59,8 @@
 | [LG103](#LG103) |          **执行某些操作时电脑一直黑屏且无法恢复**。          |          正在调查          |
 | [LG104](#LG104) |    **文件资源管理器崩溃 / 冻结 / 卡顿 / CPU 占用率高**。     |          正在调查          |
 | [LG105](#LG105) |       **Microsoft Edge 无法打开网页，提示内存不足**。        |          正在调查          |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
+| [LG106](#LG106) |       **“设置”>“Windows 更新” 菜单可能无法正常加载**。       |          正在调查          |
+| [LG107](#LG107) |                 **笔记本电脑指纹模块失灵**。                 |          正在调查          |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |           **——**           |
 | [LG018](#LG018) | Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误。 |          已修复 ✓          |
 | [LG019](#LG019) |            远程桌面显示 “图形组件无法启动” 错误。            |          已修复 ✓          |
@@ -95,7 +91,7 @@ Microsoft 官方回复 (如果有)：xxxxx
 图像等补充信息 (如果有)
 ```
 
-LGHUB **2024 年 3 月 2 日更新**：为节约时间，对于诸如 “感谢您的反馈” “我们正在调查中” “请耐心等待” 等**未提供额外信息**的 Microsoft 官方回复，即日起不再翻译，仅标注 <img src="Images/M.png" width = "15%" /> 图标。
+LGHUB **2024 年 3 月 2 日更新**：为节约时间，对于诸如 “感谢您的反馈” “我们正在调查中” “请耐心等待” 等**未提供额外信息**的 Microsoft 官方回复，即日起不再翻译，仅标记 <img src="Images/M.png" width = "15%" /> 图标。
 
 <SPAN ID = '0'/>
 
@@ -160,7 +156,7 @@ Microsoft 官方回复：“此问题将在未来的版本中得到修复。” 
 
 <SPAN ID = 'LG083'/>编号：LG083  
 版本：Canary 26058 - 26063  
-**问题**：**光标阴影 / 形状异常**。  
+**问题**：**光标阴影 / 形状 / 颜色异常**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAp4zrc](https://aka.ms/AAp4zrc)
 
@@ -212,6 +208,7 @@ Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多
 - 战地风云 2042 (Battlefield 2042)
 - 逃离塔科夫 (Escape from Tarkov)
 - Steam 平台
+- Xbox 应用
 - 百战天虫：大杀器 (Worms W.M.D)
 - 生化危机4：重制版 (Resident Evil 4 Remake)
 - 命运 2 (Destiny 2)
@@ -366,7 +363,7 @@ Ling 注：此问题与电脑显示器色深有关，将显示器输出颜色深
 版本：Canary 26063  
 **问题**：**执行某些操作时电脑一直黑屏且无法恢复**。  
 状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AApe1cu](https://aka.ms/AApe1cu)
+典型反馈：[aka.ms/AApe1cu](https://aka.ms/AApe1cu) <img src="Images/M.png" width = "15%" />
 
 Ling 注：在 NVIDIA GeForce Experience 应用中关闭 “游戏内覆盖” 功能可以暂时缓解问题。
 
@@ -378,7 +375,7 @@ Ling 注：在 NVIDIA GeForce Experience 应用中关闭 “游戏内覆盖” �
 版本：Canary 26063  
 **问题**：**文件资源管理器崩溃 / 冻结 / 卡顿 / CPU 占用率高**。  
 状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AApeedv](https://aka.ms/AApeedv)
+典型反馈：[aka.ms/AApeedv](https://aka.ms/AApeedv) <img src="Images/M.png" width = "15%" />
 
 ---
 
@@ -386,15 +383,23 @@ Ling 注：在 NVIDIA GeForce Experience 应用中关闭 “游戏内覆盖” �
 版本：ALL  
 **问题**：**Microsoft Edge 无法打开网页，提示内存不足**。  
 状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AApdw0m](https://aka.ms/AApdw0m)
+典型反馈：[aka.ms/AApdw0m](https://aka.ms/AApdw0m) <img src="Images/M.png" width = "15%" />
 
 ---
 
 <SPAN ID = 'LG106'/>编号：LG106  
 版本：Canary 26063  
-**问题**：**xxxxx**  
+**问题**：**“设置”>“Windows 更新” 菜单可能无法正常加载**。  
 状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AApdw0q](https://aka.ms/AApdw0q)
+典型反馈：[aka.ms/AApdw0q](https://aka.ms/AApdw0q) <img src="Images/M.png" width = "15%" />
+
+---
+
+<SPAN ID = 'LG107'/>编号：LG107  
+版本：Canary 26063  
+**问题**：**笔记本电脑指纹模块失灵**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApe79t](https://aka.ms/AApe79t)
 
 ---
 
