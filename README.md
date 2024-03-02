@@ -57,8 +57,8 @@
 | [LG094](#LG094) |           相机和 Studio Effects 可能无法正常工作。           |          正在调查          |
 | [LG102](#LG102) |                    **屏幕画面变为紫色**。                    |          正在调查          |
 | [LG103](#LG103) |          **执行某些操作时电脑一直黑屏且无法恢复**。          |          正在调查          |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
+| [LG104](#LG104) |    **文件资源管理器崩溃 / 冻结 / 卡顿 / CPU 占用率高**。     |          正在调查          |
+| [LG105](#LG105) |       **Microsoft Edge 无法打开网页，提示内存不足**。        |          正在调查          |
 |                 |                                                              |                            |
 |                 |                                                              |                            |
 |                 |                                                              |                            |
@@ -94,6 +94,8 @@ Microsoft 官方回复 (如果有)：xxxxx
 典型反馈 (如果有)：[aka.ms/AAxxxxx](https://aka.ms/fbh)  
 图像等补充信息 (如果有)
 ```
+
+LGHUB **2024 年 3 月 2 日更新**：为节约时间，对于诸如 “感谢您的反馈” “我们正在调查中” “请耐心等待” 等**未提供额外信息**的 Microsoft 官方回复，即日起不再翻译，仅标注 <img src="Images/M.png" width = "15%" /> 图标。
 
 <SPAN ID = '0'/>
 
@@ -372,7 +374,27 @@ Ling 注：在 NVIDIA GeForce Experience 应用中关闭 “游戏内覆盖” �
 
 ---
 
+<SPAN ID = 'LG104'/>编号：LG104  
+版本：Canary 26063  
+**问题**：**文件资源管理器崩溃 / 冻结 / 卡顿 / CPU 占用率高**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApeedv](https://aka.ms/AApeedv)
 
+---
+
+<SPAN ID = 'LG105'/>编号：LG105  
+版本：ALL  
+**问题**：**Microsoft Edge 无法打开网页，提示内存不足**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApdw0m](https://aka.ms/AApdw0m)
+
+---
+
+<SPAN ID = 'LG106'/>编号：LG106  
+版本：Canary 26063  
+**问题**：**xxxxx**  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApdw0q](https://aka.ms/AApdw0q)
 
 ---
 
