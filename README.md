@@ -32,12 +32,12 @@
 | [LG002](#LG002) |                部分热门游戏可能无法正常运行。                | 需要更多详细信息、正在处理 |
 | [LG068](#LG068) |         回退系统将导致开发驱动器硬盘损坏并丢失数据。         |          正在处理          |
 | [LG066](#LG066) | 设置 > 系统 > 屏幕 > 显示卡位置出现 “显示连接” 选项，点击时菜单崩溃。 |          正在处理          |
-| [LG069](#LG069) |       安装此版本时可能自动回退，错误代码 0xC1900101。        |          正在调查          |
-| [LG070](#LG070) |  连接 VPN 时，托盘网络图标 / 部分应用可能提示无 Internet。   |          正在处理          |
-| [LG071](#LG071) |    输入切换器 (WIN + 空格) 变为旧版样式，且显示位置错误。    |          正在调查          |
-| [LG072](#LG072) | 此版本无法显示在 “设置”>“Windows 更新”>“更新历史记录” 页面。 |          正在调查          |
+| [LG069](#LG069) |       安装此版本时可能自动回退，错误代码 0xC1900101。        |          正在处理          |
+| [LG071](#LG071) |    输入切换器 (WIN + 空格) 变为旧版样式，且显示位置错误。    |          正在处理          |
 | [LG073](#LG073) |         文件资源管理器的右键菜单可能丢失亚克力效果。         |          正在处理          |
-| [LG074](#LG074) |                小组件看板可能不显示任何内容。                |          正在处理          |
+| [LG083](#LG083) |                    光标阴影 / 形状异常。                     |          正在处理          |
+| [LG084](#LG084) |                    光标随机消失 / 卡住。                     |          正在处理          |
+| [LG082](#LG082) |       文件资源管理器右键菜单中的图标显示在错误的位置。       |          正在处理          |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |           **——**           |
 | [LGH00](#LGH00) | **[集合]** **大量游戏 / 反作弊系统 / 游戏平台无法正常运行**。(含列表) | 需要更多详细信息、正在处理 |
 | [LG013](#LG013) |           “设置”>“应用”>“启动” 页面中的图标异常。            |          正在调查          |
@@ -51,9 +51,6 @@
 | [LG079](#LG079) |            无法使用 Office，显示 0x426-0x0 错误。            |          正在调查          |
 | [LG080](#LG080) |                       Visio 应用崩溃。                       |          正在处理          |
 | [LG081](#LG081) |               无法登录 Microsoft Sudoku 游戏。               |          正在调查          |
-| [LG082](#LG082) |       文件资源管理器右键菜单中的图标显示在错误的位置。       |          正在处理          |
-| [LG083](#LG083) |                    光标阴影 / 形状异常。                     |          正在处理          |
-| [LG084](#LG084) |                    光标随机消失 / 卡住。                     |          正在处理          |
 | [LG087](#LG087) |               新版 Microsoft Teams 应用崩溃。                |          正在调查          |
 | [LG088](#LG088) |       无法使用截图工具对开始菜单 / 右键菜单进行截图。        |          正在调查          |
 | [LG093](#LG093) |                   放大镜无法跟随鼠标移动。                   |          正在处理          |
@@ -69,8 +66,9 @@
 | [LG064](#LG064) |   全新安装 Windows 11 时，系统生成 Windows.old 空文件夹。    |          已修复 ✓          |
 | [LG078](#LG078) |                      电脑无法播放音频。                      |          已修复 ✓          |
 | [LG095](#LG095) | 通过 Microsoft Store / Xbox 下载盗贼之海 (Sea of Thieves) 游戏时显示 0x87E0000D 错误。 |          已修复 ✓          |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
+| [LG070](#LG070) |  连接 VPN 时，托盘网络图标 / 部分应用可能提示无 Internet。   |          已修复 ✓          |
+| [LG072](#LG072) | 此版本无法显示在 “设置”>“Windows 更新”>“更新历史记录” 页面。 |          已修复 ✓          |
+| [LG074](#LG074) |                小组件看板可能不显示任何内容。                |          已修复 ✓          |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |           **——**           |
 
 [**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
@@ -96,7 +94,7 @@ Microsoft 官方回复 (如果有)：xxxxx
 ---
 
 <SPAN ID = 'LG002'/>编号：LG002  
-版本：Canary 25951 - 26058  
+版本：Canary 25951 - 26063  
 **问题**：**部分热门游戏可能无法正常运行**。  
 状态：<img src="Images/I.png" width = "17%" /> <img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多个错误的影响。从 Build 26040 开始，部分游戏可能导致电脑绿屏。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)*  
@@ -105,7 +103,7 @@ Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多
 ---
 
 <SPAN ID = 'LG068'/>编号：LG068  
-版本：Canary 26052 - 26058  
+版本：Canary 26052 - 26063  
 **问题**：**回退系统将导致开发驱动器硬盘损坏并丢失数据**。  
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“请在回退前备份开发驱动器硬盘。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
@@ -113,7 +111,7 @@ Microsoft 官方回复：“请在回退前备份开发驱动器硬盘。” *(L
 ---
 
 <SPAN ID = 'LG066'/>编号：LG066  
-版本：Canary 26052 - 26058  
+版本：Canary 26052 - 26063  
 **问题**：**设置 > 系统 > 屏幕 > 显示卡位置出现 “显示连接” 选项，点击时菜单崩溃**。  
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“此选项将在未来的版本中移除。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
@@ -123,23 +121,16 @@ Microsoft 官方回复：“此选项将在未来的版本中移除。” *(Ling
 ---
 
 <SPAN ID = 'LG069'/>编号：LG069  
-版本：Canary 26058  
+版本：Canary 26058 - 26063  
 **问题**：**安装此版本时可能自动回退，错误代码 0xC1900101**。  
-状态：<img src="Images/L.png" width = "10%" />
-
----
-
-<SPAN ID = 'LG070'/>编号：LG070  
-版本：Canary 26058  
-**问题**：**连接 VPN 时，托盘网络图标 / 部分应用可能提示无 Internet**。  
 状态：<img src="Images/W.png" width = "10%" />
 
 ---
 
 <SPAN ID = 'LG071'/>编号：LG071  
-版本：Canary 26052 - 26058  
+版本：Canary 26052 - 26063  
 **问题**：**输入切换器 (WIN + 空格) 变为旧版样式，且显示位置错误**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“我们正在调查此问题，请耐心等待。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AAp5tgd](https://aka.ms/AAp5tgd)
 
@@ -147,27 +138,35 @@ Microsoft 官方回复：“我们正在调查此问题，请耐心等待。” 
 
 ---
 
-<SPAN ID = 'LG072'/>编号：LG072  
-版本：Canary 26058  
-**问题**：**此版本无法显示在 “设置”>“Windows 更新”>“更新历史记录” 页面**。  
-状态：<img src="Images/L.png" width = "10%" />
-
-<img src="Images/LG072.png" width = "40%" />
-
----
-
 <SPAN ID = 'LG073'/>编号：LG073  
-版本：Canary 26058  
+版本：Canary 26058 - 26063  
 **问题**：**文件资源管理器的右键菜单可能丢失亚克力效果**。  
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“此问题将在未来的版本中得到修复。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
 
 ---
 
-<SPAN ID = 'LG074'/>编号：LG074  
-版本：Canary 26058  
-**问题**：**小组件看板可能不显示任何内容**。  
-状态：<img src="Images/W.png" width = "10%" />
+<SPAN ID = 'LG083'/>编号：LG083  
+版本：Canary 26058 - 26063  
+**问题**：**光标阴影 / 形状异常**。  
+状态：<img src="Images/W.png" width = "10%" />  
+典型反馈：[aka.ms/AAp4zrc](https://aka.ms/AAp4zrc)
+
+---
+
+<SPAN ID = 'LG084'/>编号：LG084  
+版本：Canary 26058 - 26063  
+**问题**：**光标随机消失 / 卡住**。  
+状态：<img src="Images/W.png" width = "10%" />  
+典型反馈：[aka.ms/AAp4op2](https://aka.ms/AAp4op2)
+
+---
+
+<SPAN ID = 'LG082'/>编号：LG082  
+版本：Canary 26058 - 26063  
+**问题**：**文件资源管理器右键菜单中的图标显示在错误的位置**。  
+状态：<img src="Images/W.png" width = "10%" />  
+典型反馈：[aka.ms/AAp536r](https://aka.ms/AAp536r)
 
 ---
 
@@ -307,30 +306,6 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 
 ---
 
-<SPAN ID = 'LG082'/>编号：LG082  
-版本：Canary 26058 - 26063  
-**问题**：**文件资源管理器右键菜单中的图标显示在错误的位置**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AAp536r](https://aka.ms/AAp536r)
-
----
-
-<SPAN ID = 'LG083'/>编号：LG083  
-版本：Canary 26058 - 26063  
-**问题**：**光标阴影 / 形状异常**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AAp4zrc](https://aka.ms/AAp4zrc)
-
----
-
-<SPAN ID = 'LG084'/>编号：LG084  
-版本：Canary 26058 - 26063  
-**问题**：**光标随机消失 / 卡住**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AAp4op2](https://aka.ms/AAp4op2)
-
----
-
 <SPAN ID = 'LG087'/>编号：LG087  
 版本：Canary 26040 - 26063  
 **问题**：**新版 Microsoft Teams 应用崩溃**。  
@@ -467,6 +442,29 @@ Microsoft 官方回复：“感谢反馈，请查看下方的图片。” *(Ling
 典型反馈：[aka.ms/AAp7hon](https://aka.ms/AAp7hon)
 
 <img src="Images/LG095.png" width = "40%" />
+
+---
+
+<SPAN ID = 'LG070'/>编号：LG070  
+版本：Canary 26058  
+**问题**：**连接 VPN 时，托盘网络图标 / 部分应用可能提示无 Internet**。  
+状态：Canary 26063 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓
+
+---
+
+<SPAN ID = 'LG072'/>编号：LG072  
+版本：Canary 26058  
+**问题**：**此版本无法显示在 “设置”>“Windows 更新”>“更新历史记录” 页面**。  
+状态：Canary 26063 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓
+
+<img src="Images/LG072.png" width = "40%" />
+
+---
+
+<SPAN ID = 'LG074'/>编号：LG074  
+版本：Canary 26058  
+**问题**：**小组件看板可能不显示任何内容**。  
+状态：Canary 26063 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓
 
 ---
 
