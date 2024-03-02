@@ -17,9 +17,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 2 日 19:00 (UTC+8)。记录的反馈数量：102，访问次数：1020+
+&emsp;&emsp;上次更新时间：2024 年 3 月 2 日 19:00 (UTC+8)。记录的反馈数量：104，访问次数：1020+
 
-&emsp;&emsp;中心更新目录：**今日更新 LG095-101。**- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;中心更新目录：**今日更新 LG102-###。**- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
 |  频道  |    最新版本     |   时间    |                             公告                             |
 | :----: | :-------------: | :-------: | :----------------------------------------------------------: |
@@ -56,7 +56,7 @@
 | [LG093](#LG093) |                   放大镜无法跟随鼠标移动。                   |          正在处理          |
 | [LG094](#LG094) |           相机和 Studio Effects 可能无法正常工作。           |          正在调查          |
 | [LG102](#LG102) |                    **屏幕画面变为紫色**。                    |          正在调查          |
-|                 |                                                              |                            |
+| [LG103](#LG103) |          **执行某些操作时电脑一直黑屏且无法恢复**。          |          正在调查          |
 |                 |                                                              |                            |
 |                 |                                                              |                            |
 |                 |                                                              |                            |
@@ -357,6 +357,16 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 Ling 注：此问题与电脑显示器色深有关，将显示器输出颜色深度调整为 8 bpc 可以暂时缓解问题。
 
 <img src="Images/LG102.jpg" width = "40%" />
+
+---
+
+<SPAN ID = 'LG103'/>编号：LG103  
+版本：Canary 26063  
+**问题**：**执行某些操作时电脑一直黑屏且无法恢复**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApe1cu](https://aka.ms/AApe1cu)
+
+Ling 注：在 NVIDIA GeForce Experience 应用中关闭 “游戏内覆盖” 功能可以暂时缓解问题。
 
 ---
 
