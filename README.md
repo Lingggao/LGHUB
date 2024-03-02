@@ -42,39 +42,33 @@
 | [LGH00](#LGH00) | **[集合]** **大量游戏 / 反作弊系统 / 游戏平台无法正常运行**。(含列表) | 需要更多详细信息、正在处理 |
 | [LG013](#LG013) |           “设置”>“应用”>“启动” 页面中的图标异常。            |          正在调查          |
 | [LG015](#LG015) |      在文件资源管理器中按下两次 F11 后地址栏将被冻结。       |          正在调查          |
-| [LG018](#LG018) | Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误。 |          正在处理          |
-| [LG019](#LG019) |            远程桌面显示 “图形组件无法启动” 错误。            |          正在处理          |
-| [LG024](#LG024) | Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误。 |          正在调查          |
 | [LG030](#LG030) | 在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。 |          正在调查          |
-| [LG031](#LG031) |    Microsoft Edge (正式版) “固定到任务栏” 功能可能失效。     |          正在调查          |
-| [LG037](#LG037) |    显示 WDAG (Edge) - Container: Error: 0x80004005 错误。    |          正在处理          |
-| [LG040](#LG040) |    文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效。    |          正在调查          |
-| [LG046](#LG046) |           远程桌面显示 0x3 错误 / 0x11 扩展错误。            |          正在调查          |
 | [LG049](#LG049) |  事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)。   |          正在调查          |
 | [LG055](#LG055) |              隐藏 “购物” 等小组件后其再次出现。              |          正在调查          |
 | [LG058](#LG058) | 在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误。 |          正在调查          |
-| [LG064](#LG064) |   全新安装 Windows 11 时，系统生成 Windows.old 空文件夹。    |          正在调查          |
 | [LG065](#LG065) |              使用浏览器观看视频时屏幕可能冻结。              |          正在处理          |
 | [LG077](#LG077) |        启用 “管理移动设备” 时，“手机连接” 应用断线。         |          正在调查          |
-| [LG078](#LG078) |                      电脑无法播放音频。                      |          正在调查          |
 | [LG079](#LG079) |            无法使用 Office，显示 0x426-0x0 错误。            |          正在调查          |
 | [LG080](#LG080) |                       Visio 应用崩溃。                       |          正在处理          |
 | [LG081](#LG081) |               无法登录 Microsoft Sudoku 游戏。               |          正在调查          |
-| [LG082](#LG082) |       文件资源管理器右键菜单中的图标显示在错误的位置。       |          正在调查          |
-| [LG083](#LG083) |                    光标阴影 / 形状异常。                     |          正在调查          |
-| [LG084](#LG084) |                    光标随机消失 / 卡住。                     |          正在调查          |
+| [LG082](#LG082) |       文件资源管理器右键菜单中的图标显示在错误的位置。       |          正在处理          |
+| [LG083](#LG083) |                    光标阴影 / 形状异常。                     |          正在处理          |
+| [LG084](#LG084) |                    光标随机消失 / 卡住。                     |          正在处理          |
 | [LG087](#LG087) |               新版 Microsoft Teams 应用崩溃。                |          正在调查          |
 | [LG088](#LG088) |       无法使用截图工具对开始菜单 / 右键菜单进行截图。        |          正在调查          |
-| [LG093](#LG093) |                   放大镜无法跟随鼠标移动。                   |          正在调查          |
+| [LG093](#LG093) |                   放大镜无法跟随鼠标移动。                   |          正在处理          |
 | [LG094](#LG094) |           相机和 Studio Effects 可能无法正常工作。           |          正在调查          |
-| [LG095](#LG095) | **通过 Microsoft Store / Xbox 下载盗贼之海 (Sea of Thieves) 游戏时显示 0x87E0000D 错误**。 |          正在处理          |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |           **——**           |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
-|                 |                                                              |                            |
+| [LG018](#LG018) | Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误。 |          已修复 ✓          |
+| [LG019](#LG019) |            远程桌面显示 “图形组件无法启动” 错误。            |          已修复 ✓          |
+| [LG024](#LG024) | Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误。 |          已修复 ✓          |
+| [LG031](#LG031) |    Microsoft Edge (正式版) “固定到任务栏” 功能可能失效。     |          已修复 ✓          |
+| [LG037](#LG037) |    显示 WDAG (Edge) - Container: Error: 0x80004005 错误。    |          已修复 ✓          |
+| [LG040](#LG040) |    文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效。    |          已修复 ✓          |
+| [LG046](#LG046) |           远程桌面显示 0x3 错误 / 0x11 扩展错误。            |          已修复 ✓          |
+| [LG064](#LG064) |   全新安装 Windows 11 时，系统生成 Windows.old 空文件夹。    |          已修复 ✓          |
+| [LG078](#LG078) |                      电脑无法播放音频。                      |          已修复 ✓          |
+| [LG095](#LG095) | 通过 Microsoft Store / Xbox 下载盗贼之海 (Sea of Thieves) 游戏时显示 0x87E0000D 错误。 |          已修复 ✓          |
 |                 |                                                              |                            |
 |                 |                                                              |                            |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |           **——**           |
@@ -238,79 +232,16 @@ Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多
 
 ---
 
-<SPAN ID = 'LG018'/>编号：LG018  
-版本：Canary 25987 - 26058  
-**问题**：**Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AAo7kst](https://aka.ms/AAo7kst)
-
----
-
-<SPAN ID = 'LG019'/>编号：LG019  
-版本：Canary 25997 - 26058  
-**问题**：**远程桌面显示 “图形组件无法启动” 错误**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AAnyzb4](https://aka.ms/AAnyzb4)
-
----
-
-<SPAN ID = 'LG024'/>编号：LG024  
-版本：Canary 26002 - 26058  
-**问题**：**Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAo7div](https://aka.ms/AAo7div)
-
-<img src="Images/LG024.png" width = "50%" />
-
----
-
 <SPAN ID = 'LG030'/>编号：LG030  
-版本：Canary 25905 - 26058  
+版本：Canary 25905 - 26063  
 **问题**：**在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAlzfg7](https://aka.ms/AAlzfg7)
 
 ---
 
-<SPAN ID = 'LG031'/>编号：LG031  
-版本：ALL  
-**问题**：**Microsoft Edge (正式版) “固定到任务栏” 功能可能失效**。  
-状态：<img src="Images/L.png" width = "10%" />  
-Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
-
-<img src="Images/LG031.png" width = "35%" />
-
----
-
-<SPAN ID = 'LG037'/>编号：LG037  
-版本：Canary 25997 - 26058  
-**问题**：**显示 WDAG (Edge) - Container: Error: 0x80004005 错误**。  
-状态：<img src="Images/W.png" width = "10%" />  
-Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAnzef8](https://aka.ms/AAnzef8)
-
----
-
-<SPAN ID = 'LG040'/>编号：LG040  
-版本：未知 - Canary 26058  
-**问题**：**文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAoawwk](https://aka.ms/AAoawwk)
-
-<img src="Images/LG040.png" width = "30%" />
-
----
-
-<SPAN ID = 'LG046'/>编号：LG046  
-版本：Canary 26020 - 26058  
-**问题**：**远程桌面显示 0x3 错误 / 0x11 扩展错误**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAnyjyk](https://aka.ms/AAnyjyk)
-
----
-
 <SPAN ID = 'LG049'/>编号：LG049  
-版本：Canary 26020 - 26058  
+版本：Canary 26020 - 26063  
 **问题**：**事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAoipfs](https://aka.ms/AAoipfs)
@@ -318,7 +249,7 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG055'/>编号：LG055  
-版本：Canary 26040 - 26058  
+版本：Canary 26040 - 26063  
 **问题**：**隐藏 “购物” 等小组件后其再次出现**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAotzrh](https://aka.ms/AAotzrh)
@@ -328,23 +259,15 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 ---
 
 <SPAN ID = 'LG058'/>编号：LG058  
-版本：Canary 26040 - 26058  
+版本：Canary 26040 - 26063  
 **问题**：**在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAov9fo](https://aka.ms/AAov9fo)
 
 ---
 
-<SPAN ID = 'LG064'/>编号：LG064  
-版本：Canary 26040 - 26058  
-**问题**：**全新安装 Windows 11 时，系统生成 Windows.old 空文件夹**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAovgrv](https://aka.ms/AAovgrv)
-
----
-
 <SPAN ID = 'LG065'/>编号：LG065  
-版本：Canary 26040 - 26058  
+版本：Canary 26040 - 26063  
 **问题**：**使用浏览器观看视频时屏幕可能冻结**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAoxr0y](https://aka.ms/AAoxr0y)
@@ -359,17 +282,8 @@ Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)*
 
 ---
 
-<SPAN ID = 'LG078'/>编号：LG078  
-版本：Canary 26052 - 26058  
-**问题**：**电脑无法播放音频**。  
-状态：<img src="Images/L.png" width = "10%" />  
-Microsoft 官方回复：“如果您受到此问题影响，请尽可能地提交反馈，捕获 ‘尝试播放音频但没有声音’ 的跟踪信息。请向 ‘设备和驱动程序’ - ‘音频和声音’ 类别提交。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAp2b8r](https://aka.ms/AAp2b8r)
-
----
-
 <SPAN ID = 'LG079'/>编号：LG079  
-版本：Canary 26040 - 26058  
+版本：Canary 26040 - 26063  
 **问题**：**无法使用 Office，显示 0x426-0x0 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAp3qas](https://aka.ms/AAp3qas)
@@ -377,7 +291,7 @@ Microsoft 官方回复：“如果您受到此问题影响，请尽可能地提�
 ---
 
 <SPAN ID = 'LG080'/>编号：LG080  
-版本：Canary 26052 - 26058  
+版本：Canary 26052 - 26063  
 **问题**：**Visio 应用崩溃**。  
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“我们已经找出问题所在，正在修复中。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
@@ -394,31 +308,31 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 ---
 
 <SPAN ID = 'LG082'/>编号：LG082  
-版本：Canary 26058  
+版本：Canary 26058 - 26063  
 **问题**：**文件资源管理器右键菜单中的图标显示在错误的位置**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAp536r](https://aka.ms/AAp536r)
 
 ---
 
 <SPAN ID = 'LG083'/>编号：LG083  
-版本：Canary 26058  
+版本：Canary 26058 - 26063  
 **问题**：**光标阴影 / 形状异常**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAp4zrc](https://aka.ms/AAp4zrc)
 
 ---
 
 <SPAN ID = 'LG084'/>编号：LG084  
-版本：Canary 26058  
+版本：Canary 26058 - 26063  
 **问题**：**光标随机消失 / 卡住**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAp4op2](https://aka.ms/AAp4op2)
 
 ---
 
 <SPAN ID = 'LG087'/>编号：LG087  
-版本：Canary 26040 - 26058  
+版本：Canary 26040 - 26063  
 **问题**：**新版 Microsoft Teams 应用崩溃**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAp5inl](https://aka.ms/AAp5inl)
@@ -434,29 +348,22 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 ---
 
 <SPAN ID = 'LG093'/>编号：LG093  
-版本：Canary 26058  
+版本：Canary 26058 - 26063  
 **问题**：**放大镜无法跟随鼠标移动**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAp5woq](https://aka.ms/AAp5woq)
 
 ---
 
 <SPAN ID = 'LG094'/>编号：LG094  
-版本：Canary 26052 - 26058  
+版本：Canary 26052 - 26063  
 **问题**：**相机和 Studio Effects 可能无法正常工作**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAp3q1v](https://aka.ms/AAp3q1v)
 
 ---
 
-<SPAN ID = 'LG095'/>编号：LG095  
-版本：ALL  
-**问题**：**通过 Microsoft Store / Xbox 下载盗贼之海 (Sea of Thieves) 游戏时显示 0x87E0000D 错误**。  
-状态：<img src="Images/W.png" width = "10%" />  
-Microsoft 官方回复：“感谢反馈，请查看下方的图片。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAp7hon](https://aka.ms/AAp7hon)
 
-<img src="Images/LG095.png" width = "40%" />
 
 ---
 
@@ -472,7 +379,94 @@ Microsoft 官方回复：“感谢反馈，请查看下方的图片。” *(Ling
 
 ---
 
+<SPAN ID = 'LG018'/>编号：LG018  
+版本：Canary 25987 - 26058  
+**问题**：**Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误**。  
+状态：Canary 26063 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAo7kst](https://aka.ms/AAo7kst)
 
+---
+
+<SPAN ID = 'LG019'/>编号：LG019  
+版本：Canary 25997 - 26058  
+**问题**：**远程桌面显示 “图形组件无法启动” 错误**。  
+状态：Canary 26063 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAnyzb4](https://aka.ms/AAnyzb4)
+
+---
+
+<SPAN ID = 'LG024'/>编号：LG024  
+版本：Canary 26002 - 26058  
+**问题**：**Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误**。  
+状态：Canary 26063 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAo7div](https://aka.ms/AAo7div)
+
+<img src="Images/LG024.png" width = "50%" />
+
+---
+
+<SPAN ID = 'LG031'/>编号：LG031  
+版本：ALL  
+**问题**：**Microsoft Edge (正式版) “固定到任务栏” 功能可能失效**。  
+状态：Edge Canary 124.0.2422.0 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“Edge 团队正在积极研究中。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
+
+<img src="Images/LG031.png" width = "35%" />
+
+---
+
+<SPAN ID = 'LG037'/>编号：LG037  
+版本：Canary 25997 - 26058  
+**问题**：**显示 WDAG (Edge) - Container: Error: 0x80004005 错误**。  
+状态：Canary 26052 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“我们正在努力修复此问题。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAnzef8](https://aka.ms/AAnzef8)
+
+---
+
+<SPAN ID = 'LG040'/>编号：LG040  
+版本：未知 - Canary 26058  
+**问题**：**文件资源管理器 “登录时还原上一个文件夹窗口” 选项失效**。  
+状态：Canary 26063 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAoawwk](https://aka.ms/AAoawwk)
+
+<img src="Images/LG040.png" width = "30%" />
+
+---
+
+<SPAN ID = 'LG046'/>编号：LG046  
+版本：Canary 26020 - 26058  
+**问题**：**远程桌面显示 0x3 错误 / 0x11 扩展错误**。  
+状态：Canary 26063 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAnyjyk](https://aka.ms/AAnyjyk)
+
+---
+
+<SPAN ID = 'LG064'/>编号：LG064  
+版本：Canary 26040 - 26058  
+**问题**：**全新安装 Windows 11 时，系统生成 Windows.old 空文件夹**。  
+状态：Canary 26063 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAovgrv](https://aka.ms/AAovgrv)
+
+---
+
+<SPAN ID = 'LG078'/>编号：LG078  
+版本：Canary 26052 - 26058  
+**问题**：**电脑无法播放音频**。  
+状态：Canary 26063 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“如果您受到此问题影响，请尽可能地提交反馈，捕获 ‘尝试播放音频但没有声音’ 的跟踪信息。请向 ‘设备和驱动程序’ - ‘音频和声音’ 类别提交。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAp2b8r](https://aka.ms/AAp2b8r)
+
+---
+
+<SPAN ID = 'LG095'/>编号：LG095  
+版本：ALL  
+**问题**：**通过 Microsoft Store / Xbox 下载盗贼之海 (Sea of Thieves) 游戏时显示 0x87E0000D 错误**。  
+状态：ALL - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“感谢反馈，请查看下方的图片。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAp7hon](https://aka.ms/AAp7hon)
+
+<img src="Images/LG095.png" width = "40%" />
 
 ---
 
