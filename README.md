@@ -17,14 +17,15 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 2 月 21 日 13:00 (UTC+8)。记录的反馈数量：102，访问次数：900+
+&emsp;&emsp;上次更新时间：2024 年 3 月 2 日 19:00 (UTC+8)。记录的反馈数量：102，访问次数：900+
 
 &emsp;&emsp;中心更新目录：**今日更新 LG095-101。**- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
-|     频道     |  最新版本  |   时间    |                             公告                             |
-| :----------: | :--------: | :-------: | :----------------------------------------------------------: |
-| Canary & Dev |   26058    | 2024/2/15 | [aka.ms/wip26058](https://blogs.windows.com/windows-insider/2024/02/14/announcing-windows-11-insider-preview-build-26058-canary-and-dev-channels) |
-|     Beta     | 22635.3209 | 2024/2/17 | [aka.ms/wip-beta-2-16](https://blogs.windows.com/windows-insider/2024/02/16/announcing-windows-11-insider-preview-build-22635-3209-beta-channel) |
+|  频道  |    最新版本     |   时间    |                             公告                             |
+| :----: | :-------------: | :-------: | :----------------------------------------------------------: |
+| Canary |      26063      | 2024/2/23 | [aka.ms/wip26063](https://blogs.windows.com/windows-insider/2024/02/22/announcing-windows-11-insider-preview-build-26063-canary-channel) |
+|  Dev   | 26058.1400/1300 | 2024/2/23 | [aka.ms/wip26058](https://blogs.windows.com/windows-insider/2024/02/14/announcing-windows-11-insider-preview-build-26058-canary-and-dev-channels) |
+|  Beta  |   22635.3212    | 2024/2/27 | [aka.ms/wip-beta-2-26](https://blogs.windows.com/windows-insider/2024/02/26/announcing-windows-11-insider-preview-build-22635-3212-beta-channel) |
 
 | 编号 (点击跳转) |                             问题                             |            状态            |
 | :-------------: | :----------------------------------------------------------: | :------------------------: |
