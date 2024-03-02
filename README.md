@@ -356,7 +356,7 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 
 Ling 注：此问题与电脑显示器色深有关，将显示器输出颜色深度调整为 8 bpc 可以暂时缓解问题。
 
-<img src="Images/LG102.jpg" width = "40%" />
+<img src="Images/LG102.jpg" width = "50%" />
 
 ---
 
@@ -367,6 +367,8 @@ Ling 注：此问题与电脑显示器色深有关，将显示器输出颜色深
 典型反馈：[aka.ms/AApe1cu](https://aka.ms/AApe1cu)
 
 Ling 注：在 NVIDIA GeForce Experience 应用中关闭 “游戏内覆盖” 功能可以暂时缓解问题。
+
+<img src="Images/LG103.png" width = "50%" />
 
 ---
 
