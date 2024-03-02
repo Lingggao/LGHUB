@@ -1,5 +1,5 @@
 <SPAN ID = 'HEAD'/>
-<img src="Images/LING.png" width = "25%" />
+<img src="Images/LING.png" width = "25%" /> <img src="Images/MCC2024.png" width = "15%" />
 
 # 灵糕中心 (Linggao Hub)
 
@@ -17,7 +17,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 2 日 19:00 (UTC+8)。记录的反馈数量：102，访问次数：1000+
+&emsp;&emsp;上次更新时间：2024 年 3 月 2 日 19:00 (UTC+8)。记录的反馈数量：102，访问次数：1020+
 
 &emsp;&emsp;中心更新目录：**今日更新 LG095-101。**- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
