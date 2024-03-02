@@ -1,5 +1,5 @@
 <SPAN ID = 'HEAD'/>
-<img src="Images/LING.png" width = "25%" /> <img src="Images/MCC2024.png" width = "10%" />
+<img src="Images/LING.png" width = "25%" /> <img src="Images/MCC2024.png" width = "13%" />
 
 # 灵糕中心 (Linggao Hub)
 
