@@ -17,11 +17,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 11 日 2:00 (UTC+8)。访问次数：1130+
+&emsp;&emsp;上次更新时间：2024 年 3 月 11 日 6:00 (UTC+8)。访问次数：1140+
 
-&emsp;&emsp;收录反馈 113 个，其中正在调查 23 个、正在处理 31 个、已修复 59 个
+&emsp;&emsp;收录反馈 113 个，其中正在调查 23 个、正在处理 31 个、已修复 59 个。
 
-&emsp;&emsp;反馈更新目录：**今日更新 LG108 - 112。**- Ling 🌸 [反馈更新记录](Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;反馈更新目录：**今日无更新。**- Ling 🌸 [反馈更新记录](Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
 <img src="Images/Graph_0.png" width = "50%" /><img src="Images/Graph_1.png" width = "49.25%" />
 
