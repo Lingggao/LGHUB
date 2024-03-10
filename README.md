@@ -19,7 +19,7 @@
 
 &emsp;&emsp;上次更新时间：2024 年 3 月 10 日 19:00 (UTC+8)。记录的反馈数量：113，访问次数：1100+
 
-&emsp;&emsp;中心更新目录：**今日更新 LG108 - 112。**- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;中心更新目录：**今日更新 LG108 - 112。**- Ling 🌸 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
 |  频道  |    最新版本     |   时间    |                             公告                             |
 | :----: | :-------------: | :-------: | :----------------------------------------------------------: |
