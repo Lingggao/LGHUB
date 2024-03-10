@@ -3,7 +3,7 @@
 
 # 灵糕中心 (Preview 2024.03)
 
-[github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB) (GitHub) & [lingggao.github.io/LGHUB/](https://lingggao.github.io/LGHUB) (Pages)
+[github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB) (GitHub) & [lingggao.github.io/LGHUB](https://lingggao.github.io/LGHUB) (Pages)
 
 &emsp;&emsp;用于跟踪 “**Windows 11 预览体验版本 (Canary 频道) 哪些反馈正在由 Microsoft 调查 / 处理 / 已做出更改**” 的信息枢纽。由 2021 Windows Insider Most Valuable Professional (MVP) · **Ling Gao** 先生管理。
 
@@ -17,7 +17,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 11 日 6:00 (UTC+8)。访问次数：1140+
+&emsp;&emsp;上次更新时间：2024 年 3 月 11 日 6:00 (UTC+8)。访问次数：1150+
 
 &emsp;&emsp;收录反馈 113 个，其中正在调查 23 个、正在处理 31 个、已修复 59 个。
 
