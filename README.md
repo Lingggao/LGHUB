@@ -31,8 +31,6 @@
 |  Dev   | 26058.1400/1300 | 2024/2/23 | [aka.ms/wip26058](https://blogs.windows.com/windows-insider/2024/02/14/announcing-windows-11-insider-preview-build-26058-canary-and-dev-channels) |
 |  Beta  |   22635.3286    | 2024/3/9  | [aka.ms/wip-beta-3-8](https://blogs.windows.com/windows-insider/2024/03/08/announcing-windows-11-insider-preview-build-22635-3286-beta-channel) |
 
----
-
 | 编号 (点击跳转) |                             问题                             |            状态            |
 | :-------------: | :----------------------------------------------------------: | :------------------------: |
 | [LG002](#LG002) |                部分热门游戏可能无法正常运行。                | 需要更多详细信息、正在处理 |
@@ -103,8 +101,6 @@ Microsoft 官方回复 (如果有)：xxxxx
 典型反馈 (如果有)：[aka.ms/AAxxxxx](https://aka.ms/fbh)  
 图像等补充信息 (如果有)
 ```
-
----
 
 LGHUB **2024 年 3 月 10 日更新**：即日起中心开启 Preview 2024.3 预览。
 
