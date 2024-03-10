@@ -1,9 +1,9 @@
 <SPAN ID = 'HEAD'/>
 <img src="Images/LING.png" width = "25%" /> <img src="Images/MCC2024.png" width = "12%" />
 
-# 灵糕中心 (Preview 2024.3)
+# 灵糕中心 (Preview 2024.03)
 
-[github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)
+[github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB) (GitHub) & [lingggao.github.io/LGHUB/](https://lingggao.github.io/LGHUB) (Pages)
 
 &emsp;&emsp;用于跟踪 “**Windows 11 预览体验版本 (Canary 频道) 哪些反馈正在由 Microsoft 调查 / 处理 / 已做出更改**” 的信息枢纽。由 2021 Windows Insider Most Valuable Professional (MVP) · **Ling Gao** 先生管理。
 
@@ -104,7 +104,7 @@ Microsoft 官方回复 (如果有)：xxxxx
 图像等补充信息 (如果有)
 ```
 
-LGHUB **2024 年 3 月 10 日更新**：即日起中心开启 Preview 2024.3 预览。
+LGHUB **2024 年 3 月 10 日更新**：即日起中心开启 Preview 2024.03 预览。
 
 [平台更新记录](Update_Platform.md)
 
