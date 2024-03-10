@@ -23,7 +23,7 @@
 
 &emsp;&emsp;反馈更新目录：**今日更新 LG108 - 112。**- Ling 🌸 [反馈更新记录](Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
-<img src="Images/Graph_0.png" width = "50%" /><img src="Images/Graph_1.png" width = "49%" />
+<img src="Images/Graph_0.png" width = "50%" /><img src="Images/Graph_1.png" width = "49.5%" />
 
 ---
 
