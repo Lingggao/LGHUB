@@ -17,15 +17,15 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 2 日 19:00 (UTC+8)。记录的反馈数量：108，访问次数：1030+
+&emsp;&emsp;上次更新时间：2024 年 3 月 10 日 19:00 (UTC+8)。记录的反馈数量：113，访问次数：1100+
 
-&emsp;&emsp;中心更新目录：**今日更新 LG102 - 107。**- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;中心更新目录：**今日更新 LG108 - 112。**- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
 |  频道  |    最新版本     |   时间    |                             公告                             |
 | :----: | :-------------: | :-------: | :----------------------------------------------------------: |
 | Canary |      26063      | 2024/2/23 | [aka.ms/wip26063](https://blogs.windows.com/windows-insider/2024/02/22/announcing-windows-11-insider-preview-build-26063-canary-channel) |
 |  Dev   | 26058.1400/1300 | 2024/2/23 | [aka.ms/wip26058](https://blogs.windows.com/windows-insider/2024/02/14/announcing-windows-11-insider-preview-build-26058-canary-and-dev-channels) |
-|  Beta  |   22635.3212    | 2024/2/27 | [aka.ms/wip-beta-2-26](https://blogs.windows.com/windows-insider/2024/02/26/announcing-windows-11-insider-preview-build-22635-3212-beta-channel) |
+|  Beta  |   22635.3286    | 2024/3/9  | [aka.ms/wip-beta-3-8](https://blogs.windows.com/windows-insider/2024/03/08/announcing-windows-11-insider-preview-build-22635-3286-beta-channel) |
 
 | 编号 (点击跳转) |                             问题                             |            状态            |
 | :-------------: | :----------------------------------------------------------: | :------------------------: |
@@ -55,12 +55,17 @@
 | [LG088](#LG088) |       无法使用截图工具对开始菜单 / 右键菜单进行截图。        |          正在调查          |
 | [LG093](#LG093) |                   放大镜无法跟随鼠标移动。                   |          正在处理          |
 | [LG094](#LG094) |           相机和 Studio Effects 可能无法正常工作。           |          正在调查          |
-| [LG102](#LG102) |                    **屏幕画面变为紫色**。                    |          正在调查          |
-| [LG103](#LG103) |          **执行某些操作时电脑一直黑屏且无法恢复**。          |          正在调查          |
-| [LG104](#LG104) |    **文件资源管理器崩溃 / 冻结 / 卡顿 / CPU 占用率高**。     |          正在调查          |
-| [LG105](#LG105) |       **Microsoft Edge 无法打开网页，提示内存不足**。        |          正在调查          |
-| [LG106](#LG106) |       **“设置”>“Windows 更新” 菜单可能无法正常加载**。       |          正在调查          |
-| [LG107](#LG107) |                 **笔记本电脑指纹模块失灵**。                 |          正在调查          |
+| [LG102](#LG102) |                      屏幕画面变为紫色。                      |          正在调查          |
+| [LG103](#LG103) |            执行某些操作时电脑一直黑屏且无法恢复。            |          正在调查          |
+| [LG104](#LG104) |      文件资源管理器崩溃 / 冻结 / 卡顿 / CPU 占用率高。       |          正在调查          |
+| [LG105](#LG105) |         Microsoft Edge 无法打开网页，提示内存不足。          |          正在调查          |
+| [LG106](#LG106) |         “设置”>“Windows 更新” 菜单可能无法正常加载。         |          正在调查          |
+| [LG107](#LG107) |                   笔记本电脑指纹模块失灵。                   |          正在调查          |
+| [LG108](#LG108) |      **Microsoft Edge 在 Canary 预览体验版本中崩溃**。       |          正在调查          |
+| [LG109](#LG109) |            **Copilot 一直提示 “尝试重新连接”**。             |          正在调查          |
+| [LG110](#LG110) |      **重启电脑后，桌面背景由 Windows 聚焦变为图片**。       |          正在调查          |
+| [LG111](#LG111) |                    **任务视图功能卡顿**。                    |          正在调查          |
+| [LG112](#LG112) | **重复开关设置菜单中的 Copilot 选项时，任务栏图标可能消失**。 |          正在调查          |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |           **——**           |
 | [LG018](#LG018) | Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误。 |          已修复 ✓          |
 | [LG019](#LG019) |            远程桌面显示 “图形组件无法启动” 错误。            |          已修复 ✓          |
@@ -400,6 +405,46 @@ Ling 注：在 NVIDIA GeForce Experience 应用中关闭 “游戏内覆盖” �
 **问题**：**笔记本电脑指纹模块失灵**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AApe79t](https://aka.ms/AApe79t)
+
+---
+
+<SPAN ID = 'LG108'/>编号：LG108  
+版本：Canary  
+**问题**：**Microsoft Edge 在 Canary 预览体验版本中崩溃**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApgp5t](https://aka.ms/AApgp5t) <img src="Images/M.png" width = "15%" />
+
+---
+
+<SPAN ID = 'LG109'/>编号：LG109  
+版本：Canary 26063  
+**问题**：**Copilot 一直提示 “尝试重新连接”**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApgp5x](https://aka.ms/AApgp5x)
+
+---
+
+<SPAN ID = 'LG110'/>编号：LG110  
+版本：Canary 26063  
+**问题**：**重启电脑后，桌面背景由 Windows 聚焦变为图片**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApgw7x](https://aka.ms/AApgw7x)
+
+---
+
+<SPAN ID = 'LG111'/>编号：LG111  
+版本：Canary 26063  
+**问题**：**任务视图功能卡顿**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAph34g](https://aka.ms/AAph34g)
+
+---
+
+<SPAN ID = 'LG112'/>编号：LG112  
+版本：Canary 26040 - 26063  
+**问题**：**重复开关设置菜单中的 Copilot 选项时，任务栏图标可能消失**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApgw8j](https://aka.ms/AApgw8j)
 
 ---
 
