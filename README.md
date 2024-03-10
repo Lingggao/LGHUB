@@ -23,11 +23,15 @@
 
 &emsp;&emsp;反馈更新目录：**今日更新 LG108 - 112。**- Ling 🌸 [反馈更新记录](Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
+---
+
 |  频道  |    最新版本     |   时间    |                             公告                             |
 | :----: | :-------------: | :-------: | :----------------------------------------------------------: |
 | Canary |      26063      | 2024/2/23 | [aka.ms/wip26063](https://blogs.windows.com/windows-insider/2024/02/22/announcing-windows-11-insider-preview-build-26063-canary-channel) |
 |  Dev   | 26058.1400/1300 | 2024/2/23 | [aka.ms/wip26058](https://blogs.windows.com/windows-insider/2024/02/14/announcing-windows-11-insider-preview-build-26058-canary-and-dev-channels) |
 |  Beta  |   22635.3286    | 2024/3/9  | [aka.ms/wip-beta-3-8](https://blogs.windows.com/windows-insider/2024/03/08/announcing-windows-11-insider-preview-build-22635-3286-beta-channel) |
+
+---
 
 | 编号 (点击跳转) |                             问题                             |            状态            |
 | :-------------: | :----------------------------------------------------------: | :------------------------: |
@@ -86,6 +90,8 @@
 
 [**希望分享线索？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**##计划## 反馈平台错误？联系 Ling。**]()
 
+---
+
 **标准格式**
 
 ```markdown
@@ -97,6 +103,8 @@ Microsoft 官方回复 (如果有)：xxxxx
 典型反馈 (如果有)：[aka.ms/AAxxxxx](https://aka.ms/fbh)  
 图像等补充信息 (如果有)
 ```
+
+---
 
 LGHUB **2024 年 3 月 10 日更新**：即日起中心开启 Preview 2024.3 预览。
 
