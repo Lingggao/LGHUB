@@ -19,7 +19,7 @@
 
 &emsp;&emsp;上次更新时间：2024 年 3 月 10 日 19:00 (UTC+8)。记录的反馈数量：113，访问次数：1100+
 
-&emsp;&emsp;反馈更新目录：**今日更新 LG108 - 112。**- Ling 🌸 [反馈更新记录]() | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;反馈更新目录：**今日更新 LG108 - 112。**- Ling 🌸 [反馈更新记录](Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
 |  频道  |    最新版本     |   时间    |                             公告                             |
 | :----: | :-------------: | :-------: | :----------------------------------------------------------: |
@@ -82,9 +82,7 @@
 | [LG074](#LG074) |                小组件看板可能不显示任何内容。                |          已修复 ✓          |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |           **——**           |
 
-[**希望分享线索？联系 Ling**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
-
-[**反馈平台错误？联系 Ling**]()
+[**希望分享线索？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台错误？联系 Ling。**]()
 
 **标准格式**
 
@@ -100,7 +98,7 @@ Microsoft 官方回复 (如果有)：xxxxx
 
 LGHUB **2024 年 3 月 2 日更新**：为节约时间，对于诸如 “感谢您的反馈” “我们正在调查中” “请耐心等待” 等**未提供额外信息**的 Microsoft 官方回复，即日起不再翻译，仅标记 <img src="Images/M.png" width = "15%" /> 图标。
 
-[平台更新记录]()
+[平台更新记录](Update_Platform.md)
 
 <SPAN ID = '0'/>
 
