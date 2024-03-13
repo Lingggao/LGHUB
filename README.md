@@ -23,14 +23,12 @@
 
 &emsp;&emsp;反馈更新目录：**更新中。**- Ling 🌸 [反馈更新记录](Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
-<img src="Images/Graph_0.png" width = "50%" /><img src="Images/Graph_1.png" width = "49.3%" />
-
----
-
 |     频道     |      最新版本       | 时间 (UTC+8) |                             公告                             |
 | :----------: | :-----------------: | :----------: | :----------------------------------------------------------: |
 | Canary & Dev |   **[新]** 26080    |  2024/3/14   | [aka.ms/wip26080](https://blogs.windows.com/windows-insider/2024/03/13/announcing-windows-11-insider-preview-build-26080-canary-and-dev-channels) |
 |     Beta     | **[新]** 22635.3350 |  2024/3/14   | [aka.ms/wip-beta-3-13](https://blogs.windows.com/windows-insider/2024/03/13/announcing-windows-11-insider-preview-build-22635-3350-beta-channel) |
+
+<img src="Images/Graph_0.png" width = "50%" /><img src="Images/Graph_1.png" width = "49.3%" />
 
 | 编号 (点击可跳转) |                             问题                             |            状态            |
 | :---------------: | :----------------------------------------------------------: | :------------------------: |
