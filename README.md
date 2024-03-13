@@ -17,11 +17,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 14 日 5:00 (UTC+8)。访问次数：1220+
+&emsp;&emsp;上次更新时间：2024 年 3 月 14 日 8:00 (UTC+8)。访问次数：1220+
 
-&emsp;&emsp;收录反馈 114 个，其中正在调查 22 个、正在处理 31 个、已修复 60 个。
+&emsp;&emsp;收录反馈 114 个，其中正在调查 13 个、正在处理 7 个、已修复 94 个。
 
-&emsp;&emsp;反馈更新目录：**更新中。**- Ling 🌸 [反馈更新记录](Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;反馈更新目录：**今日更新 [LG113](#LG113)。**- Ling 🛫 [反馈更新记录](Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
 |     频道     |      最新版本       | 时间 (UTC+8) |                             公告                             |
 | :----------: | :-----------------: | :----------: | :----------------------------------------------------------: |
@@ -47,8 +47,6 @@
 | [LG087](#LG087) |               新版 Microsoft Teams 应用崩溃。                | 正在调查 |
 | [LG088](#LG088) |       无法使用截图工具对开始菜单 / 右键菜单进行截图。        | 正在调查 |
 | [LG094](#LG094) |           相机和 Studio Effects 可能无法正常工作。           | 正在调查 |
-| [LG102](#LG102) |                      屏幕画面变为紫色。                      | 正在调查 |
-| [LG103](#LG103) |            执行某些操作时电脑一直黑屏且无法恢复。            | 正在调查 |
 | [LG105](#LG105) |         Microsoft Edge 无法打开网页，提示内存不足。          | 正在调查 |
 | [LG107](#LG107) |                   笔记本电脑指纹模块失灵。                   | 正在调查 |
 | [LG108](#LG108) |        Microsoft Edge 在 Canary 预览体验版本中崩溃。         | 正在调查 |
@@ -70,6 +68,8 @@
 | [LG106](#LG106) |         “设置”>“Windows 更新” 菜单可能无法正常加载。         | 已修复 ✓ |
 | [LG109](#LG109) |              Copilot 一直提示 “尝试重新连接”。               | 已修复 ✓ |
 | [LG112](#LG112) |  重复开关设置菜单中的 Copilot 选项时，任务栏图标可能消失。   | 已修复 ✓ |
+| [LG102](#LG102) |                      屏幕画面变为紫色。                      | 已修复 ✓ |
+| [LG103](#LG103) |            执行某些操作时电脑一直黑屏且无法恢复。            | 已修复 ✓ |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |  **——**  |
 
 [**希望分享线索？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
@@ -219,30 +219,6 @@ Microsoft 官方回复：“Canary 26080 版本包含大量修复程序，有助
 **问题**：**相机和 Studio Effects 可能无法正常工作**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAp3q1v](https://aka.ms/AAp3q1v)
-
----
-
-<SPAN ID = 'LG102'/>编号：LG102  
-版本：Canary 26063  
-**问题**：**屏幕画面变为紫色**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AApe1cn](https://aka.ms/AApe1cn)
-
-Ling 注：此问题与电脑显示器色深有关，将显示器输出颜色深度调整为 8 bpc 可以暂时缓解问题。
-
-<img src="Images/LG102.jpg" width = "50%" />
-
----
-
-<SPAN ID = 'LG103'/>编号：LG103  
-版本：Canary 26063  
-**问题**：**执行某些操作时电脑一直黑屏且无法恢复**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AApe1cu](https://aka.ms/AApe1cu) <img src="Images/M.png" width = "15%" />
-
-Ling 注：在 NVIDIA GeForce Experience 应用中关闭 “游戏内覆盖” 功能可以暂时缓解问题。
-
-<img src="Images/LG103.png" width = "50%" />
 
 ---
 
@@ -445,6 +421,30 @@ Microsoft 官方回复：“我们已经找出问题所在，正在修复中。�
 **问题**：**重复开关设置菜单中的 Copilot 选项时，任务栏图标可能消失**。  
 状态：Canary 26080 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AApgw8j](https://aka.ms/AApgw8j)
+
+---
+
+<SPAN ID = 'LG102'/>编号：LG102  
+版本：Canary 26063  
+**问题**：**屏幕画面变为紫色**。  
+状态：Canary 26080 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApe1cn](https://aka.ms/AApe1cn)
+
+Ling 注：此问题与电脑显示器色深有关，将显示器输出颜色深度调整为 8 bpc 可以暂时缓解问题。
+
+<img src="Images/LG102.jpg" width = "50%" />
+
+---
+
+<SPAN ID = 'LG103'/>编号：LG103  
+版本：Canary 26063  
+**问题**：**执行某些操作时电脑一直黑屏且无法恢复**。  
+状态：Canary 26080 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApe1cu](https://aka.ms/AApe1cu) <img src="Images/M.png" width = "15%" />
+
+Ling 注：在 NVIDIA GeForce Experience 应用中关闭 “游戏内覆盖” 功能可以暂时缓解问题。
+
+<img src="Images/LG103.png" width = "50%" />
 
 ---
 
