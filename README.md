@@ -88,7 +88,7 @@
 | [LG074](#LG074) |                小组件看板可能不显示任何内容。                |          已修复 ✓          |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |           **——**           |
 
-[**希望分享线索？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**##计划## 反馈平台问题？联系 Ling。**]()
+[**希望分享线索？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
 
 ---
 
@@ -190,10 +190,6 @@ Microsoft 官方回复：“此问题将在未来的版本中得到修复。” 
 **问题**：**文件资源管理器右键菜单中的图标显示在错误的位置**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AAp536r](https://aka.ms/AAp536r)
-
----
-
-[**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
 <SPAN ID = '1'/>
 
@@ -456,10 +452,6 @@ Ling 注：在 NVIDIA GeForce Experience 应用中关闭 “游戏内覆盖” �
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AApgw8j](https://aka.ms/AApgw8j)
 
----
-
-[**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
-
 <SPAN ID = '2'/>
 
 ## ✦ Canary - 归档 (已做出更改) ✦
@@ -585,8 +577,6 @@ Microsoft 官方回复：“感谢反馈，请查看下方的图片。” *(Ling
 ---
 
 [Microsoft 已做出更改 >28 天的问题](28+.md)
-
-[**希望分享线索？联系 Ling Gao**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u)
 
 ---
 
