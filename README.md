@@ -54,7 +54,6 @@
 | [LG058](#LG058) | 在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误。 |          正在调查          |
 | [LG065](#LG065) |              使用浏览器观看视频时屏幕可能冻结。              |          正在处理          |
 | [LG077](#LG077) |        启用 “管理移动设备” 时，“手机连接” 应用断线。         |          正在调查          |
-| [LG079](#LG079) |            无法使用 Office，显示 0x426-0x0 错误。            |          正在调查          |
 | [LG080](#LG080) |                       Visio 应用崩溃。                       |          正在处理          |
 | [LG081](#LG081) |               无法登录 Microsoft Sudoku 游戏。               |          正在调查          |
 | [LG087](#LG087) |               新版 Microsoft Teams 应用崩溃。                |          正在调查          |
@@ -73,6 +72,7 @@
 | [LG111](#LG111) |                    **任务视图功能卡顿**。                    |          正在调查          |
 | [LG112](#LG112) | **重复开关设置菜单中的 Copilot 选项时，任务栏图标可能消失**。 |          正在调查          |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |           **——**           |
+| [LG079](#LG079) |            无法使用 Office，显示 0x426-0x0 错误。            |          已修复 ✓          |
 | [LG018](#LG018) | Oracle VM VirtualBox 软件无法启动，显示 “Unknown rc=-3748” 错误。 |          已修复 ✓          |
 | [LG019](#LG019) |            远程桌面显示 “图形组件无法启动” 错误。            |          已修复 ✓          |
 | [LG024](#LG024) | Tips (提示) 应用现已移除，但 “Windows 更新”>“更新历史记录” 页面中的 “查看新增功能” 选项仍指向此应用，导致显示 “没有可打开 ms-get-started 链接的应用” 错误。 |          已修复 ✓          |
@@ -301,14 +301,6 @@ Microsoft 官方回复：“从 Build 26016 开始，更多游戏正在受到多
 
 ---
 
-<SPAN ID = 'LG079'/>编号：LG079  
-版本：Canary 26040 - 26063  
-**问题**：**无法使用 Office，显示 0x426-0x0 错误**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAp3qas](https://aka.ms/AAp3qas)
-
----
-
 <SPAN ID = 'LG080'/>编号：LG080  
 版本：Canary 26052 - 26063  
 **问题**：**Visio 应用崩溃**。  
@@ -459,6 +451,15 @@ Ling 注：在 NVIDIA GeForce Experience 应用中关闭 “游戏内覆盖” �
 &emsp;&emsp;记录 Microsoft 已做出更改 0 - 28 天的问题 & 超过 30 日无新增赞成票的问题。
 
 &emsp;&emsp;无特殊情况，问题归档后不再更新。
+
+---
+
+<SPAN ID = 'LG079'/>编号：LG079  
+版本：Canary 26040 - 26063  
+**问题**：**无法使用 Office，显示 0x426-0x0 错误**。  
+状态：Sandboxie 1.13.1/5.68.1 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“请尝试将 Sandboxie 更新至 1.13.1/5.68.1 或更高版本。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAp3qas](https://aka.ms/AAp3qas)
 
 ---
 
