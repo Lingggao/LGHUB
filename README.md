@@ -27,11 +27,10 @@
 
 ---
 
-|  频道  |    最新版本     |   时间    |                             公告                             |
-| :----: | :-------------: | :-------: | :----------------------------------------------------------: |
-| Canary |      26063      | 2024/2/23 | [aka.ms/wip26063](https://blogs.windows.com/windows-insider/2024/02/22/announcing-windows-11-insider-preview-build-26063-canary-channel) |
-|  Dev   | 26058.1400/1300 | 2024/2/23 | [aka.ms/wip26058](https://blogs.windows.com/windows-insider/2024/02/14/announcing-windows-11-insider-preview-build-26058-canary-and-dev-channels) |
-|  Beta  |   22635.3286    | 2024/3/9  | [aka.ms/wip-beta-3-8](https://blogs.windows.com/windows-insider/2024/03/08/announcing-windows-11-insider-preview-build-22635-3286-beta-channel) |
+|     频道     |      最新版本       |   时间    |                             公告                             |
+| :----------: | :-----------------: | :-------: | :----------------------------------------------------------: |
+| Canary & Dev |   **[新]** 26080    | 2024/3/14 | [aka.ms/wip26080](https://blogs.windows.com/windows-insider/2024/03/13/announcing-windows-11-insider-preview-build-26080-canary-and-dev-channels) |
+|     Beta     | **[新]** 22635.3350 | 2024/3/14 | [aka.ms/wip-beta-3-13](https://blogs.windows.com/windows-insider/2024/03/13/announcing-windows-11-insider-preview-build-22635-3350-beta-channel) |
 
 | 编号 (点击跳转) |                             问题                             |            状态            |
 | :-------------: | :----------------------------------------------------------: | :------------------------: |
