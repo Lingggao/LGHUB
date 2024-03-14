@@ -21,7 +21,7 @@
 
 &emsp;&emsp;收录反馈 114 个，其中正在调查 13 个、正在处理 7 个、已修复 94 个。
 
-&emsp;&emsp;反馈更新目录：**今日更新 [LG113](#LG113)。**- Ling 🛫 [反馈更新记录](Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;反馈更新目录：**今日更新 [LG113](#LG113)。**- Ling 🛫 [反馈更新记录](Documents/Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
 |     频道     |      最新版本       | 时间 (UTC+8) |                             公告                             |
 | :----------: | :-----------------: | :----------: | :----------------------------------------------------------: |
@@ -90,7 +90,7 @@ Microsoft 官方回复 (如果有)：xxxxx
 
 LGHUB **2024 年 3 月 10 日更新**：即日起中心开启 Preview 2024.03 预览。
 
-[平台更新记录](Update_Platform.md)
+[平台更新记录](Documents/Update_Platform.md)
 
 <SPAN ID = '0'/>
 
