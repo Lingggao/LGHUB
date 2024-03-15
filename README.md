@@ -19,7 +19,7 @@
 
 &emsp;&emsp;上次更新时间：2024 年 3 月 15 日 14:00 (UTC+8)。访问次数：1370+
 
-&emsp;&emsp;收录反馈 120 个，其中正在调查 15 个、正在处理 9 个、已修复 96 个。
+&emsp;&emsp;收录反馈 120 个，其中正在调查 15 个、正在处理 8 个、已修复 97 个。
 
 &emsp;&emsp;反馈更新目录：**今日更新 LG115 - 119。**- Ling 🌸 [反馈更新记录](Documents/Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
@@ -43,7 +43,6 @@
 | [LG030](#LG030) | 在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。 | 正在调查 |
 | [LG049](#LG049) |  事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)。   | 正在调查 |
 | [LG058](#LG058) | 在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误。 | 正在调查 |
-| [LG065](#LG065) |              使用浏览器观看视频时屏幕可能冻结。              | 正在处理 |
 | [LG087](#LG087) |               新版 Microsoft Teams 应用崩溃。                | 正在调查 |
 | [LG088](#LG088) |       无法使用截图工具对开始菜单 / 右键菜单进行截图。        | 正在调查 |
 | [LG094](#LG094) |           相机和 Studio Effects 可能无法正常工作。           | 正在调查 |
@@ -59,6 +58,7 @@
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |  **——**  |
 | [LG108](#LG108) |        Microsoft Edge 在 Canary 预览体验版本中崩溃。         | 已修复 ✓ |
 | [LG105](#LG105) |         Microsoft Edge 无法打开网页，提示内存不足。          | 已修复 ✓ |
+| [LG065](#LG065) |              使用浏览器观看视频时屏幕可能冻结。              | 已修复 ✓ |
 | [LG079](#LG079) |            无法使用 Office，显示 0x426-0x0 错误。            | 已修复 ✓ |
 | [LG002](#LG002) |                部分热门游戏可能无法正常运行。                | 已修复 ✓ |
 | [LGH00](#LGH00) | **[集合]** 大量游戏 / 反作弊系统 / 游戏平台无法正常运行。(含列表) | 已修复 ✓ |
@@ -196,14 +196,6 @@ Microsoft 官方回复：“Canary 26080 版本包含大量修复程序，有助
 
 ---
 
-<SPAN ID = 'LG065'/>编号：LG065  
-版本：Canary 26040 - 26080  
-**问题**：**使用浏览器观看视频时屏幕可能冻结**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AAoxr0y](https://aka.ms/AAoxr0y)
-
----
-
 <SPAN ID = 'LG087'/>编号：LG087  
 版本：Canary 26040 - 26080  
 **问题**：**新版 Microsoft Teams 应用崩溃**。  
@@ -328,6 +320,14 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 **问题**：**Microsoft Edge 无法打开网页，提示内存不足**。  
 状态：Edge 124.0.2450.2 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AApdw0m](https://aka.ms/AApdw0m) <img src="Images/M.png" width = "15%" />
+
+---
+
+<SPAN ID = 'LG065'/>编号：LG065  
+版本：Canary 26040 - 26080  
+**问题**：**使用浏览器观看视频时屏幕可能冻结**。  
+状态：Edge 124.0.2450.2 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAoxr0y](https://aka.ms/AAoxr0y)
 
 ---
 
