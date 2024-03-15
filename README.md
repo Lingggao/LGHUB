@@ -19,9 +19,9 @@
 
 &emsp;&emsp;上次更新时间：2024 年 3 月 15 日 14:00 (UTC+8)。访问次数：1370+
 
-&emsp;&emsp;收录反馈 114 个，其中正在调查 12 个、正在处理 7 个、已修复 95 个。
+&emsp;&emsp;收录反馈 120 个，其中正在调查 15 个、正在处理 9 个、已修复 96 个。
 
-&emsp;&emsp;反馈更新目录：**今日更新 [LG113](#LG113)。**- Ling 🛫 [反馈更新记录](Documents/Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;反馈更新目录：**今日更新 LG115 - 119。**- Ling 🌸 [反馈更新记录](Documents/Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Linggao%20Hub_Fixed.png)
 
 |     频道     |  最新版本  | 时间 (UTC+8) |                             公告                             |
 | :----------: | :--------: | :----------: | :----------------------------------------------------------: |
@@ -47,12 +47,18 @@
 | [LG087](#LG087) |               新版 Microsoft Teams 应用崩溃。                | 正在调查 |
 | [LG088](#LG088) |       无法使用截图工具对开始菜单 / 右键菜单进行截图。        | 正在调查 |
 | [LG094](#LG094) |           相机和 Studio Effects 可能无法正常工作。           | 正在调查 |
-| [LG105](#LG105) |         Microsoft Edge 无法打开网页，提示内存不足。          | 正在调查 |
 | [LG107](#LG107) |                   笔记本电脑指纹模块失灵。                   | 正在调查 |
 | [LG110](#LG110) |        重启电脑后，桌面背景由 Windows 聚焦变为图片。         | 正在调查 |
-| [LG111](#LG111) |                      任务视图功能卡顿。                      | 正在调查 |
+| [LG111](#LG111) |          **[合并]** 任务视图 / 文件资源管理器卡顿。          | 正在调查 |
+| [LGH01](#LGH01) | **[集合]** **仍有游戏在 Canary 26080 中无法正常运行**。(含列表) | 正在调查 |
+| [LG115](#LG115) |              **右键菜单变为 Windows 10 样式**。              | 正在处理 |
+| [LG116](#LG116) |                    **电脑无法正常关机**。                    | 正在处理 |
+| [LG117](#LG117) |              **任务栏应用缩略图无法正常显示**。              | 正在调查 |
+| [LG118](#LG118) |                **音量滑块可能无法正常使用**。                | 正在调查 |
+| [LG119](#LG119) |      **文件夹中图片和视频的缩略图可能显示为黑色方块**。      | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |  **——**  |
 | [LG108](#LG108) |        Microsoft Edge 在 Canary 预览体验版本中崩溃。         | 已修复 ✓ |
+| [LG105](#LG105) |         Microsoft Edge 无法打开网页，提示内存不足。          | 已修复 ✓ |
 | [LG079](#LG079) |            无法使用 Office，显示 0x426-0x0 错误。            | 已修复 ✓ |
 | [LG002](#LG002) |                部分热门游戏可能无法正常运行。                | 已修复 ✓ |
 | [LGH00](#LGH00) | **[集合]** 大量游戏 / 反作弊系统 / 游戏平台无法正常运行。(含列表) | 已修复 ✓ |
@@ -222,14 +228,6 @@ Microsoft 官方回复：“Canary 26080 版本包含大量修复程序，有助
 
 ---
 
-<SPAN ID = 'LG105'/>编号：LG105  
-版本：ALL  
-**问题**：**Microsoft Edge 无法打开网页，提示内存不足**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AApdw0m](https://aka.ms/AApdw0m) <img src="Images/M.png" width = "15%" />
-
----
-
 <SPAN ID = 'LG107'/>编号：LG107  
 版本：Canary 26063 - 26080  
 **问题**：**笔记本电脑指纹模块失灵**。  
@@ -248,9 +246,64 @@ Microsoft 官方回复：“Canary 26080 版本包含大量修复程序，有助
 
 <SPAN ID = 'LG111'/>编号：LG111  
 版本：Canary 26063 - 26080  
-**问题**：**任务视图功能卡顿**。  
+**问题**：**任务视图 / 文件资源管理器卡顿**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAph34g](https://aka.ms/AAph34g)
+
+---
+
+<SPAN ID = 'LGH01'/>编号：LGH01  
+版本：Canary 26080  
+**集合**：**仍有游戏在 Canary 26080 中无法正常运行**。  
+状态： <img src="Images/L.png" width = "10%" />  
+Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复正常运行。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
+
+列表 (排名不分先后)
+
+- Grand Theft Auto V (GTA 5) - [aka.ms/AApjkjp](https://aka.ms/AApjkjp)
+- PUBG (绝地求生) - [aka.ms/AApjd7p](https://aka.ms/AApjd7p)
+- Battlefield 2042 (战地风云 2042) - [aka.ms/AApjkk7](https://aka.ms/AApjkk7)
+- EVE Online (星战前夜) - [aka.ms/AApjz1t](https://aka.ms/AApjz1t)
+
+---
+
+<SPAN ID = 'LG115'/>编号：LG115  
+版本：Canary 26080  
+**问题**：**右键菜单变为 Windows 10 样式**。  
+状态：<img src="Images/W.png" width = "10%" />  
+典型反馈：[aka.ms/AApjkju](https://aka.ms/AApjkju) <img src="Images/M.png" width = "15%" />
+
+---
+
+<SPAN ID = 'LG116'/>编号：LG116  
+版本：Canary 26080  
+**问题**：**电脑无法正常关机**。  
+状态：<img src="Images/W.png" width = "10%" />  
+典型反馈：[aka.ms/AApjd80](https://aka.ms/AApjd80) <img src="Images/M.png" width = "15%" />
+
+---
+
+<SPAN ID = 'LG117'/>编号：LG117  
+版本：Canary 26080  
+**问题**：**任务栏应用缩略图无法正常显示**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApjd83](https://aka.ms/AApjd83)
+
+---
+
+<SPAN ID = 'LG118'/>编号：LG118  
+版本：Canary 26080  
+**问题**：**音量滑块可能无法正常使用**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApjd8k](https://aka.ms/AApjd8k)
+
+---
+
+<SPAN ID = 'LG119'/>编号：LG119  
+版本：Canary 26080  
+**问题**：**文件夹中图片和视频的缩略图可能显示为黑色方块**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApkl32](https://aka.ms/AApkl32)
 
 <SPAN ID = '2'/>
 
@@ -267,6 +320,14 @@ Microsoft 官方回复：“Canary 26080 版本包含大量修复程序，有助
 **问题**：**Microsoft Edge 在 Canary 预览体验版本中崩溃**。  
 状态：Edge 124.0.2450.2 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AApgp5t](https://aka.ms/AApgp5t) <img src="Images/M.png" width = "15%" />
+
+---
+
+<SPAN ID = 'LG105'/>编号：LG105  
+版本：ALL  
+**问题**：**Microsoft Edge 无法打开网页，提示内存不足**。  
+状态：Edge 124.0.2450.2 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApdw0m](https://aka.ms/AApdw0m) <img src="Images/M.png" width = "15%" />
 
 ---
 
