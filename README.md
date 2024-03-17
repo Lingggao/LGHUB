@@ -17,11 +17,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 15 日 22:00 (UTC+8)。访问次数：1400+
+&emsp;&emsp;上次更新时间：2024 年 3 月 17 日 19:00 (UTC+8)。访问次数：1460+
 
 &emsp;&emsp;收录反馈 120 个，其中正在调查 15 个、正在处理 8 个、已修复 97 个。
 
-&emsp;&emsp;反馈更新目录：**今日更新 LG115 - 119。**- Ling 🌸 [反馈更新记录](Documents/Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;反馈更新目录：今日无更新。- Ling 🌸 [反馈更新记录](Documents/Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
 
 |     频道     |  最新版本  | 时间 (UTC+8) |                             公告                             |
 | :----------: | :--------: | :----------: | :----------------------------------------------------------: |
@@ -48,13 +48,13 @@
 | [LG094](#LG094) |           相机和 Studio Effects 可能无法正常工作。           | 正在调查 |
 | [LG107](#LG107) |                   笔记本电脑指纹模块失灵。                   | 正在调查 |
 | [LG110](#LG110) |        重启电脑后，桌面背景由 Windows 聚焦变为图片。         | 正在调查 |
-| [LG111](#LG111) |          **[合并]** 任务视图 / 文件资源管理器卡顿。          | 正在调查 |
-| [LGH01](#LGH01) | **[集合]** **仍有游戏在 Canary 26080 中无法正常运行**。(含列表) | 正在调查 |
-| [LG115](#LG115) |              **右键菜单变为 Windows 10 样式**。              | 正在处理 |
-| [LG116](#LG116) |                    **电脑无法正常关机**。                    | 正在处理 |
-| [LG117](#LG117) |              **任务栏应用缩略图无法正常显示**。              | 正在调查 |
-| [LG118](#LG118) |                **音量滑块可能无法正常使用**。                | 正在调查 |
-| [LG119](#LG119) |      **文件夹中图片和视频的缩略图可能显示为黑色方块**。      | 正在调查 |
+| [LG111](#LG111) |  **[合并]** 任务视图 / 文件资源管理器卡顿或 CPU 占用率高。   | 正在调查 |
+| [LGH01](#LGH01) | **[集合]** 仍有游戏在 Canary 26080 中无法正常运行。(含列表)  | 正在调查 |
+| [LG115](#LG115) |                右键菜单变为 Windows 10 样式。                | 正在处理 |
+| [LG116](#LG116) |                      电脑无法正常关机。                      | 正在处理 |
+| [LG117](#LG117) |                任务栏应用缩略图无法正常显示。                | 正在调查 |
+| [LG118](#LG118) |                  音量滑块可能无法正常使用。                  | 正在调查 |
+| [LG119](#LG119) |        文件夹中图片和视频的缩略图可能显示为黑色方块。        | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |  **——**  |
 | [LG108](#LG108) |        Microsoft Edge 在 Canary 预览体验版本中崩溃。         | 已修复 ✓ |
 | [LG105](#LG105) |         Microsoft Edge 无法打开网页，提示内存不足。          | 已修复 ✓ |
@@ -236,7 +236,7 @@ Microsoft 官方回复：“Canary 26080 版本包含大量修复程序，有助
 
 <SPAN ID = 'LG111'/>编号：LG111  
 版本：Canary 26063 - 26080  
-**问题**：**任务视图 / 文件资源管理器卡顿**。  
+**问题**：**任务视图 / 文件资源管理器卡顿或 CPU 占用率高。**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAph34g](https://aka.ms/AAph34g)
 
