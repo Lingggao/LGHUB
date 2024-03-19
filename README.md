@@ -17,11 +17,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 17 日 19:00 (UTC+8)。访问次数：1460+
+&emsp;&emsp;上次更新时间：2024 年 3 月 19 日 12:00 (UTC+8)。访问次数：1510+
 
-&emsp;&emsp;收录反馈 120 个，其中正在调查 15 个、正在处理 8 个、已修复 97 个。
+&emsp;&emsp;收录反馈 123 个，其中正在调查 18 个、正在处理 8 个、已修复 97 个。
 
-&emsp;&emsp;反馈更新目录：今日无更新。- Ling 🌳 [反馈更新记录](Documents/Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;反馈更新目录：今日无更新。- Ling 😀 [反馈更新记录](Documents/Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
 
 |     频道     |  最新版本  | 时间 (UTC+8) |                             公告                             |
 | :----------: | :--------: | :----------: | :----------------------------------------------------------: |
@@ -51,10 +51,13 @@
 | [LG111](#LG111) |  **[合并]** 任务视图 / 文件资源管理器卡顿或 CPU 占用率高。   | 正在调查 |
 | [LGH01](#LGH01) | **[集合]** 仍有游戏在 Canary 26080 中无法正常运行。(含列表)  | 正在调查 |
 | [LG115](#LG115) |                右键菜单变为 Windows 10 样式。                | 正在处理 |
-| [LG116](#LG116) |                      电脑无法正常关机。                      | 正在处理 |
+| [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   | 正在处理 |
 | [LG117](#LG117) |                任务栏应用缩略图无法正常显示。                | 正在调查 |
 | [LG118](#LG118) |                  音量滑块可能无法正常使用。                  | 正在调查 |
 | [LG119](#LG119) |        文件夹中图片和视频的缩略图可能显示为黑色方块。        | 正在调查 |
+| [LG120](#LG120) |         **有大约 2.5GB - 3GB 的临时文件无法清理**。          | 正在调查 |
+| [LG121](#LG121) |          **任务栏 Windows 安全中心图标随机消失**。           | 正在调查 |
+| [LG122](#LG122) |                    **Copilot 功能消失**。                    | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |  **——**  |
 | [LG108](#LG108) |        Microsoft Edge 在 Canary 预览体验版本中崩溃。         | 已修复 ✓ |
 | [LG105](#LG105) |         Microsoft Edge 无法打开网页，提示内存不足。          | 已修复 ✓ |
@@ -254,6 +257,8 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 - PUBG (绝地求生) - [aka.ms/AApjd7p](https://aka.ms/AApjd7p)
 - Battlefield 2042 (战地风云 2042) - [aka.ms/AApjkk7](https://aka.ms/AApjkk7)
 - EVE Online (星战前夜) - [aka.ms/AApjz1t](https://aka.ms/AApjz1t)
+- Avatar Frontiers of Pandora (阿凡达：潘多拉边境) - [aka.ms/AApmqnc](https://aka.ms/AApmqnc)
+- Assassin's Creed Origins (刺客信条：起源) - [aka.ms/AApmqnc](https://aka.ms/AApmqnc)
 
 ---
 
@@ -267,7 +272,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 <SPAN ID = 'LG116'/>编号：LG116  
 版本：Canary 26080  
-**问题**：**电脑无法正常关机**。  
+**问题**：**电脑无法正常关机 / 睡眠**。  
 状态：<img src="Images/W.png" width = "10%" />  
 典型反馈：[aka.ms/AApjd80](https://aka.ms/AApjd80) <img src="Images/M.png" width = "15%" />
 
@@ -294,6 +299,30 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 **问题**：**文件夹中图片和视频的缩略图可能显示为黑色方块**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AApkl32](https://aka.ms/AApkl32)
+
+---
+
+<SPAN ID = 'LG120'/>编号：LG120  
+版本：Canary 26080  
+**问题**：**有大约 2.5GB - 3GB 的临时文件无法清理**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AAplnvk](https://aka.ms/AAplnvk)
+
+---
+
+<SPAN ID = 'LG121'/>编号：LG121  
+版本：Canary 26080  
+**问题**：**任务栏 Windows 安全中心图标随机消失**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApmjv6](https://aka.ms/AApmjv6)
+
+---
+
+<SPAN ID = 'LG122'/>编号：LG122  
+版本：Canary 26080  
+**问题**：**Copilot 功能消失**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApmcet](https://aka.ms/AApmcet)
 
 <SPAN ID = '2'/>
 
@@ -512,8 +541,6 @@ Ling 注：在 NVIDIA GeForce Experience 应用中关闭 “游戏内覆盖” �
 **问题**：**光标随机消失 / 卡住**。  
 状态：合并至 LG083  
 典型反馈：[aka.ms/AAp4op2](https://aka.ms/AAp4op2)
-
----
 
 [Microsoft 已做出更改 >28 天的问题](28+.md)
 
