@@ -18,7 +18,7 @@
 
 [反馈中心](https://aka.ms/fbh) | [深入了解反馈](https://learn.microsoft.com/zh-cn/windows-insider/feedback) | [Flight Hub](https://learn.microsoft.com/en-us/windows-insider/flight-hub) | Windows 预览体验计划 - [网站](https://www.microsoft.com/zh-cn/windowsinsider) · [博客](https://blogs.windows.com/windows-insider) · [X (Twitter)](https://twitter.com/windowsinsider) · [社区](https://answers.microsoft.com/zh-hans/insider/forum)
 
-## ✦ 总览 ✦
+<h2 align="center">✦ 总览 ✦</h2>
 
 &emsp;&emsp;上次更新时间：2024 年 3 月 19 日 12:00 (UTC+8)。访问次数：1510+
 
