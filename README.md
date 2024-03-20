@@ -66,7 +66,6 @@
 | [LG118](#LG118) |                **音量滑块可能无法正常使用**。                | 已修复 ✓ |
 | [LG120](#LG120) |         **有大约 2.5GB - 3GB 的临时文件无法清理**。          | 已修复 ✓ |
 | [LG121](#LG121) |          **任务栏 Windows 安全中心图标随机消失**。           | 已修复 ✓ |
-|                 |                                                              |          |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |  **——**  |
 
 [**希望分享线索？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
@@ -154,7 +153,7 @@ Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象�
 
 <SPAN ID = 'LG111'/>编号：LG111  
 版本：Canary 26063 - 26080  
-**问题**：**任务视图 / 文件资源管理器卡顿或 CPU 占用率高。**。  
+**问题**：**任务视图 / 文件资源管理器卡顿或 CPU 占用率高**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAph34g](https://aka.ms/AAph34g)
 
