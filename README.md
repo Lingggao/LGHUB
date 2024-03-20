@@ -21,11 +21,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 21 日 2:00 (UTC+8)。访问次数：1720+
+&emsp;&emsp;上次更新时间：2024 年 3 月 21 日 5:00 (UTC+8)。访问次数：1720+
 
-&emsp;&emsp;收录反馈 126 个，其中正在调查 21 个、正在处理 8 个、已修复 97 个。
+&emsp;&emsp;收录反馈 126 个，其中正在调查 7 个、正在处理 4 个、已修复 108 个。
 
-&emsp;&emsp;反馈更新目录：**今日更新 LG123 - 125**。- Ling 🌳 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;反馈更新目录：**今日更新反馈状态**。- Ling 🌳 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
 
 |     频道     |    最新版本    | 时间 (UTC+8) |                             公告                             |
 | :----------: | :------------: | :----------: | :----------------------------------------------------------: |
@@ -118,7 +118,7 @@ Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象�
 ---
 
 <SPAN ID = 'LG013'/>编号：LG013  
-版本：Canary 26002 - 26080  
+版本：Canary 26002 - 26085  
 **问题**：**“设置”>“应用”>“启动” 页面中的图标异常**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAo5wd6](https://aka.ms/AAo5wd6)
@@ -128,7 +128,7 @@ Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象�
 ---
 
 <SPAN ID = 'LG015'/>编号：LG015  
-版本：Canary 25992 - 26080  
+版本：Canary 25992 - 26085  
 **问题**：**在文件资源管理器中按下两次 F11 后地址栏将被冻结**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAnkkd6](https://aka.ms/AAnkkd6)
@@ -152,7 +152,7 @@ Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象�
 ---
 
 <SPAN ID = 'LG111'/>编号：LG111  
-版本：Canary 26063 - 26080  
+版本：Canary 26063 - 26085  
 **问题**：**任务视图 / 文件资源管理器卡顿或 CPU 占用率高**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAph34g](https://aka.ms/AAph34g)
@@ -160,7 +160,7 @@ Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象�
 ---
 
 <SPAN ID = 'LGH01'/>编号：LGH01  
-版本：Canary 26080  
+版本：Canary 26080 - 26085  
 **集合**：**仍有几款游戏在 Build 26080 中无法正常运行**。  
 状态： <img src="Images/L.png" width = "10%" />  
 Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复正常运行。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
@@ -177,7 +177,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 ---
 
 <SPAN ID = 'LG122'/>编号：LG122  
-版本：Canary 26080  
+版本：Canary 26080 - 26085  
 **问题**：**Copilot 功能消失**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AApmcet](https://aka.ms/AApmcet)
@@ -193,7 +193,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 ---
 
 <SPAN ID = 'LG125'/>编号：LG125  
-版本：Canary 26080  
+版本：Canary 26080 - 26085  
 **问题**：**电脑风扇负荷更重 / 温度更高 / 电池续航更短**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AApmnl6](https://aka.ms/AApmnl6)
