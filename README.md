@@ -1,7 +1,10 @@
 <SPAN ID = 'HEAD'/>
-<img src="Images/LING.png" width = "25%" /> <img src="Images/MCC2024.png" width = "12%" />
 
-# 灵糕中心 (Linggao Hub)
+<div align=center>
+<img src="Images/LING.png" width = "25%" /> <img src="Images/MCC2024.png" width = "12%" />
+</div>
+
+<h1 align="center">灵糕中心 (Linggao Hub)</h1>
 
 [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB) (GitHub) & [lingggao.github.io/LGHUB](https://lingggao.github.io/LGHUB) (Pages)
 
