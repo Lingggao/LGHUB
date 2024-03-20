@@ -24,7 +24,7 @@
 
 &emsp;&emsp;收录反馈 126 个，其中正在调查 21 个、正在处理 8 个、已修复 97 个。
 
-&emsp;&emsp;反馈更新目录：**今日更新 LG123 - 125**。- Ling 🌳 [反馈更新记录](Documents/Update_Feedback.md) | [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;反馈更新目录：**今日更新 LG123 - 125**。- Ling 🌳 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
 
 |     频道     |  最新版本  | 时间 (UTC+8) |                             公告                             |
 | :----------: | :--------: | :----------: | :----------------------------------------------------------: |
@@ -84,7 +84,7 @@ Microsoft 官方回复 (如果有)：xxxxx
 图像等补充信息 (如果有)
 ```
 
-[平台更新记录](Documents/Update_Platform.md)
+[反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 <SPAN ID = '0'/>
 
