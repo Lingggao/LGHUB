@@ -37,36 +37,37 @@
 |      编号       |                             问题                             |   状态   |
 | :-------------: | :----------------------------------------------------------: | :------: |
 | [LG069](#LG069) |       安装此版本时可能自动回退，错误代码 0xC1900101。        | 正在处理 |
-| [LG073](#LG073) |         文件资源管理器的右键菜单可能丢失亚克力效果。         | 正在处理 |
-| [LG083](#LG083) | **[合并]** 光标阴影 / 形状 / 颜色异常，光标随机消失 / 卡住。 | 正在处理 |
-| [LG082](#LG082) |       文件资源管理器右键菜单中的图标显示在错误的位置。       | 正在处理 |
-| [LG113](#LG113) |                 sudo pwsh 命令无法正常执行。                 | 正在处理 |
+| [LG115](#LG115) |                右键菜单变为 Windows 10 样式。                | 正在处理 |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |  **——**  |
 | [LG013](#LG013) |           “设置”>“应用”>“启动” 页面中的图标异常。            | 正在调查 |
 | [LG015](#LG015) |      在文件资源管理器中按下两次 F11 后地址栏将被冻结。       | 正在调查 |
 | [LG030](#LG030) | 在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。 | 正在调查 |
 | [LG049](#LG049) |  事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)。   | 正在调查 |
 | [LG058](#LG058) | 在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误。 | 正在调查 |
-| [LG087](#LG087) |               新版 Microsoft Teams 应用崩溃。                | 正在调查 |
 | [LG088](#LG088) |       无法使用截图工具对开始菜单 / 右键菜单进行截图。        | 正在调查 |
 | [LG094](#LG094) |           相机和 Studio Effects 可能无法正常工作。           | 正在调查 |
 | [LG107](#LG107) |                   笔记本电脑指纹模块失灵。                   | 正在调查 |
 | [LG110](#LG110) |        重启电脑后，桌面背景由 Windows 聚焦变为图片。         | 正在调查 |
 | [LG111](#LG111) |  **[合并]** 任务视图 / 文件资源管理器卡顿或 CPU 占用率高。   | 正在调查 |
 | [LGH01](#LGH01) |  **[集合]** 仍有游戏在 Build 26080 中无法正常运行。(含列表)  | 正在调查 |
-| [LG115](#LG115) |                右键菜单变为 Windows 10 样式。                | 正在处理 |
-| [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   | 正在处理 |
 | [LG117](#LG117) |                任务栏应用缩略图无法正常显示。                | 正在调查 |
 | [LG118](#LG118) |                  音量滑块可能无法正常使用。                  | 正在调查 |
-| [LG119](#LG119) |        文件夹中图片和视频的缩略图可能显示为黑色方块。        | 正在调查 |
 | [LG120](#LG120) |           有大约 2.5GB - 3GB 的临时文件无法清理。            | 正在调查 |
 | [LG121](#LG121) |            任务栏 Windows 安全中心图标随机消失。             | 正在调查 |
 | [LG122](#LG122) |                      Copilot 功能消失。                      | 正在调查 |
-| [LG123](#LG123) |               **接收不到 Build 26080 更新**。                | 正在调查 |
-| [LG124](#LG124) |          **电脑随机 IRQL_NOT_LESS_OR_EQUAL 绿屏**。          | 正在调查 |
-| [LG125](#LG125) |       **电脑风扇负荷更重 / 温度更高 / 电池续航更短**。       | 正在调查 |
+| [LG123](#LG123) |                 接收不到 Build 26080 更新。                  | 正在调查 |
+| [LG125](#LG125) |         电脑风扇负荷更重 / 温度更高 / 电池续航更短。         | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |  **——**  |
-|                 |                            暂无。                            |          |
+| [LG073](#LG073) |       **文件资源管理器的右键菜单可能丢失亚克力效果**。       | 已修复 ✓ |
+| [LG083](#LG083) | **[合并]** **光标阴影 / 形状 / 颜色异常，光标随机消失 / 卡住**。 | 已修复 ✓ |
+| [LG082](#LG082) |     **文件资源管理器右键菜单中的图标显示在错误的位置**。     | 已修复 ✓ |
+| [LG113](#LG113) |               **sudo pwsh 命令无法正常执行**。               | 已修复 ✓ |
+| [LG087](#LG087) |             **新版 Microsoft Teams 应用崩溃**。              | 已修复 ✓ |
+| [LG116](#LG116) |                **电脑无法正常关机 / 睡眠**。                 | 已修复 ✓ |
+| [LG119](#LG119) |      **文件夹中图片和视频的缩略图可能显示为黑色方块**。      | 已修复 ✓ |
+| [LG124](#LG124) |          **电脑随机 IRQL_NOT_LESS_OR_EQUAL 绿屏**。          | 已修复 ✓ |
+|                 |                                                              |          |
+|                 |                                                              |          |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |  **——**  |
 
 [**希望分享线索？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
@@ -96,7 +97,7 @@ Microsoft 官方回复 (如果有)：xxxxx
 ---
 
 <SPAN ID = 'LG069'/>编号：LG069  
-版本：Canary 26058 - 26080  
+版本：Canary 26058 - 26085  
 **问题**：**安装此版本时可能自动回退，错误代码 0xC1900101**。  
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象，并将继续调查用户反馈。” *(Ling 译)*  
@@ -104,36 +105,11 @@ Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象�
 
 ---
 
-<SPAN ID = 'LG073'/>编号：LG073  
-版本：Canary 26058 - 26080  
-**问题**：**文件资源管理器的右键菜单可能丢失亚克力效果**。  
+<SPAN ID = 'LG115'/>编号：LG115  
+版本：Canary 26080 - 26085  
+**问题**：**右键菜单变为 Windows 10 样式**。  
 状态：<img src="Images/W.png" width = "10%" />  
-Microsoft 官方回复：“此问题将在未来的版本中得到修复。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
-
----
-
-<SPAN ID = 'LG083'/>编号：LG083  
-版本：Canary 26058 - 26080  
-**问题**：**光标阴影 / 形状 / 颜色异常，光标随机消失 / 卡住**。  
-状态：<img src="Images/W.png" width = "10%" />  
-Microsoft 官方回复：“Canary 26080 版本包含大量修复程序，有助于解决光标异常问题。” *(Ling 译)*  
-<img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAp4zrc](https://aka.ms/AAp4zrc)
-
----
-
-<SPAN ID = 'LG082'/>编号：LG082  
-版本：Canary 26058 - 26080  
-**问题**：**文件资源管理器右键菜单中的图标显示在错误的位置**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AAp536r](https://aka.ms/AAp536r)
-
----
-
-<SPAN ID = 'LG113'/>编号：LG113  
-版本：Canary 26080  
-**问题**：**sudo pwsh 命令无法正常执行**。  
-状态：<img src="Images/W.png" width = "10%" />
+典型反馈：[aka.ms/AApjkju](https://aka.ms/AApjkju) <img src="Images/M.png" width = "15%" />
 
 <SPAN ID = '1'/>
 
@@ -182,14 +158,6 @@ Microsoft 官方回复：“Canary 26080 版本包含大量修复程序，有助
 **问题**：**在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAov9fo](https://aka.ms/AAov9fo)
-
----
-
-<SPAN ID = 'LG087'/>编号：LG087  
-版本：Canary 26040 - 26080  
-**问题**：**新版 Microsoft Teams 应用崩溃**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAp5inl](https://aka.ms/AAp5inl)
 
 ---
 
@@ -250,22 +218,6 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 ---
 
-<SPAN ID = 'LG115'/>编号：LG115  
-版本：Canary 26080  
-**问题**：**右键菜单变为 Windows 10 样式**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AApjkju](https://aka.ms/AApjkju) <img src="Images/M.png" width = "15%" />
-
----
-
-<SPAN ID = 'LG116'/>编号：LG116  
-版本：Canary 26080  
-**问题**：**电脑无法正常关机 / 睡眠**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AApjd80](https://aka.ms/AApjd80) <img src="Images/M.png" width = "15%" />
-
----
-
 <SPAN ID = 'LG117'/>编号：LG117  
 版本：Canary 26080  
 **问题**：**任务栏应用缩略图无法正常显示**。  
@@ -279,14 +231,6 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 **问题**：**音量滑块可能无法正常使用**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AApjd8k](https://aka.ms/AApjd8k)
-
----
-
-<SPAN ID = 'LG119'/>编号：LG119  
-版本：Canary 26080  
-**问题**：**文件夹中图片和视频的缩略图可能显示为黑色方块**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AApkl32](https://aka.ms/AApkl32)
 
 ---
 
@@ -322,14 +266,6 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 ---
 
-<SPAN ID = 'LG124'/>编号：LG124  
-版本：Canary 26080  
-**问题**：**电脑随机 IRQL_NOT_LESS_OR_EQUAL 绿屏**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AApmnko](https://aka.ms/AApmnko)
-
----
-
 <SPAN ID = 'LG125'/>编号：LG125  
 版本：Canary 26080  
 **问题**：**电脑风扇负荷更重 / 温度更高 / 电池续航更短**。  
@@ -346,7 +282,72 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 ---
 
-暂无。
+<SPAN ID = 'LG073'/>编号：LG073  
+版本：Canary 26058 - 26080  
+**问题**：**文件资源管理器的右键菜单可能丢失亚克力效果**。  
+状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“此问题将在未来的版本中得到修复。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
+
+---
+
+<SPAN ID = 'LG083'/>编号：LG083  
+版本：Canary 26058 - 26080  
+**问题**：**光标阴影 / 形状 / 颜色异常，光标随机消失 / 卡住**。  
+状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+Microsoft 官方回复：“Canary 26080 版本包含大量修复程序，有助于解决光标异常问题。” *(Ling 译)*  
+<img src="Images/M.png" width = "15%" />  
+典型反馈：[aka.ms/AAp4zrc](https://aka.ms/AAp4zrc)
+
+---
+
+<SPAN ID = 'LG082'/>编号：LG082  
+版本：Canary 26058 - 26080  
+**问题**：**文件资源管理器右键菜单中的图标显示在错误的位置**。  
+状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAp536r](https://aka.ms/AAp536r)
+
+---
+
+<SPAN ID = 'LG113'/>编号：LG113  
+版本：Canary 26080  
+**问题**：**sudo pwsh 命令无法正常执行**。  
+状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓
+
+---
+
+<SPAN ID = 'LG087'/>编号：LG087  
+版本：Canary 26040 - 26080  
+**问题**：**新版 Microsoft Teams 应用崩溃**。  
+状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAp5inl](https://aka.ms/AAp5inl)
+
+---
+
+<SPAN ID = 'LG116'/>编号：LG116  
+版本：Canary 26080  
+**问题**：**电脑无法正常关机 / 睡眠**。  
+状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApjd80](https://aka.ms/AApjd80) <img src="Images/M.png" width = "15%" />
+
+---
+
+<SPAN ID = 'LG119'/>编号：LG119  
+版本：Canary 26080  
+**问题**：**文件夹中图片和视频的缩略图可能显示为黑色方块**。  
+状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApkl32](https://aka.ms/AApkl32)
+
+---
+
+<SPAN ID = 'LG124'/>编号：LG124  
+版本：Canary 26080  
+**问题**：**电脑随机 IRQL_NOT_LESS_OR_EQUAL 绿屏**。  
+状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApmnko](https://aka.ms/AApmnko)
+
+---
+
+
 
 [Microsoft 已做出更改 >28 天的问题](28+.md)
 
