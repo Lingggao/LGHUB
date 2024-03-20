@@ -1,8 +1,9 @@
 <SPAN ID = 'HEAD'/>
 
-<div align=center>
+<div align="center">
 <img src="Images/LING_1.png" width = "25%" /> <img src="Images/MCC2024.png" width = "12%" />
 </div>
+
 
 <h1 align="center">灵糕中心 (Linggao Hub)</h1>
 
