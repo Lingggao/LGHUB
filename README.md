@@ -21,9 +21,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 21 日 5:00 (UTC+8)。访问次数：1720+
+&emsp;&emsp;上次更新时间：2024 年 3 月 21 日 10:00 (UTC+8)。访问次数：1750+
 
-&emsp;&emsp;收录反馈 126 个，其中正在调查 7 个、正在处理 4 个、已修复 108 个。
+&emsp;&emsp;收录反馈 126 个，其中正在调查 7 个、正在处理 4 个、已修复 115 个。
 
 &emsp;&emsp;反馈更新目录：**今日更新反馈状态**。- Ling 🌳 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
 
@@ -32,7 +32,7 @@
 | Canary & Dev | **[新]** 26085 |  2024/3/21   | [aka.ms/wip26085](https://blogs.windows.com/windows-insider/2024/03/20/announcing-windows-11-insider-preview-build-26085-canary-and-dev-channels) |
 |     Beta     |   22635.3350   |  2024/3/14   | [aka.ms/wip-beta-3-13](https://blogs.windows.com/windows-insider/2024/03/13/announcing-windows-11-insider-preview-build-22635-3350-beta-channel) |
 
-<img src="Images/Graph_1.png" width = "88%" />
+<img src="Images/Graph_0.png" width = "88%" />
 
 |      编号       |                             问题                             |   状态   |
 | :-------------: | :----------------------------------------------------------: | :------: |
