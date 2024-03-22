@@ -23,9 +23,9 @@
 
 &emsp;&emsp;上次更新时间：2024 年 3 月 22 日 14:00 (UTC+8)。访问次数：1900+
 
-&emsp;&emsp;收录反馈 126 个，其中正在调查 7 个、正在处理 5 个、已修复 114 个。
+&emsp;&emsp;收录反馈 127 个，其中正在调查 9 个、正在处理 5 个、已修复 113 个。
 
-&emsp;&emsp;反馈更新目录：**今日更新反馈状态**。- Ling 💧 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;反馈更新目录：**今日更新 LG126**。- Ling 💧 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
 
 |     频道     |  最新版本  | 时间 (UTC+8) |                             公告                             |
 | :----------: | :--------: | :----------: | :----------------------------------------------------------: |
@@ -48,7 +48,9 @@
 | [LG122](#LG122) |                      Copilot 功能消失。                      | 正在调查 |
 | [LG123](#LG123) |                 接收不到 Build 26080+ 更新。                 | 正在调查 |
 | [LG125](#LG125) |         电脑风扇负荷更重 / 温度更高 / 电池续航更短。         | 正在调查 |
-| [LG116](#LG116) |                **电脑无法正常关机 / 睡眠**。                 | 正在处理 |
+| [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   | 正在处理 |
+| [LG117](#LG117) |                任务栏应用缩略图无法正常显示。                | 正在调查 |
+| [LG126](#LG126) |              **Surface 电脑的摄像头可能失效**。              | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |  **——**  |
 | [LG073](#LG073) |         文件资源管理器的右键菜单可能丢失亚克力效果。         | 已修复 ✓ |
 | [LG083](#LG083) |   [合并] 光标阴影 / 形状 / 颜色异常，光标随机消失 / 卡住。   | 已修复 ✓ |
@@ -62,7 +64,6 @@
 | [LG094](#LG094) |           相机和 Studio Effects 可能无法正常工作。           | 已修复 ✓ |
 | [LG107](#LG107) |                   笔记本电脑指纹模块失灵。                   | 已修复 ✓ |
 | [LG110](#LG110) |        重启电脑后，桌面背景由 Windows 聚焦变为图片。         | 已修复 ✓ |
-| [LG117](#LG117) |                任务栏应用缩略图无法正常显示。                | 已修复 ✓ |
 | [LG118](#LG118) |                  音量滑块可能无法正常使用。                  | 已修复 ✓ |
 | [LG120](#LG120) |           有大约 2.5GB - 3GB 的临时文件无法清理。            | 已修复 ✓ |
 | [LG121](#LG121) |            任务栏 Windows 安全中心图标随机消失。             | 已修复 ✓ |
@@ -201,11 +202,27 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 ---
 
 <SPAN ID = 'LG116'/>编号：LG116  
-版本：Canary 26085  
+版本：Canary 26080 - 26085  
 **问题**：**电脑无法正常关机 / 睡眠**。  
 状态：<img src="Images/W.png" width = "10%" />  
 Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 26085 版本中仍然存在这一问题。我们正在调查中，请暂时使用 shutdown -t 0 -s 命令关机。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
 典型反馈：[aka.ms/AApjd80](https://aka.ms/AApjd80)
+
+---
+
+<SPAN ID = 'LG117'/>编号：LG117  
+版本：Canary 26080 - 26085  
+**问题**：**任务栏应用缩略图无法正常显示**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApjd83](https://aka.ms/AApjd83)
+
+---
+
+<SPAN ID = 'LG126'/>编号：LG126  
+版本：Canary 26085  
+**问题**：**Surface 电脑的摄像头可能失效**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApno2g](https://aka.ms/AApno2g)
 
 <SPAN ID = '2'/>
 
@@ -311,14 +328,6 @@ Microsoft 官方回复：“Canary 26080 版本包含大量修复程序，有助
 **问题**：**重启电脑后，桌面背景由 Windows 聚焦变为图片**。  
 状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AApgw7x](https://aka.ms/AApgw7x)
-
----
-
-<SPAN ID = 'LG117'/>编号：LG117  
-版本：Canary 26080  
-**问题**：**任务栏应用缩略图无法正常显示**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AApjd83](https://aka.ms/AApjd83)
 
 ---
 
