@@ -32,7 +32,7 @@
 | Canary & Dev |   26085    |  2024/3/21   | [aka.ms/wip26085](https://blogs.windows.com/windows-insider/2024/03/20/announcing-windows-11-insider-preview-build-26085-canary-and-dev-channels) |
 |     Beta     | 22635.3350 |  2024/3/14   | [aka.ms/wip-beta-3-13](https://blogs.windows.com/windows-insider/2024/03/13/announcing-windows-11-insider-preview-build-22635-3350-beta-channel) |
 
-<img src="Images/Graph_1.png" width = "88%" />
+<img src="Images/Graph_0.png" width = "88%" />
 
 |      编号       |                             问题                             |   状态   |
 | :-------------: | :----------------------------------------------------------: | :------: |
