@@ -21,11 +21,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 22 日 14:00 (UTC+8)。访问次数：1900+
+&emsp;&emsp;上次更新时间：2024 年 3 月 23 日 14:00 (UTC+8)。访问次数：1980+
 
-&emsp;&emsp;收录反馈 127 个，其中正在调查 9 个、正在处理 5 个、已修复 113 个。
+&emsp;&emsp;收录反馈 129 个，其中正在调查 10 个、正在处理 5 个、已修复 114 个。
 
-&emsp;&emsp;反馈更新目录：**今日更新 LG126**。- Ling 💧 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;反馈更新目录：**今日更新 LG127 - 128**。- Ling 💧 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
 
 |     频道     |  最新版本  | 时间 (UTC+8) |                             公告                             |
 | :----------: | :--------: | :----------: | :----------------------------------------------------------: |
@@ -41,7 +41,6 @@
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |  **——**  |
 | [LG013](#LG013) |           “设置”>“应用”>“启动” 页面中的图标异常。            | 正在调查 |
 | [LG015](#LG015) |      在文件资源管理器中按下两次 F11 后地址栏将被冻结。       | 正在调查 |
-| [LG030](#LG030) | 在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。 | 正在调查 |
 | [LG088](#LG088) |       无法使用截图工具对开始菜单 / 右键菜单进行截图。        | 正在调查 |
 | [LG111](#LG111) |  **[合并]** 任务视图 / 文件资源管理器卡顿或 CPU 占用率高。   | 正在处理 |
 | [LGH01](#LGH01) | **[集合]** 仍有几款游戏在 Build 26080 中无法正常运行。(含列表) | 正在处理 |
@@ -50,23 +49,11 @@
 | [LG125](#LG125) |         电脑风扇负荷更重 / 温度更高 / 电池续航更短。         | 正在调查 |
 | [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   | 正在处理 |
 | [LG117](#LG117) |                任务栏应用缩略图无法正常显示。                | 正在调查 |
-| [LG126](#LG126) |              **Surface 设备的摄像头可能失效**。              | 正在调查 |
+| [LG126](#LG126) |                Surface 设备的摄像头可能失效。                | 正在调查 |
+| [LG127](#LG127) |                **在手写板上写字时文字错位**。                | 正在调查 |
+| [LG128](#LG128) |            **SteelSeries 耳机软件无法正常使用**。            | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |  **——**  |
-| [LG073](#LG073) |         文件资源管理器的右键菜单可能丢失亚克力效果。         | 已修复 ✓ |
-| [LG083](#LG083) |   [合并] 光标阴影 / 形状 / 颜色异常，光标随机消失 / 卡住。   | 已修复 ✓ |
-| [LG082](#LG082) |       文件资源管理器右键菜单中的图标显示在错误的位置。       | 已修复 ✓ |
-| [LG113](#LG113) |                 sudo pwsh 命令无法正常执行。                 | 已修复 ✓ |
-| [LG087](#LG087) |               新版 Microsoft Teams 应用崩溃。                | 已修复 ✓ |
-| [LG119](#LG119) |        文件夹中图片和视频的缩略图可能显示为黑色方块。        | 已修复 ✓ |
-| [LG124](#LG124) |            电脑随机 IRQL_NOT_LESS_OR_EQUAL 绿屏。            | 已修复 ✓ |
-| [LG049](#LG049) |  事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)。   | 已修复 ✓ |
-| [LG058](#LG058) | 在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误。 | 已修复 ✓ |
-| [LG094](#LG094) |           相机和 Studio Effects 可能无法正常工作。           | 已修复 ✓ |
-| [LG107](#LG107) |                   笔记本电脑指纹模块失灵。                   | 已修复 ✓ |
-| [LG110](#LG110) |        重启电脑后，桌面背景由 Windows 聚焦变为图片。         | 已修复 ✓ |
-| [LG118](#LG118) |                  音量滑块可能无法正常使用。                  | 已修复 ✓ |
-| [LG120](#LG120) |           有大约 2.5GB - 3GB 的临时文件无法清理。            | 已修复 ✓ |
-| [LG121](#LG121) |            任务栏 Windows 安全中心图标随机消失。             | 已修复 ✓ |
+| [LG030](#LG030) | **在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误**。 | 已修复 ✓ |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |  **——**  |
 
 [**希望分享线索？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
@@ -133,14 +120,6 @@ Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象�
 **问题**：**在文件资源管理器中按下两次 F11 后地址栏将被冻结**。  
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AAnkkd6](https://aka.ms/AAnkkd6)
-
----
-
-<SPAN ID = 'LG030'/>编号：LG030  
-版本：Canary  
-**问题**：**在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误**。  
-状态：<img src="Images/L.png" width = "10%" />  
-典型反馈：[aka.ms/AAlzfg7](https://aka.ms/AAlzfg7)
 
 ---
 
@@ -224,6 +203,22 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 状态：<img src="Images/L.png" width = "10%" />  
 典型反馈：[aka.ms/AApno2g](https://aka.ms/AApno2g)
 
+---
+
+<SPAN ID = 'LG127'/>编号：LG127  
+版本：Canary 26085  
+**问题**：**在手写板上写字时文字错位**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApnq5x](https://aka.ms/AApnq5x)
+
+---
+
+<SPAN ID = 'LG128'/>编号：LG128  
+版本：Canary 26085  
+**问题**：**SteelSeries 耳机软件无法正常使用**。  
+状态：<img src="Images/L.png" width = "10%" />  
+典型反馈：[aka.ms/AApoga9](https://aka.ms/AApoga9)
+
 <SPAN ID = '2'/>
 
 ## ✦ Canary - 归档 (已做出更改) ✦
@@ -234,124 +229,11 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 
 ---
 
-<SPAN ID = 'LG073'/>编号：LG073  
-版本：Canary 26058 - 26080  
-**问题**：**文件资源管理器的右键菜单可能丢失亚克力效果**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-Microsoft 官方回复：“此问题将在未来的版本中得到修复。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
-
----
-
-<SPAN ID = 'LG083'/>编号：LG083  
-版本：Canary 26058 - 26080  
-**问题**：**光标阴影 / 形状 / 颜色异常，光标随机消失 / 卡住**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-Microsoft 官方回复：“Canary 26080 版本包含大量修复程序，有助于解决光标异常问题。” *(Ling 译)*  
-<img src="Images/M.png" width = "15%" />  
-典型反馈：[aka.ms/AAp4zrc](https://aka.ms/AAp4zrc)
-
----
-
-<SPAN ID = 'LG082'/>编号：LG082  
-版本：Canary 26058 - 26080  
-**问题**：**文件资源管理器右键菜单中的图标显示在错误的位置**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAp536r](https://aka.ms/AAp536r)
-
----
-
-<SPAN ID = 'LG113'/>编号：LG113  
-版本：Canary 26080  
-**问题**：**sudo pwsh 命令无法正常执行**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓
-
----
-
-<SPAN ID = 'LG087'/>编号：LG087  
-版本：Canary 26040 - 26080  
-**问题**：**新版 Microsoft Teams 应用崩溃**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAp5inl](https://aka.ms/AAp5inl)
-
----
-
-<SPAN ID = 'LG119'/>编号：LG119  
-版本：Canary 26080  
-**问题**：**文件夹中图片和视频的缩略图可能显示为黑色方块**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AApkl32](https://aka.ms/AApkl32)
-
----
-
-<SPAN ID = 'LG124'/>编号：LG124  
-版本：Canary 26080  
-**问题**：**电脑随机 IRQL_NOT_LESS_OR_EQUAL 绿屏**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AApmnko](https://aka.ms/AApmnko)
-
----
-
-<SPAN ID = 'LG049'/>编号：LG049  
-版本：Canary 26020 - 26080  
-**问题**：**事件查看器显示 DeviceSetupManager 元数据错误 (事件 131)**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAoipfs](https://aka.ms/AAoipfs)
-
----
-
-<SPAN ID = 'LG058'/>编号：LG058  
-版本：Canary 26040 - 26080  
-**问题**：**在 Microsoft Store 更新 “快速助手” 应用时显示 0x80073CFB 错误**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAov9fo](https://aka.ms/AAov9fo)
-
----
-
-<SPAN ID = 'LG094'/>编号：LG094  
-版本：Canary 26052 - 26080  
-**问题**：**相机和 Studio Effects 可能无法正常工作**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAp3q1v](https://aka.ms/AAp3q1v)
-
----
-
-<SPAN ID = 'LG107'/>编号：LG107  
-版本：Canary 26063 - 26080  
-**问题**：**笔记本电脑指纹模块失灵**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AApe79t](https://aka.ms/AApe79t)
-
----
-
-<SPAN ID = 'LG110'/>编号：LG110  
-版本：Canary 26063 - 26080  
-**问题**：**重启电脑后，桌面背景由 Windows 聚焦变为图片**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AApgw7x](https://aka.ms/AApgw7x)
-
----
-
-<SPAN ID = 'LG118'/>编号：LG118  
-版本：Canary 26080  
-**问题**：**音量滑块可能无法正常使用**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AApjd8k](https://aka.ms/AApjd8k)
-
----
-
-<SPAN ID = 'LG120'/>编号：LG120  
-版本：Canary 26080  
-**问题**：**有大约 2.5GB - 3GB 的临时文件无法清理**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAplnvk](https://aka.ms/AAplnvk)
-
----
-
-<SPAN ID = 'LG121'/>编号：LG121  
-版本：Canary 26080  
-**问题**：**任务栏 Windows 安全中心图标随机消失**。  
-状态：Canary 26085 - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AApmjv6](https://aka.ms/AApmjv6)
+<SPAN ID = 'LG030'/>编号：LG030  
+版本：Canary  
+**问题**：**在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误**。  
+状态：Canary - <img src="Images/C_0.png" width = "12%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAlzfg7](https://aka.ms/AAlzfg7)
 
 [Microsoft 已做出更改 >28 天的问题](28+.md)
 
