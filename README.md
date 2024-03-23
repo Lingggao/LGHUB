@@ -27,10 +27,11 @@
 
 &emsp;&emsp;反馈更新目录：**今日更新 LG127 - 128**。- Ling 🐕 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
 
-|     频道     |  最新版本  | 时间 (UTC+8) |                             公告                             |
-| :----------: | :--------: | :----------: | :----------------------------------------------------------: |
-| Canary & Dev |   26085    |  2024/3/21   | [aka.ms/wip26085](https://blogs.windows.com/windows-insider/2024/03/20/announcing-windows-11-insider-preview-build-26085-canary-and-dev-channels) |
-|     Beta     | 22635.3350 |  2024/3/14   | [aka.ms/wip-beta-3-13](https://blogs.windows.com/windows-insider/2024/03/13/announcing-windows-11-insider-preview-build-22635-3350-beta-channel) |
+|      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
+| :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
+|  Canary & Dev   |     26085      |  2024/3/21   | [aka.ms/wip26085](https://blogs.windows.com/windows-insider/2024/03/20/announcing-windows-11-insider-preview-build-26085-canary-and-dev-channels) |
+|      Beta       |   22635.3350   |  2024/3/14   | [aka.ms/wip-beta-3-13](https://blogs.windows.com/windows-insider/2024/03/13/announcing-windows-11-insider-preview-build-22635-3350-beta-channel) |
+| Release Preview | 226(3/2)1.3371 |  2024/3/22   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/03/21/releasing-windows-11-builds-22621-3371-and-22631-3371-to-the-release-preview-channel) |
 
 <img src="Images/Graph_0.png" width = "88%" />
 
