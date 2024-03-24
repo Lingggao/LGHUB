@@ -21,11 +21,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 23 日 14:00 (UTC+8)。访问次数：1980+
+&emsp;&emsp;上次更新时间：2024 年 3 月 24 日 18:00 (UTC+8)。访问次数：2010+
 
 &emsp;&emsp;收录反馈 129 个，其中正在调查 10 个、正在处理 5 个、已修复 114 个。
 
-&emsp;&emsp;反馈更新目录：**今日更新 LG127 - 128**。- Ling 🐕 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;反馈更新目录：今日无更新。- Ling 😘 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
 
 |      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
@@ -51,10 +51,10 @@
 | [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   | 正在处理 |
 | [LG117](#LG117) |                任务栏应用缩略图无法正常显示。                | 正在调查 |
 | [LG126](#LG126) |                Surface 设备的摄像头可能失效。                | 正在调查 |
-| [LG127](#LG127) |                **在手写板上写字时文字错位**。                | 正在调查 |
-| [LG128](#LG128) |            **SteelSeries 耳机软件无法正常使用**。            | 正在调查 |
+| [LG127](#LG127) |                  在手写板上写字时文字错位。                  | 正在调查 |
+| [LG128](#LG128) |              SteelSeries 耳机软件无法正常使用。              | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |  **——**  |
-| [LG030](#LG030) | **在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误**。 | 已修复 ✓ |
+| [LG030](#LG030) | 在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。 | 已修复 ✓ |
 |     **——**      |     ✦ [**Canary - 归档 (已做出更改 >28 天)**](28+.md) ✦      |  **——**  |
 
 [**希望分享线索？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
