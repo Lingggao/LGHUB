@@ -21,7 +21,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 27 日 17:00 (UTC+8)。访问次数：3000+
+&emsp;&emsp;上次更新时间：2024 年 3 月 27 日 20:00 (UTC+8)。访问次数：2120+
 
 &emsp;&emsp;收录反馈 134 个，其中正在调查 15 个、正在处理 5 个、已修复 114 个。
 
@@ -60,7 +60,7 @@
 | [LG133](#LG133) |          **鼠标在锁屏界面无法显示为设定的主题色**。          | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |  **——**  |
 | [LG030](#LG030) | 在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。 | 已修复 ✓ |
-|     **——**      | **✦** [**Canary - 归档 (已做出更改 >28 天)**](28+.md) **✦ \| ✦** [**Canary - 搁置**](#3) **✦** |  **——**  |
+|     **——**      | **✦** [**Canary - 归档 (已做出更改 >28 天)**](28+.md) **✦ \| ✦** [**Canary - 搁置 (不做出更改)**](#3) **✦** |  **——**  |
 
 [**希望分享线索？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
 
@@ -286,7 +286,7 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 
 <SPAN ID = '3'/>
 
-## ✦ Canary - 搁置 ✦
+## ✦ Canary - 搁置 (不做出更改) ✦
 
 //
 
