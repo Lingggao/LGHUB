@@ -279,7 +279,7 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 <SPAN ID = 'LG030'/>编号：LG030  
 版本：Canary  
 **问题**：**在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误**。  
-状态：Canary - <img src="Images/C_0.png" width = "11%" /> - 已修复 ✓  
+状态：Canary - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAlzfg7](https://aka.ms/AAlzfg7)
 
 [Microsoft 已做出更改 >28 天的问题](28+.md)
