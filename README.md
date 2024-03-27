@@ -23,7 +23,7 @@
 
 &emsp;&emsp;上次更新时间：2024 年 3 月 27 日 20:00 (UTC+8)。访问次数：2120+
 
-&emsp;&emsp;收录反馈 134 个，其中正在调查 15 个、正在处理 5 个、已修复 114 个。
+&emsp;&emsp;收录反馈 134 个，其中正在调查 15 个 (搁置 2 个)、正在处理 5 个、已修复 114 个。
 
 &emsp;&emsp;反馈更新目录：**今日更新 LG129 - 133**。- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
 
