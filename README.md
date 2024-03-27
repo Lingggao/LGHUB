@@ -93,7 +93,7 @@ Microsoft 官方回复 (如果有)：xxxxx
 **问题**：**安装 Canary 版本时可能自动回退，错误代码 0xC1900101**。  
 状态：<img src="Images/W.png" width = "9%" />  
 Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象，并将继续调查用户反馈。” *(Ling 译)*  
- <img src="Images/M.png" width = "13%" />
+ <img src="Images/M.png" width = "13.5%" />
 
 ---
 
@@ -101,7 +101,7 @@ Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象�
 版本：Canary 26080 - 26085  
 **问题**：**右键菜单变为 Windows 10 样式**。  
 状态：<img src="Images/W.png" width = "9%" />  
-典型反馈：[aka.ms/AApjkju](https://aka.ms/AApjkju) <img src="Images/M.png" width = "13%" />
+典型反馈：[aka.ms/AApjkju](https://aka.ms/AApjkju) <img src="Images/M.png" width = "13.5%" />
 
 <SPAN ID = '1'/>
 
@@ -148,8 +148,8 @@ Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象�
 <SPAN ID = 'LGH01'/>编号：LGH01  
 版本：Canary 26080 - 26085  
 **集合**：**仍有几款游戏在 Build 26080 中无法正常运行**。  
-状态： <img src="Images/W.png" width = "9%" />  
-Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复正常运行。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)* <img src="Images/M.png" width = "13%" />
+状态：<img src="Images/W.png" width = "9%" />  
+Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复正常运行。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)* <img src="Images/M.png" width = "13.5%" />
 
 列表 (排名不分先后)
 
@@ -191,7 +191,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 版本：Canary 26080 - 26085  
 **问题**：**电脑无法正常关机 / 睡眠**。  
 状态：<img src="Images/W.png" width = "9%" />  
-Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 26085 版本中仍然存在这一问题。我们正在调查中，请暂时使用 shutdown -t 0 -s 命令关机。” *(Ling 译)* <img src="Images/M.png" width = "13%" />  
+Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 26085 版本中仍然存在这一问题。我们正在调查中，请暂时使用 shutdown -t 0 -s 命令关机。” *(Ling 译)* <img src="Images/M.png" width = "13.5%" />  
 典型反馈：[aka.ms/AApjd80](https://aka.ms/AApjd80)
 
 ---
