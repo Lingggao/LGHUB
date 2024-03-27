@@ -91,17 +91,17 @@ Microsoft 官方回复 (如果有)：xxxxx
 <SPAN ID = 'LG069'/>编号：LG069  
 版本：Canary 26058 - 26085  
 **问题**：**安装 Canary 版本时可能自动回退，错误代码 0xC1900101**。  
-状态：<img src="Images/W.png" width = "10%" />  
+状态：<img src="Images/W.png" width = "9%" />  
 Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象，并将继续调查用户反馈。” *(Ling 译)*  
- <img src="Images/M.png" width = "15%" />
+ <img src="Images/M.png" width = "13%" />
 
 ---
 
 <SPAN ID = 'LG115'/>编号：LG115  
 版本：Canary 26080 - 26085  
 **问题**：**右键菜单变为 Windows 10 样式**。  
-状态：<img src="Images/W.png" width = "10%" />  
-典型反馈：[aka.ms/AApjkju](https://aka.ms/AApjkju) <img src="Images/M.png" width = "15%" />
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AApjkju](https://aka.ms/AApjkju) <img src="Images/M.png" width = "13%" />
 
 <SPAN ID = '1'/>
 
@@ -114,7 +114,7 @@ Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象�
 <SPAN ID = 'LG013'/>编号：LG013  
 版本：Canary 26002 - 26085  
 **问题**：**“设置”>“应用”>“启动” 页面中的图标异常**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAo5wd6](https://aka.ms/AAo5wd6)
 
 <img src="Images/LG013.png" width = "50%" />
@@ -124,7 +124,7 @@ Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象�
 <SPAN ID = 'LG015'/>编号：LG015  
 版本：Canary 25992 - 26085  
 **问题**：**在文件资源管理器中按下两次 F11 后地址栏将被冻结**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAnkkd6](https://aka.ms/AAnkkd6)
 
 ---
@@ -132,7 +132,7 @@ Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象�
 <SPAN ID = 'LG088'/>编号：LG088  
 版本：ALL  
 **问题**：**无法使用截图工具对开始菜单 / 右键菜单进行截图**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAp5evo](https://aka.ms/AAp5evo)
 
 ---
@@ -140,7 +140,7 @@ Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象�
 <SPAN ID = 'LG111'/>编号：LG111  
 版本：Canary 26063 - 26085  
 **问题**：**任务视图 / 文件资源管理器卡顿或 CPU 占用率高**。  
-状态：<img src="Images/W.png" width = "10%" />  
+状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAph34g](https://aka.ms/AAph34g)
 
 ---
@@ -148,8 +148,8 @@ Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象�
 <SPAN ID = 'LGH01'/>编号：LGH01  
 版本：Canary 26080 - 26085  
 **集合**：**仍有几款游戏在 Build 26080 中无法正常运行**。  
-状态： <img src="Images/W.png" width = "10%" />  
-Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复正常运行。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)* <img src="Images/M.png" width = "15%" />
+状态： <img src="Images/W.png" width = "9%" />  
+Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复正常运行。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)* <img src="Images/M.png" width = "13%" />
 
 列表 (排名不分先后)
 
@@ -166,7 +166,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 <SPAN ID = 'LG122'/>编号：LG122  
 版本：Canary 26080 - 26085  
 **问题**：**Copilot 功能消失**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApmcet](https://aka.ms/AApmcet)
 
 ---
@@ -174,7 +174,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 <SPAN ID = 'LG123'/>编号：LG123  
 版本：Canary  
 **问题**：**接收不到 Build 26080+ 更新**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApjbci](https://aka.ms/AApjbci)
 
 ---
@@ -182,7 +182,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 <SPAN ID = 'LG125'/>编号：LG125  
 版本：Canary 26080 - 26085  
 **问题**：**电脑风扇负荷更重 / 温度更高 / 电池续航更短**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApmnl6](https://aka.ms/AApmnl6)
 
 ---
@@ -190,8 +190,8 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 <SPAN ID = 'LG116'/>编号：LG116  
 版本：Canary 26080 - 26085  
 **问题**：**电脑无法正常关机 / 睡眠**。  
-状态：<img src="Images/W.png" width = "10%" />  
-Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 26085 版本中仍然存在这一问题。我们正在调查中，请暂时使用 shutdown -t 0 -s 命令关机。” *(Ling 译)* <img src="Images/M.png" width = "15%" />  
+状态：<img src="Images/W.png" width = "9%" />  
+Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 26085 版本中仍然存在这一问题。我们正在调查中，请暂时使用 shutdown -t 0 -s 命令关机。” *(Ling 译)* <img src="Images/M.png" width = "13%" />  
 典型反馈：[aka.ms/AApjd80](https://aka.ms/AApjd80)
 
 ---
@@ -199,7 +199,7 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 <SPAN ID = 'LG117'/>编号：LG117  
 版本：Canary 26080 - 26085  
 **问题**：**任务栏应用缩略图无法正常显示**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApjd83](https://aka.ms/AApjd83)
 
 ---
@@ -207,7 +207,7 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 <SPAN ID = 'LG126'/>编号：LG126  
 版本：Canary 26085  
 **问题**：**Surface 设备的摄像头可能失效**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApno2g](https://aka.ms/AApno2g)
 
 ---
@@ -215,7 +215,7 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 <SPAN ID = 'LG127'/>编号：LG127  
 版本：Canary 26085  
 **问题**：**在手写板上写字时文字错位**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApnq5x](https://aka.ms/AApnq5x)
 
 ---
@@ -223,7 +223,7 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 <SPAN ID = 'LG128'/>编号：LG128  
 版本：Canary 26085  
 **问题**：**SteelSeries 耳机软件无法正常使用**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApoga9](https://aka.ms/AApoga9)
 
 ---
@@ -231,7 +231,7 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 <SPAN ID = 'LG129'/>编号：LG129  
 版本：Canary 26085  
 **问题**：**在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApqooc](https://aka.ms/AApqooc)
 
 ---
@@ -239,7 +239,7 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 <SPAN ID = 'LG130'/>编号：LG130  
 版本：Canary 26085  
 **问题**：**更新 Windows 后，已禁用的音频设备被自动启用**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApsxmc](https://aka.ms/AApsxmc)
 
 ---
@@ -247,7 +247,7 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 <SPAN ID = 'LG131'/>编号：LG131  
 版本：Canary 26085  
 **问题**：**播放视频时鼠标卡顿**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApqopo](https://aka.ms/AApqopo)
 
 ---
@@ -255,7 +255,7 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 <SPAN ID = 'LG132'/>编号：LG132  
 版本：Canary 26085  
 **问题**：**部分第三方壁纸软件无法正常运行**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApsqd8](https://aka.ms/AApsqd8)
 
 ---
@@ -263,7 +263,7 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 <SPAN ID = 'LG133'/>编号：LG133  
 版本：Canary 26085  
 **问题**：**鼠标在锁屏界面无法显示为设定的主题色**。  
-状态：<img src="Images/L.png" width = "10%" />  
+状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAps4ch](https://aka.ms/AAps4ch)
 
 <SPAN ID = '2'/>
