@@ -25,7 +25,7 @@
 
 &emsp;&emsp;上次更新时间：2024 年 3 月 29 日 3:00 (UTC+8)。访问次数：2270+
 
-&emsp;&emsp;收录反馈 136 个，其中正在调查 13 个 (含搁置 2 个)、正在处理 4 个、已修复 119 个。
+&emsp;&emsp;收录反馈 136 个，其中正在调查 13 个 (含搁置 3 个)、正在处理 4 个、已修复 119 个。
 
 &emsp;&emsp;反馈更新目录：**今日更新反馈状态**。- Ling 🌧️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
 
@@ -42,7 +42,6 @@
 | [LG123](#LG123) |                 接收不到 Build 26080+ 更新。                 | 正在处理 |
 | [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   | 正在处理 |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |  **——**  |
-| [LG088](#LG088) |       无法使用截图工具对开始菜单 / 右键菜单进行截图。        | 正在调查 |
 | [LG111](#LG111) |  **[合并]** 任务视图 / 文件资源管理器卡顿或 CPU 占用率高。   | 正在处理 |
 | [LGH01](#LGH01) | **[集合]** 仍有一些游戏在 Build 26080+ 中无法正常运行。(含列表) | 正在处理 |
 | [LG122](#LG122) |                      Copilot 功能消失。                      | 正在调查 |
@@ -111,14 +110,6 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 ## ✦ Canary - 用户反馈问题 ✦
 
 &emsp;&emsp;记录[反馈中心应用](https://aka.ms/fbh)中 Microsoft 明确响应的问题。
-
----
-
-<SPAN ID = 'LG088'/>编号：LG088  
-版本：ALL  
-**问题**：**无法使用截图工具对开始菜单 / 右键菜单进行截图**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAp5evo](https://aka.ms/AAp5evo)
 
 ---
 
