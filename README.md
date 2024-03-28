@@ -39,29 +39,29 @@
 
 |      编号       |                             问题                             |   状态   |
 | :-------------: | :----------------------------------------------------------: | :------: |
-| [LG069](#LG069) |    安装 Canary 版本时可能自动回退，错误代码 0xC1900101。     | 正在处理 |
-| [LG115](#LG115) |                右键菜单变为 Windows 10 样式。                | 正在处理 |
+| [LG123](#LG123) |                 接收不到 Build 26080+ 更新。                 | 正在处理 |
+| [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   | 正在处理 |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |  **——**  |
 | [LG088](#LG088) |       无法使用截图工具对开始菜单 / 右键菜单进行截图。        | 正在调查 |
 | [LG111](#LG111) |  **[合并]** 任务视图 / 文件资源管理器卡顿或 CPU 占用率高。   | 正在处理 |
 | [LGH01](#LGH01) | **[集合]** 仍有一些游戏在 Build 26080+ 中无法正常运行。(含列表) | 正在处理 |
 | [LG122](#LG122) |                      Copilot 功能消失。                      | 正在调查 |
-| [LG123](#LG123) |                 接收不到 Build 26080+ 更新。                 | 正在调查 |
-| [LG125](#LG125) |         电脑风扇负荷更重 / 温度更高 / 电池续航更短。         | 正在调查 |
-| [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   | 正在处理 |
 | [LG117](#LG117) |                任务栏应用缩略图无法正常显示。                | 正在调查 |
 | [LG126](#LG126) |                Surface 设备的摄像头可能失效。                | 正在调查 |
 | [LG127](#LG127) |                  在手写板上写字时文字错位。                  | 正在调查 |
 | [LG128](#LG128) |              SteelSeries 耳机软件无法正常使用。              | 正在调查 |
 | [LG129](#LG129) | 在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误。 | 正在调查 |
 | [LG130](#LG130) |        更新 Windows 后，已禁用的音频设备被自动启用。         | 正在调查 |
-| [LG131](#LG131) |                     播放视频时鼠标卡顿。                     | 正在调查 |
 | [LG132](#LG132) |               部分第三方壁纸软件无法正常运行。               | 正在调查 |
 | [LG133](#LG133) |            鼠标在锁屏界面无法显示为设定的主题色。            | 正在调查 |
-| [LG134](#LG134) |          **重启电脑后，已下载的语言包被自动删除**。          | 正在调查 |
-| [LG135](#LG135) |             **鼠标和键盘无法在安全模式中使用**。             | 正在调查 |
+| [LG134](#LG134) |            重启电脑后，已下载的语言包被自动删除。            | 正在调查 |
+| [LG135](#LG135) |               鼠标和键盘无法在安全模式中使用。               | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |  **——**  |
 | [LG030](#LG030) | 在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。 | 已修复 ✓ |
+| [LG115](#LG115) |                右键菜单变为 Windows 10 样式。                | 已修复 ✓ |
+| [LG069](#LG069) |    安装 Canary 版本时可能自动回退，错误代码 0xC1900101。     | 已修复 ✓ |
+| [LG125](#LG125) |         电脑风扇负荷更重 / 温度更高 / 电池续航更短。         | 已修复 ✓ |
+| [LG131](#LG131) |                     播放视频时鼠标卡顿。                     | 已修复 ✓ |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >28 天)**](28+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
 
 [**希望分享线索？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
@@ -90,20 +90,21 @@ Microsoft 官方回复 14 (如果有)：xxxxx
 
 ---
 
-<SPAN ID = 'LG069'/>编号：LG069  
-版本：Canary 26058 - 26085  
-**问题**：**安装 Canary 版本时可能自动回退，错误代码 0xC1900101**。  
+<SPAN ID = 'LG123'/>编号：LG123  
+版本：Canary  
+**问题**：**接收不到 Build 26080+ 更新**。  
 状态：<img src="Images/W.png" width = "9%" />  
-Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象，并将继续调查用户反馈。” *(Ling 译)*  
- <img src="Images/M.png" width = "14%" />
+Microsoft 官方回复：“。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
+典型反馈：[aka.ms/AApjbci](https://aka.ms/AApjbci)
 
 ---
 
-<SPAN ID = 'LG115'/>编号：LG115  
-版本：Canary 26080 - 26085  
-**问题**：**右键菜单变为 Windows 10 样式**。  
+<SPAN ID = 'LG116'/>编号：LG116  
+版本：Canary 26080 - 26090  
+**问题**：**电脑无法正常关机 / 睡眠**。  
 状态：<img src="Images/W.png" width = "9%" />  
-典型反馈：[aka.ms/AApjkju](https://aka.ms/AApjkju) <img src="Images/M.png" width = "14%" />
+Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 26085+ 版本中仍然存在这一问题。我们正在努力修复，请暂时使用 shutdown -t 0 -s 命令关机。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
+典型反馈：[aka.ms/AApjd80](https://aka.ms/AApjd80)
 
 <SPAN ID = '1'/>
 
@@ -158,31 +159,6 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 ---
 
-<SPAN ID = 'LG123'/>编号：LG123  
-版本：Canary  
-**问题**：**接收不到 Build 26080+ 更新**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AApjbci](https://aka.ms/AApjbci)
-
----
-
-<SPAN ID = 'LG125'/>编号：LG125  
-版本：Canary 26080 - 26085  
-**问题**：**电脑风扇负荷更重 / 温度更高 / 电池续航更短**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AApmnl6](https://aka.ms/AApmnl6)
-
----
-
-<SPAN ID = 'LG116'/>编号：LG116  
-版本：Canary 26080 - 26085  
-**问题**：**电脑无法正常关机 / 睡眠**。  
-状态：<img src="Images/W.png" width = "9%" />  
-Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 26085 版本中仍然存在这一问题。我们正在调查中，请暂时使用 shutdown -t 0 -s 命令关机。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
-典型反馈：[aka.ms/AApjd80](https://aka.ms/AApjd80)
-
----
-
 <SPAN ID = 'LG117'/>编号：LG117  
 版本：Canary 26080 - 26085  
 **问题**：**任务栏应用缩略图无法正常显示**。  
@@ -231,14 +207,6 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 
 ---
 
-<SPAN ID = 'LG131'/>编号：LG131  
-版本：Canary 26085  
-**问题**：**播放视频时鼠标卡顿**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AApqopo](https://aka.ms/AApqopo)
-
----
-
 <SPAN ID = 'LG132'/>编号：LG132  
 版本：Canary 26085  
 **问题**：**部分第三方壁纸软件无法正常运行**。  
@@ -284,6 +252,43 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 **问题**：**在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误**。  
 状态：Canary - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAlzfg7](https://aka.ms/AAlzfg7)
+
+---
+
+<SPAN ID = 'LG115'/>编号：LG115  
+版本：Canary 26080 - 26085  
+**问题**：**右键菜单变为 Windows 10 样式**。  
+状态：Canary 26090 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApjkju](https://aka.ms/AApjkju) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG069'/>编号：LG069  
+版本：Canary 26058 - 26085  
+**问题**：**安装 Canary 版本时可能自动回退，错误代码 0xC1900101**。  
+状态：Canary 26090 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象，并将继续调查用户反馈。” *(Ling 译)*  
+ <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG125'/>编号：LG125  
+版本：Canary 26080 - 26085  
+**问题**：**电脑风扇负荷更重 / 温度更高 / 电池续航更短**。  
+状态：Canary 26090 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApmnl6](https://aka.ms/AApmnl6)
+
+---
+
+<SPAN ID = 'LG131'/>编号：LG131  
+版本：Canary 26085  
+**问题**：**播放视频时鼠标卡顿**。  
+状态：Canary 26090 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApqopo](https://aka.ms/AApqopo)
+
+---
+
+
 
 [Microsoft 已做出更改 >28 天的问题](28+.md)
 
