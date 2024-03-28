@@ -25,9 +25,9 @@
 
 &emsp;&emsp;上次更新时间：2024 年 3 月 29 日 3:00 (UTC+8)。访问次数：2270+
 
-&emsp;&emsp;收录反馈 136 个，其中正在调查 14 个 (搁置 2 个)、正在处理 4 个、已修复 118 个。
+&emsp;&emsp;收录反馈 136 个，其中正在调查 13 个 (含搁置 2 个)、正在处理 4 个、已修复 119 个。
 
-&emsp;&emsp;反馈更新目录：**今日更新 LG134 - 135**。- Ling 🌧️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;反馈更新目录：**今日更新反馈状态**。- Ling 🌧️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
 
 |      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
@@ -46,7 +46,6 @@
 | [LG111](#LG111) |  **[合并]** 任务视图 / 文件资源管理器卡顿或 CPU 占用率高。   | 正在处理 |
 | [LGH01](#LGH01) | **[集合]** 仍有一些游戏在 Build 26080+ 中无法正常运行。(含列表) | 正在处理 |
 | [LG122](#LG122) |                      Copilot 功能消失。                      | 正在调查 |
-| [LG117](#LG117) |                任务栏应用缩略图无法正常显示。                | 正在调查 |
 | [LG126](#LG126) |                Surface 设备的摄像头可能失效。                | 正在调查 |
 | [LG127](#LG127) |                  在手写板上写字时文字错位。                  | 正在调查 |
 | [LG128](#LG128) |              SteelSeries 耳机软件无法正常使用。              | 正在调查 |
@@ -62,6 +61,7 @@
 | [LG069](#LG069) |    安装 Canary 版本时可能自动回退，错误代码 0xC1900101。     | 已修复 ✓ |
 | [LG125](#LG125) |         电脑风扇负荷更重 / 温度更高 / 电池续航更短。         | 已修复 ✓ |
 | [LG131](#LG131) |                     播放视频时鼠标卡顿。                     | 已修复 ✓ |
+| [LG117](#LG117) |                任务栏应用缩略图无法正常显示。                | 已修复 ✓ |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >28 天)**](28+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
 
 [**希望分享线索？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
@@ -94,7 +94,7 @@ Microsoft 官方回复 14 (如果有)：xxxxx
 版本：ALL  
 **问题**：**接收不到 Build 26080+ 更新**。  
 状态：<img src="Images/W.png" width = "9%" />  
-Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 / 23620 版本的反馈。如果您迫切希望立即回到正轨，可以使用最新 ISO 全新安装 Windows，然后重新加入 Canary 或 Dev 频道。” *(Ling 译)*  
+Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 / 23620 版本的反馈。如果您迫切期望立即回到正轨，可使用最新 ISO 全新安装 Windows，然后重新加入 Canary 或 Dev 频道。” *(Ling 译)*  
 <img src="Images/M.png" width = "14%" />  
 典型反馈：[aka.ms/AApjbci](https://aka.ms/AApjbci)
 
@@ -124,7 +124,7 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 ---
 
 <SPAN ID = 'LG111'/>编号：LG111  
-版本：Canary 26063 - 26085  
+版本：Canary 26063 - 26090  
 **问题**：**任务视图 / 文件资源管理器卡顿或 CPU 占用率高**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAph34g](https://aka.ms/AAph34g)
@@ -132,7 +132,7 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 ---
 
 <SPAN ID = 'LGH01'/>编号：LGH01  
-版本：Canary 26080 - 26085  
+版本：Canary 26080 - 26090  
 **集合**：**仍有一些游戏在 Build 26080+ 中无法正常运行**。  
 状态：<img src="Images/W.png" width = "9%" />  
 Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复正常运行。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)* <img src="Images/M.png" width = "14%" />
@@ -153,23 +153,15 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 ---
 
 <SPAN ID = 'LG122'/>编号：LG122  
-版本：Canary 26080 - 26085  
+版本：Canary 26080 - 26090  
 **问题**：**Copilot 功能消失**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApmcet](https://aka.ms/AApmcet)
 
 ---
 
-<SPAN ID = 'LG117'/>编号：LG117  
-版本：Canary 26080 - 26085  
-**问题**：**任务栏应用缩略图无法正常显示**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AApjd83](https://aka.ms/AApjd83)
-
----
-
 <SPAN ID = 'LG126'/>编号：LG126  
-版本：Canary 26085  
+版本：Canary 26085 - 26090  
 **问题**：**Surface 设备的摄像头可能失效**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApno2g](https://aka.ms/AApno2g)
@@ -177,7 +169,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 ---
 
 <SPAN ID = 'LG127'/>编号：LG127  
-版本：Canary 26085  
+版本：Canary 26085 - 26090  
 **问题**：**在手写板上写字时文字错位**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApnq5x](https://aka.ms/AApnq5x)
@@ -185,7 +177,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 ---
 
 <SPAN ID = 'LG128'/>编号：LG128  
-版本：Canary 26085  
+版本：Canary 26085 - 26090  
 **问题**：**SteelSeries 耳机软件无法正常使用**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApoga9](https://aka.ms/AApoga9)
@@ -193,7 +185,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 ---
 
 <SPAN ID = 'LG129'/>编号：LG129  
-版本：Canary 26085  
+版本：Canary 26085 - 26090  
 **问题**：**在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApqooc](https://aka.ms/AApqooc)
@@ -201,7 +193,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 ---
 
 <SPAN ID = 'LG130'/>编号：LG130  
-版本：Canary 26085  
+版本：Canary 26085 - 26090  
 **问题**：**更新 Windows 后，已禁用的音频设备被自动启用**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApsxmc](https://aka.ms/AApsxmc)
@@ -209,7 +201,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 ---
 
 <SPAN ID = 'LG132'/>编号：LG132  
-版本：Canary 26085  
+版本：Canary 26085 - 26090  
 **问题**：**部分第三方壁纸软件无法正常运行**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApsqd8](https://aka.ms/AApsqd8)
@@ -217,7 +209,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 ---
 
 <SPAN ID = 'LG133'/>编号：LG133  
-版本：Canary 26085  
+版本：Canary 26085 - 26090  
 **问题**：**鼠标在锁屏界面无法显示为设定的主题色**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAps4ch](https://aka.ms/AAps4ch)
@@ -225,7 +217,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 ---
 
 <SPAN ID = 'LG134'/>编号：LG134  
-版本：Canary 26085  
+版本：Canary 26085 - 26090  
 **问题**：**重启电脑后，已下载的语言包被自动删除**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApr6d2](https://aka.ms/AApr6d2)
@@ -233,7 +225,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 ---
 
 <SPAN ID = 'LG135'/>编号：LG135  
-版本：Canary 26085  
+版本：Canary 26085 - 26090  
 **问题**：**鼠标和键盘无法在安全模式中使用**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApqyoc](https://aka.ms/AApqyoc)
@@ -289,7 +281,11 @@ Microsoft 官方回复：“我们做了很多更改以帮助缓解回退现象�
 
 ---
 
-
+<SPAN ID = 'LG117'/>编号：LG117  
+版本：Canary 26080 - 26085  
+**问题**：**任务栏应用缩略图无法正常显示**。  
+状态：Canary 26090 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApjd83](https://aka.ms/AApjd83)
 
 [Microsoft 已做出更改 >28 天的问题](28+.md)
 
