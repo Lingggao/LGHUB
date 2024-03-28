@@ -56,7 +56,6 @@
 | [LG134](#LG134) |            重启电脑后，已下载的语言包被自动删除。            | 正在调查 |
 | [LG135](#LG135) |               鼠标和键盘无法在安全模式中使用。               | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |  **——**  |
-| [LG030](#LG030) | 在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。 | 已修复 ✓ |
 | [LG115](#LG115) |                右键菜单变为 Windows 10 样式。                | 已修复 ✓ |
 | [LG069](#LG069) |    安装 Canary 版本时可能自动回退，错误代码 0xC1900101。     | 已修复 ✓ |
 | [LG125](#LG125) |         电脑风扇负荷更重 / 温度更高 / 电池续航更短。         | 已修复 ✓ |
@@ -237,14 +236,6 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 &emsp;&emsp;记录 Microsoft 已做出更改 0 - 28 天的问题 & 超过 30 日无新增赞成票的问题。
 
 &emsp;&emsp;无特殊情况，问题归档后不再更新。
-
----
-
-<SPAN ID = 'LG030'/>编号：LG030  
-版本：Canary  
-**问题**：**在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误**。  
-状态：Canary - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAlzfg7](https://aka.ms/AAlzfg7)
 
 ---
 
