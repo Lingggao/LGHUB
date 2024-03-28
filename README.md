@@ -23,9 +23,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 29 日 2:00 (UTC+8)。访问次数：2270+
+&emsp;&emsp;上次更新时间：2024 年 3 月 29 日 3:00 (UTC+8)。访问次数：2270+
 
-&emsp;&emsp;收录反馈 136 个，其中正在调查 17 个 (搁置 2 个)、正在处理 5 个、已修复 114 个。
+&emsp;&emsp;收录反馈 136 个，其中正在调查 14 个 (搁置 2 个)、正在处理 4 个、已修复 118 个。
 
 &emsp;&emsp;反馈更新目录：**今日更新 LG134 - 135**。- Ling 🌧️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
 
@@ -91,10 +91,11 @@ Microsoft 官方回复 14 (如果有)：xxxxx
 ---
 
 <SPAN ID = 'LG123'/>编号：LG123  
-版本：Canary  
+版本：ALL  
 **问题**：**接收不到 Build 26080+ 更新**。  
 状态：<img src="Images/W.png" width = "9%" />  
-Microsoft 官方回复：“。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
+Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 / 23620 版本的反馈。如果您迫切希望立即回到正轨，可以使用最新 ISO 全新安装 Windows，然后重新加入 Canary 或 Dev 频道。” *(Ling 译)*  
+<img src="Images/M.png" width = "14%" />  
 典型反馈：[aka.ms/AApjbci](https://aka.ms/AApjbci)
 
 ---
