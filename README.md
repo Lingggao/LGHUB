@@ -23,7 +23,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 28 日 20:00 (UTC+8)。访问次数：2230+
+&emsp;&emsp;上次更新时间：2024 年 3 月 29 日 2:00 (UTC+8)。访问次数：2270+
 
 &emsp;&emsp;收录反馈 136 个，其中正在调查 17 个 (搁置 2 个)、正在处理 5 个、已修复 114 个。
 
@@ -31,7 +31,7 @@
 
 |      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
-|  Canary & Dev   |     26085      |  2024/3/21   | [aka.ms/wip26085](https://blogs.windows.com/windows-insider/2024/03/20/announcing-windows-11-insider-preview-build-26085-canary-and-dev-channels) |
+|  Canary & Dev   | **[新]** 26090 |  2024/3/29   | [aka.ms/wip26090](https://blogs.windows.com/windows-insider/2024/03/28/announcing-windows-11-insider-preview-build-26090-canary-and-dev-channels) |
 |      Beta       |   22635.3350   |  2024/3/14   | [aka.ms/wip-beta-3-13](https://blogs.windows.com/windows-insider/2024/03/13/announcing-windows-11-insider-preview-build-22635-3350-beta-channel) |
 | Release Preview | 226(3/2)1.3371 |  2024/3/22   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/03/21/releasing-windows-11-builds-22621-3371-and-22631-3371-to-the-release-preview-channel) |
 
