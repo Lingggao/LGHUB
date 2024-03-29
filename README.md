@@ -27,7 +27,7 @@
 
 &emsp;&emsp;收录反馈 136 个，其中正在调查 13 个 (含搁置 3 个)、正在处理 4 个、已修复 119 个。
 
-&emsp;&emsp;反馈更新目录：**今日更新反馈状态**。- Ling 🌧️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [已修复图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub_Fixed.png)
+&emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 🌧️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
@@ -63,22 +63,6 @@
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >28 天)**](28+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
 
 [**希望分享线索？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
-
----
-
-**标准格式**
-
-```markdown
-<SPAN ID = 'LGxxx'/>编号：LGxxx  
-版本：Canary xxxxx  
-**问题**：**xxxxx**  
-状态：正在调查 9 / 正在处理 9 / 需要更多详细信息 ? / 所做的更改 10 / (其他)  
-Microsoft 官方回复 14 (如果有)：xxxxx  
-典型反馈 (如果有)：[aka.ms/AAxxxxx](https://aka.ms/fbh)  
-图像等补充信息 (如果有)
-```
-
-[反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 <SPAN ID = '0'/>
 
