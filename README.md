@@ -23,11 +23,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 3 月 30 日 18:00 (UTC+8)。访问次数：2470+
+&emsp;&emsp;上次更新时间：2024 年 3 月 30 日 18:00 (UTC+8)。访问次数：2480+
 
-&emsp;&emsp;收录反馈 136 个，其中正在调查 13 个 (含搁置 3 个)、正在处理 4 个、已修复 119 个。
+&emsp;&emsp;收录反馈 138 个，其中正在调查 15 个 (含搁置 3 个)、正在处理 4 个、已修复 119 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新 LG**。- Ling ☀️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG136 - 137**。- Ling ☀️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |      频道       |      最新版本       | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :-----------------: | :----------: | :----------------------------------------------------------: |
@@ -54,6 +54,8 @@
 | [LG133](#LG133) |            鼠标在锁屏界面无法显示为设定的主题色。            | 正在调查 |
 | [LG134](#LG134) |            重启电脑后，已下载的语言包被自动删除。            | 正在调查 |
 | [LG135](#LG135) |               鼠标和键盘无法在安全模式中使用。               | 正在调查 |
+| [LG136](#LG136) |              **Visual Studio 2022 IDE 崩溃**。               | 正在调查 |
+| [LG137](#LG137) |                  **添加小组件时窗口冻结**。                  | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |  **——**  |
 | [LG115](#LG115) |                右键菜单变为 Windows 10 样式。                | 已修复 ✓ |
 | [LG069](#LG069) |    安装 Canary 版本时可能自动回退，错误代码 0xC1900101。     | 已修复 ✓ |
@@ -203,6 +205,22 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 **问题**：**鼠标和键盘无法在安全模式中使用**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApqyoc](https://aka.ms/AApqyoc)
+
+---
+
+<SPAN ID = 'LG136'/>编号：LG136  
+版本：Canary 26090  
+**问题**：**Visual Studio 2022 IDE 崩溃**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AApthgp](https://aka.ms/AApthgp)
+
+---
+
+<SPAN ID = 'LG137'/>编号：LG137  
+版本：Canary 26090  
+**问题**：**添加小组件时窗口冻结**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AApuv37](https://aka.ms/AApuv37)
 
 <SPAN ID = '2'/>
 
