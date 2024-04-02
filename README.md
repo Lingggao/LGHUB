@@ -23,11 +23,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 4 月 1 日 7:00 (UTC+8)。访问次数：2540+
+&emsp;&emsp;上次更新时间：2024 年 4 月 2 日 19:00 (UTC+8)。访问次数：2580+
 
-&emsp;&emsp;收录反馈 138 个，其中正在调查 15 个 (含搁置 3 个)、正在处理 4 个、已修复 119 个。
+&emsp;&emsp;收录反馈 142 个，其中正在调查 19 个 (含搁置 3 个)、正在处理 4 个、已修复 119 个。
 
-&emsp;&emsp;反馈更新记录：今日无更新。- Ling 🤷‍♂️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG138 - 141**。- Ling 📚 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
@@ -56,6 +56,10 @@
 | [LG135](#LG135) |               鼠标和键盘无法在安全模式中使用。               | 正在调查 |
 | [LG136](#LG136) |                Visual Studio 2022 IDE 崩溃。                 | 正在调查 |
 | [LG137](#LG137) |                    添加小组件时窗口冻结。                    | 正在调查 |
+| [LG138](#LG138) |                  **任务栏小组件图标过小**。                  | 正在调查 |
+| [LG139](#LG139) |   **以 “禁用驱动程序强制签名” 选项启动 Windows 时崩溃**。    | 正在调查 |
+| [LG140](#LG140) |               **记事本应用崩溃 / 无法关闭**。                | 正在调查 |
+| [LG141](#LG141) |                      **电脑可能绿屏**。                      | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |  **——**  |
 | [LG115](#LG115) |                右键菜单变为 Windows 10 样式。                | 已修复 ✓ |
 | [LG069](#LG069) |    安装 Canary 版本时可能自动回退，错误代码 0xC1900101。     | 已修复 ✓ |
@@ -221,6 +225,46 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 **问题**：**添加小组件时窗口冻结**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApuv37](https://aka.ms/AApuv37)
+
+---
+
+<SPAN ID = 'LG138'/>  
+编号：LG138  
+日期：2024 年 4 月 2 日  
+版本：Canary 26090  
+**问题**：**任务栏小组件图标过小**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AApv7a6](https://aka.ms/AApv7a6)
+
+---
+
+<SPAN ID = 'LG139'/>  
+编号：LG139  
+日期：2024 年 4 月 2 日  
+版本：Canary 26090  
+**问题**：**以 “禁用驱动程序强制签名” 选项启动 Windows 时崩溃**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AApv3y2](https://aka.ms/AApv3y2)
+
+---
+
+<SPAN ID = 'LG140'/>  
+编号：LG140  
+日期：2024 年 4 月 2 日  
+版本：Canary 26090  
+**问题**：**记事本应用崩溃 / 无法关闭**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AApuzi9](https://aka.ms/AApuzi9)
+
+---
+
+<SPAN ID = 'LG141'/>  
+编号：LG141  
+日期：2024 年 4 月 2 日  
+版本：Canary 26090  
+**问题**：**电脑可能绿屏**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AApuzil](https://aka.ms/AApuzil)
 
 <SPAN ID = '2'/>
 
