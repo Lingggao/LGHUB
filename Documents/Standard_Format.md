@@ -1,8 +1,7 @@
 **标准格式**
 
 ```markdown
-<SPAN ID = 'LGxxx'/>  
-编号：LGxxx  
+<SPAN ID = 'LGxxx'/>编号：LGxxx  
 日期：xxxx 年 xx 月 xx 日  
 版本：Canary xxxxx  
 **问题**：**xxxxx**  
