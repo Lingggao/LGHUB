@@ -23,9 +23,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 4 月 4 日 2:00 (UTC+8)。访问次数：2630+
+&emsp;&emsp;上次更新时间：2024 年 4 月 4 日 3:00 (UTC+8)。访问次数：2630+
 
-&emsp;&emsp;收录反馈 142 个，其中正在调查 6 个 (含搁置 3 个)、正在处理 3 个、已修复 133 个。
+&emsp;&emsp;收录反馈 142 个，其中正在调查 7 个 (含搁置 4 个)、正在处理 3 个、已修复 132 个。
 
 &emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 🙌 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
