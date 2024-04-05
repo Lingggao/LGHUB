@@ -6,3 +6,6 @@ https://aka.ms/AApyrjb
 
 Canary Build 26100 Failed -- Bug Check -- Green Screen of Death
 https://aka.ms/AApy657
+
+A glitch in File Explorer when toggling checkboxes on the latest Dev Channel builds - File Explorer seems to redraw
+https://aka.ms/AApydtm
