@@ -23,11 +23,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 4 月 4 日 7:00 (UTC+8)。访问次数：2640+
+&emsp;&emsp;上次更新时间：2024 年 4 月 5 日 9:00 (UTC+8)。访问次数：2720+
 
-&emsp;&emsp;收录反馈 142 个，其中正在调查 7 个 (含搁置 4 个)、正在处理 3 个、已修复 132 个。
+&emsp;&emsp;收录反馈 143 个，其中正在调查 8 个 (含搁置 4 个)、正在处理 3 个、已修复 132 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 🎗️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG142**。- Ling 🎗️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
@@ -46,6 +46,7 @@
 | [LG130](#LG130) |        更新 Windows 后，已禁用的音频设备被自动启用。         | 正在调查 |
 | [LG139](#LG139) |     以 “禁用驱动程序强制签名” 选项启动 Windows 时崩溃。      | 正在调查 |
 | [LG140](#LG140) |                 记事本应用崩溃 / 无法关闭。                  | 正在调查 |
+| [LG142](#LG142) |    **文件资源管理器导航窗格中的 OneDrive 随机变化位置**。    | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |  **——**  |
 | [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   | 已修复 ✓ |
 | [LG129](#LG129) | 在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误。 | 已修复 ✓ |
@@ -129,6 +130,15 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 **问题**：**记事本应用崩溃 / 无法关闭**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApuzi9](https://aka.ms/AApuzi9)
+
+---
+
+<SPAN ID = 'LG142'/>编号：LG142  
+日期：2024 年 4 月 5 日  
+版本：Canary 26100  
+**问题**：**文件资源管理器导航窗格中的 OneDrive 随机变化位置**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AApxwbw](https://aka.ms/AApxwbw)
 
 <SPAN ID = '2'/>
 
