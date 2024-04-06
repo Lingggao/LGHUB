@@ -9,3 +9,24 @@ https://aka.ms/AApy657
 
 A glitch in File Explorer when toggling checkboxes on the latest Dev Channel builds - File Explorer seems to redraw
 https://aka.ms/AApydtm
+
+26100.1，点击任务栏上的任务视图按键，过渡动画严重掉帧（只剩下几帧）
+https://aka.ms/AApyfxd
+
+候选版 26100 存在 2个未列入日志的 BUG
+https://aka.ms/AApyec1
+
+桌面不能单独配置背景图
+https://aka.ms/AApy881
+
+Xbox app shows 0x89235113 when trying to sign in starting on March 27th 2024
+https://aka.ms/AApy883
+
+I have two nstall error - 0x80070103: Intelligo - Extension - 100.1.4.1226 & Realtek - SoftwareComponent - 12.214.1117.196
+https://aka.ms/AApyfxg
+
+Configuration parser error 0x80004005 from C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine
+https://aka.ms/AApy7yg
+
+With the latest updates to File Explorer Home, if your resolution is set to 175%, then the icons in Home are blurry/fuzzy
+https://aka.ms/AApytl6
