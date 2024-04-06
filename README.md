@@ -50,7 +50,7 @@
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
 | [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   | 已修复 ✓ |
 | [LG129](#LG129) | 在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误。 | 已修复 ✓ |
-|     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](28+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
+|     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
 
 [**希望分享线索？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
 
@@ -165,7 +165,7 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 状态：Canary 26100 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AApqooc](https://aka.ms/AApqooc)
 
-[Microsoft 已做出更改 >7 天的问题](28+.md)
+[Microsoft 已做出更改 >7 天的问题](7+.md)
 
 <SPAN ID = '3'/>
 
