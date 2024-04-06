@@ -47,10 +47,10 @@
 | [LG139](#LG139) |     以 “禁用驱动程序强制签名” 选项启动 Windows 时崩溃。      | 正在调查 |
 | [LG140](#LG140) |                 记事本应用崩溃 / 无法关闭。                  | 正在调查 |
 | [LG142](#LG142) |      文件资源管理器导航窗格中的 OneDrive 随机变化位置。      | 正在调查 |
-|     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 28 天)**](#2) |  **——**  |
+|     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
 | [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   | 已修复 ✓ |
 | [LG129](#LG129) | 在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误。 | 已修复 ✓ |
-|     **——**      | **✦** [**Canary - 归档 (已做出更改 >28 天)**](28+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
+|     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](28+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
 
 [**希望分享线索？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题？联系 Ling。**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
 
@@ -144,7 +144,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 ## ✦ Canary - 归档 (已做出更改) ✦
 
-&emsp;&emsp;记录 Microsoft 已做出更改 0 - 28 天的问题 & 超过 30 日无新增赞成票的问题。
+&emsp;&emsp;记录 Microsoft 已做出更改 0 - 7 天的问题 & 超过 14 天无新增赞成票的问题。
 
 &emsp;&emsp;无特殊情况，问题归档后不再更新。
 
@@ -165,7 +165,7 @@ Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 260
 状态：Canary 26100 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AApqooc](https://aka.ms/AApqooc)
 
-[Microsoft 已做出更改 >28 天的问题](28+.md)
+[Microsoft 已做出更改 >7 天的问题](28+.md)
 
 <SPAN ID = '3'/>
 
