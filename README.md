@@ -29,11 +29,11 @@
 
 &emsp;&emsp;反馈更新记录：今日无更新。- Ling 🎗️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-|      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
-| :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
-|  Canary & Dev   |     26100      |   2024/4/4   | [aka.ms/wip26100](https://blogs.windows.com/windows-insider/2024/04/03/announcing-windows-11-insider-preview-build-26100-canary-and-dev-channels) |
-|      Beta       |   22635.3420   |  2024/3/30   | [aka.ms/wip-beta-3-29](https://blogs.windows.com/windows-insider/2024/03/29/announcing-windows-11-insider-preview-build-22635-3420-beta-channel) |
-| Release Preview | 226(3/2)1.3371 |  2024/3/22   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/03/21/releasing-windows-11-builds-22621-3371-and-22631-3371-to-the-release-preview-channel) |
+|      频道       |      最新版本       | 时间 (UTC+8) |                             公告                             |
+| :-------------: | :-----------------: | :----------: | :----------------------------------------------------------: |
+|  Canary & Dev   |        26100        |   2024/4/4   | [aka.ms/wip26100](https://blogs.windows.com/windows-insider/2024/04/03/announcing-windows-11-insider-preview-build-26100-canary-and-dev-channels) |
+|      Beta       | **[新]** 22635.3430 |   2024/4/6   | [aka.ms/wip-beta-4-5](https://blogs.windows.com/windows-insider/2024/04/05/announcing-windows-11-insider-preview-build-22635-3430-beta-channel) |
+| Release Preview |   226(3/2)1.3371    |  2024/3/22   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/03/21/releasing-windows-11-builds-22621-3371-and-22631-3371-to-the-release-preview-channel) |
 
 <img src="Images/Graph_1.png" width = "86%" />
 
@@ -139,6 +139,33 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 **问题**：**文件资源管理器导航窗格中的 OneDrive 随机变化位置**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApxwbw](https://aka.ms/AApxwbw)
+
+---
+
+<SPAN ID = 'LG143'/>编号：LG143  
+日期：2024 年 4 月 6 日  
+版本：Canary 26100  
+**问题**：****。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/]()
+
+---
+
+<SPAN ID = 'LG144'/>编号：LG144  
+日期：2024 年 4 月 6 日  
+版本：Canary 26100  
+**问题**：****。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/]()
+
+---
+
+<SPAN ID = 'LG145'/>编号：LG145  
+日期：2024 年 4 月 6 日  
+版本：Canary 26100  
+**问题**：****。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/]()
 
 <SPAN ID = '2'/>
 
