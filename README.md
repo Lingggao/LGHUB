@@ -157,7 +157,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 - 内存泄漏
 - CPU 占用率高
 - 切换 “项目复选框” 选项时出现异常 - [aka.ms/AApydtm](https://aka.ms/AApydtm)
-- 缩放设置为 175% 时图标模糊不清 - [aka.ms/AApytl6](https://aka.ms/AApytl6)
+- 缩放设定为 175% 时图标模糊不清 - [aka.ms/AApytl6](https://aka.ms/AApytl6)
 - 菜单中的文本可能过长 - [aka.ms/AApyuo4](https://aka.ms/AApyuo4)
 - 出现多个地址栏 / 搜索栏 - [aka.ms/AApymuw](https://aka.ms/AApymuw)
 
