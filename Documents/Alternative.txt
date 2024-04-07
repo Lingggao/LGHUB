@@ -10,9 +10,6 @@ https://aka.ms/AApy657
 26100.1，点击任务栏上的任务视图按键，过渡动画严重掉帧（只剩下几帧）
 https://aka.ms/AApyfxd
 
-候选版 26100 存在 2个未列入日志的 BUG
-https://aka.ms/AApyec1
-
 桌面不能单独配置背景图
 https://aka.ms/AApy881
 
