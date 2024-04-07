@@ -23,11 +23,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 4 月 6 日 13:00 (UTC+8)。访问次数：2770+
+&emsp;&emsp;上次更新时间：2024 年 4 月 7 日 19:00 (UTC+8)。访问次数：2880+
 
 &emsp;&emsp;收录反馈 143 个，其中正在调查 8 个 (含搁置 4 个)、正在处理 3 个、已修复 132 个。
 
-&emsp;&emsp;反馈更新记录：今日无更新。- Ling 🎗️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：今日无更新。- Ling 🦜 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |      频道       |      最新版本       | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :-----------------: | :----------: | :----------------------------------------------------------: |
@@ -143,16 +143,21 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 ---
 
 <SPAN ID = 'LG143'/>编号：LG143  
-日期：2024 年 4 月 6 日  
+日期：2024 年 4 月 7 日  
 版本：Canary 26100  
-**问题**：****。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/]()
+**集合**：**文件资源管理器中的软件缺陷**。  
+状态：<img src="Images/W.png" width = "9%" />
+
+列表 (排名不分先后)
+
+- 卡顿 / 严重卡顿。
+- 内存泄漏
+- 
 
 ---
 
 <SPAN ID = 'LG144'/>编号：LG144  
-日期：2024 年 4 月 6 日  
+日期：2024 年 4 月 7 日  
 版本：Canary 26100  
 **问题**：****。  
 状态：<img src="Images/L.png" width = "9%" />  
@@ -161,7 +166,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 ---
 
 <SPAN ID = 'LG145'/>编号：LG145  
-日期：2024 年 4 月 6 日  
+日期：2024 年 4 月 7 日  
 版本：Canary 26100  
 **问题**：****。  
 状态：<img src="Images/L.png" width = "9%" />  

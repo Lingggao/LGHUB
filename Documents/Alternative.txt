@@ -30,3 +30,21 @@ https://aka.ms/AApy7yg
 
 With the latest updates to File Explorer Home, if your resolution is set to 175%, then the icons in Home are blurry/fuzzy
 https://aka.ms/AApytl6
+
+代码: 0x80073CFB
+https://aka.ms/AApygzy
+
+The text in new icon labels added to File Explorer's context menu in Windows 11 is too long in some languages and wraps without padding
+https://aka.ms/AApyuo4
+
+Green screen
+https://aka.ms/AApz29d
+
+Earphones not connecting
+https://aka.ms/AApz29f
+
+Sound output is sometimes unavailable when Bluetooth media devices connected
+https://aka.ms/AApz29h
+
+Duplicated address/search bars on File Explorer
+https://aka.ms/AApymuw
