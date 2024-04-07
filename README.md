@@ -25,9 +25,9 @@
 
 &emsp;&emsp;上次更新时间：2024 年 4 月 7 日 19:00 (UTC+8)。访问次数：2880+
 
-&emsp;&emsp;收录反馈 143 个，其中正在调查 8 个 (含搁置 4 个)、正在处理 3 个、已修复 132 个。
+&emsp;&emsp;收录反馈 146 个，其中正在调查 8 个 (含搁置 4 个)、正在处理 6 个、已修复 132 个。
 
-&emsp;&emsp;反馈更新记录：今日无更新。- Ling 🦜 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG144 - 145**。- Ling 🦜 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |      频道       |      最新版本       | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :-----------------: | :----------: | :----------------------------------------------------------: |
@@ -47,6 +47,9 @@
 | [LG139](#LG139) |     以 “禁用驱动程序强制签名” 选项启动 Windows 时崩溃。      | 正在调查 |
 | [LG140](#LG140) |                 记事本应用崩溃 / 无法关闭。                  | 正在调查 |
 | [LG142](#LG142) |      文件资源管理器导航窗格中的 OneDrive 随机变化位置。      | 正在调查 |
+| [LGH02](#LGH02) |     **[集合]** **文件资源管理器中的软件缺陷**。(含列表)      | 正在处理 |
+| [LG144](#LG144) |          **无法使用 Visual Studio 调试应用程序**。           | 正在处理 |
+| [LG145](#LG145) |              **无法在 VMware 中开启 3D 加速**。              | 正在处理 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
 | [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   | 已修复 ✓ |
 | [LG129](#LG129) | 在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误。 | 已修复 ✓ |
@@ -142,7 +145,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 ---
 
-<SPAN ID = 'LG143'/>编号：LG143  
+<SPAN ID = 'LGH02'/>编号：LGH02  
 日期：2024 年 4 月 7 日  
 版本：Canary 26100  
 **集合**：**文件资源管理器中的软件缺陷**。  
@@ -150,27 +153,31 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 列表 (排名不分先后)
 
-- 卡顿 / 严重卡顿。
+- 卡顿 / 严重卡顿
 - 内存泄漏
-- 
+- CPU 占用率高
+- 切换 “项目复选框” 选项时出现异常 - [aka.ms/AApydtm](https://aka.ms/AApydtm)
+- 缩放设置为 175% 时图标模糊不清 - [aka.ms/AApytl6](https://aka.ms/AApytl6)
+- 菜单中的文本可能过长 - [aka.ms/AApyuo4](https://aka.ms/AApyuo4)
+- 出现多个地址栏 / 搜索栏 - [aka.ms/AApymuw](https://aka.ms/AApymuw)
 
 ---
 
 <SPAN ID = 'LG144'/>编号：LG144  
 日期：2024 年 4 月 7 日  
 版本：Canary 26100  
-**问题**：****。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/]()
+**问题**：**无法使用 Visual Studio 调试应用程序**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AApyec1](https://aka.ms/AApyec1)
 
 ---
 
 <SPAN ID = 'LG145'/>编号：LG145  
 日期：2024 年 4 月 7 日  
 版本：Canary 26100  
-**问题**：****。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/]()
+**问题**：**无法在 VMware 中开启 3D 加速**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AApyec1](https://aka.ms/AApyec1)
 
 <SPAN ID = '2'/>
 

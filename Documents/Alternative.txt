@@ -7,9 +7,6 @@ https://aka.ms/AApyrjb
 Canary Build 26100 Failed -- Bug Check -- Green Screen of Death
 https://aka.ms/AApy657
 
-A glitch in File Explorer when toggling checkboxes on the latest Dev Channel builds - File Explorer seems to redraw
-https://aka.ms/AApydtm
-
 26100.1，点击任务栏上的任务视图按键，过渡动画严重掉帧（只剩下几帧）
 https://aka.ms/AApyfxd
 
@@ -28,14 +25,8 @@ https://aka.ms/AApyfxg
 Configuration parser error 0x80004005 from C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine
 https://aka.ms/AApy7yg
 
-With the latest updates to File Explorer Home, if your resolution is set to 175%, then the icons in Home are blurry/fuzzy
-https://aka.ms/AApytl6
-
 代码: 0x80073CFB
 https://aka.ms/AApygzy
-
-The text in new icon labels added to File Explorer's context menu in Windows 11 is too long in some languages and wraps without padding
-https://aka.ms/AApyuo4
 
 Green screen
 https://aka.ms/AApz29d
@@ -45,6 +36,3 @@ https://aka.ms/AApz29f
 
 Sound output is sometimes unavailable when Bluetooth media devices connected
 https://aka.ms/AApz29h
-
-Duplicated address/search bars on File Explorer
-https://aka.ms/AApymuw
