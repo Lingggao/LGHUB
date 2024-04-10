@@ -179,6 +179,62 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AApyec1](https://aka.ms/AApyec1)
 
+---
+
+<SPAN ID = 'LG146'/>编号：LG146  
+日期：2024 年 4 月 10 日  
+版本：Canary 26100  
+**问题**：**无法连接蓝牙耳机 / 连接蓝牙耳机后无法播放音频**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AApz29f](https://aka.ms/AApz29f) & [aka.ms/AApz29h](https://aka.ms/AApz29h)
+
+---
+
+<SPAN ID = 'LG147'/>编号：LG147  
+日期：2024 年 4 月 10 日  
+版本：Canary 26100  
+**问题**：**Microsoft Family Safety 无法添加家庭组成员**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AApzoge](https://aka.ms/AApzoge)
+
+---
+
+<SPAN ID = 'LG148'/>编号：LG148  
+日期：2024 年 4 月 10 日  
+版本：Canary 26100  
+**问题**：**无法调整照片应用启动时的窗口大小**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AApztdn](https://aka.ms/AApztdn)
+
+---
+
+<SPAN ID = 'LG149'/>编号：LG149  
+日期：2024 年 4 月 10 日  
+版本：Canary 26100  
+**问题**：**Windows 安全中心 “防火墙和网络保护” 页面中的图标显示为方块**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AApy8i2](https://aka.ms/AApy8i2)
+
+<img src="Images/LG149.png" width = "40%" />
+
+---
+
+<SPAN ID = 'LG150'/>编号：LG150  
+日期：2024 年 4 月 10 日  
+版本：Canary 26100  
+**问题**：**无法使用 PIN 登录到安全模式**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AApyjss](https://aka.ms/AApyjss)
+
+---
+
+<SPAN ID = 'LG151'/>编号：LG151  
+日期：2024 年 4 月 10 日  
+版本：Canary 26100  
+**问题**：**鼠标指针可能随机变大**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AApzunq](https://aka.ms/AApzunq)
+
 <SPAN ID = '2'/>
 
 ## ✦ Canary - 归档 (已做出更改) ✦
