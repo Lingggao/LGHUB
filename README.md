@@ -23,17 +23,17 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 4 月 7 日 19:00 (UTC+8)。访问次数：2880+
+&emsp;&emsp;上次更新时间：2024 年 4 月 10 日 11:00 (UTC+8)。访问次数：2950+
 
 &emsp;&emsp;收录反馈 146 个，其中正在调查 8 个 (含搁置 4 个)、正在处理 6 个、已修复 132 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新 LG144 - 145**。- Ling 🦜 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**更新中**。- Ling 🦜 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-|      频道       |      最新版本       | 时间 (UTC+8) |                             公告                             |
-| :-------------: | :-----------------: | :----------: | :----------------------------------------------------------: |
-|  Canary & Dev   |        26100        |   2024/4/4   | [aka.ms/wip26100](https://blogs.windows.com/windows-insider/2024/04/03/announcing-windows-11-insider-preview-build-26100-canary-and-dev-channels) |
-|      Beta       | **[新]** 22635.3430 |   2024/4/6   | [aka.ms/wip-beta-4-5](https://blogs.windows.com/windows-insider/2024/04/05/announcing-windows-11-insider-preview-build-22635-3430-beta-channel) |
-| Release Preview |   226(3/2)1.3371    |  2024/3/22   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/03/21/releasing-windows-11-builds-22621-3371-and-22631-3371-to-the-release-preview-channel) |
+|      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
+| :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
+|  Canary & Dev   |     26100      |   2024/4/4   | [aka.ms/wip26100](https://blogs.windows.com/windows-insider/2024/04/03/announcing-windows-11-insider-preview-build-26100-canary-and-dev-channels) |
+|      Beta       |   22635.3430   |   2024/4/6   | [aka.ms/wip-beta-4-5](https://blogs.windows.com/windows-insider/2024/04/05/announcing-windows-11-insider-preview-build-22635-3430-beta-channel) |
+| Release Preview | 226(3/2)1.3371 |  2024/3/22   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/03/21/releasing-windows-11-builds-22621-3371-and-22631-3371-to-the-release-preview-channel) |
 
 <img src="Images/Graph_0.png" width = "85%" />
 
@@ -47,9 +47,9 @@
 | [LG139](#LG139) |     以 “禁用驱动程序强制签名” 选项启动 Windows 时崩溃。      | 正在调查 |
 | [LG140](#LG140) |                 记事本应用崩溃 / 无法关闭。                  | 正在调查 |
 | [LG142](#LG142) |      文件资源管理器导航窗格中的 OneDrive 随机变化位置。      | 正在调查 |
-| [LGH02](#LGH02) |     **[集合]** **文件资源管理器中的软件缺陷**。(含列表)      | 正在处理 |
-| [LG144](#LG144) |          **无法使用 Visual Studio 调试应用程序**。           | 正在处理 |
-| [LG145](#LG145) |        **无法在 VMware Workstation 中开启 3D 加速**。        | 正在处理 |
+| [LGH02](#LGH02) |       **[集合]** 文件资源管理器中的软件缺陷。(含列表)        | 正在处理 |
+| [LG144](#LG144) |            无法使用 Visual Studio 调试应用程序。             | 正在处理 |
+| [LG145](#LG145) |          无法在 VMware Workstation 中开启 3D 加速。          | 正在处理 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
 | [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   | 已修复 ✓ |
 | [LG129](#LG129) | 在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误。 | 已修复 ✓ |
