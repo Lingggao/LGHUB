@@ -221,7 +221,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApy8i2](https://aka.ms/AApy8i2)
 
-<img src="Images/LG149.png" width = "40%" />
+<img src="Images/LG149.png" width = "50%" />
 
 ---
 
