@@ -264,8 +264,18 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 Microsoft 官方回复：“请参照下方步骤分享更多日志信息。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
 典型反馈：[aka.ms/AApy7yg](https://aka.ms/AApy7yg)
 
-1. xx
-2. xx
+1. 转到 [aka.ms/vscollect](https://aka.ms/vscollect) 下载 collect.exe。
+2. 此程序将创建 %TEMP%\vslogs.zip 压缩文件，包含所有 VS 和 .NET 日志。
+3. 将 vslogs.zip 上传至反馈中心。
+4. 将以下文件保存至 config.zip 压缩文件：
+   - %windir%\Microsoft.NET\Framework\v4.0.30319\config\machine.config
+   - %windir%\Microsoft.NET\Framework64\v4.0.30319\config\machine.config
+   - %windir%\Microsoft.NET\Framework\v4.0.30319\config\web.config
+   - %windir%\Microsoft.NET\Framework64\v4.0.30319\config\web.config
+5. 将 config.zip 上传至反馈中心。
+6. 请在评论中告诉我们：
+   - 错误信息何时出现？
+   - 错误信息与哪个应用有关？
 
 <SPAN ID = '2'/>
 
