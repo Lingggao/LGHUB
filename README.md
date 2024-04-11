@@ -23,11 +23,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 4 月 11 日 15:00 (UTC+8)。访问次数：3010+
+&emsp;&emsp;上次更新时间：2024 年 4 月 11 日 17:00 (UTC+8)。访问次数：3020+
 
-&emsp;&emsp;收录反馈 153 个，其中正在调查 15 个 (含搁置 4 个)、正在处理 6 个、已修复 132 个。
+&emsp;&emsp;收录反馈 154 个，其中正在调查 16 个 (含搁置 4 个)、正在处理 6 个、已修复 132 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新 LG152**。- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG152 - 153**。- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
@@ -57,6 +57,7 @@
 | [LG150](#LG150) |                 无法使用 PIN 登录安全模式。                  | 正在调查 |
 | [LG151](#LG151) |                    鼠标指针可能随机变大。                    | 正在调查 |
 | [LG152](#LG152) |        **拖动音量合成器滑块时 “快速设置” 窗口崩溃**。        | 正在调查 |
+|                 |                                                              |          |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
 | [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   | 已修复 ✓ |
 | [LG129](#LG129) | 在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误。 | 已修复 ✓ |
@@ -252,6 +253,19 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 典型反馈：[aka.ms/AAq0phj](https://aka.ms/AAq0phj)
 
 <img src="Images/LG152.png" width = "30%" />
+
+---
+
+<SPAN ID = 'LG153'/>编号：LG153  
+日期：2024 年 4 月 11 日  
+版本：Canary 26100  
+**问题**：**C:\Windows\Microsoft.NET\\... 配置解析器 0x80004005 错误**。  
+状态：<img src="Images/I.png" width = "15%" />  
+Microsoft 官方回复：“请参照下方步骤分享更多日志信息。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
+典型反馈：[aka.ms/AApy7yg](https://aka.ms/AApy7yg)
+
+1. xx
+2. xx
 
 <SPAN ID = '2'/>
 
