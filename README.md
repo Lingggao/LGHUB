@@ -23,11 +23,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 4 月 10 日 11:00 (UTC+8)。访问次数：2960+
+&emsp;&emsp;上次更新时间：2024 年 4 月 11 日 15:00 (UTC+8)。访问次数：3010+
 
-&emsp;&emsp;收录反馈 152 个，其中正在调查 14 个 (含搁置 4 个)、正在处理 6 个、已修复 132 个。
+&emsp;&emsp;收录反馈 153 个，其中正在调查 15 个 (含搁置 4 个)、正在处理 6 个、已修复 132 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新 LG146 - 151**。- Ling 🦄 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG152**。- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
@@ -50,12 +50,13 @@
 | [LGH02](#LGH02) |       **[集合]** 文件资源管理器中的软件缺陷。(含列表)        | 正在处理 |
 | [LG144](#LG144) |            无法使用 Visual Studio 调试应用程序。             | 正在处理 |
 | [LG145](#LG145) |          无法在 VMware Workstation 中开启 3D 加速。          | 正在处理 |
-| [LG146](#LG146) |     **无法连接蓝牙耳机 / 连接蓝牙耳机后无法播放音频**。      | 正在调查 |
-| [LG147](#LG147) |       **Microsoft Family Safety 无法添加家庭组成员**。       | 正在调查 |
-| [LG148](#LG148) |          **无法调整启动 “照片” 应用时窗口的大小**。          | 正在调查 |
-| [LG149](#LG149) | **Windows 安全中心 “防火墙和网络保护” 页面中的图标变为方块**。 | 正在调查 |
-| [LG150](#LG150) |               **无法使用 PIN 登录安全模式**。                | 正在调查 |
-| [LG151](#LG151) |                  **鼠标指针可能随机变大**。                  | 正在调查 |
+| [LG146](#LG146) |       无法连接蓝牙耳机 / 连接蓝牙耳机后无法播放音频。        | 正在调查 |
+| [LG147](#LG147) |         Microsoft Family Safety 无法添加家庭组成员。         | 正在调查 |
+| [LG148](#LG148) |            无法调整启动 “照片” 应用时窗口的大小。            | 正在调查 |
+| [LG149](#LG149) |  Windows 安全中心 “防火墙和网络保护” 页面中的图标变为方块。  | 正在调查 |
+| [LG150](#LG150) |                 无法使用 PIN 登录安全模式。                  | 正在调查 |
+| [LG151](#LG151) |                    鼠标指针可能随机变大。                    | 正在调查 |
+| [LG152](#LG152) |        **拖动音量合成器滑块时 “快速设置” 窗口崩溃**。        | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
 | [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   | 已修复 ✓ |
 | [LG129](#LG129) | 在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误。 | 已修复 ✓ |
@@ -240,6 +241,17 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 **问题**：**鼠标指针可能随机变大**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApzunq](https://aka.ms/AApzunq)
+
+---
+
+<SPAN ID = 'LG152'/>编号：LG152  
+日期：2024 年 4 月 11 日  
+版本：Canary 26100  
+**问题**：**拖动音量合成器滑块时 “快速设置” 窗口崩溃**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAq0phj](https://aka.ms/AAq0phj)
+
+<img src="Images/LG152.png" width = "30%" />
 
 <SPAN ID = '2'/>
 

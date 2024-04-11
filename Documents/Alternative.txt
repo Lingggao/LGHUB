@@ -69,3 +69,24 @@ https://aka.ms/AApzunq
 
 The heading for network shares in This PC is missing ×
 https://aka.ms/AApy8pc
+
+开机速度太慢了 ×
+https://aka.ms/AApzx80
+
+Unable to debug .NET 4.x with visual studio since Build 26085 - ntdll.dll crashes ×
+https://aka.ms/AApzx82
+
+The pt-BR translation in System >> Power is incorrect, it should be "Energia" instead of "Desligar" ×
+https://aka.ms/AApzt1c
+
+Build 26100, Windows Copilot fails to open with message: Windows cannot find 'ms-copilot://?lcp=1&formcode=prelaunch' ×
+https://aka.ms/AApy1fl
+
+Hovering over Task View button, when the flyout appears it makes the desktop icons text very bold. ×
+https://aka.ms/AAq14l0
+
+There's a bug in the Volume Mixer ✓
+https://aka.ms/AAq0phj
+
+Lock screen personalization isn't working for me on Windows 11 - I'm not seeing the picture I expected to see when I lock my PC ×
+https://aka.ms/AAq14lb
