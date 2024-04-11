@@ -1,0 +1,43 @@
+﻿编号,日期,初始版本,问题/集合,状态,Microsoft 官方回复,典型反馈,备注,图像,已修复
+"LG139","4/2/2024","Canary 26090","以 “禁用驱动程序强制签名” 选项启动 Windows 时崩溃。","正在调查","无","https://aka.ms/AApv3y2","无",,"False"
+"LG140","4/2/2024","Canary 26090","记事本应用崩溃 / 无法关闭。","正在调查","无","https://aka.ms/AApuzi9","无",,"False"
+"LG142","4/5/2024","Canary 26100","文件资源管理器导航窗格中的 OneDrive 随机变化位置。","正在调查","无","https://aka.ms/AApxwbw","无",,"False"
+"LG144","4/7/2024","Canary 26100","无法使用 Visual Studio 调试应用程序。","正在处理","无","https://aka.ms/AApyec1","无",,"False"
+"LG145","4/7/2024","Canary 26100","无法在 VMware Workstation 中开启 3D 加速。","正在处理","无","https://aka.ms/AApyec1","无",,"False"
+"LG146","4/10/2024","Canary 26100","无法连接蓝牙耳机 / 连接蓝牙耳机后无法播放音频。","正在调查","无","https://aka.ms/AApz29f","无",,"False"
+"LGH02","4/7/2024","Canary 26100","文件资源管理器中的软件缺陷。","正在处理","无","https://github.com/Lingggao/LGHUB","列表 (排名不分先后)
+
+- 卡顿 / 严重卡顿
+- 内存泄漏
+- CPU 占用率高
+- 切换 “项目复选框” 选项时出现异常 - https://aka.ms/AApydtm
+- 缩放设定为 175% 时图标模糊不清 - https://aka.ms/AApytl6
+- 菜单中的文本可能过长 - https://aka.ms/AApyuo4
+- 出现多个地址栏 / 搜索栏 - https://aka.ms/AApymuw",,"False"
+"LG147","4/10/2024","ALL","Microsoft Family Safety 无法添加家庭组成员。","正在调查","无","https://aka.ms/AApzoge","无",,"False"
+"LG148","4/10/2024","ALL","无法调整启动 “照片” 应用时窗口的大小。","正在调查","无","https://aka.ms/AApztdn","无",,"False"
+"LG149","4/10/2024","Canary 26100","Windows 安全中心 “防火墙和网络保护” 页面中的图标变为方块。","正在调查","无","https://aka.ms/AApy8i2","含图像","Reserved_ImageAttachment_[14]_[_x56fe__x50cf_][5]_[LG149][1]_[1].png","False"
+"LG150","4/10/2024","Canary 26100","无法使用 PIN 登录安全模式。","正在调查","无","https://aka.ms/AApyjss","无",,"False"
+"LG151","4/10/2024","Canary 26100","鼠标指针可能随机变大。","正在调查","无","https://aka.ms/AApzunq","无",,"False"
+"LG130","3/27/2024","Canary 26085","更新 Windows 后，已禁用的音频设备被自动启用。","正在调查","无","https://aka.ms/AApsxmc","无",,"False"
+"LGH01","3/13/2024","Canary 26080","仍有一些游戏在 Build 26080+ 中无法正常运行。","正在处理","大多数游戏应当可以在 Build 26080 中恢复正常运行。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。","https://github.com/Lingggao/LGHUB","列表 (排名不分先后)
+
+- Grand Theft Auto V (GTA 5) - https://aka.ms/AApjkjp
+- PUBG (绝地求生) - https://aka.ms/AApjd7p
+- Battlefield 2042 (战地风云 2042) - https://aka.ms/AApjkk7
+- EVE Online (星战前夜) - https://aka.ms/AApjz1t
+- Avatar Frontiers of Pandora (阿凡达：潘多拉边境) - https://aka.ms/AApmqnc
+- Assassin's Creed Origins (刺客信条：起源) - https://aka.ms/AApmqnc
+- Electronic Arts (EA) 旗下游戏 - https://aka.ms/AApsxln
+- It Takes Two (双人成行) - https://aka.ms/AApqr1c
+- Watch Dogs: Legion (看门狗：军团) - https://aka.ms/AApr6d6
+- FARCRY 6/5 (孤岛惊魂 6/5) - https://aka.ms/AApr6d6",,"False"
+"LG111","3/10/2024","Canary 26063","任务视图 / 文件资源管理器卡顿或 CPU 占用率高。","正在处理","无","https://aka.ms/AAph34g","无",,"False"
+"LG123","3/20/2024","ALL","接收不到 Build 26080+ 更新。","正在处理","我们正在调查有关部分 Insider 卡在 26040 / 23620 版本的反馈。如果您迫切期望立即回到正轨，可使用最新 ISO 全新安装 Windows，然后重新加入 Canary 或 Dev 频道。","https://aka.ms/AApjbci","无",,"False"
+"LG116","3/15/2024","Canary 26080","电脑无法正常关机 / 睡眠。","所做的更改","不幸的是，我们看到一些反馈称 Build 26085+ 版本中仍然存在这一问题。我们正在努力修复，请暂时使用 shutdown -t 0 -s 命令关机。","https://aka.ms/AApjd80","无",,"True"
+"LG129","3/27/2024","Canary 26085","在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误。","所做的更改","无","https://aka.ms/AApqooc","无",,"True"
+"LG013","12/15/2023","Canary 26002","“设置”>“应用”>“启动” 页面中的图标异常。","搁置","无","https://aka.ms/AAo5wd6","含图像","Reserved_ImageAttachment_[14]_[_x56fe__x50cf_][5]_[LG013][1]_[2].png","False"
+"LG015","12/15/2023","Canary 25992","在文件资源管理器中按下两次 F11 后地址栏将被冻结。","搁置","无","https://aka.ms/AAnkkd6","无",,"False"
+"LG088","2/17/2024","ALL","无法使用截图工具对开始菜单 / 右键菜单进行截图。","搁置","无","https://aka.ms/AAp5evo","无",,"False"
+"LG030","12/19/2023","Canary","在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。","搁置","无","https://aka.ms/AAlzfg7","无",,"False"
+"LG152","4/11/2024","Canary 26100","拖动音量合成器滑块时 “快速设置” 窗口崩溃。","正在调查","无","https://aka.ms/AAq0phj","含图像","Reserved_ImageAttachment_[14]_[_x56fe__x50cf_][5]_[LG152][1]_[1].png","False"
