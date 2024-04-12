@@ -43,5 +43,8 @@ https://aka.ms/AApy1fl
 Lock screen personalization isn't working for me on Windows 11 - I'm not seeing the picture I expected to see when I lock my PC ×
 https://aka.ms/AAq14lb
 
-wsl 无法安装
+wsl 无法安装 ×
 https://aka.ms/AAq0rok
+
+After the latest Windows 11 updates, when I shut down my PC with a controller connected, I see a explorer.exe memory error pop up message on shutdown ✓
+https://aka.ms/AAq0eju

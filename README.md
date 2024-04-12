@@ -25,9 +25,9 @@
 
 &emsp;&emsp;上次更新时间：2024 年 4 月 12 日 19:00 (UTC+8)。访问次数：3060+
 
-&emsp;&emsp;收录反馈 154 个，其中正在调查 16 个 (含搁置 4 个)、正在处理 6 个、已修复 132 个。
+&emsp;&emsp;收录反馈 155 个，其中正在调查 17 个 (含搁置 4 个)、正在处理 6 个、已修复 132 个。
 
-&emsp;&emsp;反馈更新记录：今日待更新。- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG154**。- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |      频道       |        最新版本         | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :---------------------: | :----------: | :----------------------------------------------------------: |
@@ -58,12 +58,12 @@
 | [LG151](#LG151) |                    鼠标指针可能随机变大。                    |     正在调查     |
 | [LG152](#LG152) |          拖动音量合成器滑块时 “快速设置” 窗口崩溃。          |     正在调查     |
 | [LG153](#LG153) |  C:\Windows\Microsoft.NET\\... 配置解析器 0x80004005 错误。  | 需要更多详细信息 |
+| [LG154](#LG154) |      **连接着手柄关机时，出现 explorer.exe 内存错误**。      |     正在调查     |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |      **——**      |
-| [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   |     已修复 ✓     |
-| [LG129](#LG129) | 在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误。 |     已修复 ✓     |
+|                 |                            暂无。                            |                  |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |      **——**      |
 
-[**分享反馈线索**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u) | [Microsoft Lists](https://lists.live.com/:l:/g/personal/6a1055bafb2c85fc/FI4wNqDXCfdMoWT2PA3N-24Bj0QUVzeZ_uoTZK14x21mrg?e=D97fY3) | [下载 CSV 文件](Documents/%E7%81%B5%E7%B3%95%E4%B8%AD%E5%BF%83%20(Linggao%20Hub).csv)
+[**分享反馈线索**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u) | **[新]** [Microsoft Lists](https://lists.live.com/:l:/g/personal/6a1055bafb2c85fc/FI4wNqDXCfdMoWT2PA3N-24Bj0QUVzeZ_uoTZK14x21mrg?e=D97fY3) | **[新]** [下载 CSV 文件](Documents/%E7%81%B5%E7%B3%95%E4%B8%AD%E5%BF%83%20(Linggao%20Hub).csv)
 
 <SPAN ID = '0'/>
 
@@ -279,6 +279,15 @@ Microsoft 官方回复：“请参照下方的步骤分享更多日志信息。�
    - 错误信息何时出现？
    - 错误信息与哪个应用有关？
 
+---
+
+<SPAN ID = 'LG154'/>编号：LG154  
+日期：2024 年 4 月 12 日  
+版本：Canary 26100  
+**问题**：**连接着手柄关机时，出现 explorer.exe 内存错误**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAq0eju](https://aka.ms/AAq0eju)
+
 <SPAN ID = '2'/>
 
 ## ✦ Canary - 归档 (已做出更改) ✦
@@ -289,20 +298,7 @@ Microsoft 官方回复：“请参照下方的步骤分享更多日志信息。�
 
 ---
 
-<SPAN ID = 'LG116'/>编号：LG116  
-版本：Canary 26080 - 26090  
-**问题**：**电脑无法正常关机 / 睡眠**。  
-状态：Canary 26100 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-Microsoft 官方回复：“不幸的是，我们看到一些反馈称 Build 26085+ 版本中仍然存在这一问题。我们正在努力修复，请暂时使用 shutdown -t 0 -s 命令关机。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
-典型反馈：[aka.ms/AApjd80](https://aka.ms/AApjd80)
-
----
-
-<SPAN ID = 'LG129'/>编号：LG129  
-版本：Canary 26085 - 26090  
-**问题**：**在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误**。  
-状态：Canary 26100 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AApqooc](https://aka.ms/AApqooc)
+暂无。
 
 [Microsoft 已做出更改 >7 天的问题](7+.md)
 
