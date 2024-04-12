@@ -1,14 +1,8 @@
 右键菜单不能显示完整 ×
 https://aka.ms/AApyjsm
 
-26100,GTAV还是必定闪退！ ×
-https://aka.ms/AApyrjb
-
 Canary Build 26100 Failed -- Bug Check -- Green Screen of Death ×
 https://aka.ms/AApy657
-
-26100.1，点击任务栏上的任务视图按键，过渡动画严重掉帧（只剩下几帧） ×
-https://aka.ms/AApyfxd
 
 桌面不能单独配置背景图 ×
 https://aka.ms/AApy881
@@ -19,20 +13,11 @@ https://aka.ms/AApy883
 I have two nstall error - 0x80070103: Intelligo - Extension - 100.1.4.1226 & Realtek - SoftwareComponent - 12.214.1117.196 ×
 https://aka.ms/AApyfxg
 
-Configuration parser error 0x80004005 from C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine ×
-https://aka.ms/AApy7yg
-
 代码: 0x80073CFB ×
 https://aka.ms/AApygzy
 
 Green screen ×
 https://aka.ms/AApz29d
-
-Earphones not connecting ✓
-https://aka.ms/AApz29f
-
-Sound output is sometimes unavailable when Bluetooth media devices connected ✓
-https://aka.ms/AApz29h
 
 不能通话 ×
 https://aka.ms/AAq0flf
@@ -43,50 +28,17 @@ https://aka.ms/AApz946
 我的rhino软件打不开了 ×
 https://aka.ms/AAq0flm
 
-Microsoft Family Safety does not work ✓
-https://aka.ms/AApzoge
-
-The Photo app always opens in the same size even if I set the app window to a smaller size ✓
-https://aka.ms/AApztdn
-
 In the Canary/Dev channel, apps are not respecting the "Transparency effect" setting ×
 https://aka.ms/AAq0flw
 
 Taskbar previews are flashing and disappearing instead of staying up in Windows 11 ×
 https://aka.ms/AApz94n
 
-There is a broken WiFi icon next to the SSID when exploring networks in Defender's Firewall ✓
-https://aka.ms/AApy8i2
-
-Unable to enter PIN, instead of Password while logging in on Safe Mode (Windows 11 Build 26100) ✓
-https://aka.ms/AApyjss
-
-Icons too big in the settings (Apps -> Autostart) when display set to 125% ×
-https://aka.ms/AApyv0y
-
-In Dev/Canary Channel, my mouse cursor randomly becomes larger ✓
-https://aka.ms/AApzunq
-
-The heading for network shares in This PC is missing ×
-https://aka.ms/AApy8pc
-
 开机速度太慢了 ×
 https://aka.ms/AApzx80
 
-Unable to debug .NET 4.x with visual studio since Build 26085 - ntdll.dll crashes ×
-https://aka.ms/AApzx82
-
-The pt-BR translation in System >> Power is incorrect, it should be "Energia" instead of "Desligar" ×
-https://aka.ms/AApzt1c
-
 Build 26100, Windows Copilot fails to open with message: Windows cannot find 'ms-copilot://?lcp=1&formcode=prelaunch' ×
 https://aka.ms/AApy1fl
-
-Hovering over Task View button, when the flyout appears it makes the desktop icons text very bold. ×
-https://aka.ms/AAq14l0
-
-There's a bug in the Volume Mixer ✓
-https://aka.ms/AAq0phj
 
 Lock screen personalization isn't working for me on Windows 11 - I'm not seeing the picture I expected to see when I lock my PC ×
 https://aka.ms/AAq14lb
