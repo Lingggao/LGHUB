@@ -108,12 +108,12 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 - Grand Theft Auto V (GTA 5) - [aka.ms/AApjkjp](https://aka.ms/AApjkjp)
 - Avatar Frontiers of Pandora (阿凡达：潘多拉边境) - [aka.ms/AApmqnc](https://aka.ms/AApmqnc)
 - Assassin's Creed Origins (刺客信条：起源) - [aka.ms/AApmqnc](https://aka.ms/AApmqnc)
-- Watch Dogs: Legion (看门狗：军团) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6)
-- FARCRY 6/5 (孤岛惊魂 6/5) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6)
-- PUBG (绝地求生) - [aka.ms/AApjd7p](https://aka.ms/AApjd7p) - **已修复 ✓**
-- Battlefield 2042 (战地风云 2042) - [aka.ms/AApjkk7](https://aka.ms/AApjkk7) - **已修复 ✓**
-- EVE Online (星战前夜) - [aka.ms/AApjz1t](https://aka.ms/AApjz1t) - **已修复 ✓**
 - Electronic Arts (EA) 旗下游戏 - [aka.ms/AApsxln](https://aka.ms/AApsxln) - **已修复 ✓**
+- Battlefield 2042 (战地风云 2042) - [aka.ms/AApjkk7](https://aka.ms/AApjkk7) - **已修复 ✓**
+- PUBG (绝地求生) - [aka.ms/AApjd7p](https://aka.ms/AApjd7p) - **已修复 ✓**
+- Watch Dogs: Legion (看门狗：军团) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6) - **已修复 ✓**
+- FARCRY 6/5 (孤岛惊魂 6/5) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6) - **已修复 ✓**
+- EVE Online (星战前夜) - [aka.ms/AApjz1t](https://aka.ms/AApjz1t) - **已修复 ✓**
 - It Takes Two (双人成行) - [aka.ms/AApqr1c](https://aka.ms/AApqr1c) - **已修复 ✓**
 
 ---
