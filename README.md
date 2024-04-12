@@ -103,18 +103,19 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 状态：<img src="Images/W.png" width = "9%" />  
 Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复正常运行。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)* <img src="Images/M.png" width = "14%" />
 
-列表 (排名不分先后)
+列表
 
 - Grand Theft Auto V (GTA 5) - [aka.ms/AApjkjp](https://aka.ms/AApjkjp)
-- PUBG (绝地求生) - [aka.ms/AApjd7p](https://aka.ms/AApjd7p)
-- Battlefield 2042 (战地风云 2042) - [aka.ms/AApjkk7](https://aka.ms/AApjkk7)
-- EVE Online (星战前夜) - [aka.ms/AApjz1t](https://aka.ms/AApjz1t)
 - Avatar Frontiers of Pandora (阿凡达：潘多拉边境) - [aka.ms/AApmqnc](https://aka.ms/AApmqnc)
 - Assassin's Creed Origins (刺客信条：起源) - [aka.ms/AApmqnc](https://aka.ms/AApmqnc)
-- Electronic Arts (EA) 旗下游戏 - [aka.ms/AApsxln](https://aka.ms/AApsxln)
-- It Takes Two (双人成行) - [aka.ms/AApqr1c](https://aka.ms/AApqr1c)
 - Watch Dogs: Legion (看门狗：军团) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6)
 - FARCRY 6/5 (孤岛惊魂 6/5) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6)
+
+- PUBG (绝地求生) - [aka.ms/AApjd7p](https://aka.ms/AApjd7p) - **已修复 ✓**
+- Battlefield 2042 (战地风云 2042) - [aka.ms/AApjkk7](https://aka.ms/AApjkk7) - **已修复 ✓**
+- EVE Online (星战前夜) - [aka.ms/AApjz1t](https://aka.ms/AApjz1t) - **已修复 ✓**
+- Electronic Arts (EA) 旗下游戏 - [aka.ms/AApsxln](https://aka.ms/AApsxln) - **已修复 ✓**
+- It Takes Two (双人成行) - [aka.ms/AApqr1c](https://aka.ms/AApqr1c) - **已修复 ✓**
 
 ---
 
@@ -159,7 +160,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 **集合**：**文件资源管理器中的软件缺陷**。  
 状态：<img src="Images/W.png" width = "9%" />
 
-列表 (排名不分先后)
+列表
 
 - 卡顿 / 严重卡顿
 - 内存泄漏
