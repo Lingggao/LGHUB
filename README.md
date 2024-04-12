@@ -35,7 +35,7 @@
 |      Beta       |   **[新]** 22635.3495   |  2024/4/13   | [aka.ms/wip-beta-4-12](https://blogs.windows.com/windows-insider/2024/04/12/announcing-windows-11-insider-preview-build-22635-3495-beta-channel) |
 | Release Preview | **[新]** 226(3/2)1.3520 |  2024/4/12   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/04/11/releasing-windows-11-builds-22621-3520-and-22631-3520-to-the-release-preview-channel) |
 
-<img src="Images/Graph_0.png" width = "88%" />
+<img src="Images/Graph_0.png" width = "90%" />
 
 |      编号       |                             问题                             |       状态       |
 | :-------------: | :----------------------------------------------------------: | :--------------: |
