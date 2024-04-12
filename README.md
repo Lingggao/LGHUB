@@ -23,7 +23,7 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 4 月 12 日 2:00 (UTC+8)。访问次数：3040+
+&emsp;&emsp;上次更新时间：2024 年 4 月 12 日 19:00 (UTC+8)。访问次数：3060+
 
 &emsp;&emsp;收录反馈 154 个，其中正在调查 16 个 (含搁置 4 个)、正在处理 6 个、已修复 132 个。
 
@@ -56,8 +56,8 @@
 | [LG149](#LG149) |  Windows 安全中心 “防火墙和网络保护” 页面中的图标变为方块。  |     正在调查     |
 | [LG150](#LG150) |                 无法使用 PIN 登录安全模式。                  |     正在调查     |
 | [LG151](#LG151) |                    鼠标指针可能随机变大。                    |     正在调查     |
-| [LG152](#LG152) |        **拖动音量合成器滑块时 “快速设置” 窗口崩溃**。        |     正在调查     |
-| [LG153](#LG153) | **C:\Windows\Microsoft.NET\\... 配置解析器 0x80004005 错误**。 | 需要更多详细信息 |
+| [LG152](#LG152) |          拖动音量合成器滑块时 “快速设置” 窗口崩溃。          |     正在调查     |
+| [LG153](#LG153) |  C:\Windows\Microsoft.NET\\... 配置解析器 0x80004005 错误。  | 需要更多详细信息 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |      **——**      |
 | [LG116](#LG116) |                  电脑无法正常关机 / 睡眠。                   |     已修复 ✓     |
 | [LG129](#LG129) | 在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误。 |     已修复 ✓     |
@@ -110,7 +110,6 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 - Assassin's Creed Origins (刺客信条：起源) - [aka.ms/AApmqnc](https://aka.ms/AApmqnc)
 - Watch Dogs: Legion (看门狗：军团) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6)
 - FARCRY 6/5 (孤岛惊魂 6/5) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6)
-
 - PUBG (绝地求生) - [aka.ms/AApjd7p](https://aka.ms/AApjd7p) - **已修复 ✓**
 - Battlefield 2042 (战地风云 2042) - [aka.ms/AApjkk7](https://aka.ms/AApjkk7) - **已修复 ✓**
 - EVE Online (星战前夜) - [aka.ms/AApjz1t](https://aka.ms/AApjz1t) - **已修复 ✓**
