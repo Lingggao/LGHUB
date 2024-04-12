@@ -1,3 +1,11 @@
+LGHUB **2024 年 4 月 12 日更新**：
+
+- 引入了 Microsoft Lists 产品，用于支撑数据分析。
+- 引入了 CSV 文件。
+- 提高了统计图的清晰度。
+
+---
+
 LGHUB **2024 年 4 月 6 日更新**：
 
 - 新增 LGHUB\Documents\Alternative.txt 备选反馈文档。
