@@ -25,9 +25,9 @@
 
 &emsp;&emsp;上次更新时间：2024 年 4 月 14 日 19:00 (UTC+8)。访问次数：3140+
 
-&emsp;&emsp;收录反馈 155 个，其中正在调查 17 个 (含搁置 4 个)、正在处理 6 个、已修复 132 个。
+&emsp;&emsp;收录反馈 157 个，其中正在调查 19 个 (含搁置 4 个)、正在处理 6 个、已修复 132 个。
 
-&emsp;&emsp;反馈更新记录：今日更新。- Ling 🕯️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG155 - 156**。- Ling 🕯️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 | 沉痛哀悼不幸病逝的广受尊敬、恪尽职守的 Microsoft 社区领袖，资深的 Windows 预览体验成员 [JohnthePilot](https://answers.microsoft.com/en-us/profile/de68638d-ba42-4e12-acc7-5dea1de48838) |
 | :----------------------------------------------------------: |
@@ -62,6 +62,8 @@
 | [LG152](#LG152) |          拖动音量合成器滑块时 “快速设置” 窗口崩溃。          |     正在调查     |
 | [LG153](#LG153) |  C:\Windows\Microsoft.NET\\... 配置解析器 0x80004005 错误。  | 需要更多详细信息 |
 | [LG154](#LG154) |        连接着手柄关机时，提示 explorer.exe 内存错误。        |     正在调查     |
+| [LG155](#LG155) |       **无法安装 Realtek - SoftwareComponent 更新**。        |     正在调查     |
+| [LG156](#LG156) |             **切换窗口时输入法自动变化中英文**。             |     正在调查     |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |      **——**      |
 |                 |                            暂无。                            |                  |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |      **——**      |
@@ -290,6 +292,24 @@ Microsoft 官方回复：“请参照下方的步骤分享更多日志信息。�
 **问题**：**连接着手柄关机时，提示 explorer.exe 内存错误**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAq0eju](https://aka.ms/AAq0eju)
+
+---
+
+<SPAN ID = 'LG155'/>编号：LG155  
+日期：2024 年 4 月 14 日  
+版本：Canary 26100  
+**问题**：**无法安装 Realtek - SoftwareComponent 更新**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AApyfxg](https://aka.ms/AApyfxg) & [aka.ms/AAq1jhj](https://aka.ms/AAq1jhj)
+
+---
+
+<SPAN ID = 'LG156'/>编号：LG156  
+日期：2024 年 4 月 14 日  
+版本：Canary 26100  
+**问题**：**切换窗口时输入法自动变化中英文**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAq0mfy](https://aka.ms/AAq0mfy)
 
 <SPAN ID = '2'/>
 
