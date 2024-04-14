@@ -29,7 +29,7 @@
 
 &emsp;&emsp;反馈更新记录：**今日更新 LG155 - 156**。- Ling 🕯️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-| 沉痛哀悼不幸病逝的广受尊敬、恪尽职守的 Microsoft 社区领袖，资深 Windows 预览体验成员 [JohnthePilot](https://answers.microsoft.com/en-us/profile/de68638d-ba42-4e12-acc7-5dea1de48838) |
+| 沉痛悼念不幸病逝的广受尊敬、恪尽职守的 Microsoft 社区领袖，资深 Windows 预览体验成员 [JohnthePilot](https://answers.microsoft.com/en-us/profile/de68638d-ba42-4e12-acc7-5dea1de48838) |
 | :----------------------------------------------------------: |
 
 |      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
@@ -68,7 +68,7 @@
 |                 |                            暂无。                            |                  |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |      **——**      |
 
-[**分享反馈线索**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u) | [**Microsoft Lists**](https://lists.live.com/:l:/g/personal/6a1055bafb2c85fc/FI4wNqDXCfdMoWT2PA3N-24Bj0QUVzeZ_uoTZK14x21mrg?e=D97fY3) | [下载 CSV 文件](Documents/%E7%81%B5%E7%B3%95%E4%B8%AD%E5%BF%83%20(github.com_Lingggao_LGHUB).csv)
+[**分享反馈线索**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) · [**反馈平台问题**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u) | [Microsoft Lists](https://lists.live.com/:l:/g/personal/6a1055bafb2c85fc/FI4wNqDXCfdMoWT2PA3N-24Bj0QUVzeZ_uoTZK14x21mrg?e=D97fY3) · [下载 CSV 文件](Documents/%E7%81%B5%E7%B3%95%E4%B8%AD%E5%BF%83%20(github.com_Lingggao_LGHUB).csv)
 
 <SPAN ID = '0'/>
 
@@ -113,13 +113,13 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 - Grand Theft Auto V (GTA 5) - [aka.ms/AApjkjp](https://aka.ms/AApjkjp)
 - Avatar Frontiers of Pandora (阿凡达：潘多拉边境) - [aka.ms/AApmqnc](https://aka.ms/AApmqnc)
 - Assassin's Creed Origins (刺客信条：起源) - [aka.ms/AApmqnc](https://aka.ms/AApmqnc)
-- Electronic Arts (EA) 旗下游戏 - [aka.ms/AApsxln](https://aka.ms/AApsxln) - **已修复 ✓**
-- Battlefield 2042 (战地风云 2042) - [aka.ms/AApjkk7](https://aka.ms/AApjkk7) - **已修复 ✓**
-- PUBG (绝地求生) - [aka.ms/AApjd7p](https://aka.ms/AApjd7p) - **已修复 ✓**
-- Watch Dogs: Legion (看门狗：军团) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6) - **已修复 ✓**
-- FARCRY 6/5 (孤岛惊魂 6/5) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6) - **已修复 ✓**
-- EVE Online (星战前夜) - [aka.ms/AApjz1t](https://aka.ms/AApjz1t) - **已修复 ✓**
-- It Takes Two (双人成行) - [aka.ms/AApqr1c](https://aka.ms/AApqr1c) - **已修复 ✓**
+- Electronic Arts (EA) 旗下游戏 - [aka.ms/AApsxln](https://aka.ms/AApsxln) - 已修复 ✓
+- Battlefield 2042 (战地风云 2042) - [aka.ms/AApjkk7](https://aka.ms/AApjkk7) - 已修复 ✓
+- PUBG (绝地求生) - [aka.ms/AApjd7p](https://aka.ms/AApjd7p) - 已修复 ✓
+- Watch Dogs: Legion (看门狗：军团) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6) - 已修复 ✓
+- FARCRY 6/5 (孤岛惊魂 6/5) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6) - 已修复 ✓
+- EVE Online (星战前夜) - [aka.ms/AApjz1t](https://aka.ms/AApjz1t) - 已修复 ✓
+- It Takes Two (双人成行) - [aka.ms/AApqr1c](https://aka.ms/AApqr1c) - 已修复 ✓
 
 ---
 
