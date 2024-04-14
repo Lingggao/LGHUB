@@ -29,7 +29,7 @@
 
 &emsp;&emsp;反馈更新记录：今日更新。- Ling 🕯️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-| 沉痛哀悼不幸病逝的广受尊敬、尽职尽责的 Microsoft 社区领袖、资深的 Windows 预览体验成员 [JohnthePilot](https://answers.microsoft.com/en-us/feedback/forum/all/in-memory-of-johnthepilot-a-cherished-volunteer/15b64dc7-d343-414e-9189-ebaaa4cdec6a) |
+| 沉痛哀悼不幸病逝的广受尊敬、恪尽职守的 Microsoft 社区领袖，资深的 Windows 预览体验成员 [JohnthePilot](https://answers.microsoft.com/en-us/profile/de68638d-ba42-4e12-acc7-5dea1de48838) |
 | :----------------------------------------------------------: |
 
 |      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
