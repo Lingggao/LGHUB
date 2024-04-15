@@ -10,9 +10,6 @@ https://aka.ms/AApy881
 Xbox app shows 0x89235113 when trying to sign in starting on March 27th 2024 ×
 https://aka.ms/AApy883
 
-I have two nstall error - 0x80070103: Intelligo - Extension - 100.1.4.1226 & Realtek - SoftwareComponent - 12.214.1117.196 ✓
-https://aka.ms/AApyfxg
-
 代码: 0x80073CFB ×
 https://aka.ms/AApygzy
 
@@ -49,20 +46,11 @@ https://aka.ms/AAq0rok
 打开Windows11操作系统（beta 22635  3495）的设置，有一些可以选中的文字选中之后，右键之后再点击复制会闪退 ×
 https://aka.ms/AAq0t40
 
-切换窗口时输入法会自动切换 ✓
-https://aka.ms/AAq0mfy
-
-GetHelp Windows Update Troubleshooter ✓
-https://aka.ms/AAq1jhj
-
 MS Visual C++ file causes greenscreen failure ×
 https://aka.ms/AAq1c59
 
 The share button on the Xbox Wireless Controller stops responding when connected via Bluetooth. ×
 https://aka.ms/AAq1c5d
-
-Since the latest update the high CPU usage for explorer.exe has returned when you have more then 1x explorer instance running for a period of time.
-https://aka.ms/AAq1941 ×
 
 The feature "Also apply this template to all subfolders" is still broken in 24H2 ×
 https://aka.ms/AAq0u2o
