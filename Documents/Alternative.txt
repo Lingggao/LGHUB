@@ -1,3 +1,5 @@
+× ✓
+
 右键菜单不能显示完整 ×
 https://aka.ms/AApyjsm
 
@@ -57,3 +59,15 @@ https://aka.ms/AAq0u2o
 
 Can't open Desktop from Quick Access in File Explorer ×
 https://aka.ms/AAq0mg7
+
+右下角控制面板蓝牙功能丢失 ×
+https://aka.ms/AAq26to
+
+Where is Bluetooth device history ×
+https://aka.ms/AAq26tq
+
+After the latest Windows 11 update, I get an error (0x80070520) when trying to change my user account profile picture ✓
+https://aka.ms/AAq2e61
+
+MS Visual C++ file causes greenscreen failure ×
+https://aka.ms/AAq1c59
