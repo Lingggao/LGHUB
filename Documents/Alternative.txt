@@ -71,3 +71,15 @@ https://aka.ms/AAq2e61
 
 MS Visual C++ file causes greenscreen failure ×
 https://aka.ms/AAq1c59
+
+更新Installed build：26100.1ge_release后我的pc出现卡顿 ✓
+https://aka.ms/AAq21jx
+
+After recent update, Edge stop working, use all of Copilot recommendation but to no avail. Even reinstalling latest download, that to was unsuccessful
+https://aka.ms/AAq1obs ×
+
+Error: Unsupported video type or invalid path when recording screen Video ✓
+https://aka.ms/AAq1obu
+
+ROG m16 Windows 11 24H2 26100 may cause some processor performance degradations ✓
+https://aka.ms/AAq296v
