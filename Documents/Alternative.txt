@@ -36,9 +36,6 @@ https://aka.ms/AApz94n
 开机速度太慢了 ×
 https://aka.ms/AApzx80
 
-Build 26100, Windows Copilot fails to open with message: Windows cannot find 'ms-copilot://?lcp=1&formcode=prelaunch' ×
-https://aka.ms/AApy1fl
-
 Lock screen personalization isn't working for me on Windows 11 - I'm not seeing the picture I expected to see when I lock my PC ×
 https://aka.ms/AAq14lb
 
@@ -60,26 +57,41 @@ https://aka.ms/AAq0u2o
 Can't open Desktop from Quick Access in File Explorer ×
 https://aka.ms/AAq0mg7
 
-右下角控制面板蓝牙功能丢失 ×
+右下角控制面板蓝牙功能丢失 ✓
 https://aka.ms/AAq26to
 
 Where is Bluetooth device history ×
 https://aka.ms/AAq26tq
 
-After the latest Windows 11 update, I get an error (0x80070520) when trying to change my user account profile picture ✓
-https://aka.ms/AAq2e61
-
 MS Visual C++ file causes greenscreen failure ×
 https://aka.ms/AAq1c59
-
-更新Installed build：26100.1ge_release后我的pc出现卡顿 ✓
-https://aka.ms/AAq21jx
 
 After recent update, Edge stop working, use all of Copilot recommendation but to no avail. Even reinstalling latest download, that to was unsuccessful
 https://aka.ms/AAq1obs ×
 
-Error: Unsupported video type or invalid path when recording screen Video ✓
-https://aka.ms/AAq1obu
+但是有的时候就出现蓝牙丢失现象 ✓
+https://aka.ms/AAq3il1
 
-ROG m16 Windows 11 24H2 26100 may cause some processor performance degradations ✓
-https://aka.ms/AAq296v
+文件管理器新建选项卡时，在深色模式下，会闪一下全窗口白色 ✓
+https://aka.ms/AAq33qn
+
+not launching past splash screen ✓
+https://aka.ms/AAq33qo
+
+Family & other users screen is not loading family members ✓
+https://aka.ms/AApw8xn
+
+Widgets disappear ✓
+https://aka.ms/AAq1w40
+
+The widgets page resets randomly ✓
+https://aka.ms/AAq33qp
+
+Trying to select and copy text in Beta Channel Build 22635.3420 is making the Settings app crash ×
+https://aka.ms/AAq3il9
+
+OPEN ANT PROGRAM ON THE DESKOP THE MOUSE CURSOR DISAPPEARS ×
+https://aka.ms/AAq4atx
+
+Screen flickering of my surface pro 9 ×
+https://aka.ms/AAq4au0
