@@ -23,11 +23,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 4 月 20 日 2:00 (UTC+8)。访问次数：3280+
+&emsp;&emsp;上次更新时间：2024 年 4 月 20 日 18:00 (UTC+8)。访问次数：3310+
 
-&emsp;&emsp;收录反馈 163 个，其中正在调查 24 个 (含搁置 4 个)、正在处理 7 个、已修复 132 个。
+&emsp;&emsp;收录反馈 163 个，其中正在调查 15 个 (含搁置 4 个)、正在处理 7 个、已修复 141 个。
 
-&emsp;&emsp;反馈更新记录：更新中。- Ling 🎗️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 🎗️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 | 沉痛悼念不幸病逝的广受尊敬、恪尽职守的 Microsoft 社区领袖，资深 Windows 预览体验成员 [JohnthePilot](https://answers.microsoft.com/en-us/profile/de68638d-ba42-4e12-acc7-5dea1de48838) |
 | :----------------------------------------------------------: |
@@ -39,7 +39,7 @@
 |      Beta       | **[新]** 22635.3500 |  2024/4/20   | [aka.ms/wip-beta-4-19](https://blogs.windows.com/windows-insider/2024/04/19/announcing-windows-11-insider-preview-build-22635-3500-beta-channel) |
 | Release Preview |   226(3/2)1.3520    |  2024/4/12   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/04/11/releasing-windows-11-builds-22621-3520-and-22631-3520-to-the-release-preview-channel) |
 
-<img src="Images/Graph_0.png" width = "92%" />
+<img src="Images/Graph_1.png" width = "92%" />
 
 |      编号       |                             问题                             |       状态       |
 | :-------------: | :----------------------------------------------------------: | :--------------: |
@@ -47,10 +47,7 @@
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |      **——**      |
 | [LG111](#LG111) |                任务视图卡顿或 CPU 占用率高。                 |     正在处理     |
 | [LGH01](#LGH01) | **[集合]** 仍有一些游戏在 Build 26080+ 中无法正常运行。(含列表) |     正在处理     |
-| [LG130](#LG130) |        更新 Windows 后，已禁用的音频设备被自动启用。         |     正在调查     |
 | [LG139](#LG139) |     以 “禁用驱动程序强制签名” 选项启动 Windows 时崩溃。      |     正在调查     |
-| [LG140](#LG140) |                 记事本应用崩溃 / 无法关闭。                  |     正在调查     |
-| [LG142](#LG142) |      文件资源管理器导航窗格中的 OneDrive 随机变化位置。      |     正在调查     |
 | [LGH02](#LGH02) |       **[集合]** 文件资源管理器中的软件缺陷。(含列表)        |     正在处理     |
 | [LG144](#LG144) |            无法使用 Visual Studio 调试应用程序。             |     正在处理     |
 | [LG145](#LG145) |          无法在 VMware Workstation 中开启 3D 加速。          |     正在处理     |
@@ -59,20 +56,21 @@
 | [LG148](#LG148) |            无法调整启动 “照片” 应用时窗口的大小。            |     正在调查     |
 | [LG149](#LG149) |  Windows 安全中心 “防火墙和网络保护” 页面中的图标变为方块。  |     正在调查     |
 | [LG150](#LG150) |                 无法使用 PIN 登录安全模式。                  |     正在调查     |
-| [LG151](#LG151) |                    鼠标指针可能随机变大。                    |     正在调查     |
 | [LG152](#LG152) |          拖动音量合成器滑块时 “快速设置” 窗口崩溃。          |     正在调查     |
 | [LG153](#LG153) |  C:\Windows\Microsoft.NET\\... 配置解析器 0x80004005 错误。  | 需要更多详细信息 |
-| [LG154](#LG154) |        连接着手柄关机时，提示 explorer.exe 内存错误。        |     正在调查     |
-| [LG155](#LG155) |         无法安装 Realtek - SoftwareComponent 更新。          |     正在调查     |
-| [LG156](#LG156) |               切换窗口时输入法自动变化中英文。               |     正在调查     |
-| [LG157](#LG157) |             调整账户照片时显示 0x80070520 错误。             |     正在调查     |
 | [LG158](#LG158) |                  电脑卡顿 / CPU 性能下降。                   |     正在调查     |
-| [LG159](#LG159) |                  无法使用截图工具录制视频。                  |     正在调查     |
-| [LGH03](#LGH03) |         **[集合]** **小组件中的软件缺陷**。(含列表)          |     正在处理     |
-| [LG161](#LG161) |              **快速设置页面中的蓝牙功能丢失**。              |     正在调查     |
-| [LG162](#LG162) |                     **Xbox 应用崩溃**。                      |     正在调查     |
+| [LGH03](#LGH03) |           **[集合]** 小组件中的软件缺陷。(含列表)            |     正在处理     |
+| [LG161](#LG161) |                快速设置页面中的蓝牙功能丢失。                |     正在调查     |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |      **——**      |
-|                 |                            暂无。                            |                  |
+| [LG130](#LG130) |      **更新 Windows 后，已禁用的音频设备被自动启用**。       |     已修复 ✓     |
+| [LG140](#LG140) |               **记事本应用崩溃 / 无法关闭**。                |     已修复 ✓     |
+| [LG151](#LG151) |                  **鼠标指针可能随机变大**。                  |     已修复 ✓     |
+| [LG155](#LG155) |       **无法安装 Realtek - SoftwareComponent 更新**。        |     已修复 ✓     |
+| [LG156](#LG156) |             **切换窗口时输入法自动变化中英文**。             |     已修复 ✓     |
+| [LG159](#LG159) |                **无法使用截图工具录制视频**。                |     已修复 ✓     |
+| [LG162](#LG162) |                     **Xbox 应用崩溃**。                      |     已修复 ✓     |
+| [LG157](#LG157) |           **调整账户照片时显示 0x80070520 错误**。           |     已修复 ✓     |
+| [LG154](#LG154) |      **连接着手柄关机时，提示 explorer.exe 内存错误**。      |     已修复 ✓     |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |      **——**      |
 
 [**分享反馈线索**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) · [**反馈平台问题**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u) | [Microsoft Lists](https://lists.live.com/:l:/g/personal/6a1055bafb2c85fc/FI4wNqDXCfdMoWT2PA3N-24Bj0QUVzeZ_uoTZK14x21mrg?e=D97fY3) · [下载 CSV 文件](Documents/%E7%81%B5%E7%B3%95%E4%B8%AD%E5%BF%83%20(github.com_Lingggao_LGHUB).csv)
@@ -102,7 +100,7 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 ---
 
 <SPAN ID = 'LG111'/>编号：LG111  
-版本：Canary 26063 - 26100  
+版本：Canary 26063 - 26200  
 **问题**：**任务视图卡顿或 CPU 占用率高**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAph34g](https://aka.ms/AAph34g)
@@ -110,7 +108,7 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 ---
 
 <SPAN ID = 'LGH01'/>编号：LGH01  
-版本：Canary 26080 - 26100  
+版本：Canary 26080 - 26200  
 **集合**：**仍有一些游戏在 Build 26080+ 中无法正常运行**。  
 状态：<img src="Images/W.png" width = "9%" />  
 Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复正常运行。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)* <img src="Images/M.png" width = "14%" />
@@ -130,44 +128,18 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 ---
 
-<SPAN ID = 'LG130'/>编号：LG130  
-版本：Canary 26085 - 26100  
-**问题**：**更新 Windows 后，已禁用的音频设备被自动启用**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AApsxmc](https://aka.ms/AApsxmc)
-
----
-
 <SPAN ID = 'LG139'/>编号：LG139  
 日期：2024 年 4 月 2 日  
-版本：Canary 26090 - 26100  
+版本：Canary 26090 - 26200  
 **问题**：**以 “禁用驱动程序强制签名” 选项启动 Windows 时崩溃**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApv3y2](https://aka.ms/AApv3y2)
 
 ---
 
-<SPAN ID = 'LG140'/>编号：LG140  
-日期：2024 年 4 月 2 日  
-版本：Canary 26090 - 26100  
-**问题**：**记事本应用崩溃 / 无法关闭**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AApuzi9](https://aka.ms/AApuzi9)
-
----
-
-<SPAN ID = 'LG142'/>编号：LG142  
-日期：2024 年 4 月 5 日  
-版本：Canary 26100  
-**问题**：**文件资源管理器导航窗格中的 OneDrive 随机变化位置**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AApxwbw](https://aka.ms/AApxwbw)
-
----
-
 <SPAN ID = 'LGH02'/>编号：LGH02  
 日期：2024 年 4 月 7 日  
-版本：Canary 26100  
+版本：Canary 26100 - 26200  
 **集合**：**文件资源管理器中的软件缺陷**。  
 状态：<img src="Images/W.png" width = "9%" />
 
@@ -181,12 +153,13 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 - 菜单中的文本可能过长 - [aka.ms/AApyuo4](https://aka.ms/AApyuo4)
 - 出现多个地址栏 / 搜索栏 - [aka.ms/AApymuw](https://aka.ms/AApymuw)
 - 在深色模式添加新标签时窗口闪烁 - [aka.ms/AAq33qn](https://aka.ms/AAq33qn)
+- 导航窗格中的 OneDrive 随机变化位置 - [aka.ms/AApxwbw](https://aka.ms/AApxwbw)
 
 ---
 
 <SPAN ID = 'LG144'/>编号：LG144  
 日期：2024 年 4 月 7 日  
-版本：Canary 26100  
+版本：Canary 26100 - 26200  
 **问题**：**无法使用 Visual Studio 调试应用程序**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AApyec1](https://aka.ms/AApyec1)
@@ -195,7 +168,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 <SPAN ID = 'LG145'/>编号：LG145  
 日期：2024 年 4 月 7 日  
-版本：Canary 26100  
+版本：Canary 26100 - 26200  
 **问题**：**无法在 VMware Workstation 中开启 3D 加速**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AApyec1](https://aka.ms/AApyec1)
@@ -204,7 +177,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 <SPAN ID = 'LG146'/>编号：LG146  
 日期：2024 年 4 月 10 日  
-版本：Canary 26100  
+版本：Canary 26100 - 26200  
 **问题**：**无法连接蓝牙耳机 / 连接蓝牙耳机后无法播放音频**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApz29f](https://aka.ms/AApz29f) & [aka.ms/AApz29h](https://aka.ms/AApz29h)
@@ -231,7 +204,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 <SPAN ID = 'LG149'/>编号：LG149  
 日期：2024 年 4 月 10 日  
-版本：Canary 26100  
+版本：Canary 26100 - 26200  
 **问题**：**Windows 安全中心 “防火墙和网络保护” 页面中的图标变为方块**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApy8i2](https://aka.ms/AApy8i2)
@@ -242,25 +215,16 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 <SPAN ID = 'LG150'/>编号：LG150  
 日期：2024 年 4 月 10 日  
-版本：Canary 26100  
+版本：Canary 26100 - 26200  
 **问题**：**无法使用 PIN 登录安全模式**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AApyjss](https://aka.ms/AApyjss)
 
 ---
 
-<SPAN ID = 'LG151'/>编号：LG151  
-日期：2024 年 4 月 10 日  
-版本：Canary 26100  
-**问题**：**鼠标指针可能随机变大**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AApzunq](https://aka.ms/AApzunq)
-
----
-
 <SPAN ID = 'LG152'/>编号：LG152  
 日期：2024 年 4 月 11 日  
-版本：Canary 26100  
+版本：Canary 26100 - 26200  
 **问题**：**拖动音量合成器滑块时 “快速设置” 窗口崩溃**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAq0phj](https://aka.ms/AAq0phj)
@@ -271,7 +235,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 <SPAN ID = 'LG153'/>编号：LG153  
 日期：2024 年 4 月 11 日  
-版本：Canary 26100  
+版本：Canary 26100 - 26200  
 **问题**：**C:\Windows\Microsoft.NET\\... 配置解析器 0x80004005 错误**。  
 状态：<img src="Images/I.png" width = "15%" />  
 Microsoft 官方回复：“请参照下方的步骤分享更多日志信息。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
@@ -294,45 +258,9 @@ Microsoft 官方回复：“请参照下方的步骤分享更多日志信息。�
 
 ---
 
-<SPAN ID = 'LG154'/>编号：LG154  
-日期：2024 年 4 月 12 日  
-版本：Canary 26100  
-**问题**：**连接着手柄关机时，提示 explorer.exe 内存错误**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAq0eju](https://aka.ms/AAq0eju)
-
----
-
-<SPAN ID = 'LG155'/>编号：LG155  
-日期：2024 年 4 月 14 日  
-版本：Canary 26100  
-**问题**：**无法安装 Realtek - SoftwareComponent 更新**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AApyfxg](https://aka.ms/AApyfxg) & [aka.ms/AAq1jhj](https://aka.ms/AAq1jhj)
-
----
-
-<SPAN ID = 'LG156'/>编号：LG156  
-日期：2024 年 4 月 14 日  
-版本：Canary 26100  
-**问题**：**切换窗口时输入法自动变化中英文**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAq0mfy](https://aka.ms/AAq0mfy)
-
----
-
-<SPAN ID = 'LG157'/>编号：LG157  
-日期：2024 年 4 月 16 日  
-版本：ALL  
-**问题**：**调整账户照片时显示 0x80070520 错误**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAq2e61](https://aka.ms/AAq2e61)
-
----
-
 <SPAN ID = 'LG158'/>编号：LG158  
 日期：2024 年 4 月 17 日  
-版本：Canary 26100  
+版本：Canary 26100 - 26200  
 **问题**：**电脑卡顿 / CPU 性能下降**。  
 状态：<img src="Images/L.png" width = "9%" />  
 Microsoft 官方回复：“我们将持续监控用户反馈和 Windows 错误报告，以保障 Windows 的可靠性。如果您发现性能异常，请立即提交反馈，让我们了解您遇到的问题。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
@@ -340,18 +268,9 @@ Microsoft 官方回复：“我们将持续监控用户反馈和 Windows 错误�
 
 ---
 
-<SPAN ID = 'LG159'/>编号：LG159  
-日期：2024 年 4 月 17 日  
-版本：ALL  
-**问题**：**无法使用截图工具录制视频**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAq1obu](https://aka.ms/AAq1obu)
-
----
-
 <SPAN ID = 'LGH03'/>编号：LGH03  
 日期：2024 年 4 月 19 日  
-版本：Canary 26100  
+版本：Canary 26100 - 26200  
 **集合**：**小组件中的软件缺陷**。  
 状态：<img src="Images/W.png" width = "9%" />
 
@@ -365,19 +284,10 @@ Microsoft 官方回复：“我们将持续监控用户反馈和 Windows 错误�
 
 <SPAN ID = 'LG161'/>编号：LG161  
 日期：2024 年 4 月 19 日  
-版本：Canary 26100  
+版本：Canary 26100 - 26200  
 **问题**：**快速设置页面中的蓝牙功能丢失**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAq26to](https://aka.ms/AAq26to) & [aka.ms/AAq3il1](https://aka.ms/AAq3il1)
-
----
-
-<SPAN ID = 'LG162'/>编号：LG162  
-日期：2024 年 4 月 19 日  
-版本：Canary 26100  
-**问题**：**Xbox 应用崩溃**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAq33qo](https://aka.ms/AAq33qo)
 
 <SPAN ID = '2'/>
 
@@ -389,7 +299,83 @@ Microsoft 官方回复：“我们将持续监控用户反馈和 Windows 错误�
 
 ---
 
-暂无。
+<SPAN ID = 'LG130'/>编号：LG130  
+版本：Canary 26085 - 26100  
+**问题**：**更新 Windows 后，已禁用的音频设备被自动启用**。  
+状态：Canary 26200 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApsxmc](https://aka.ms/AApsxmc)
+
+---
+
+<SPAN ID = 'LG140'/>编号：LG140  
+日期：2024 年 4 月 2 日  
+版本：Canary 26090 - 26100  
+**问题**：**记事本应用崩溃 / 无法关闭**。  
+状态：ALL - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApuzi9](https://aka.ms/AApuzi9)
+
+---
+
+<SPAN ID = 'LG151'/>编号：LG151  
+日期：2024 年 4 月 10 日  
+版本：Canary 26100  
+**问题**：**鼠标指针可能随机变大**。  
+状态：Canary 26200 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApzunq](https://aka.ms/AApzunq)
+
+---
+
+<SPAN ID = 'LG155'/>编号：LG155  
+日期：2024 年 4 月 14 日  
+版本：Canary 26100  
+**问题**：**无法安装 Realtek - SoftwareComponent 更新**。  
+状态：Canary 26200 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApyfxg](https://aka.ms/AApyfxg) & [aka.ms/AAq1jhj](https://aka.ms/AAq1jhj)
+
+---
+
+<SPAN ID = 'LG156'/>编号：LG156  
+日期：2024 年 4 月 14 日  
+版本：Canary 26100  
+**问题**：**切换窗口时输入法自动变化中英文**。  
+状态：Canary 26200 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAq0mfy](https://aka.ms/AAq0mfy)
+
+---
+
+<SPAN ID = 'LG159'/>编号：LG159  
+日期：2024 年 4 月 17 日  
+版本：ALL  
+**问题**：**无法使用截图工具录制视频**。  
+状态：ALL - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAq1obu](https://aka.ms/AAq1obu)
+
+---
+
+<SPAN ID = 'LG162'/>编号：LG162  
+日期：2024 年 4 月 19 日  
+版本：Canary 26100  
+**问题**：**Xbox 应用崩溃**。  
+状态：Canary 26200 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAq33qo](https://aka.ms/AAq33qo)
+
+---
+
+<SPAN ID = 'LG157'/>编号：LG157  
+日期：2024 年 4 月 16 日  
+版本：ALL  
+**问题**：**调整账户照片时显示 0x80070520 错误**。  
+状态：ALL - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAq2e61](https://aka.ms/AAq2e61)
+
+---
+
+<SPAN ID = 'LG154'/>编号：LG154  
+日期：2024 年 4 月 12 日  
+版本：Canary 26100  
+**问题**：**连接着手柄关机时，提示 explorer.exe 内存错误**。  
+状态：Canary 26200 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAq0eju](https://aka.ms/AAq0eju)
 
 [Microsoft 已做出更改 >7 天的问题](7+.md)
 
