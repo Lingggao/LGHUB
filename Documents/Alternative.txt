@@ -95,3 +95,30 @@ https://aka.ms/AAq4atx
 
 Screen flickering of my surface pro 9 ×
 https://aka.ms/AAq4au0
+
+Canary 26200 - 无法更改 Windows 启动设置 (如进入安全模式等)。 ✓
+https://aka.ms/AAq3xrr
+
+使用Lively Wallpaper放映动态壁纸异常 ×
+https://aka.ms/AAq4tc2
+
+圈圈开机动画没了 ✓
+https://aka.ms/AAq4mav
+
+小组件无法正常显示 ×
+https://aka.ms/AAq4maw
+
+unable to install features on demand ✓
+https://aka.ms/AAq44f1
+
+Cannot type on the search bar ×
+https://aka.ms/AAq608z
+
+The progress wheel spinner is missing when booting after installing Build 26200 ×
+https://aka.ms/AAq3l8y
+
+Build 26200 Crashes Periodically ×
+https://aka.ms/AAq67yz
+
+Canary Build 26200 - Cannot change Windows startup settings (cannot enter Safe Mode) ×
+https://aka.ms/AAq5shz
