@@ -23,18 +23,18 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 4 月 26 日 18:00 (UTC+8)。访问次数：3430+
+&emsp;&emsp;上次更新时间：2024 年 4 月 28 日 19:00 (UTC+8)。访问次数：3480+
 
 &emsp;&emsp;收录反馈 166 个，其中正在调查 18 个 (含搁置 4 个)、正在处理 7 个、已修复 141 个。
 
-&emsp;&emsp;反馈更新记录：今日无更新。- Ling 🐧 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：今日无更新。- Ling 🥟 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-|      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
-| :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
-|     Canary      |     26200      |  2024/4/20   | [aka.ms/wip26200](https://blogs.windows.com/windows-insider/2024/04/19/announcing-windows-11-insider-preview-build-26200-canary-channel) |
-|       Dev       |     26100      |   2024/4/4   | [aka.ms/wip26100](https://blogs.windows.com/windows-insider/2024/04/03/announcing-windows-11-insider-preview-build-26100-canary-and-dev-channels) |
-|      Beta       |   22635.3500   |  2024/4/20   | [aka.ms/wip-beta-4-19](https://blogs.windows.com/windows-insider/2024/04/19/announcing-windows-11-insider-preview-build-22635-3500-beta-channel) |
-| Release Preview | 226(3/2)1.3520 |  2024/4/12   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/04/11/releasing-windows-11-builds-22621-3520-and-22631-3520-to-the-release-preview-channel) |
+|      频道       |      最新版本       | 时间 (UTC+8) |                             公告                             |
+| :-------------: | :-----------------: | :----------: | :----------------------------------------------------------: |
+|     Canary      |        26200        |  2024/4/20   | [aka.ms/wip26200](https://blogs.windows.com/windows-insider/2024/04/19/announcing-windows-11-insider-preview-build-26200-canary-channel) |
+|       Dev       |        26100        |   2024/4/4   | [aka.ms/wip26100](https://blogs.windows.com/windows-insider/2024/04/03/announcing-windows-11-insider-preview-build-26100-canary-and-dev-channels) |
+|      Beta       | **[新]** 22635.3566 |  2024/4/27   | [aka.ms/wip-beta-4-26](https://blogs.windows.com/windows-insider/2024/04/26/announcing-windows-11-insider-preview-build-22635-3566-beta-channel) |
+| Release Preview |   226(3/2)1.3520    |  2024/4/12   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/04/11/releasing-windows-11-builds-22621-3520-and-22631-3520-to-the-release-preview-channel) |
 
 <img src="Images/Graph_0.png" width = "92%" />
 
@@ -279,6 +279,7 @@ Microsoft 官方回复：“我们将持续监控用户反馈和 Windows 错误�
 - 点击小组件时 Windows 崩溃 / 显示错误 - [aka.ms/AAq43k9](https://aka.ms/AAq43k9)
 - “待办事项” 等小组件随机消失 - [aka.ms/AAq1w40](https://aka.ms/AAq1w40)
 - 已固定的小组件随机消失 - [aka.ms/AAq33qp](https://aka.ms/AAq33qp)
+- “悬停时打开小组件板” 选项始终显示为 “关” - [aka.ms/AAq70ys](https://aka.ms/AAq70ys)
 
 ---
 
