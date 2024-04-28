@@ -279,7 +279,7 @@ Microsoft 官方回复：“我们将持续监控用户反馈和 Windows 错误�
 - 点击小组件时 Windows 崩溃 / 显示错误 - [aka.ms/AAq43k9](https://aka.ms/AAq43k9)
 - “待办事项” 等小组件随机消失 - [aka.ms/AAq1w40](https://aka.ms/AAq1w40)
 - 已固定的小组件随机消失 - [aka.ms/AAq33qp](https://aka.ms/AAq33qp)
-- “悬停时打开小组件板” 选项始终显示为 “关” - [aka.ms/AAq70ys](https://aka.ms/AAq70ys)
+- “悬停时打开小组件板” 选项始终显示为关 - [aka.ms/AAq70ys](https://aka.ms/AAq70ys)
 
 ---
 
