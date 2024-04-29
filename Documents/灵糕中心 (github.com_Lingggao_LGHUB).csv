@@ -1,62 +1,76 @@
 ﻿编号,日期,初始版本,问题/集合,状态,Microsoft 官方回复,典型反馈,备注,图像,已修复
-"LGH02","4/7/2024","Canary 26100","文件资源管理器中的软件缺陷。","正在处理","<div>无</div>","https://github.com/Lingggao/LGHUB","<div>列表
-<br>
-<br>- 卡顿 / 严重卡顿
-<br>- 内存泄漏
-<br>- CPU 占用率高
-<br>- 切换 “项目复选框” 选项时出现异常 - aka.ms/AApydtm
-<br>- 缩放设定为 175% 时图标模糊不清 - aka.ms/AApytl6
-<br>- 菜单中的文本可能过长 - aka.ms/AApyuo4
-<br>- 出现多个地址栏 / 搜索栏 - aka.ms/AApymuw</div>",,"False"
-"LGH01","3/13/2024","Canary 26080","仍有一些游戏在 Build 26080+ 中无法正常运行。","正在处理","<div>大多数游戏应当可以在 Build 26080 中恢复正常运行。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。</div>","https://github.com/Lingggao/LGHUB","<div>列表
-<br>
-<br>- Grand Theft Auto V (GTA 5) - aka.ms/AApjkjp
-<br>- Avatar Frontiers of Pandora (阿凡达：潘多拉边境) - aka.ms/AApmqnc
-<br>- Assassin&%2339;s Creed Origins (刺客信条：起源) - aka.ms/AApmqnc
-<br>- Electronic Arts (EA) 旗下游戏 - aka.ms/AApsxln - 已修复 ✓
-<br>- Battlefield 2042 (战地风云 2042) - aka.ms/AApjkk7 - 已修复 ✓
-<br>- PUBG (绝地求生) - aka.ms/AApjd7p - 已修复 ✓
-<br>- Watch Dogs: Legion (看门狗：军团) - aka.ms/AApr6d6 - 已修复 ✓
-<br>- FARCRY 6/5 (孤岛惊魂 6/5) - aka.ms/AApr6d6 - 已修复 ✓
-<br>- EVE Online (星战前夜) - aka.ms/AApjz1t - 已修复 ✓
-<br>- It Takes Two (双人成行) - aka.ms/AApqr1c - 已修复 ✓</div>",,"False"
-"LG157","4/16/2024","ALL","调整账户照片时显示 0x80070520 错误。","正在调查","无","https://aka.ms/AAq2e61","无",,"False"
-"LG156","4/14/2024","Canary 26100","切换窗口时输入法自动变化中英文。","正在调查","无","https://aka.ms/AAq0mfy","无",,"False"
-"LG155","4/14/2024","Canary 26100","无法安装 Realtek - SoftwareComponent 更新。","正在调查","无","https://aka.ms/AApyfxg","无",,"False"
-"LG154","4/12/2024","Canary 26100","连接着手柄关机时，提示 explorer.exe 内存错误。","正在调查","<div>无</div>","https://aka.ms/AAq0eju","<div>无</div>",,"False"
-"LG153","4/11/2024","Canary 26100","C:\Windows\Microsoft.NET\... 配置解析器 0x80004005 错误。","需要更多详细信息","<div>请参照下方的步骤分享更多日志信息。</div>","https://aka.ms/AApy7yg","<div>步骤
-<br>
-<br>1. 转到 https://aka.ms/vscollect 下载 collect.exe。
-<br>2. 此程序将创建 %TEMP%\vslogs.zip 压缩文件，包含所有 VS 和 .NET 日志。
-<br>3. 将 vslogs.zip 上传至反馈中心。
-<br>4. 将以下文件保存至 config.zip 压缩文件：
-<br>&nbsp;&nbsp; - %windir%\Microsoft.NET\Framework\v4.0.30319\config\machine.config
-<br>&nbsp;&nbsp; - %windir%\Microsoft.NET\Framework64\v4.0.30319\config\machine.config
-<br>&nbsp;&nbsp; - %windir%\Microsoft.NET\Framework\v4.0.30319\config\web.config
-<br>&nbsp;&nbsp; - %windir%\Microsoft.NET\Framework64\v4.0.30319\config\web.config
-<br>5. 将 config.zip 上传至反馈中心。
-<br>6. 请在评论中告诉我们：
-<br>&nbsp;&nbsp; - 错误信息何时出现？
-<br>&nbsp;&nbsp; - 错误信息与哪个应用有关？</div>",,"False"
-"LG152","4/11/2024","Canary 26100","拖动音量合成器滑块时 “快速设置” 窗口崩溃。","正在调查","<div>无</div>","https://aka.ms/AAq0phj","<div>含图像</div>","Reserved_ImageAttachment_[14]_[_x56fe__x50cf_][5]_[LG152][1]_[1].png","False"
-"LG151","4/10/2024","Canary 26100","鼠标指针可能随机变大。","正在调查","<div>无</div>","https://aka.ms/AApzunq","<div>无</div>",,"False"
-"LG150","4/10/2024","Canary 26100","无法使用 PIN 登录安全模式。","正在调查","<div>无</div>","https://aka.ms/AApyjss","<div>无</div>",,"False"
-"LG149","4/10/2024","Canary 26100","Windows 安全中心 “防火墙和网络保护” 页面中的图标变为方块。","正在调查","<div>无</div>","https://aka.ms/AApy8i2","<div>含图像</div>","Reserved_ImageAttachment_[14]_[_x56fe__x50cf_][5]_[LG149][1]_[1].png","False"
-"LG148","4/10/2024","ALL","无法调整启动 “照片” 应用时窗口的大小。","正在调查","<div>无</div>","https://aka.ms/AApztdn","<div>无</div>",,"False"
-"LG147","4/10/2024","ALL","Microsoft Family Safety 无法添加家庭组成员。","正在调查","<div>无</div>","https://aka.ms/AApzoge","<div>无</div>",,"False"
-"LG146","4/10/2024","Canary 26100","无法连接蓝牙耳机 / 连接蓝牙耳机后无法播放音频。","正在调查","<div>无</div>","https://aka.ms/AApz29f","<div>无</div>",,"False"
-"LG145","4/7/2024","Canary 26100","无法在 VMware Workstation 中开启 3D 加速。","正在处理","<div>无</div>","https://aka.ms/AApyec1","<div>无</div>",,"False"
-"LG144","4/7/2024","Canary 26100","无法使用 Visual Studio 调试应用程序。","正在处理","<div>无</div>","https://aka.ms/AApyec1","<div>无</div>",,"False"
-"LG142","4/5/2024","Canary 26100","文件资源管理器导航窗格中的 OneDrive 随机变化位置。","正在调查","<div>无</div>","https://aka.ms/AApxwbw","<div>无</div>",,"False"
-"LG140","4/2/2024","Canary 26090","记事本应用崩溃 / 无法关闭。","正在调查","<div>无</div>","https://aka.ms/AApuzi9","<div>无</div>",,"False"
-"LG139","4/2/2024","Canary 26090","以 “禁用驱动程序强制签名” 选项启动 Windows 时崩溃。","正在调查","<div>无</div>","https://aka.ms/AApv3y2","<div>无</div>",,"False"
-"LG130","3/27/2024","Canary 26085","更新 Windows 后，已禁用的音频设备被自动启用。","正在调查","<div>无</div>","https://aka.ms/AApsxmc","<div>无</div>",,"False"
-"LG129","3/27/2024","Canary 26085","在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误。","所做的更改","<div>无</div>","https://aka.ms/AApqooc","<div>无</div>",,"True"
-"LG123","3/20/2024","ALL","接收不到 Build 26080+ 更新。","正在处理","<div>我们正在调查有关部分 Insider 卡在 26040 / 23620 版本的反馈。如果您迫切期望立即回到正轨，可使用最新 ISO 全新安装 Windows，然后重新加入 Canary 或 Dev 频道。</div>","https://aka.ms/AApjbci","<div>无</div>",,"False"
-"LG122","3/19/2024","Canary 26080","Copilot 功能消失。","中止调查","<div>无</div>","https://aka.ms/AApmcet","<div>无</div>",,"True"
-"LG116","3/15/2024","Canary 26080","电脑无法正常关机 / 睡眠。","所做的更改","<div>不幸的是，我们看到一些反馈称 Build 26085+ 版本中仍然存在这一问题。我们正在努力修复，请暂时使用 shutdown -t 0 -s 命令关机。</div>","https://aka.ms/AApjd80","<div>无</div>",,"True"
-"LG111","3/10/2024","Canary 26063","任务视图卡顿或 CPU 占用率高。","正在处理","<div>无</div>","https://aka.ms/AAph34g","<div>无</div>",,"False"
-"LG088","2/17/2024","ALL","无法使用截图工具对开始菜单 / 右键菜单进行截图。","搁置","<div>无</div>","https://aka.ms/AAp5evo","<div>无</div>",,"False"
-"LG030","12/19/2023","Canary","在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。","搁置","<div>无</div>","https://aka.ms/AAlzfg7","<div>无</div>",,"False"
-"LG015","12/15/2023","Canary 25992","在文件资源管理器中按下两次 F11 后地址栏将被冻结。","搁置","<div>无</div>","https://aka.ms/AAnkkd6","<div>无</div>",,"False"
-"LG013","12/15/2023","Canary 26002","“设置”>“应用”>“启动” 页面中的图标异常。","搁置","<div>无</div>","https://aka.ms/AAo5wd6","<div>含图像</div>","Reserved_ImageAttachment_[14]_[_x56fe__x50cf_][5]_[LG013][1]_[2].png","False"
+"LGH03","4/19/2024","Canary 26100","小组件中的软件缺陷。","正在处理","无","https://github.com/Lingggao/LGHUB","列表
+
+- 点击小组件时 Windows 崩溃 / 显示错误 - aka.ms/AAq43k9
+- “待办事项” 等小组件随机消失 - aka.ms/AAq1w40
+- 已固定的小组件随机消失 - aka.ms/AAq33qp
+- “悬停时打开小组件板” 选项始终显示为关 - aka.ms/AAq70ys",,"False"
+"LGH02","4/7/2024","Canary 26100","文件资源管理器中的软件缺陷。","正在处理","无","https://github.com/Lingggao/LGHUB","列表
+
+- 卡顿 / 严重卡顿
+- 内存泄漏
+- CPU 占用率高
+- 切换 “项目复选框” 选项时出现异常 - aka.ms/AApydtm
+- 缩放设定为 175% 时图标模糊不清 - aka.ms/AApytl6
+- 菜单中的文本可能过长 - aka.ms/AApyuo4
+- 出现多个地址栏 / 搜索栏 - aka.ms/AApymuw
+- 在深色模式添加新标签时窗口闪烁 - aka.ms/AAq33qn
+- 导航窗格中的 OneDrive 随机变化位置 - aka.ms/AApxwbw",,"False"
+"LGH01","3/13/2024","Canary 26080","仍有一些游戏在 Build 26080+ 中无法正常运行。","正在处理","大多数游戏应当可以在 Build 26080 中恢复正常运行。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。","https://github.com/Lingggao/LGHUB","列表
+
+- Avatar Frontiers of Pandora (阿凡达：潘多拉边境) - aka.ms/AApmqnc
+- Assassin's Creed Origins (刺客信条：起源) - aka.ms/AApmqnc
+- Grand Theft Auto V (GTA 5) - aka.ms/AApjkjp - 已修复 ✓
+- Electronic Arts (EA) 旗下游戏 - aka.ms/AApsxln - 已修复 ✓
+- Battlefield 2042 (战地风云 2042) - aka.ms/AApjkk7 - 已修复 ✓
+- PUBG (绝地求生) - aka.ms/AApjd7p - 已修复 ✓
+- Watch Dogs: Legion (看门狗：军团) - aka.ms/AApr6d6 - 已修复 ✓
+- FARCRY 6/5 (孤岛惊魂 6/5) - aka.ms/AApr6d6 - 已修复 ✓
+- EVE Online (星战前夜) - aka.ms/AApjz1t - 已修复 ✓
+- It Takes Two (双人成行) - aka.ms/AApqr1c - 已修复 ✓",,"False"
+"LG165","4/24/2024","Canary 26200","无法安装可选功能。","正在调查","无","https://aka.ms/AAq44f1","无",,"False"
+"LG164","4/24/2024","Canary 26200","电脑开机动画消失。","正在调查","无","https://aka.ms/AAq4mav","无",,"False"
+"LG163","4/24/2024","Canary 26200","无法更改 Windows 启动设置 (如进入安全模式等)。","正在调查","无","https://aka.ms/AAq3xrr","含图像","Reserved_ImageAttachment_[14]_[_x56fe__x50cf_][5]_[LG162][1]_[1].jpg","False"
+"LG162","4/19/2024","Canary 26100","Xbox 应用崩溃。","所做的更改","无","https://aka.ms/AAq33qo","无",,"True"
+"LG161","4/19/2024","Canary 26100","快速设置页面中的蓝牙功能丢失。","正在调查","无","https://aka.ms/AAq26to","无",,"False"
+"LG159","4/17/2024","ALL","无法使用截图工具录制视频。","所做的更改","无","https://aka.ms/AAq1obu","无",,"True"
+"LG158","4/17/2024","Canary 26100","电脑卡顿 / CPU 性能下降。","正在调查","我们将持续监控用户反馈和 Windows 错误报告，以保障 Windows 的可靠性。如果您发现性能异常，请立即提交反馈，让我们了解您遇到的问题。","https://aka.ms/AAq21jx","无",,"False"
+"LG157","4/16/2024","ALL","调整账户照片时显示 0x80070520 错误。","所做的更改","无","https://aka.ms/AAq2e61","无",,"True"
+"LG156","4/14/2024","Canary 26100","切换窗口时输入法自动变化中英文。","所做的更改","无","https://aka.ms/AAq0mfy","无",,"True"
+"LG155","4/14/2024","Canary 26100","无法安装 Realtek - SoftwareComponent 更新。","所做的更改","无","https://aka.ms/AApyfxg","无",,"True"
+"LG154","4/12/2024","Canary 26100","连接着手柄关机时，提示 explorer.exe 内存错误。","所做的更改","无","https://aka.ms/AAq0eju","无",,"True"
+"LG153","4/11/2024","Canary 26100","C:\Windows\Microsoft.NET\... 配置解析器 0x80004005 错误。","需要更多详细信息","请参照下方的步骤分享更多日志信息。","https://aka.ms/AApy7yg","步骤
+
+1. 转到 https://aka.ms/vscollect 下载 collect.exe。
+2. 此程序将创建 %TEMP%\vslogs.zip 压缩文件，包含所有 VS 和 .NET 日志。
+3. 将 vslogs.zip 上传至反馈中心。
+4. 将以下文件保存至 config.zip 压缩文件：
+   - %windir%\Microsoft.NET\Framework\v4.0.30319\config\machine.config
+   - %windir%\Microsoft.NET\Framework64\v4.0.30319\config\machine.config
+   - %windir%\Microsoft.NET\Framework\v4.0.30319\config\web.config
+   - %windir%\Microsoft.NET\Framework64\v4.0.30319\config\web.config
+5. 将 config.zip 上传至反馈中心。
+6. 请在评论中告诉我们：
+   - 错误信息何时出现？
+   - 错误信息与哪个应用有关？",,"False"
+"LG152","4/11/2024","Canary 26100","拖动音量合成器滑块时 “快速设置” 窗口崩溃。","正在调查","无","https://aka.ms/AAq0phj","含图像","Reserved_ImageAttachment_[14]_[_x56fe__x50cf_][5]_[LG152][1]_[1].png","False"
+"LG151","4/10/2024","Canary 26100","鼠标指针可能随机变大。","所做的更改","无","https://aka.ms/AApzunq","无",,"True"
+"LG150","4/10/2024","Canary 26100","无法使用 PIN 登录安全模式。","正在调查","无","https://aka.ms/AApyjss","无",,"False"
+"LG149","4/10/2024","Canary 26100","Windows 安全中心 “防火墙和网络保护” 页面中的图标变为方块。","正在调查","无","https://aka.ms/AApy8i2","含图像","Reserved_ImageAttachment_[14]_[_x56fe__x50cf_][5]_[LG149][1]_[1].png","False"
+"LG148","4/10/2024","ALL","无法调整启动 “照片” 应用时窗口的大小。","正在调查","无","https://aka.ms/AApztdn","无",,"False"
+"LG147","4/10/2024","ALL","Microsoft Family Safety 无法添加家庭组成员。","正在调查","无","https://aka.ms/AApzoge","无",,"False"
+"LG146","4/10/2024","Canary 26100","无法连接蓝牙耳机 / 连接蓝牙耳机后无法播放音频。","正在调查","无","https://aka.ms/AApz29f","无",,"False"
+"LG145","4/7/2024","Canary 26100","无法在 VMware Workstation 中开启 3D 加速。","正在处理","无","https://aka.ms/AApyec1","无",,"False"
+"LG144","4/7/2024","Canary 26100","无法使用 Visual Studio 调试应用程序。","正在处理","无","https://aka.ms/AApyec1","无",,"False"
+"LG140","4/2/2024","Canary 26090","记事本应用崩溃 / 无法关闭。","所做的更改","无","https://aka.ms/AApuzi9","无",,"True"
+"LG139","4/2/2024","Canary 26090","以 “禁用驱动程序强制签名” 选项启动 Windows 时崩溃。","正在调查","无","https://aka.ms/AApv3y2","无",,"False"
+"LG130","3/27/2024","Canary 26085","更新 Windows 后，已禁用的音频设备被自动启用。","所做的更改","无","https://aka.ms/AApsxmc","无",,"True"
+"LG129","3/27/2024","Canary 26085","在 Microsoft Store 和 Windows 更新页面下载时显示 0x80240067 错误。","所做的更改","无","https://aka.ms/AApqooc","无",,"True"
+"LG123","3/20/2024","ALL","接收不到 Build 26080+ 更新。","正在处理","我们正在调查有关部分 Insider 卡在 26040 / 23620 版本的反馈。如果您迫切期望立即回到正轨，可使用最新 ISO 全新安装 Windows，然后重新加入 Canary 或 Dev 频道。","https://aka.ms/AApjbci","无",,"False"
+"LG122","3/19/2024","Canary 26080","Copilot 功能消失。","中止调查","无","https://aka.ms/AApmcet","无",,"True"
+"LG116","3/15/2024","Canary 26080","电脑无法正常关机 / 睡眠。","所做的更改","不幸的是，我们看到一些反馈称 Build 26085+ 版本中仍然存在这一问题。我们正在努力修复，请暂时使用 shutdown -t 0 -s 命令关机。","https://aka.ms/AApjd80","无",,"True"
+"LG111","3/10/2024","Canary 26063","任务视图卡顿或 CPU 占用率高。","正在处理","无","https://aka.ms/AAph34g","无",,"False"
+"LG088","2/17/2024","ALL","无法使用截图工具对开始菜单 / 右键菜单进行截图。","搁置","无","https://aka.ms/AAp5evo","无",,"False"
+"LG030","12/19/2023","Canary","在 Microsoft Store 中下载 Xbox Identity Provider 时显示 0x80073CFB 错误。","搁置","无","https://aka.ms/AAlzfg7","无",,"False"
+"LG015","12/15/2023","Canary 25992","在文件资源管理器中按下两次 F11 后地址栏将被冻结。","搁置","无","https://aka.ms/AAnkkd6","无",,"False"
+"LG013","12/15/2023","Canary 26002","“设置”>“应用”>“启动” 页面中的图标异常。","搁置","无","https://aka.ms/AAo5wd6","含图像","Reserved_ImageAttachment_[14]_[_x56fe__x50cf_][5]_[LG013][1]_[2].png","False"

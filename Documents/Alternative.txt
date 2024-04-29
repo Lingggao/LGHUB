@@ -57,9 +57,6 @@ https://aka.ms/AAq0u2o
 Can't open Desktop from Quick Access in File Explorer ×
 https://aka.ms/AAq0mg7
 
-右下角控制面板蓝牙功能丢失 ✓
-https://aka.ms/AAq26to
-
 Where is Bluetooth device history ×
 https://aka.ms/AAq26tq
 
@@ -68,24 +65,6 @@ https://aka.ms/AAq1c59
 
 After recent update, Edge stop working, use all of Copilot recommendation but to no avail. Even reinstalling latest download, that to was unsuccessful
 https://aka.ms/AAq1obs ×
-
-但是有的时候就出现蓝牙丢失现象 ✓
-https://aka.ms/AAq3il1
-
-文件管理器新建选项卡时，在深色模式下，会闪一下全窗口白色 ✓
-https://aka.ms/AAq33qn
-
-not launching past splash screen ✓
-https://aka.ms/AAq33qo
-
-Family & other users screen is not loading family members ✓
-https://aka.ms/AApw8xn
-
-Widgets disappear ✓
-https://aka.ms/AAq1w40
-
-The widgets page resets randomly ✓
-https://aka.ms/AAq33qp
 
 Trying to select and copy text in Beta Channel Build 22635.3420 is making the Settings app crash ×
 https://aka.ms/AAq3il9
@@ -96,20 +75,11 @@ https://aka.ms/AAq4atx
 Screen flickering of my surface pro 9 ×
 https://aka.ms/AAq4au0
 
-Canary 26200 - 无法更改 Windows 启动设置 (如进入安全模式等)。 ✓
-https://aka.ms/AAq3xrr
-
 使用Lively Wallpaper放映动态壁纸异常 ×
 https://aka.ms/AAq4tc2
 
-圈圈开机动画没了 ✓
-https://aka.ms/AAq4mav
-
 小组件无法正常显示 ×
 https://aka.ms/AAq4maw
-
-unable to install features on demand ✓
-https://aka.ms/AAq44f1
 
 Cannot type on the search bar ×
 https://aka.ms/AAq608z
