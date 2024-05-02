@@ -78,17 +78,20 @@ https://aka.ms/AAq4au0
 使用Lively Wallpaper放映动态壁纸异常 ×
 https://aka.ms/AAq4tc2
 
-小组件无法正常显示 ×
-https://aka.ms/AAq4maw
-
 Cannot type on the search bar ×
 https://aka.ms/AAq608z
-
-The progress wheel spinner is missing when booting after installing Build 26200 ×
-https://aka.ms/AAq3l8y
 
 Build 26200 Crashes Periodically ×
 https://aka.ms/AAq67yz
 
-Canary Build 26200 - Cannot change Windows startup settings (cannot enter Safe Mode) ×
-https://aka.ms/AAq5shz
+Report current weather functionality ("seeing different weather?") doesn't work in the weather app anymore starting April 22nd 2024 ×
+https://aka.ms/AAq9x3c
+
+Some of the major games like Assassin creed Valhalla , Hogwarts legacy , judgement does not launch on latest insider update. Some starts and get suspe ×
+https://aka.ms/AAq9pcz
+
+The blues screen / green screens not rendered correctly in Build 26200 ✓
+https://aka.ms/AAq8xy5
+
+Windows search doesn't work. ×
+https://aka.ms/AAq8ijs
