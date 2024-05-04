@@ -19,15 +19,15 @@
 
 &emsp;&emsp;**宗旨**：独立管理、服务用户、信息精准、更新及时
 
-[反馈中心](https://aka.ms/fbh) | [深入了解反馈](https://learn.microsoft.com/zh-cn/windows-insider/feedback) | [Flight Hub](https://learn.microsoft.com/en-us/windows-insider/flight-hub) | Windows 预览体验计划 - [网站](https://www.microsoft.com/zh-cn/windowsinsider) · [博客](https://blogs.windows.com/windows-insider) · [X (Twitter)](https://twitter.com/windowsinsider) · [社区](https://answers.microsoft.com/zh-hans/insider/forum) (中) · [社区](https://answers.microsoft.com/en-us/insider/forum) (英)
+[反馈中心](https://aka.ms/fbh) | [深入了解反馈](https://learn.microsoft.com/zh-cn/windows-insider/feedback) | [Flight Hub](https://learn.microsoft.com/en-us/windows-insider/flight-hub) | Windows 预览体验计划 - [网站](https://www.microsoft.com/zh-cn/windowsinsider) · [博客](https://blogs.windows.com/windows-insider) · [X (Twitter)](https://twitter.com/windowsinsider) · 社区 ([中](https://answers.microsoft.com/zh-hans/insider/forum) / [英](https://answers.microsoft.com/en-us/insider/forum))
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 5 月 4 日 3:00 (UTC+8)。访问次数：3570+
+&emsp;&emsp;上次更新时间：2024 年 5 月 4 日 19:00 (UTC+8)。访问次数：3590+
 
-&emsp;&emsp;收录反馈 168 个，其中正在调查 19 个 (含搁置 4 个)、正在处理 8 个、已修复 141 个。
+&emsp;&emsp;收录反馈 170 个，其中正在调查 20 个 (含搁置 4 个)、正在处理 9 个、已修复 141 个。
 
-&emsp;&emsp;反馈更新记录：今日待更新。- Ling 🙋‍♂️ 🙋‍♀️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG168 - 169**。- Ling 🙋‍♂️🙋‍♀️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |      频道       |      最新版本       | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :-----------------: | :----------: | :----------------------------------------------------------: |
@@ -36,7 +36,7 @@
 |      Beta       | **[新]** 22635.3570 |   2024/5/4   | [aka.ms/wip-beta-5-3](https://blogs.windows.com/windows-insider/2024/05/03/announcing-windows-11-insider-preview-build-22635-3570-beta-channel) |
 | Release Preview |   226(3/2)1.3520    |  2024/4/12   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/04/11/releasing-windows-11-builds-22621-3520-and-22631-3520-to-the-release-preview-channel) |
 
-<img src="Images/Graph_0.png" width = "92%" />
+<img src="Images/Graph_1.png" width = "92%" />
 
 |      编号       |                             问题                             |       状态       |
 | :-------------: | :----------------------------------------------------------: | :--------------: |
@@ -63,6 +63,8 @@
 | [LG165](#LG165) |                      无法安装可选功能。                      |     正在调查     |
 | [LG166](#LG166) |          在中文系统中，小组件的部分内容显示为英文。          |     正在调查     |
 | [LG167](#LG167) |                蓝屏 / 绿屏页面无法正确呈现。                 |     正在处理     |
+| [LG168](#LG168) | **将 “合并任务栏按钮并隐藏标签” 调整为 “从不” 时部分图标消失**。 |     正在处理     |
+| [LG169](#LG169) |          **“照片” 应用在 HDR 显示模式中亮度异常**。          |     正在调查     |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |      **——**      |
 |                 |                            暂无。                            |                  |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |      **——**      |
@@ -148,6 +150,7 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 - 出现多个地址栏 / 搜索栏 - [aka.ms/AApymuw](https://aka.ms/AApymuw)
 - 在深色模式添加新标签时窗口闪烁 - [aka.ms/AAq33qn](https://aka.ms/AAq33qn)
 - 导航窗格中的 OneDrive 随机变化位置 - [aka.ms/AApxwbw](https://aka.ms/AApxwbw)
+- 在搜索栏中输入的字符随机被删除 - [aka.ms/AAq9sqa](https://aka.ms/AAq9sqa)
 
 ---
 
@@ -274,6 +277,7 @@ Microsoft 官方回复：“我们将持续监控用户反馈和 Windows 错误�
 - “待办事项” 等小组件随机消失 - [aka.ms/AAq1w40](https://aka.ms/AAq1w40)
 - 已固定的小组件随机消失 - [aka.ms/AAq33qp](https://aka.ms/AAq33qp)
 - “悬停时打开小组件板” 选项始终显示为关 - [aka.ms/AAq70ys](https://aka.ms/AAq70ys)
+- 交互时系统崩溃 / 显示 Windows 错误 - [aka.ms/AAq43k9](https://aka.ms/AAq43k9)
 
 ---
 
@@ -330,6 +334,24 @@ Microsoft 官方回复：“我们将持续监控用户反馈和 Windows 错误�
 **问题**：**蓝屏 / 绿屏页面无法正确呈现**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAq8xy5](https://aka.ms/AAq8xy5)
+
+---
+
+<SPAN ID = 'LG168'/>编号：LG168  
+日期：2024 年 5 月 4 日  
+版本：Canary 26200  
+**问题**：**将 “合并任务栏按钮并隐藏标签” 调整为 “从不” 时部分图标消失**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAq9sq4](https://aka.ms/AAq9sq4) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG169'/>编号：LG169  
+日期：2024 年 5 月 4 日  
+版本：ALL  
+**问题**：**“照片” 应用在 HDR 显示模式中亮度异常**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAq9sq8](https://aka.ms/AAq9sq8)
 
 <SPAN ID = '2'/>
 

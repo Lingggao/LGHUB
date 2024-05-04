@@ -95,3 +95,21 @@ https://aka.ms/AAq8xy5
 
 Windows search doesn't work. ×
 https://aka.ms/AAq8ijs
+
+Windows Photos display photos in wrong brightness under HDR mode ✓
+https://aka.ms/AAq9sq8
+
+Unable to update to Build 26120.461 - gives 0x8007371b Error ×
+https://aka.ms/AAqa0de
+
+Sometimes when I type into the search box in File Explorer in Windows 11, characters I type are randomly deleted ✓
+https://aka.ms/AAq9sqa
+
+Recently i have run into a issue with Helldivers 2 constantly crashing ×
+https://aka.ms/AAq9f9c
+
+Gamebar keeps crashing ×
+https://aka.ms/AAq9sqc
+
+Interacting with widgets version 524.1302.180.0 on my Insider PC (like clicking on a widget) crashes and shows windows operating system error ✓
+https://aka.ms/AAq43k9
