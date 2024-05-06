@@ -23,20 +23,20 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 5 月 4 日 19:00 (UTC+8)。访问次数：3590+
+&emsp;&emsp;上次更新时间：2024 年 5 月 6 日 19:00 (UTC+8)。访问次数：3650+
 
 &emsp;&emsp;收录反馈 170 个，其中正在调查 20 个 (含搁置 4 个)、正在处理 9 个、已修复 141 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新 LG168 - 169**。- Ling 🙋‍♂️🙋‍♀️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：今日无更新。- Ling 😶‍🌫️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-|      频道       |      最新版本       | 时间 (UTC+8) |                             公告                             |
-| :-------------: | :-----------------: | :----------: | :----------------------------------------------------------: |
-|     Canary      |        26200        |  2024/4/20   | [aka.ms/wip26200](https://blogs.windows.com/windows-insider/2024/04/19/announcing-windows-11-insider-preview-build-26200-canary-channel) |
-|       Dev       | **[新]** 26120.461  |   2024/5/4   | [aka.ms/wip-dev-5-3](https://blogs.windows.com/windows-insider/2024/05/03/announcing-windows-11-insider-preview-build-26120-461-dev-channel) |
-|      Beta       | **[新]** 22635.3570 |   2024/5/4   | [aka.ms/wip-beta-5-3](https://blogs.windows.com/windows-insider/2024/05/03/announcing-windows-11-insider-preview-build-22635-3570-beta-channel) |
-| Release Preview |   226(3/2)1.3520    |  2024/4/12   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/04/11/releasing-windows-11-builds-22621-3520-and-22631-3520-to-the-release-preview-channel) |
+|      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
+| :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
+|     Canary      |     26200      |  2024/4/20   | [aka.ms/wip26200](https://blogs.windows.com/windows-insider/2024/04/19/announcing-windows-11-insider-preview-build-26200-canary-channel) |
+|       Dev       |   26120.461    |   2024/5/4   | [aka.ms/wip-dev-5-3](https://blogs.windows.com/windows-insider/2024/05/03/announcing-windows-11-insider-preview-build-26120-461-dev-channel) |
+|      Beta       |   22635.3570   |   2024/5/4   | [aka.ms/wip-beta-5-3](https://blogs.windows.com/windows-insider/2024/05/03/announcing-windows-11-insider-preview-build-22635-3570-beta-channel) |
+| Release Preview | 226(3/2)1.3520 |  2024/4/12   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/04/11/releasing-windows-11-builds-22621-3520-and-22631-3520-to-the-release-preview-channel) |
 
-<img src="Images/Graph_1.png" width = "92%" />
+<img src="Images/Graph_0.png" width = "92%" />
 
 |      编号       |                             问题                             |       状态       |
 | :-------------: | :----------------------------------------------------------: | :--------------: |
@@ -63,13 +63,13 @@
 | [LG165](#LG165) |                      无法安装可选功能。                      |     正在调查     |
 | [LG166](#LG166) |          在中文系统中，小组件的部分内容显示为英文。          |     正在调查     |
 | [LG167](#LG167) |                蓝屏 / 绿屏页面无法正确呈现。                 |     正在处理     |
-| [LG168](#LG168) | **将 “合并任务栏按钮并隐藏标签” 调整为 “从不” 时部分图标消失**。 |     正在处理     |
-| [LG169](#LG169) |          **“照片” 应用在 HDR 显示模式中亮度异常**。          |     正在调查     |
+| [LG168](#LG168) | 将 “合并任务栏按钮并隐藏标签” 调整为 “从不” 时部分图标消失。 |     正在处理     |
+| [LG169](#LG169) |            “照片” 应用在 HDR 显示模式中亮度异常。            |     正在调查     |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |      **——**      |
 |                 |                            暂无。                            |                  |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |      **——**      |
 
-[**分享反馈线索**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) · [**反馈平台问题**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u) | [Microsoft Lists](https://lists.live.com/:l:/g/personal/6a1055bafb2c85fc/FI4wNqDXCfdMoWT2PA3N-24Bj0QUVzeZ_uoTZK14x21mrg?e=D97fY3) · [下载 CSV 文件](Documents/%E7%81%B5%E7%B3%95%E4%B8%AD%E5%BF%83%20(github.com_Lingggao_LGHUB).csv)
+[**分享反馈线索**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
 
 <SPAN ID = '0'/>
 
