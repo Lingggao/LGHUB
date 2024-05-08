@@ -36,7 +36,9 @@
 |      Beta       |   22635.3570   |   2024/5/4   | [aka.ms/wip-beta-5-3](https://blogs.windows.com/windows-insider/2024/05/03/announcing-windows-11-insider-preview-build-22635-3570-beta-channel) |
 | Release Preview | 226(3/2)1.3520 |  2024/4/12   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/04/11/releasing-windows-11-builds-22621-3520-and-22631-3520-to-the-release-preview-channel) |
 
-<img src="Images/Graph_0.png" width = "92%" />
+<img src="Images/Graph_1.png" width = "92%" />
+
+&emsp;&emsp;**提醒**：多数问题是仅有 1 - 2 位 Insiders 反馈的 “偶发性” 问题，而非所有人都会遇到的 “广泛性” 问题。请放心地更新 Windows 11 预览体验版本，无需担心新版使用体验过差。
 
 |      编号       |                             问题                             |   状态   |
 | :-------------: | :----------------------------------------------------------: | :------: |
