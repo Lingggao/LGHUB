@@ -25,9 +25,9 @@
 
 &emsp;&emsp;上次更新时间：2024 年 5 月 9 日 2:00 (UTC+8)。访问次数：3680+
 
-&emsp;&emsp;收录反馈 170 个，其中正在调查 20 个 (含搁置 4 个)、正在处理 9 个、已修复 141 个。
+&emsp;&emsp;收录反馈 170 个，其中正在调查 8 个 (含[搁置](#3) 5 个)、正在处理 5 个、已修复 157 个。
 
-&emsp;&emsp;反馈更新记录：今日待更新。- Ling 💕 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 💕 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
@@ -38,36 +38,34 @@
 
 <img src="Images/Graph_0.png" width = "92%" />
 
-|      编号       |                             问题                             |       状态       |
-| :-------------: | :----------------------------------------------------------: | :--------------: |
-| [LG123](#LG123) |                 接收不到 Build 26080+ 更新。                 |     正在处理     |
-|     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |      **——**      |
-| [LG111](#LG111) |                任务视图卡顿或 CPU 占用率高。                 |     正在处理     |
-| [LGH01](#LGH01) | **[集合]** 仍有一些游戏在 Build 26080+ 中无法正常运行。(含列表) |     正在处理     |
-| [LG139](#LG139) |     以 “禁用驱动程序强制签名” 选项启动 Windows 时崩溃。      |     正在调查     |
-| [LGH02](#LGH02) |       **[集合]** 文件资源管理器中的软件缺陷。(含列表)        |     正在处理     |
-| [LG144](#LG144) |            无法使用 Visual Studio 调试应用程序。             |     正在处理     |
-| [LG145](#LG145) |          无法在 VMware Workstation 中开启 3D 加速。          |     正在处理     |
-| [LG146](#LG146) |       无法连接蓝牙耳机 / 连接蓝牙耳机后无法播放音频。        |     正在调查     |
-| [LG147](#LG147) |         Microsoft Family Safety 无法添加家庭组成员。         |     正在调查     |
-| [LG148](#LG148) |            无法调整启动 “照片” 应用时窗口的大小。            |     正在调查     |
-| [LG149](#LG149) |  Windows 安全中心 “防火墙和网络保护” 页面中的图标变为方块。  |     正在调查     |
-| [LG150](#LG150) |                 无法使用 PIN 登录安全模式。                  |     正在调查     |
-| [LG152](#LG152) |          拖动音量合成器滑块时 “快速设置” 窗口崩溃。          |     正在调查     |
-| [LG153](#LG153) |  C:\Windows\Microsoft.NET\\... 配置解析器 0x80004005 错误。  | 需要更多详细信息 |
-| [LG158](#LG158) |                  电脑卡顿 / CPU 性能下降。                   |     正在调查     |
-| [LGH03](#LGH03) |           **[集合]** 小组件中的软件缺陷。(含列表)            |     正在处理     |
-| [LG161](#LG161) |                快速设置页面中的蓝牙功能丢失。                |     正在调查     |
-| [LG163](#LG163) |        无法更改 Windows 启动设置 (如进入安全模式等)。        |     正在调查     |
-| [LG164](#LG164) |                      电脑开机动画消失。                      |     正在调查     |
-| [LG165](#LG165) |                      无法安装可选功能。                      |     正在调查     |
-| [LG166](#LG166) |          在中文系统中，小组件的部分内容显示为英文。          |     正在调查     |
-| [LG167](#LG167) |                蓝屏 / 绿屏页面无法正确呈现。                 |     正在处理     |
-| [LG168](#LG168) | 将 “合并任务栏按钮并隐藏标签” 调整为 “从不” 时部分图标消失。 |     正在处理     |
-| [LG169](#LG169) |            “照片” 应用在 HDR 显示模式中亮度异常。            |     正在调查     |
-|     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |      **——**      |
-|                 |                            暂无。                            |                  |
-|     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |      **——**      |
+|      编号       |                             问题                             |   状态   |
+| :-------------: | :----------------------------------------------------------: | :------: |
+| [LG123](#LG123) |                 接收不到 Build 26080+ 更新。                 | 正在处理 |
+|     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |  **——**  |
+| [LG111](#LG111) |                任务视图卡顿或 CPU 占用率高。                 | 正在处理 |
+| [LGH02](#LGH02) |       **[集合]** 文件资源管理器中的软件缺陷。(含列表)        | 正在处理 |
+| [LG148](#LG148) |            无法调整启动 “照片” 应用时窗口的大小。            | 正在调查 |
+| [LG158](#LG158) |                  电脑卡顿 / CPU 性能下降。                   | 正在调查 |
+| [LGH03](#LGH03) |           **[集合]** 小组件中的软件缺陷。(含列表)            | 正在处理 |
+| [LG168](#LG168) | 将 “合并任务栏按钮并隐藏标签” 调整为 “从不” 时部分图标消失。 | 正在处理 |
+| [LG169](#LG169) |            “照片” 应用在 HDR 显示模式中亮度异常。            | 正在调查 |
+|     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
+| [LGH01](#LGH01) | **[集合]** **仍有一些游戏在 Build 26080+ 中无法正常运行**。(含列表) | 已修复 ✓ |
+| [LG139](#LG139) |   **以 “禁用驱动程序强制签名” 选项启动 Windows 时崩溃**。    | 已修复 ✓ |
+| [LG144](#LG144) |          **无法使用 Visual Studio 调试应用程序**。           | 已修复 ✓ |
+| [LG145](#LG145) |        **无法在 VMware Workstation 中开启 3D 加速**。        | 已修复 ✓ |
+| [LG146](#LG146) |     **无法连接蓝牙耳机 / 连接蓝牙耳机后无法播放音频**。      | 已修复 ✓ |
+| [LG147](#LG147) |       **Microsoft Family Safety 无法添加家庭组成员**。       | 已修复 ✓ |
+| [LG150](#LG150) |               **无法使用 PIN 登录安全模式**。                | 已修复 ✓ |
+| [LG153](#LG153) | **C:\Windows\Microsoft.NET\\... 配置解析器 0x80004005 错误**。 | 已修复 ✓ |
+| [LG161](#LG161) |              **快速设置页面中的蓝牙功能丢失**。              | 已修复 ✓ |
+| [LG163](#LG163) |      **无法更改 Windows 启动设置 (如进入安全模式等)**。      | 已修复 ✓ |
+| [LG164](#LG164) |                    **电脑开机动画消失**。                    | 已修复 ✓ |
+| [LG165](#LG165) |                    **无法安装可选功能**。                    | 已修复 ✓ |
+| [LG166](#LG166) |        **在中文系统中，小组件的部分内容显示为英文**。        | 已修复 ✓ |
+| [LG167](#LG167) |              **蓝屏 / 绿屏页面无法正确呈现**。               | 已修复 ✓ |
+| [LG152](#LG152) |        **拖动音量合成器滑块时 “快速设置” 窗口崩溃**。        | 已修复 ✓ |
+|     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
 
 [**分享反馈线索**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
 
@@ -96,46 +94,16 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 ---
 
 <SPAN ID = 'LG111'/>编号：LG111  
-版本：Canary 26063 - 26200  
+版本：Canary 26063 - 26212  
 **问题**：**任务视图卡顿或 CPU 占用率高**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAph34g](https://aka.ms/AAph34g)
 
 ---
 
-<SPAN ID = 'LGH01'/>编号：LGH01  
-版本：Canary 26080 - 26200  
-**集合**：**仍有一些游戏在 Build 26080+ 中无法正常运行**。  
-状态：<img src="Images/W.png" width = "9%" />  
-Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复正常运行。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)* <img src="Images/M.png" width = "14%" />
-
-列表
-
-- Avatar Frontiers of Pandora (阿凡达：潘多拉边境) - [aka.ms/AApmqnc](https://aka.ms/AApmqnc)
-- Assassin's Creed Origins (刺客信条：起源) - [aka.ms/AApmqnc](https://aka.ms/AApmqnc)
-- Grand Theft Auto V (GTA 5) - [aka.ms/AApjkjp](https://aka.ms/AApjkjp)  - 已修复 ✓
-- Electronic Arts (EA) 旗下游戏 - [aka.ms/AApsxln](https://aka.ms/AApsxln) - 已修复 ✓
-- Battlefield 2042 (战地风云 2042) - [aka.ms/AApjkk7](https://aka.ms/AApjkk7) - 已修复 ✓
-- PUBG (绝地求生) - [aka.ms/AApjd7p](https://aka.ms/AApjd7p) - 已修复 ✓
-- Watch Dogs: Legion (看门狗：军团) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6) - 已修复 ✓
-- FARCRY 6/5 (孤岛惊魂 6/5) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6) - 已修复 ✓
-- EVE Online (星战前夜) - [aka.ms/AApjz1t](https://aka.ms/AApjz1t) - 已修复 ✓
-- It Takes Two (双人成行) - [aka.ms/AApqr1c](https://aka.ms/AApqr1c) - 已修复 ✓
-
----
-
-<SPAN ID = 'LG139'/>编号：LG139  
-日期：2024 年 4 月 2 日  
-版本：Canary 26090 - 26200  
-**问题**：**以 “禁用驱动程序强制签名” 选项启动 Windows 时崩溃**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AApv3y2](https://aka.ms/AApv3y2)
-
----
-
 <SPAN ID = 'LGH02'/>编号：LGH02  
 日期：2024 年 4 月 7 日  
-版本：Canary 26100 - 26200  
+版本：Canary 26100 - 26212  
 **集合**：**文件资源管理器中的软件缺陷**。  
 状态：<img src="Images/W.png" width = "9%" />
 
@@ -154,42 +122,6 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 ---
 
-<SPAN ID = 'LG144'/>编号：LG144  
-日期：2024 年 4 月 7 日  
-版本：Canary 26100 - 26200  
-**问题**：**无法使用 Visual Studio 调试应用程序**。  
-状态：<img src="Images/W.png" width = "9%" />  
-典型反馈：[aka.ms/AApyec1](https://aka.ms/AApyec1)
-
----
-
-<SPAN ID = 'LG145'/>编号：LG145  
-日期：2024 年 4 月 7 日  
-版本：Canary 26100 - 26200  
-**问题**：**无法在 VMware Workstation 中开启 3D 加速**。  
-状态：<img src="Images/W.png" width = "9%" />  
-典型反馈：[aka.ms/AApyec1](https://aka.ms/AApyec1)
-
----
-
-<SPAN ID = 'LG146'/>编号：LG146  
-日期：2024 年 4 月 10 日  
-版本：Canary 26100 - 26200  
-**问题**：**无法连接蓝牙耳机 / 连接蓝牙耳机后无法播放音频**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AApz29f](https://aka.ms/AApz29f) & [aka.ms/AApz29h](https://aka.ms/AApz29h)
-
----
-
-<SPAN ID = 'LG147'/>编号：LG147  
-日期：2024 年 4 月 10 日  
-版本：ALL  
-**问题**：**Microsoft Family Safety 无法添加家庭组成员**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AApzoge](https://aka.ms/AApzoge)
-
----
-
 <SPAN ID = 'LG148'/>编号：LG148  
 日期：2024 年 4 月 10 日  
 版本：ALL  
@@ -199,65 +131,9 @@ Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复
 
 ---
 
-<SPAN ID = 'LG149'/>编号：LG149  
-日期：2024 年 4 月 10 日  
-版本：Canary 26100 - 26200  
-**问题**：**Windows 安全中心 “防火墙和网络保护” 页面中的图标变为方块**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AApy8i2](https://aka.ms/AApy8i2)
-
-<img src="Images/LG149.png" width = "50%" />
-
----
-
-<SPAN ID = 'LG150'/>编号：LG150  
-日期：2024 年 4 月 10 日  
-版本：Canary 26100 - 26200  
-**问题**：**无法使用 PIN 登录安全模式**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AApyjss](https://aka.ms/AApyjss)
-
----
-
-<SPAN ID = 'LG152'/>编号：LG152  
-日期：2024 年 4 月 11 日  
-版本：Canary 26100 - 26200  
-**问题**：**拖动音量合成器滑块时 “快速设置” 窗口崩溃**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAq0phj](https://aka.ms/AAq0phj)
-
-<img src="Images/LG152.png" width = "30%" />
-
----
-
-<SPAN ID = 'LG153'/>编号：LG153  
-日期：2024 年 4 月 11 日  
-版本：Canary 26100 - 26200  
-**问题**：**C:\Windows\Microsoft.NET\\... 配置解析器 0x80004005 错误**。  
-状态：<img src="Images/I.png" width = "15%" />  
-Microsoft 官方回复：“请参照下方的步骤分享更多日志信息。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
-典型反馈：[aka.ms/AApy7yg](https://aka.ms/AApy7yg)
-
-步骤
-
-1. 转到 [aka.ms/vscollect](https://aka.ms/vscollect) 下载 collect.exe。
-2. 此程序将创建 %TEMP%\vslogs.zip 压缩文件，包含所有 VS 和 .NET 日志。
-3. 将 vslogs.zip 上传至反馈中心。
-4. 将以下文件保存至 config.zip 压缩文件：
-   - %windir%\Microsoft.NET\Framework\v4.0.30319\config\machine.config
-   - %windir%\Microsoft.NET\Framework64\v4.0.30319\config\machine.config
-   - %windir%\Microsoft.NET\Framework\v4.0.30319\config\web.config
-   - %windir%\Microsoft.NET\Framework64\v4.0.30319\config\web.config
-5. 将 config.zip 上传至反馈中心。
-6. 请在评论中告诉我们：
-   - 错误信息何时出现？
-   - 错误信息与哪个应用有关？
-
----
-
 <SPAN ID = 'LG158'/>编号：LG158  
 日期：2024 年 4 月 17 日  
-版本：Canary 26100 - 26200  
+版本：Canary 26100 - 26212  
 **问题**：**电脑卡顿 / CPU 性能下降**。  
 状态：<img src="Images/L.png" width = "9%" />  
 Microsoft 官方回复：“我们将持续监控用户反馈和 Windows 错误报告，以保障 Windows 的可靠性。如果您发现性能异常，请立即提交反馈，让我们了解您遇到的问题。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
@@ -267,7 +143,7 @@ Microsoft 官方回复：“我们将持续监控用户反馈和 Windows 错误�
 
 <SPAN ID = 'LGH03'/>编号：LGH03  
 日期：2024 年 4 月 19 日  
-版本：Canary 26100 - 26200  
+版本：Canary 26100 - 26212  
 **集合**：**小组件中的软件缺陷**。  
 状态：<img src="Images/W.png" width = "9%" />
 
@@ -281,65 +157,9 @@ Microsoft 官方回复：“我们将持续监控用户反馈和 Windows 错误�
 
 ---
 
-<SPAN ID = 'LG161'/>编号：LG161  
-日期：2024 年 4 月 19 日  
-版本：Canary 26100 - 26200  
-**问题**：**快速设置页面中的蓝牙功能丢失**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAq26to](https://aka.ms/AAq26to) & [aka.ms/AAq3il1](https://aka.ms/AAq3il1)
-
----
-
-<SPAN ID = 'LG163'/>编号：LG163  
-日期：2024 年 4 月 24 日  
-版本：Canary 26200  
-**问题**：**无法更改 Windows 启动设置 (如进入安全模式等)**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAq3xrr](https://aka.ms/AAq3xrr)
-
-<img src="Images/LG162.jpg" width = "50%" />
-
----
-
-<SPAN ID = 'LG164'/>编号：LG164  
-日期：2024 年 4 月 24 日  
-版本：Canary 26200  
-**问题**：**电脑开机动画消失**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAq4mav](https://aka.ms/AAq4mav)
-
----
-
-<SPAN ID = 'LG165'/>编号：LG165  
-日期：2024 年 4 月 24 日  
-版本：Canary 26200  
-**问题**：**无法安装可选功能**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAq44f1](https://aka.ms/AAq44f1)
-
----
-
-<SPAN ID = 'LG166'/>编号：LG166  
-日期：2024 年 5 月 2 日  
-版本：Canary 26200  
-**问题**：**在中文系统中，小组件的部分内容显示为英文**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAq8xz5](https://aka.ms/AAq8xz5)
-
----
-
-<SPAN ID = 'LG167'/>编号：LG167  
-日期：2024 年 5 月 2 日  
-版本：Canary 26200  
-**问题**：**蓝屏 / 绿屏页面无法正确呈现**。  
-状态：<img src="Images/W.png" width = "9%" />  
-典型反馈：[aka.ms/AAq8xy5](https://aka.ms/AAq8xy5)
-
----
-
 <SPAN ID = 'LG168'/>编号：LG168  
 日期：2024 年 5 月 4 日  
-版本：Canary 26200  
+版本：Canary 26200 - 26212  
 **问题**：**将 “合并任务栏按钮并隐藏标签” 调整为 “从不” 时部分图标消失**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAq9sq4](https://aka.ms/AAq9sq4) <img src="Images/M.png" width = "14%" />
@@ -363,7 +183,170 @@ Microsoft 官方回复：“我们将持续监控用户反馈和 Windows 错误�
 
 ---
 
-暂无。
+<SPAN ID = 'LGH01'/>编号：LGH01  
+版本：Canary 26080 - 26200  
+**集合**：**仍有一些游戏在 Build 26080+ 中无法正常运行**。  
+状态：Canary 26212 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+Microsoft 官方回复：“大多数游戏应当可以在 Build 26080 中恢复正常运行。如果您在预览体验版本中玩游戏时发现任何问题，请务必在反馈中心提交。” *(Ling 译)* <img src="Images/M.png" width = "14%" />
+
+列表
+
+- Avatar Frontiers of Pandora (阿凡达：潘多拉边境) - [aka.ms/AApmqnc](https://aka.ms/AApmqnc) - 已修复 ✓
+- Assassin's Creed Origins (刺客信条：起源) - [aka.ms/AApmqnc](https://aka.ms/AApmqnc) - 已修复 ✓
+- Grand Theft Auto V (GTA 5) - [aka.ms/AApjkjp](https://aka.ms/AApjkjp) - 已修复 ✓
+- Electronic Arts (EA) 旗下游戏 - [aka.ms/AApsxln](https://aka.ms/AApsxln) - 已修复 ✓
+- Battlefield 2042 (战地风云 2042) - [aka.ms/AApjkk7](https://aka.ms/AApjkk7) - 已修复 ✓
+- PUBG (绝地求生) - [aka.ms/AApjd7p](https://aka.ms/AApjd7p) - 已修复 ✓
+- Watch Dogs: Legion (看门狗：军团) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6) - 已修复 ✓
+- FARCRY 6/5 (孤岛惊魂 6/5) - [aka.ms/AApr6d6](https://aka.ms/AApr6d6) - 已修复 ✓
+- EVE Online (星战前夜) - [aka.ms/AApjz1t](https://aka.ms/AApjz1t) - 已修复 ✓
+- It Takes Two (双人成行) - [aka.ms/AApqr1c](https://aka.ms/AApqr1c) - 已修复 ✓
+
+---
+
+<SPAN ID = 'LG139'/>编号：LG139  
+日期：2024 年 4 月 2 日  
+版本：Canary 26090 - 26200  
+**问题**：**以 “禁用驱动程序强制签名” 选项启动 Windows 时崩溃**。  
+状态：Canary 26212 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApv3y2](https://aka.ms/AApv3y2)
+
+---
+
+<SPAN ID = 'LG144'/>编号：LG144  
+日期：2024 年 4 月 7 日  
+版本：Canary 26100 - 26200  
+**问题**：**无法使用 Visual Studio 调试应用程序**。  
+状态：Canary 26212 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApyec1](https://aka.ms/AApyec1)
+
+---
+
+<SPAN ID = 'LG145'/>编号：LG145  
+日期：2024 年 4 月 7 日  
+版本：Canary 26100 - 26200  
+**问题**：**无法在 VMware Workstation 中开启 3D 加速**。  
+状态：Canary 26212 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApyec1](https://aka.ms/AApyec1)
+
+---
+
+<SPAN ID = 'LG146'/>编号：LG146  
+日期：2024 年 4 月 10 日  
+版本：Canary 26100 - 26200  
+**问题**：**无法连接蓝牙耳机 / 连接蓝牙耳机后无法播放音频**。  
+状态：Canary 26212 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApz29f](https://aka.ms/AApz29f) & [aka.ms/AApz29h](https://aka.ms/AApz29h)
+
+---
+
+<SPAN ID = 'LG147'/>编号：LG147  
+日期：2024 年 4 月 10 日  
+版本：ALL  
+**问题**：**Microsoft Family Safety 无法添加家庭组成员**。  
+状态：ALL - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApzoge](https://aka.ms/AApzoge)
+
+---
+
+<SPAN ID = 'LG150'/>编号：LG150  
+日期：2024 年 4 月 10 日  
+版本：Canary 26100 - 26200  
+**问题**：**无法使用 PIN 登录安全模式**。  
+状态：Canary 26212 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApyjss](https://aka.ms/AApyjss)
+
+---
+
+<SPAN ID = 'LG153'/>编号：LG153  
+日期：2024 年 4 月 11 日  
+版本：Canary 26100 - 26200  
+**问题**：**C:\Windows\Microsoft.NET\\... 配置解析器 0x80004005 错误**。  
+状态：Canary 26212 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+Microsoft 官方回复：“请参照下方的步骤分享更多日志信息。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
+典型反馈：[aka.ms/AApy7yg](https://aka.ms/AApy7yg)
+
+步骤
+
+1. 转到 [aka.ms/vscollect](https://aka.ms/vscollect) 下载 collect.exe。
+2. 此程序将创建 %TEMP%\vslogs.zip 压缩文件，包含所有 VS 和 .NET 日志。
+3. 将 vslogs.zip 上传至反馈中心。
+4. 将以下文件保存至 config.zip 压缩文件：
+   - %windir%\Microsoft.NET\Framework\v4.0.30319\config\machine.config
+   - %windir%\Microsoft.NET\Framework64\v4.0.30319\config\machine.config
+   - %windir%\Microsoft.NET\Framework\v4.0.30319\config\web.config
+   - %windir%\Microsoft.NET\Framework64\v4.0.30319\config\web.config
+5. 将 config.zip 上传至反馈中心。
+6. 请在评论中告诉我们：
+   - 错误信息何时出现？
+   - 错误信息与哪个应用有关？
+
+---
+
+<SPAN ID = 'LG161'/>编号：LG161  
+日期：2024 年 4 月 19 日  
+版本：Canary 26100 - 26200  
+**问题**：**快速设置页面中的蓝牙功能丢失**。  
+状态：Canary 26212 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAq26to](https://aka.ms/AAq26to) & [aka.ms/AAq3il1](https://aka.ms/AAq3il1)
+
+---
+
+<SPAN ID = 'LG163'/>编号：LG163  
+日期：2024 年 4 月 24 日  
+版本：Canary 26200  
+**问题**：**无法更改 Windows 启动设置 (如进入安全模式等)**。  
+状态：Canary 26212 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAq3xrr](https://aka.ms/AAq3xrr)
+
+<img src="Images/LG162.jpg" width = "50%" />
+
+---
+
+<SPAN ID = 'LG164'/>编号：LG164  
+日期：2024 年 4 月 24 日  
+版本：Canary 26200  
+**问题**：**电脑开机动画消失**。  
+状态：Canary 26212 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAq4mav](https://aka.ms/AAq4mav)
+
+---
+
+<SPAN ID = 'LG165'/>编号：LG165  
+日期：2024 年 4 月 24 日  
+版本：Canary 26200  
+**问题**：**无法安装可选功能**。  
+状态：Canary 26212 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAq44f1](https://aka.ms/AAq44f1)
+
+---
+
+<SPAN ID = 'LG166'/>编号：LG166  
+日期：2024 年 5 月 2 日  
+版本：Canary 26200  
+**问题**：**在中文系统中，小组件的部分内容显示为英文**。  
+状态：Canary 26212 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAq8xz5](https://aka.ms/AAq8xz5)
+
+---
+
+<SPAN ID = 'LG167'/>编号：LG167  
+日期：2024 年 5 月 2 日  
+版本：Canary 26200  
+**问题**：**蓝屏 / 绿屏页面无法正确呈现**。  
+状态：Canary 26212 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAq8xy5](https://aka.ms/AAq8xy5)
+
+---
+
+<SPAN ID = 'LG152'/>编号：LG152  
+日期：2024 年 4 月 11 日  
+版本：Canary 26100 - 26200  
+**问题**：**拖动音量合成器滑块时 “快速设置” 窗口崩溃**。  
+状态：Canary 26212 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAq0phj](https://aka.ms/AAq0phj)
+
+<img src="Images/LG152.png" width = "30%" />
 
 [Microsoft 已做出更改 >7 天的问题](7+.md)
 
