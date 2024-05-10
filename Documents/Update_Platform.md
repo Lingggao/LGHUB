@@ -1,3 +1,12 @@
+LGHUB **2024 年 5 月 10 日更新**：
+
+- 弃用 Microsoft Lists 产品。
+- 弃用 CSV 文件。
+- 调整了部分超链接。
+- 新增 “不必担心新版使用体验过差” 提醒。
+
+---
+
 LGHUB **2024 年 4 月 14 日更新**：
 
 - **沉痛悼念不幸病逝的广受尊敬、恪尽职守的 Microsoft 社区领袖，资深 Windows 预览体验成员 [JohnthePilot](https://answers.microsoft.com/en-us/profile/de68638d-ba42-4e12-acc7-5dea1de48838)**。
