@@ -36,7 +36,7 @@
 |      Beta       |   22635.3575   |  2024/5/11   | [aka.ms/wip-beta-5-10](https://blogs.windows.com/windows-insider/2024/05/10/announcing-windows-11-insider-preview-build-22635-3575-beta-channel) |
 | Release Preview | 226(3/2)1.3520 |  2024/4/12   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/04/11/releasing-windows-11-builds-22621-3520-and-22631-3520-to-the-release-preview-channel) |
 
-<img src="Images/Graph_1.png" width = "86%" />
+<img src="Images/Graph_1.png" width = "90%" />
 
 ---
 
