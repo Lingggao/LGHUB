@@ -23,11 +23,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 5 月 13 日 14:00 (UTC+8)。访问次数：3780+
+&emsp;&emsp;上次更新时间：2024 年 5 月 15 日 14:00 (UTC+8)。访问次数：3820+
 
 &emsp;&emsp;收录反馈 170 个，其中正在调查 8 个 (含[搁置](#3) 5 个)、正在处理 5 个、已修复 157 个。
 
-&emsp;&emsp;反馈更新记录：今日无更新。- Ling 🫥 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：今日无更新。- Ling 🍀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
@@ -158,6 +158,7 @@ Microsoft 官方回复：“我们将持续监控用户反馈和 Windows 错误�
 - 已固定的小组件随机消失 - [aka.ms/AAq33qp](https://aka.ms/AAq33qp)
 - “悬停时打开小组件板” 选项始终显示为关 - [aka.ms/AAq70ys](https://aka.ms/AAq70ys)
 - 交互时系统崩溃 / 显示 Windows 错误 - [aka.ms/AAq43k9](https://aka.ms/AAq43k9)
+- “Windows 徽标键 + W” 快捷键失效 - [aka.ms/AAqgz49](https://aka.ms/AAqgz49)
 
 ---
 
