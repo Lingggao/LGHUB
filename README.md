@@ -51,9 +51,9 @@
 | [LGH03](#LGH03) |           **[集合]** 小组件中的软件缺陷。(含列表)            | 正在处理 |
 | [LG169](#LG169) |            “照片” 应用在 HDR 显示模式中亮度异常。            | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
-| [LG111](#LG111) |                任务视图卡顿或 CPU 占用率高。                 | 已修复 ✓ |
-| [LG158](#LG158) |                  电脑卡顿 / CPU 性能下降。                   | 已修复 ✓ |
-| [LG168](#LG168) | 将 “合并任务栏按钮并隐藏标签” 调整为 “从不” 时部分图标消失。 | 已修复 ✓ |
+| [LG111](#LG111) |              **任务视图卡顿或 CPU 占用率高**。               | 已修复 ✓ |
+| [LG158](#LG158) |                **电脑卡顿 / CPU 性能下降**。                 | 已修复 ✓ |
+| [LG168](#LG168) | **将 “合并任务栏按钮并隐藏标签” 调整为 “从不” 时部分图标消失**。 | 已修复 ✓ |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
 
 [**分享反馈线索**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
