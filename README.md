@@ -23,9 +23,9 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 5 月 16 日 18:00 (UTC+8)。访问次数：3850+
+&emsp;&emsp;上次更新时间：2024 年 5 月 16 日 18:30 (UTC+8)。访问次数：3850+
 
-&emsp;&emsp;收录反馈 170 个，其中正在调查 7 个 (含[搁置](#3) 5 个)、正在处理 3 个、已修复 160 个。
+&emsp;&emsp;收录反馈 170 个，其中正在调查 8 个 (含[搁置](#3) 6 个)、正在处理 3 个、已修复 159 个。
 
 &emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 🍀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
@@ -53,7 +53,6 @@
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
 | [LG111](#LG111) |              **任务视图卡顿或 CPU 占用率高**。               | 已修复 ✓ |
 | [LG158](#LG158) |                **电脑卡顿 / CPU 性能下降**。                 | 已修复 ✓ |
-| [LG168](#LG168) | **将 “合并任务栏按钮并隐藏标签” 调整为 “从不” 时部分图标消失**。 | 已修复 ✓ |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
 
 [**分享反馈线索**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
@@ -161,15 +160,6 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 状态：Canary 26217 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
 Microsoft 官方回复：“我们将持续监控用户反馈和 Windows 错误报告，以保障 Windows 的可靠性。如果您发现性能异常，请立即提交反馈，让我们了解您遇到的问题。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
 典型反馈：[aka.ms/AAq21jx](https://aka.ms/AAq21jx) & [aka.ms/AAq296v](https://aka.ms/AAq296v)
-
----
-
-<SPAN ID = 'LG168'/>编号：LG168  
-日期：2024 年 5 月 4 日  
-版本：Canary 26200 - 26212  
-**问题**：**将 “合并任务栏按钮并隐藏标签” 调整为 “从不” 时部分图标消失**。  
-状态：Canary 26217 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAq9sq4](https://aka.ms/AAq9sq4) <img src="Images/M.png" width = "14%" />
 
 [Microsoft 已做出更改 >7 天的问题](7+.md)
 
