@@ -23,18 +23,18 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 5 月 16 日 18:30 (UTC+8)。访问次数：3850+
+&emsp;&emsp;上次更新时间：2024 年 5 月 18 日 16:00 (UTC+8)。访问次数：3880+
 
 &emsp;&emsp;收录反馈 170 个，其中正在调查 8 个 (含[搁置](#3) 6 个)、正在处理 3 个、已修复 159 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 🍀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：今日无更新。- Ling 😗 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-|      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
-| :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
-|     Canary      | **[新]** 26217 |  2024/5/16   | [aka.ms/wip26217](https://blogs.windows.com/windows-insider/2024/05/15/announcing-windows-11-insider-preview-build-26217-canary-channel) |
-|       Dev       |   26120.470    |  2024/5/11   | [aka.ms/wip-dev-5-10](https://blogs.windows.com/windows-insider/2024/05/10/announcing-windows-11-insider-preview-build-26120-470-dev-channel) |
-|      Beta       |   22635.3575   |  2024/5/11   | [aka.ms/wip-beta-5-10](https://blogs.windows.com/windows-insider/2024/05/10/announcing-windows-11-insider-preview-build-22635-3575-beta-channel) |
-| Release Preview | 226(3/2)1.3520 |  2024/4/12   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/04/11/releasing-windows-11-builds-22621-3520-and-22631-3520-to-the-release-preview-channel) |
+|      频道       |         最新版本          | 时间 (UTC+8) |                             公告                             |
+| :-------------: | :-----------------------: | :----------: | :----------------------------------------------------------: |
+|     Canary      |           26217           |  2024/5/16   | [aka.ms/wip26217](https://blogs.windows.com/windows-insider/2024/05/15/announcing-windows-11-insider-preview-build-26217-canary-channel) |
+|       Dev       |    **[新]** 26120.670     |  2024/5/18   | [aka.ms/wip-dev-5-17](https://blogs.windows.com/windows-insider/2024/05/17/announcing-windows-11-insider-preview-build-26120-670-dev-channel) |
+|      Beta       |    **[新]** 22635.3640    |  2024/5/18   | [aka.ms/wip-beta-5-17](https://blogs.windows.com/windows-insider/2024/05/17/announcing-windows-11-insider-preview-build-22635-3640-beta-channel) |
+| Release Preview | **[新]** 22631/22621.3668 |  2024/4/18   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/17/releasing-windows-11-builds-22621-3668-and-22631-3668-to-the-release-preview-channel) |
 
 <img src="Images/Graph_0.png" width = "90%" />
 
@@ -51,8 +51,8 @@
 | [LGH03](#LGH03) |           **[集合]** 小组件中的软件缺陷。(含列表)            | 正在处理 |
 | [LG169](#LG169) |            “照片” 应用在 HDR 显示模式中亮度异常。            | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
-| [LG111](#LG111) |              **任务视图卡顿或 CPU 占用率高**。               | 已修复 ✓ |
-| [LG158](#LG158) |                **电脑卡顿 / CPU 性能下降**。                 | 已修复 ✓ |
+| [LG111](#LG111) |                任务视图卡顿或 CPU 占用率高。                 | 已修复 ✓ |
+| [LG158](#LG158) |                  电脑卡顿 / CPU 性能下降。                   | 已修复 ✓ |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
 
 [**分享反馈线索**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
@@ -89,9 +89,7 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 列表
 
-- 卡顿 / 严重卡顿
-- 内存泄漏
-- CPU 占用率高
+- 卡顿 / 内存泄漏 / CPU 占用率高
 - 切换 “项目复选框” 选项时出现异常 - [aka.ms/AApydtm](https://aka.ms/AApydtm)
 - 缩放设定为 175% 时图标模糊不清 - [aka.ms/AApytl6](https://aka.ms/AApytl6)
 - 菜单中的文本可能过长 - [aka.ms/AApyuo4](https://aka.ms/AApyuo4)
@@ -99,6 +97,7 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 - 在深色模式添加新标签时窗口闪烁 - [aka.ms/AAq33qn](https://aka.ms/AAq33qn)
 - 导航窗格中的 OneDrive 随机变化位置 - [aka.ms/AApxwbw](https://aka.ms/AApxwbw)
 - 在搜索栏中输入的字符随机被删除 - [aka.ms/AAq9sqa](https://aka.ms/AAq9sqa)
+- 出现旧版白色工具栏 - [aka.ms/AAn4f6s](https://aka.ms/AAn4f6s)
 
 ---
 
