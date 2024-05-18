@@ -93,11 +93,11 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 - 切换 “项目复选框” 选项时出现异常 - [aka.ms/AApydtm](https://aka.ms/AApydtm)
 - 缩放设定为 175% 时图标模糊不清 - [aka.ms/AApytl6](https://aka.ms/AApytl6)
 - 菜单中的文本可能过长 - [aka.ms/AApyuo4](https://aka.ms/AApyuo4)
-- 出现多个地址栏 / 搜索栏 - [aka.ms/AApymuw](https://aka.ms/AApymuw)
-- 在深色模式添加新标签时窗口闪烁 - [aka.ms/AAq33qn](https://aka.ms/AAq33qn)
 - 导航窗格中的 OneDrive 随机变化位置 - [aka.ms/AApxwbw](https://aka.ms/AApxwbw)
 - 在搜索栏中输入的字符随机被删除 - [aka.ms/AAq9sqa](https://aka.ms/AAq9sqa)
 - 出现旧版白色工具栏 - [aka.ms/AAn4f6s](https://aka.ms/AAn4f6s)
+- 出现多个地址栏 / 搜索栏 - [aka.ms/AApymuw](https://aka.ms/AApymuw) - 已修复 ✓
+- 在深色模式添加新标签时窗口闪烁 - [aka.ms/AAq33qn](https://aka.ms/AAq33qn) - 已修复 ✓
 
 ---
 
@@ -118,12 +118,11 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 列表
 
-- 点击小组件时 Windows 崩溃 / 显示错误 - [aka.ms/AAq43k9](https://aka.ms/AAq43k9)
-- “待办事项” 等小组件随机消失 - [aka.ms/AAq1w40](https://aka.ms/AAq1w40)
-- 已固定的小组件随机消失 - [aka.ms/AAq33qp](https://aka.ms/AAq33qp)
 - “悬停时打开小组件板” 选项始终显示为关 - [aka.ms/AAq70ys](https://aka.ms/AAq70ys)
-- 交互时系统崩溃 / 显示 Windows 错误 - [aka.ms/AAq43k9](https://aka.ms/AAq43k9)
 - “Windows 徽标键 + W” 快捷键失效 - [aka.ms/AAqgz49](https://aka.ms/AAqgz49)
+- 点击小组件时 Windows 崩溃 / 显示错误 - [aka.ms/AAq43k9](https://aka.ms/AAq43k9) - 已修复 ✓
+- “待办事项” 等小组件随机消失 - [aka.ms/AAq1w40](https://aka.ms/AAq1w40) - 已修复 ✓
+- 已固定的小组件随机消失 - [aka.ms/AAq33qp](https://aka.ms/AAq33qp) - 已修复 ✓
 
 ---
 
