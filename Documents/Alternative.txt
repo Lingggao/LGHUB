@@ -104,3 +104,12 @@ https://aka.ms/AAq9sqc
 
 录制已停止 ×
 https://aka.ms/AAqb83h
+
+In the Canary Channel, scaling resets after closing and opening laptop ✓
+https://aka.ms/AAqi9eq
+
+Attempting to install the latest Dev Channel updates is failing for me with 0x80073713 ×
+https://aka.ms/AAqi1r2
+
+Night light ×
+https://aka.ms/AAqi9ew
