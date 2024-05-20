@@ -34,7 +34,7 @@
 |     Canary      |      26217       |  2024/5/16   | [aka.ms/wip26217](https://blogs.windows.com/windows-insider/2024/05/15/announcing-windows-11-insider-preview-build-26217-canary-channel) |
 |       Dev       |    26120.670     |  2024/5/18   | [aka.ms/wip-dev-5-17](https://blogs.windows.com/windows-insider/2024/05/17/announcing-windows-11-insider-preview-build-26120-670-dev-channel) |
 |      Beta       |    22635.3640    |  2024/5/18   | [aka.ms/wip-beta-5-17](https://blogs.windows.com/windows-insider/2024/05/17/announcing-windows-11-insider-preview-build-22635-3640-beta-channel) |
-| Release Preview | 22631/22621.3668 |  2024/4/18   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/17/releasing-windows-11-builds-22621-3668-and-22631-3668-to-the-release-preview-channel) |
+| Release Preview | 22631/22621.3668 |  2024/5/18   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/17/releasing-windows-11-builds-22621-3668-and-22631-3668-to-the-release-preview-channel) |
 
 <img src="Images/Graph_1.png" width = "90%" />
 
