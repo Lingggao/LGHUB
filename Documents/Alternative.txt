@@ -113,3 +113,12 @@ https://aka.ms/AAqi1r2
 
 Night light ×
 https://aka.ms/AAqi9ew
+
+In the break period, resuming a focus session would reset the focus period ×
+https://aka.ms/AAqi1w7
+
+System sounds in the volume mixer settings resets to 100 percent all the time ×
+https://aka.ms/AAqjidq
+
+When creating a new folder in File Explorer in Windows 11, the address bar is randomly stealing focus ✓
+https://aka.ms/AAqjq2b

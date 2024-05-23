@@ -23,20 +23,20 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 5 月 20 日 14:00 (UTC+8)。访问次数：3900+
+&emsp;&emsp;上次更新时间：2024 年 5 月 23 日 19:00 (UTC+8)。访问次数：3960+
 
-&emsp;&emsp;收录反馈 173 个，其中正在调查 11 个 (含[搁置](#3) 6 个)、正在处理 3 个、已修复 159 个。
+&emsp;&emsp;收录反馈 173 个，其中正在调查 9 个 (含[搁置](#3) 6 个)、正在处理 3 个、已修复 161 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新 LG170 - 172**。- Ling 🍀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 😫 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-|      频道       |     最新版本     | 时间 (UTC+8) |                             公告                             |
-| :-------------: | :--------------: | :----------: | :----------------------------------------------------------: |
-|     Canary      |      26217       |  2024/5/16   | [aka.ms/wip26217](https://blogs.windows.com/windows-insider/2024/05/15/announcing-windows-11-insider-preview-build-26217-canary-channel) |
-|       Dev       |    26120.670     |  2024/5/18   | [aka.ms/wip-dev-5-17](https://blogs.windows.com/windows-insider/2024/05/17/announcing-windows-11-insider-preview-build-26120-670-dev-channel) |
-|      Beta       |    22635.3640    |  2024/5/18   | [aka.ms/wip-beta-5-17](https://blogs.windows.com/windows-insider/2024/05/17/announcing-windows-11-insider-preview-build-22635-3640-beta-channel) |
-| Release Preview | 22631/22621.3668 |  2024/5/18   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/17/releasing-windows-11-builds-22621-3668-and-22631-3668-to-the-release-preview-channel) |
+|      频道       |         最新版本          | 时间 (UTC+8) |                             公告                             |
+| :-------------: | :-----------------------: | :----------: | :----------------------------------------------------------: |
+|     Canary      |           26217           |  2024/5/16   | [aka.ms/wip26217](https://blogs.windows.com/windows-insider/2024/05/15/announcing-windows-11-insider-preview-build-26217-canary-channel) |
+|       Dev       |         26120.670         |  2024/5/18   | [aka.ms/wip-dev-5-17](https://blogs.windows.com/windows-insider/2024/05/17/announcing-windows-11-insider-preview-build-26120-670-dev-channel) |
+|      Beta       |        22635.3640         |  2024/5/18   | [aka.ms/wip-beta-5-17](https://blogs.windows.com/windows-insider/2024/05/17/announcing-windows-11-insider-preview-build-22635-3640-beta-channel) |
+| Release Preview | **[新]** 24H2 - 26100.712 |  2024/5/23   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/22/releasing-windows-11-version-24h2-to-the-release-preview-channel) |
 
-<img src="Images/Graph_1.png" width = "90%" />
+<img src="Images/Graph_0.png" width = "90%" />
 
 ---
 
@@ -50,10 +50,12 @@
 | [LG148](#LG148) |            无法调整启动 “照片” 应用时窗口的大小。            | 正在调查 |
 | [LGH03](#LGH03) |           **[集合]** 小组件中的软件缺陷。(含列表)            | 正在处理 |
 | [LG169](#LG169) |            “照片” 应用在 HDR 显示模式中亮度异常。            | 正在调查 |
-| [LG170](#LG170) |            **Microsoft Edge 在启动时频繁崩溃**。             | 正在调查 |
-| [LG171](#LG171) |      **Microsoft Edge “右键”>“在 Web 中搜索” 时崩溃**。      | 正在调查 |
-| [LG172](#LG172) |        **开关笔记本电脑的盖子时，缩放比例自动重置**。        | 正在调查 |
+| [LG170](#LG170) |              Microsoft Edge 在启动时频繁崩溃。               | 正在调查 |
+| [LG171](#LG171) |        Microsoft Edge “右键”>“在 Web 中搜索” 时崩溃。        | 正在调查 |
+| [LG172](#LG172) |          开关笔记本电脑的盖子时，缩放比例自动重置。          | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
+| [LG170](#LG170) |            **Microsoft Edge 在启动时频繁崩溃**。             | 已修复 ✓ |
+| [LG171](#LG171) |      **Microsoft Edge “右键”>“在 Web 中搜索” 时崩溃**。      | 已修复 ✓ |
 | [LG111](#LG111) |                任务视图卡顿或 CPU 占用率高。                 | 已修复 ✓ |
 | [LG158](#LG158) |                  电脑卡顿 / CPU 性能下降。                   | 已修复 ✓ |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
@@ -99,6 +101,7 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 - 导航窗格中的 OneDrive 随机变化位置 - [aka.ms/AApxwbw](https://aka.ms/AApxwbw)
 - 在搜索栏中输入的字符随机被删除 - [aka.ms/AAq9sqa](https://aka.ms/AAq9sqa)
 - 出现旧版白色工具栏 - [aka.ms/AAn4f6s](https://aka.ms/AAn4f6s)
+- 新建文件夹时，焦点可能定位到地址栏 - [aka.ms/AAqjq2b](https://aka.ms/AAqjq2b)
 - 出现多个地址栏 / 搜索栏 - [aka.ms/AApymuw](https://aka.ms/AApymuw) - 已修复 ✓
 - 在深色模式添加新标签时窗口闪烁 - [aka.ms/AAq33qn](https://aka.ms/AAq33qn) - 已修复 ✓
 
@@ -138,24 +141,6 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 ---
 
-<SPAN ID = 'LG170'/>编号：LG170  
-日期：2024 年 5 月 20 日  
-版本：Canary 26217  
-**问题**：**Microsoft Edge 在启动时频繁崩溃**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAqigo9](https://aka.ms/AAqigo9) <img src="Images/M.png" width = "14%" />
-
----
-
-<SPAN ID = 'LG171'/>编号：LG171  
-日期：2024 年 5 月 20 日  
-版本：Edge 126.0.2578.1  
-**问题**：**Microsoft Edge “右键”>“在 Web 中搜索” 时崩溃**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAqi9es](https://aka.ms/AAqi9es) <img src="Images/M.png" width = "14%" />
-
----
-
 <SPAN ID = 'LG172'/>编号：LG172  
 日期：2024 年 5 月 20 日  
 版本：Canary 26217  
@@ -170,6 +155,24 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 &emsp;&emsp;记录 Microsoft 已做出更改 0 - 7 天的问题 & 超过 14 天无新增赞成票的问题。
 
 &emsp;&emsp;无特殊情况，问题归档后不再更新。
+
+---
+
+<SPAN ID = 'LG170'/>编号：LG170  
+日期：2024 年 5 月 20 日  
+版本：Canary 26217  
+**问题**：**Microsoft Edge 在启动时频繁崩溃**。  
+状态：Edge 126.0.2592.11 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAqigo9](https://aka.ms/AAqigo9) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG171'/>编号：LG171  
+日期：2024 年 5 月 20 日  
+版本：Edge 126.0.2578.1  
+**问题**：**Microsoft Edge “右键”>“在 Web 中搜索” 时崩溃**。  
+状态：Edge 126.0.2592.11 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAqi9es](https://aka.ms/AAqi9es) <img src="Images/M.png" width = "14%" />
 
 ---
 
