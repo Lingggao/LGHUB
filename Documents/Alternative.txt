@@ -122,3 +122,25 @@ https://aka.ms/AAqjidq
 
 When creating a new folder in File Explorer in Windows 11, the address bar is randomly stealing focus ✓
 https://aka.ms/AAqjq2b
+
+为什么屏幕壁纸自动变黑 ✓
+https://aka.ms/AAqjuht
+
+选中文件或者文件夹右键时有很多“正在加载” ×
+https://aka.ms/AAqk6se
+
+Error in C:\WINDOWS\system32\PcaSvc.dll ×
+Missing entry: PcaWallpaperAppDetect
+https://aka.ms/AAqk6si
+
+Studio Effects quick settings menu is not able to get scrolled when Poly Camera service is running ×
+https://aka.ms/AAqjuhz
+
+Windows 11 24H2 has started rolling out to Release Preview - I'm in Release Preview on Windows 11 23H2, however when I check for updates 24H2 doesn't... ×
+https://aka.ms/AAqk0qt
+
+UEFI Firmware Settings missing from Advanced startup options ×
+https://aka.ms/AAqkdy9
+
+Nothing happens when double clicking on a compressed folder ✓
+https://aka.ms/AAqk1zl
