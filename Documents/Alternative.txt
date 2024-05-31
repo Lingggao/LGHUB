@@ -105,9 +105,6 @@ https://aka.ms/AAq9sqc
 录制已停止 ×
 https://aka.ms/AAqb83h
 
-In the Canary Channel, scaling resets after closing and opening laptop ✓
-https://aka.ms/AAqi9eq
-
 Attempting to install the latest Dev Channel updates is failing for me with 0x80073713 ×
 https://aka.ms/AAqi1r2
 
@@ -119,12 +116,6 @@ https://aka.ms/AAqi1w7
 
 System sounds in the volume mixer settings resets to 100 percent all the time ×
 https://aka.ms/AAqjidq
-
-When creating a new folder in File Explorer in Windows 11, the address bar is randomly stealing focus ✓
-https://aka.ms/AAqjq2b
-
-为什么屏幕壁纸自动变黑 ✓
-https://aka.ms/AAqjuht
 
 选中文件或者文件夹右键时有很多“正在加载” ×
 https://aka.ms/AAqk6se
@@ -141,6 +132,3 @@ https://aka.ms/AAqk0qt
 
 UEFI Firmware Settings missing from Advanced startup options ×
 https://aka.ms/AAqkdy9
-
-Nothing happens when double clicking on a compressed folder ✓
-https://aka.ms/AAqk1zl
