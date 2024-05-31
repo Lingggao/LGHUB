@@ -27,7 +27,7 @@
 
 &emsp;&emsp;收录反馈 174 个，其中正在调查 10 个 (含[搁置](#3) 6 个)、正在处理 3 个、已修复 161 个。
 
-&emsp;&emsp;反馈更新记录：今日无更新。- Ling 🙂‍↕️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：今日无更新。- Ling 💎 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |      频道       |     最新版本     | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :--------------: | :----------: | :----------------------------------------------------------: |
