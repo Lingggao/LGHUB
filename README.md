@@ -23,20 +23,20 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 6 月 2 日 19:00 (UTC+8)。访问次数：4120+
+&emsp;&emsp;上次更新时间：2024 年 6 月 6 日 18:00 (UTC+8)。访问次数：4150+
 
-&emsp;&emsp;收录反馈 174 个，其中正在调查 10 个 (含[搁置](#3) 6 个)、正在处理 3 个、已修复 161 个。
+&emsp;&emsp;收录反馈 177 个，其中正在调查 12 个 (含[搁置](#3) 6 个)、正在处理 4 个、已修复 161 个。
 
-&emsp;&emsp;反馈更新记录：今日无更新。- Ling 🐇🌘 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG174 - 176**。- Ling 🍀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-|      频道       |      最新版本      | 时间 (UTC+8) |                             公告                             |
-| :-------------: | :----------------: | :----------: | :----------------------------------------------------------: |
-|     Canary      |       26227        |  2024/5/31   | [aka.ms/wip26227](https://blogs.windows.com/windows-insider/2024/05/30/announcing-windows-11-insider-preview-build-26227-canary-channel) |
-|       Dev       | **[新]** 26120.751 |   2024/6/1   | [aka.ms/wip-dev-5-31](https://blogs.windows.com/windows-insider/2024/05/31/announcing-windows-11-insider-preview-build-26120-751-dev-channel) |
-|      Beta       |     22635.3646     |  2024/5/24   | [aka.ms/wip-beta-5-23](https://blogs.windows.com/windows-insider/2024/05/23/announcing-windows-11-insider-preview-build-22635-3646-beta-channel) |
-| Release Preview |  24H2 - 26100.712  |  2024/5/23   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/22/releasing-windows-11-version-24h2-to-the-release-preview-channel) |
+|      频道       |     最新版本     | 时间 (UTC+8) |                             公告                             |
+| :-------------: | :--------------: | :----------: | :----------------------------------------------------------: |
+|     Canary      |      26227       |  2024/5/31   | [aka.ms/wip26227](https://blogs.windows.com/windows-insider/2024/05/30/announcing-windows-11-insider-preview-build-26227-canary-channel) |
+|       Dev       |    26120.751     |   2024/6/1   | [aka.ms/wip-dev-5-31](https://blogs.windows.com/windows-insider/2024/05/31/announcing-windows-11-insider-preview-build-26120-751-dev-channel) |
+|      Beta       |    22635.3646    |  2024/5/24   | [aka.ms/wip-beta-5-23](https://blogs.windows.com/windows-insider/2024/05/23/announcing-windows-11-insider-preview-build-22635-3646-beta-channel) |
+| Release Preview | 24H2 - 26100.712 |  2024/5/23   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/22/releasing-windows-11-version-24h2-to-the-release-preview-channel) |
 
-<img src="Images/Graph_0.png" width = "90%" />
+<img src="Images/Graph_1.png" width = "90%" />
 
 ---
 
@@ -52,6 +52,9 @@
 | [LG169](#LG169) |            “照片” 应用在 HDR 显示模式中亮度异常。            | 正在调查 |
 | [LG172](#LG172) |          开关笔记本电脑的盖子时，缩放比例自动重置。          | 正在调查 |
 | [LG173](#LG173) |                   桌面壁纸突然变为纯黑色。                   | 正在调查 |
+| [LG174](#LG174) |            **无法使用语音键入 (WIN + H) 功能**。             | 正在调查 |
+| [LG175](#LG175) |        **文本建议干扰 Visual Studio Code 中的命令**。        | 正在调查 |
+| [LG176](#LG176) |        **CrossDeviceService.exe 大量占用 CPU 资源**。        | 正在处理 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
 |                 |                             暂无                             |          |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
@@ -95,6 +98,7 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 - 菜单中的文本可能过长 - [aka.ms/AApyuo4](https://aka.ms/AApyuo4)
 - 在搜索栏中输入的字符随机被删除 - [aka.ms/AAq9sqa](https://aka.ms/AAq9sqa)
 - 双击压缩文件时没有反应 - [aka.ms/AAqk1zl](https://aka.ms/AAqk1zl)
+- 预览性能下降 - [aka.ms/AAqmzfc](https://aka.ms/AAqmzfc)
 - 出现旧版白色工具栏 - [aka.ms/AAn4f6s](https://aka.ms/AAn4f6s) \- 已修复 ✓
 - 新建文件夹时，焦点可能定位到地址栏 - [aka.ms/AAqjq2b](https://aka.ms/AAqjq2b) \- 已修复 ✓
 - 导航窗格中的 OneDrive 随机变化位置 - [aka.ms/AApxwbw](https://aka.ms/AApxwbw) \- 已修复 ✓
@@ -153,6 +157,35 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 **问题**：**桌面壁纸突然变为纯黑色**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAqk6sr](https://aka.ms/AAqk6sr)
+
+---
+
+<SPAN ID = 'LG174'/>编号：LG174  
+日期：2024 年 6 月 6 日  
+版本：Canary 26227  
+**问题**：**无法使用语音键入 (WIN + H) 功能**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAqr1cs](https://aka.ms/AAqr1cs)
+
+<img src="Images/LG174.png" width = "30%" />
+
+---
+
+<SPAN ID = 'LG175'/>编号：LG175  
+日期：2024 年 6 月 6 日  
+版本：Canary 26227  
+**问题**：**文本建议干扰 Visual Studio Code 中的命令**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAqrnqa](https://aka.ms/AAqrnqa)
+
+---
+
+<SPAN ID = 'LG176'/>编号：LG176  
+日期：2024 年 6 月 6 日  
+版本：Canary 26227  
+**问题**：**CrossDeviceService.exe 大量占用 CPU 资源**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAqrfzf](https://aka.ms/AAqrfzf) <img src="Images/M.png" width = "14%" />
 
 <SPAN ID = '2'/>
 
