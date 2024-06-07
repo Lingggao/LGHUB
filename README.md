@@ -23,20 +23,20 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 6 月 6 日 18:00 (UTC+8)。访问次数：4150+
+&emsp;&emsp;上次更新时间：2024 年 6 月 7 日 18:00 (UTC+8)。访问次数：4180+
 
-&emsp;&emsp;收录反馈 177 个，其中正在调查 12 个 (含[搁置](#3) 6 个)、正在处理 4 个、已修复 161 个。
+&emsp;&emsp;收录反馈 177 个，其中正在调查 9 个 (含[搁置](#3) 6 个)、正在处理 4 个、已修复 164 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新 LG174 - 176**。- Ling 🍀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 🫡 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-|      频道       |     最新版本     | 时间 (UTC+8) |                             公告                             |
-| :-------------: | :--------------: | :----------: | :----------------------------------------------------------: |
-|     Canary      |      26227       |  2024/5/31   | [aka.ms/wip26227](https://blogs.windows.com/windows-insider/2024/05/30/announcing-windows-11-insider-preview-build-26227-canary-channel) |
-|       Dev       |    26120.751     |   2024/6/1   | [aka.ms/wip-dev-5-31](https://blogs.windows.com/windows-insider/2024/05/31/announcing-windows-11-insider-preview-build-26120-751-dev-channel) |
-|      Beta       |    22635.3646    |  2024/5/24   | [aka.ms/wip-beta-5-23](https://blogs.windows.com/windows-insider/2024/05/23/announcing-windows-11-insider-preview-build-22635-3646-beta-channel) |
-| Release Preview | 24H2 - 26100.712 |  2024/5/23   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/22/releasing-windows-11-version-24h2-to-the-release-preview-channel) |
+|      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
+| :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
+|     Canary      | **[新]** 26231 |   2024/6/7   | [aka.ms/wip26231](https://blogs.windows.com/windows-insider/2024/06/06/announcing-windows-11-insider-preview-build-26231-canary-channel) |
+|       Dev       |   26120.751    |   2024/6/1   | [aka.ms/wip-dev-5-31](https://blogs.windows.com/windows-insider/2024/05/31/announcing-windows-11-insider-preview-build-26120-751-dev-channel) |
+|      Beta       |   22635.3646   |  2024/5/24   | [aka.ms/wip-beta-5-23](https://blogs.windows.com/windows-insider/2024/05/23/announcing-windows-11-insider-preview-build-22635-3646-beta-channel) |
+| Release Preview |   26100.712    |  2024/5/23   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/22/releasing-windows-11-version-24h2-to-the-release-preview-channel) |
 
-<img src="Images/Graph_1.png" width = "90%" />
+<img src="Images/Graph_0.png" width = "90%" />
 
 ---
 
@@ -47,16 +47,15 @@
 | [LG123](#LG123) |                 接收不到 Build 26080+ 更新。                 | 正在处理 |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |  **——**  |
 | [LGH02](#LGH02) |       **[集合]** 文件资源管理器中的软件缺陷。(含列表)        | 正在处理 |
-| [LG148](#LG148) |            无法调整启动 “照片” 应用时窗口的大小。            | 正在调查 |
 | [LGH03](#LGH03) |           **[集合]** 小组件中的软件缺陷。(含列表)            | 正在处理 |
-| [LG169](#LG169) |            “照片” 应用在 HDR 显示模式中亮度异常。            | 正在调查 |
 | [LG172](#LG172) |          开关笔记本电脑的盖子时，缩放比例自动重置。          | 正在调查 |
-| [LG173](#LG173) |                   桌面壁纸突然变为纯黑色。                   | 正在调查 |
-| [LG174](#LG174) |            **无法使用语音键入 (WIN + H) 功能**。             | 正在调查 |
-| [LG175](#LG175) |        **文本建议干扰 Visual Studio Code 中的命令**。        | 正在调查 |
-| [LG176](#LG176) |        **CrossDeviceService.exe 大量占用 CPU 资源**。        | 正在处理 |
+| [LG174](#LG174) |              无法使用语音键入 (WIN + H) 功能。               | 正在调查 |
+| [LG175](#LG175) |          文本建议干扰 Visual Studio Code 中的命令。          | 正在调查 |
+| [LG176](#LG176) |          CrossDeviceService.exe 大量占用 CPU 资源。          | 正在处理 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
-|                 |                             暂无                             |          |
+| [LG148](#LG148) |          **无法调整启动 “照片” 应用时窗口的大小**。          | 已修复 ✓ |
+| [LG169](#LG169) |          **“照片” 应用在 HDR 显示模式中亮度异常**。          | 已修复 ✓ |
+| [LG173](#LG173) |                 **桌面壁纸突然变为纯黑色**。                 | 已修复 ✓ |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
 
 [**分享反馈线索**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
@@ -87,18 +86,18 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 <SPAN ID = 'LGH02'/>编号：LGH02  
 日期：2024 年 4 月 7 日  
-版本：Canary 26100 - 26227  
+版本：Canary 26100 - 26231  
 **集合**：**文件资源管理器中的软件缺陷**。  
 状态：<img src="Images/W.png" width = "9%" />
 
 列表
 
 - 卡顿 / 内存泄漏 / CPU 占用率高
-- 缩放设定为 175% 时图标模糊不清 - [aka.ms/AApytl6](https://aka.ms/AApytl6)
-- 菜单中的文本可能过长 - [aka.ms/AApyuo4](https://aka.ms/AApyuo4)
-- 在搜索栏中输入的字符随机被删除 - [aka.ms/AAq9sqa](https://aka.ms/AAq9sqa)
 - 双击压缩文件时没有反应 - [aka.ms/AAqk1zl](https://aka.ms/AAqk1zl)
 - 预览性能下降 - [aka.ms/AAqmzfc](https://aka.ms/AAqmzfc)
+- 在搜索栏中输入的字符随机被删除 - [aka.ms/AAq9sqa](https://aka.ms/AAq9sqa) - 已修复 ✓
+- 菜单中的文本可能过长 - [aka.ms/AApyuo4](https://aka.ms/AApyuo4) - 已修复 ✓
+- 缩放设定为 175% 时图标模糊不清 - [aka.ms/AApytl6](https://aka.ms/AApytl6) - 已修复 ✓
 - 出现旧版白色工具栏 - [aka.ms/AAn4f6s](https://aka.ms/AAn4f6s) \- 已修复 ✓
 - 新建文件夹时，焦点可能定位到地址栏 - [aka.ms/AAqjq2b](https://aka.ms/AAqjq2b) \- 已修复 ✓
 - 导航窗格中的 OneDrive 随机变化位置 - [aka.ms/AApxwbw](https://aka.ms/AApxwbw) \- 已修复 ✓
@@ -108,18 +107,9 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 ---
 
-<SPAN ID = 'LG148'/>编号：LG148  
-日期：2024 年 4 月 10 日  
-版本：ALL  
-**问题**：**无法调整启动 “照片” 应用时窗口的大小**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AApztdn](https://aka.ms/AApztdn)
-
----
-
 <SPAN ID = 'LGH03'/>编号：LGH03  
 日期：2024 年 4 月 19 日  
-版本：Canary 26100 - 26227  
+版本：Canary 26100 - 26231  
 **集合**：**小组件中的软件缺陷**。  
 状态：<img src="Images/W.png" width = "9%" />
 
@@ -133,36 +123,18 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 ---
 
-<SPAN ID = 'LG169'/>编号：LG169  
-日期：2024 年 5 月 4 日  
-版本：ALL  
-**问题**：**“照片” 应用在 HDR 显示模式中亮度异常**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAq9sq8](https://aka.ms/AAq9sq8)
-
----
-
 <SPAN ID = 'LG172'/>编号：LG172  
 日期：2024 年 5 月 20 日  
-版本：Canary 26217 - 26227  
+版本：Canary 26217 - 26231  
 **问题**：**开关笔记本电脑的盖子时，缩放比例自动重置**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAqi9eq](https://aka.ms/AAqi9eq)
 
 ---
 
-<SPAN ID = 'LG173'/>编号：LG173  
-日期：2024 年 5 月 26 日  
-版本：Canary 26212 - 26227  
-**问题**：**桌面壁纸突然变为纯黑色**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAqk6sr](https://aka.ms/AAqk6sr)
-
----
-
 <SPAN ID = 'LG174'/>编号：LG174  
 日期：2024 年 6 月 6 日  
-版本：Canary 26227  
+版本：Canary 26227 - 26231  
 **问题**：**无法使用语音键入 (WIN + H) 功能**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAqr1cs](https://aka.ms/AAqr1cs)
@@ -173,7 +145,7 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 <SPAN ID = 'LG175'/>编号：LG175  
 日期：2024 年 6 月 6 日  
-版本：Canary 26227  
+版本：Canary 26227 - 26231  
 **问题**：**文本建议干扰 Visual Studio Code 中的命令**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAqrnqa](https://aka.ms/AAqrnqa)
@@ -182,7 +154,7 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 <SPAN ID = 'LG176'/>编号：LG176  
 日期：2024 年 6 月 6 日  
-版本：Canary 26227  
+版本：Canary 26227 - 26231  
 **问题**：**CrossDeviceService.exe 大量占用 CPU 资源**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAqrfzf](https://aka.ms/AAqrfzf) <img src="Images/M.png" width = "14%" />
@@ -197,7 +169,32 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 ---
 
-暂无
+<SPAN ID = 'LG148'/>编号：LG148  
+日期：2024 年 4 月 10 日  
+版本：ALL  
+**问题**：**无法调整启动 “照片” 应用时窗口的大小**。  
+状态：2024.11050.29009.0 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AApztdn](https://aka.ms/AApztdn)
+
+---
+
+<SPAN ID = 'LG169'/>编号：LG169  
+日期：2024 年 5 月 4 日  
+版本：ALL  
+**问题**：**“照片” 应用在 HDR 显示模式中亮度异常**。  
+状态：2024.11050.29009.0 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAq9sq8](https://aka.ms/AAq9sq8)
+
+---
+
+<SPAN ID = 'LG173'/>编号：LG173  
+日期：2024 年 5 月 26 日  
+版本：Canary 26212 - 26227  
+**问题**：**桌面壁纸突然变为纯黑色**。  
+状态：Canary 26231 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAqk6sr](https://aka.ms/AAqk6sr)
+
+---
 
 [Microsoft 已做出更改 >7 天的问题](7+.md)
 
