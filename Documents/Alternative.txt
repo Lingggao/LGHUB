@@ -133,12 +133,6 @@ https://aka.ms/AAqk0qt
 UEFI Firmware Settings missing from Advanced startup options ×
 https://aka.ms/AAqkdy9
 
-Text suggestions obstruct commands in VS Code ✓
-https://aka.ms/AAqrnqa
-
-Cross Device Service is suddenly using an unexpected amount of CPU in the latest Windows 11 Insider builds (starting early June 2024) ✓
-https://aka.ms/AAqrfzf
-
 Mouse pointer is invisible when you move it into the block of text in MS Edge ×
 https://aka.ms/AAqrfzh
 
@@ -148,8 +142,14 @@ https://aka.ms/AAqrnqg
 but when I turn on the laptop, the screen turns black. ×
 https://aka.ms/AAqqebr
 
-File Explorer Major Performance Degradation with Preview Handlers - Canary 26227 ✓
-https://aka.ms/AAqmzfc
+任务管理器配色问题 ✓
+https://aka.ms/AAqst0e
 
-Canary - 无法使用语音输入功能。 ✓
-https://aka.ms/AAqr1cs
+(26231.5000) Task Manager's settings page is shown without the Mica blur effect, resizing it makes Mica show up around a square of no Mica material ✓
+https://aka.ms/AAqsxwz
+
+In the latest Windows 11 Insider builds, the colors used in Task Manager's Performance tab are completely wrong - they look inverted ✓
+https://aka.ms/AAqtf01
+
+Canary Build 26231 Crashes for Green Screen of Death ✓
+https://aka.ms/AAqst0h

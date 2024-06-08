@@ -23,20 +23,20 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 6 月 7 日 18:00 (UTC+8)。访问次数：4180+
+&emsp;&emsp;上次更新时间：2024 年 6 月 9 日 2:00 (UTC+8)。访问次数：4220+
 
-&emsp;&emsp;收录反馈 177 个，其中正在调查 9 个 (含[搁置](#3) 6 个)、正在处理 4 个、已修复 164 个。
+&emsp;&emsp;收录反馈 180 个，其中正在调查 12 个 (含[搁置](#3) 6 个)、正在处理 4 个、已修复 164 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 🫡 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG177 - 179**。- Ling 🍀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-|      频道       |    最新版本    | 时间 (UTC+8) |                             公告                             |
-| :-------------: | :------------: | :----------: | :----------------------------------------------------------: |
-|     Canary      | **[新]** 26231 |   2024/6/7   | [aka.ms/wip26231](https://blogs.windows.com/windows-insider/2024/06/06/announcing-windows-11-insider-preview-build-26231-canary-channel) |
-|       Dev       |   26120.751    |   2024/6/1   | [aka.ms/wip-dev-5-31](https://blogs.windows.com/windows-insider/2024/05/31/announcing-windows-11-insider-preview-build-26120-751-dev-channel) |
-|      Beta       |   22635.3646   |  2024/5/24   | [aka.ms/wip-beta-5-23](https://blogs.windows.com/windows-insider/2024/05/23/announcing-windows-11-insider-preview-build-22635-3646-beta-channel) |
-| Release Preview |   26100.712    |  2024/5/23   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/22/releasing-windows-11-version-24h2-to-the-release-preview-channel) |
+|      频道       |           最新版本           | 时间 (UTC+8) |                             公告                             |
+| :-------------: | :--------------------------: | :----------: | :----------------------------------------------------------: |
+|     Canary      |            26231             |   2024/6/7   | [aka.ms/wip26231](https://blogs.windows.com/windows-insider/2024/06/06/announcing-windows-11-insider-preview-build-26231-canary-channel) |
+|       Dev       |      **[新]** 26120.770      |   2024/6/8   | [aka.ms/wip-dev-6-7](https://blogs.windows.com/windows-insider/2024/06/07/announcing-windows-11-insider-preview-build-26120-770-dev-channel) |
+|      Beta       |     **[新]** 22635.3720      |   2024/6/8   | [aka.ms/wip-beta-6-7](https://blogs.windows.com/windows-insider/2024/06/07/announcing-windows-11-insider-preview-build-22635-3720-beta-channel) |
+| Release Preview | ~~26100.712~~ [6/8 暂停推送] |  2024/5/23   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/22/releasing-windows-11-version-24h2-to-the-release-preview-channel) |
 
-<img src="Images/Graph_0.png" width = "90%" />
+<img src="Images/Graph_1.png" width = "90%" />
 
 ---
 
@@ -52,10 +52,13 @@
 | [LG174](#LG174) |              无法使用语音键入 (WIN + H) 功能。               | 正在调查 |
 | [LG175](#LG175) |          文本建议干扰 Visual Studio Code 中的命令。          | 正在调查 |
 | [LG176](#LG176) |          CrossDeviceService.exe 大量占用 CPU 资源。          | 正在处理 |
+| [LG177](#LG177) |            **任务管理器 “性能” 选项卡颜色异常**。            | 正在调查 |
+| [LG178](#LG178) |        **任务管理器设置菜单 Mica (云母) 效果异常**。         | 正在调查 |
+| [LG179](#LG179) |              **部分设备随机出现绿屏 (GSOD)**。               | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
-| [LG148](#LG148) |          **无法调整启动 “照片” 应用时窗口的大小**。          | 已修复 ✓ |
-| [LG169](#LG169) |          **“照片” 应用在 HDR 显示模式中亮度异常**。          | 已修复 ✓ |
-| [LG173](#LG173) |                 **桌面壁纸突然变为纯黑色**。                 | 已修复 ✓ |
+| [LG148](#LG148) |            无法调整启动 “照片” 应用时窗口的大小。            | 已修复 ✓ |
+| [LG169](#LG169) |            “照片” 应用在 HDR 显示模式中亮度异常。            | 已修复 ✓ |
+| [LG173](#LG173) |                   桌面壁纸突然变为纯黑色。                   | 已修复 ✓ |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
 
 [**分享反馈线索**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [**反馈平台问题**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
@@ -158,6 +161,37 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 **问题**：**CrossDeviceService.exe 大量占用 CPU 资源**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAqrfzf](https://aka.ms/AAqrfzf) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG177'/>编号：LG177  
+日期：2024 年 6 月 9 日  
+版本：Canary 26231  
+**问题**：**任务管理器 “性能” 选项卡颜色异常**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAqtf01](https://aka.ms/AAqtf01) <img src="Images/M.png" width = "14%" />
+
+<img src="Images/LG177.png" width = "35%" />
+
+---
+
+<SPAN ID = 'LG178'/>编号：LG178  
+日期：2024 年 6 月 9 日  
+版本：Canary 26231  
+**问题**：**任务管理器设置菜单 Mica (云母) 效果异常**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAqsxwz](https://aka.ms/AAqsxwz)
+
+<img src="Images/LG178.png" width = "36%" />
+
+---
+
+<SPAN ID = 'LG179'/>编号：LG179  
+日期：2024 年 6 月 9 日  
+版本：Canary 26231  
+**问题**：**部分设备随机出现绿屏 (GSOD)**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAqst0h](https://aka.ms/AAqst0h)
 
 <SPAN ID = '2'/>
 
