@@ -31,7 +31,7 @@
 
 &emsp;&emsp;反馈更新记录：今日无更新。- Ling 🚣🚣‍♂️🚣‍♀️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-| 友情推荐 | [WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻博客 | 欢迎关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 微博 |
+| 友情推荐 | [WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻资讯博客 | 欢迎关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 新浪微博 |
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 |      频道       |           最新版本           | 时间 (UTC+8) |                             公告                             |
