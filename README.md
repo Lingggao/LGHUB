@@ -25,21 +25,22 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 6 月 11 日 17:00 (UTC+8)。访问次数：4270+
+&emsp;&emsp;上次更新时间：2024 年 6 月 12 日 2:00 (UTC+8)。访问次数：4280+
 
 &emsp;&emsp;收录反馈 180 个，其中正在调查 12 个 (含[搁置](#3) 6 个)、正在处理 4 个、已修复 164 个。
 
-&emsp;&emsp;反馈更新记录：今日无更新。- Ling 🚣🚣‍♂️🚣‍♀️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：今日无更新。- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-| 友情推荐 | [WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻资讯博客 | 欢迎关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 新浪微博 |
-| :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 🍀 友情推荐 🌷 | [WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻博客 | 欢迎关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 微博 |
+| :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
-|      频道       |           最新版本           | 时间 (UTC+8) |                             公告                             |
-| :-------------: | :--------------------------: | :----------: | :----------------------------------------------------------: |
-|     Canary      |            26231             |   2024/6/7   | [aka.ms/wip26231](https://blogs.windows.com/windows-insider/2024/06/06/announcing-windows-11-insider-preview-build-26231-canary-channel) |
-|       Dev       |          26120.770           |   2024/6/8   | [aka.ms/wip-dev-6-7](https://blogs.windows.com/windows-insider/2024/06/07/announcing-windows-11-insider-preview-build-26120-770-dev-channel) |
-|      Beta       |          22635.3720          |   2024/6/8   | [aka.ms/wip-beta-6-7](https://blogs.windows.com/windows-insider/2024/06/07/announcing-windows-11-insider-preview-build-22635-3720-beta-channel) |
-| Release Preview | ~~26100.712~~ [6/8 暂停推送] |  2024/5/23   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/22/releasing-windows-11-version-24h2-to-the-release-preview-channel) |
+|         频道         |              最新版本               | 时间 (UTC+8) |                             公告                             |
+| :------------------: | :---------------------------------: | :----------: | :----------------------------------------------------------: |
+|        Canary        |                26231                |   2024/6/7   | [aka.ms/wip26231](https://blogs.windows.com/windows-insider/2024/06/06/announcing-windows-11-insider-preview-build-26231-canary-channel) |
+|         Dev          |              26120.770              |   2024/6/8   | [aka.ms/wip-dev-6-7](https://blogs.windows.com/windows-insider/2024/06/07/announcing-windows-11-insider-preview-build-26120-770-dev-channel) |
+|         Beta         |             22635.3720              |   2024/6/8   | [aka.ms/wip-beta-6-7](https://blogs.windows.com/windows-insider/2024/06/07/announcing-windows-11-insider-preview-build-22635-3720-beta-channel) |
+|   Release Preview    | ~~24H2 - 26100.712~~ [6/8 暂停推送] |  2024/5/23   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/22/releasing-windows-11-version-24h2-to-the-release-preview-channel) |
+| General Availability |    23H2 - 22631.3737 (KB5039212)    |  2024/6/12   | [support.microsoft.com](https://support.microsoft.com/en-us/topic/june-11-2024-kb5039212-os-builds-22621-3737-and-22631-3737-d7f574c0-2b13-48ca-a9fc-a63093b1a2c2) |
 
 <img src="Images/Graph_0.png" width = "93%" />
 
