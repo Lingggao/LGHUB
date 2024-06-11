@@ -142,14 +142,23 @@ https://aka.ms/AAqrnqg
 but when I turn on the laptop, the screen turns black. ×
 https://aka.ms/AAqqebr
 
-任务管理器配色问题 ✓
-https://aka.ms/AAqst0e
+数字签名详细信息页文字乱码 ×
+https://aka.ms/AAqtjfm
 
-(26231.5000) Task Manager's settings page is shown without the Mica blur effect, resizing it makes Mica show up around a square of no Mica material ✓
-https://aka.ms/AAqsxwz
+In Windows 24H2, uninstalling app from Settings does not uninstall application ×
+https://aka.ms/AAqu1qo
 
-In the latest Windows 11 Insider builds, the colors used in Task Manager's Performance tab are completely wrong - they look inverted ✓
-https://aka.ms/AAqtf01
+Opening a new tab in Windows Terminal makes Windows Terminal crash ×
+https://aka.ms/AAqu9c2
 
-Canary Build 26231 Crashes for Green Screen of Death ✓
-https://aka.ms/AAqst0h
+add "optional features" window is not working correct/crashing ×
+https://aka.ms/AAqu1qq
+
+Menu Pop-up sound in the sound scheme is not played by new context menu ×
+https://aka.ms/AAqsxgl
+
+Windows Visual Error In File Explorer ×
+https://aka.ms/AAqtjgf
+
+Boot Menu with Builds 24H2 shrunk in the middle of the screen when using Intel Display adapter, while it is always full screen when using Nvidia RTX.
+https://aka.ms/AAqr57m
