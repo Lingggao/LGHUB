@@ -13,6 +13,12 @@
 
 &emsp;&emsp;灵糕中心成立于 2023 年 12 月 12 日，其前身可追溯至 2019 年 5 月 14 日由 Microsoft 社区创建的 “[\[BUG 汇总\] Windows 10 2019 年 5 月更新 (1903_18362) 已知问题与处理进度汇总](https://answers.microsoft.com/zh-hans/insider/forum/all/bug-%E6%B1%87%E6%80%BBwindows-10-2019-%E5%B9%B4-5/252d0d6a-022c-4bf7-9976-55b57590aee2)” 讨论话题。
 
+> [!IMPORTANT]
+>
+> 灵糕中心为个人项目，管理者不是 Microsoft 公司员工，不能代表 Microsoft 公司立场、态度。中心无意且无法代替 “反馈中心” (Feedback Hub) 应用的重要作用。中心不提供 Microsoft 产品技术支持服务。中心不接受有关 Windows 11 预览体验版本的反馈，用户应始终通过 “反馈中心” 应用提交。
+>
+> Windows、Windows Insider Program 等是 Microsoft 公司的商标。
+
 > &emsp;**声明**：灵糕中心为个人项目，管理者不是 Microsoft 公司员工，不能代表 Microsoft 公司立场、态度。中心无意且无法代替 “反馈中心” (Feedback Hub) 应用的重要作用。中心不提供 Microsoft 产品技术支持服务。中心不接受有关 Windows 11 预览体验版本的反馈，用户应始终通过 “反馈中心” 应用提交。
 
 > &emsp;Windows、Windows Insider Program 等是 Microsoft 公司的商标。
@@ -29,6 +35,9 @@
 
 &emsp;&emsp;反馈更新记录：今日无更新。- Ling 🚣🚣‍♂️🚣‍♀️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
+| 友情推荐 | [WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻博客 | 欢迎关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 微博 |
+| :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+
 |      频道       |           最新版本           | 时间 (UTC+8) |                             公告                             |
 | :-------------: | :--------------------------: | :----------: | :----------------------------------------------------------: |
 |     Canary      |            26231             |   2024/6/7   | [aka.ms/wip26231](https://blogs.windows.com/windows-insider/2024/06/06/announcing-windows-11-insider-preview-build-26231-canary-channel) |
@@ -41,6 +50,10 @@
 ---
 
 &emsp;&emsp;**提醒**：多数问题是仅有 1 - 2 位 Insiders 反馈的 “偶发性” 问题，而非所有人都会遇到的 “广泛性” 问题。请放心地更新 Windows 11 预览体验版本，不必担心新版使用体验过差。
+
+> [!NOTE]
+>
+> 多数问题是仅有 1 - 2 位 Insiders 反馈的 “偶发性” 问题，而非所有人都会遇到的 “广泛性” 问题。请放心地更新 Windows 11 预览体验版本，不必担心新版使用体验过差。
 
 |      编号       |                             问题                             |   状态   |
 | :-------------: | :----------------------------------------------------------: | :------: |
