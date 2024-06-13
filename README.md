@@ -73,7 +73,9 @@
 
 ## ✦ Canary - 公告已知问题 ✦
 
-&emsp;&emsp;记录 [Windows Insider 博客](https://blogs.windows.com/windows-insider)中明确公开的已知问题。
+> [!TIP]
+>
+> &emsp;记录 [Windows Insider 博客](https://blogs.windows.com/windows-insider)中明确公开的已知问题。
 
 ---
 
@@ -100,7 +102,9 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 ## ✦ Canary - 用户反馈问题 ✦
 
-&emsp;&emsp;记录[反馈中心应用](https://aka.ms/fbh)中 Microsoft 明确响应的问题。
+> [!TIP]
+>
+> &emsp;记录[反馈中心应用](https://aka.ms/fbh)中 Microsoft 明确响应的问题。
 
 ---
 
@@ -203,9 +207,11 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 ## ✦ Canary - 归档 (已做出更改) ✦
 
-&emsp;&emsp;记录 Microsoft 已做出更改 0 - 7 天的问题 & 超过 14 天无新增赞成票的问题。
-
-&emsp;&emsp;无特殊情况，问题归档后不再更新。
+> [!TIP]
+>
+> &emsp;记录 Microsoft 已做出更改 0 - 7 天的问题 & 超过 14 天无新增赞成票的问题。
+>
+> &emsp;无特殊情况，问题归档后不再更新。
 
 ---
 
@@ -217,9 +223,11 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 ## ✦ Canary - 搁置 (未做出更改) ✦
 
-&emsp;&emsp;“并非所有软件缺陷都要修复。” —— Ron Patton (出自《软件测试》)
-
-&emsp;&emsp;已收录的反馈也可能因缺少资源、修复风险过大、商业决策调整等长期或永久不予修复。本板块记录 Microsoft 超过 90 天未修复的问题，中心将每间隔 30 天在 Canary 频道最新版本中进行测试。
+> [!TIP]
+>
+> &emsp;“并非所有软件缺陷都要修复。” —— Ron Patton (出自《软件测试》)
+>
+> &emsp;已收录的反馈也可能因缺少资源、修复风险过大、商业决策调整等长期或永久不予修复。本板块记录 Microsoft 超过 90 天未修复的问题，中心将每间隔 30 天在 Canary 频道最新版本中进行测试。
 
 [Microsoft 超过 90 天未修复的问题](90+.md)
 
