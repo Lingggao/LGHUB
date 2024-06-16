@@ -160,5 +160,17 @@ https://aka.ms/AAqsxgl
 Windows Visual Error In File Explorer ×
 https://aka.ms/AAqtjgf
 
-Boot Menu with Builds 24H2 shrunk in the middle of the screen when using Intel Display adapter, while it is always full screen when using Nvidia RTX.
+Boot Menu with Builds 24H2 shrunk in the middle of the screen when using Intel Display adapter, while it is always full screen when using Nvidia RTX. ×
 https://aka.ms/AAqr57m
+
+Feedback Hub loses feedback ✓
+https://aka.ms/AAqkhex
+
+colorEngine ✓
+https://aka.ms/AAqwld4
+
+In the Settings app, the link, "Change my app recommendation settings", links to the wrong Settings page ×
+https://aka.ms/AAqvlab
+
+OpenRGB - Application Error ✓
+https://aka.ms/AAqvdpw

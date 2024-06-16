@@ -25,24 +25,24 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 6 月 13 日 10:00 (UTC+8)。访问次数：4300+
+&emsp;&emsp;上次更新时间：2024 年 6 月 16 日 11:00 (UTC+8)。访问次数：4340+
 
-&emsp;&emsp;收录反馈 180 个，其中正在调查 12 个 (含[搁置](#3) 6 个)、正在处理 4 个、已修复 164 个。
+&emsp;&emsp;收录反馈 182 个，其中正在调查 14 个 (含[搁置](#3) 6 个)、正在处理 4 个、已修复 164 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 🌽 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG180 - 181**。- Ling 💰 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 | 🍀 友情推荐 🌷 | [WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻博客 | 欢迎关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 微博 |
 | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 |         频道         |              最新版本               | 时间 (UTC+8) |                             公告                             |
 | :------------------: | :---------------------------------: | :----------: | :----------------------------------------------------------: |
-|        Canary        |           **[新]** 26236            |  2024/6/13   | [aka.ms/wip26236](https://blogs.windows.com/windows-insider/2024/06/12/announcing-windows-11-insider-preview-build-26236-canary-channel) |
-|         Dev          |              26120.770              |   2024/6/8   | [aka.ms/wip-dev-6-7](https://blogs.windows.com/windows-insider/2024/06/07/announcing-windows-11-insider-preview-build-26120-770-dev-channel) |
-|         Beta         |             22635.3720              |   2024/6/8   | [aka.ms/wip-beta-6-7](https://blogs.windows.com/windows-insider/2024/06/07/announcing-windows-11-insider-preview-build-22635-3720-beta-channel) |
-|   Release Preview    | ~~24H2 - 26100.712~~ [6/8 暂停推送] |  2024/5/23   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/22/releasing-windows-11-version-24h2-to-the-release-preview-channel) |
-| General Availability |    23H2 - 22631.3737 (KB5039212)    |  2024/6/12   | [support.microsoft.com](https://support.microsoft.com/en-us/topic/june-11-2024-kb5039212-os-builds-22621-3737-and-22631-3737-d7f574c0-2b13-48ca-a9fc-a63093b1a2c2) |
+|        Canary        |                26236                |  2024/6/13   | [aka.ms/wip26236](https://blogs.windows.com/windows-insider/2024/06/12/announcing-windows-11-insider-preview-build-26236-canary-channel) |
+|         Dev          |              **[新]** 26120.961              |   2024/6/15   | [aka.ms/wip-dev-6-14](https://blogs.windows.com/windows-insider/2024/06/14/announcing-windows-11-insider-preview-build-26120-961-dev-channel) |
+|         Beta         |     **[新]** 22635.3785    |   2024/6/15   | [aka.ms/wip-beta-6-14](https://blogs.windows.com/windows-insider/2024/06/14/announcing-windows-11-insider-preview-build-22635-3785-beta-channel) |
+|   Release Preview    | **[新]** 24H2 - 26100.863 |  2024/6/16  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/22/releasing-windows-11-version-24h2-to-the-release-preview-channel) |
+| General Availability |    23H2 - 22631.3737    |  2024/6/12   | [support.microsoft.com](https://support.microsoft.com/en-us/topic/june-11-2024-kb5039212-os-builds-22621-3737-and-22631-3737-d7f574c0-2b13-48ca-a9fc-a63093b1a2c2) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
 ---
 
@@ -63,6 +63,8 @@
 | [LG176](#LG176) |          CrossDeviceService.exe 大量占用 CPU 资源。          | 正在处理 |
 | [LG178](#LG178) |          任务管理器设置菜单 Mica (云母) 效果异常。           | 正在调查 |
 | [LG179](#LG179) |                部分设备随机出现绿屏 (GSOD)。                 | 正在调查 |
+| [LG180](#LG180) |              **在反馈中心提交的反馈可能丢失**。              | 正在调查 |
+| [LG181](#LG181) |        **OpenRGB 和 ColorEngine 应用无法正常运行**。         | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
 |                 |                             暂无                             |          |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
@@ -202,6 +204,24 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 **问题**：**部分设备随机出现绿屏 (GSOD)**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAqst0h](https://aka.ms/AAqst0h)
+
+---
+
+<SPAN ID = 'LG180'/>编号：LG180  
+日期：2024 年 6 月 16 日  
+版本：ALL  
+**问题**：**在反馈中心提交的反馈可能丢失**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAqkhex](https://aka.ms/AAqkhex) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG181'/>编号：LG181  
+日期：2024 年 6 月 16 日  
+版本：Canary 26236  
+**问题**：**OpenRGB 和 ColorEngine 应用无法正常运行**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAqvdpw](https://aka.ms/AAqvdpw) & [aka.ms/AAqwld4](https://aka.ms/AAqwld4)
 
 <SPAN ID = '2'/>
 
