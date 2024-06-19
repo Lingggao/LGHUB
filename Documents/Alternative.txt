@@ -163,14 +163,29 @@ https://aka.ms/AAqtjgf
 Boot Menu with Builds 24H2 shrunk in the middle of the screen when using Intel Display adapter, while it is always full screen when using Nvidia RTX. ×
 https://aka.ms/AAqr57m
 
-Feedback Hub loses feedback ✓
-https://aka.ms/AAqkhex
-
-colorEngine ✓
-https://aka.ms/AAqwld4
-
 In the Settings app, the link, "Change my app recommendation settings", links to the wrong Settings page ×
 https://aka.ms/AAqvlab
 
-OpenRGB - Application Error ✓
-https://aka.ms/AAqvdpw
+开始菜单应用排序不正确 ✓
+https://aka.ms/AAqy31w
+
+msn天气 报告当前天气点不了 ✓
+https://aka.ms/AAqxvhi
+
+开始菜单设置混乱 ✓
+https://aka.ms/AAqyao8
+
+打开带有.sln的文件夹文件资源管理器先卡顿之后崩溃重启 ✓
+https://aka.ms/AAqyaoa
+
+File Explorer crash when opening "Home" Since 262XX+ ✓
+https://aka.ms/AAqyaoe
+
+using one note docked mode confuses windows ×
+https://aka.ms/AAqyaof
+
+More Creative and Precise option are disappear from my copilot ✓
+https://aka.ms/AAqwx7u
+
+Account link on Start Menu - color very wrong, only shows MS account and not domain accounts ×
+https://aka.ms/AAqwimr

@@ -25,24 +25,24 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 6 月 16 日 11:00 (UTC+8)。访问次数：4340+
+&emsp;&emsp;上次更新时间：2024 年 6 月 19 日 14:00 (UTC+8)。访问次数：4390+
 
-&emsp;&emsp;收录反馈 182 个，其中正在调查 14 个 (含[搁置](#3) 6 个)、正在处理 4 个、已修复 164 个。
+&emsp;&emsp;收录反馈 185 个，其中正在调查 16 个 (含[搁置](#3) 6 个)、正在处理 4 个、已修复 165 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新 LG180 - 181**。- Ling 💰 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG182 - 184**。- Ling 🐌 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 | 🍀 友情推荐 🌷 | [WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻博客 | 欢迎关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 微博 |
 | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 |         频道         |              最新版本               | 时间 (UTC+8) |                             公告                             |
 | :------------------: | :---------------------------------: | :----------: | :----------------------------------------------------------: |
-|        Canary        |                26236                |  2024/6/13   | [aka.ms/wip26236](https://blogs.windows.com/windows-insider/2024/06/12/announcing-windows-11-insider-preview-build-26236-canary-channel) |
-|         Dev          |              **[新]** 26120.961              |   2024/6/15   | [aka.ms/wip-dev-6-14](https://blogs.windows.com/windows-insider/2024/06/14/announcing-windows-11-insider-preview-build-26120-961-dev-channel) |
-|         Beta         |     **[新]** 22635.3785    |   2024/6/15   | [aka.ms/wip-beta-6-14](https://blogs.windows.com/windows-insider/2024/06/14/announcing-windows-11-insider-preview-build-22635-3785-beta-channel) |
-|   Release Preview    | **[新]** 24H2 - 26100.863 |  2024/6/16  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/22/releasing-windows-11-version-24h2-to-the-release-preview-channel) |
-| General Availability |    23H2 - 22631.3737    |  2024/6/12   | [support.microsoft.com](https://support.microsoft.com/en-us/topic/june-11-2024-kb5039212-os-builds-22621-3737-and-22631-3737-d7f574c0-2b13-48ca-a9fc-a63093b1a2c2) |
+|        Canary        |                ~~26236~~ [6/19 暂停推送]                |  2024/6/13   | [aka.ms/wip26236](https://blogs.windows.com/windows-insider/2024/06/12/announcing-windows-11-insider-preview-build-26236-canary-channel) |
+|         Dev          |              26120.961 (24H2)              |   2024/6/15   | [aka.ms/wip-dev-6-14](https://blogs.windows.com/windows-insider/2024/06/14/announcing-windows-11-insider-preview-build-26120-961-dev-channel) |
+|         Beta         | 22635.3785 *(23H2)* |   2024/6/15   | [aka.ms/wip-beta-6-14](https://blogs.windows.com/windows-insider/2024/06/14/announcing-windows-11-insider-preview-build-22635-3785-beta-channel) |
+|   Release Preview    | 26100.863 (24H2) |  2024/6/16  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/05/22/releasing-windows-11-version-24h2-to-the-release-preview-channel) |
+| General Availability |    22631.3737 *(23H2)*    |  2024/6/12   | [support.microsoft.com](https://support.microsoft.com/en-us/topic/june-11-2024-kb5039212-os-builds-22621-3737-and-22631-3737-d7f574c0-2b13-48ca-a9fc-a63093b1a2c2) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
 ---
 
@@ -63,10 +63,12 @@
 | [LG176](#LG176) |          CrossDeviceService.exe 大量占用 CPU 资源。          | 正在处理 |
 | [LG178](#LG178) |          任务管理器设置菜单 Mica (云母) 效果异常。           | 正在调查 |
 | [LG179](#LG179) |                部分设备随机出现绿屏 (GSOD)。                 | 正在调查 |
-| [LG180](#LG180) |              **在反馈中心提交的反馈可能丢失**。              | 正在调查 |
-| [LG181](#LG181) |        **OpenRGB 和 ColorEngine 应用无法正常运行**。         | 正在调查 |
+| [LG180](#LG180) |                在反馈中心提交的反馈可能丢失。                | 正在调查 |
+| [LG181](#LG181) |          OpenRGB 和 ColorEngine 应用无法正常运行。           | 正在调查 |
+| [LG182](#LG182) |           **开始菜单中的应用可能无法按字母排序**。           | 正在调查 |
+| [LG184](#LG184) | **Copilot 的 “更有创造力” “更平衡” “更精确” 选项可能消失**。 | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
-|                 |                             暂无                             |          |
+| [LG183](#LG183) |      **无法点击 MSN 天气 “看到了不同的天气？” 按钮**。       | 已修复 ✓ |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
 
 [分享反馈线索](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [反馈平台问题](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
@@ -119,6 +121,8 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 列表
 
 - 卡顿 / 内存泄漏 / CPU 占用率高
+- 打开主文件夹或添加新标签时崩溃 - [aka.ms/AAqyaoe](https://aka.ms/AAqyaoe)
+- 打开含有 SLN 文件的文件夹时崩溃 - [aka.ms/AAqyaoa](https://aka.ms/AAqyaoa)
 - 双击压缩文件时没有反应 - [aka.ms/AAqk1zl](https://aka.ms/AAqk1zl)
 - 预览性能下降 - [aka.ms/AAqmzfc](https://aka.ms/AAqmzfc)
 - 在搜索栏中输入的字符随机被删除 - [aka.ms/AAq9sqa](https://aka.ms/AAq9sqa) - 已修复 ✓
@@ -165,7 +169,7 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAqr1cs](https://aka.ms/AAqr1cs)
 
-<img src="Images/LG174.png" width = "30%" />
+<img src="Images/LG174.png" width = "45%" />
 
 ---
 
@@ -194,7 +198,7 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAqsxwz](https://aka.ms/AAqsxwz)
 
-<img src="Images/LG178.png" width = "36%" />
+<img src="Images/LG178.png" width = "45%" />
 
 ---
 
@@ -223,6 +227,26 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAqvdpw](https://aka.ms/AAqvdpw) & [aka.ms/AAqwld4](https://aka.ms/AAqwld4)
 
+---
+
+<SPAN ID = 'LG182'/>编号：LG182  
+日期：2024 年 6 月 19 日  
+版本：Canary 26236  
+**问题**：**开始菜单中的应用可能无法按字母排序**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAqy31w](https://aka.ms/AAqy31w) & [aka.ms/AAqyao8](https://aka.ms/AAqyao8)
+
+---
+
+<SPAN ID = 'LG184'/>编号：LG184  
+日期：2024 年 6 月 19 日  
+版本：ALL  
+**问题**：**Copilot 的 “更有创造力” “更平衡” “更精确” 选项可能消失**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAqwx7u](https://aka.ms/AAqwx7u)
+
+<img src="Images/LG184.png" width = "45%" />
+
 <SPAN ID = '2'/>
 
 ## ✦ Canary - 归档 (已做出更改) ✦
@@ -235,7 +259,14 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 ---
 
-暂无
+<SPAN ID = 'LG183'/>编号：LG183  
+日期：2024 年 6 月 19 日  
+版本：ALL  
+**问题**：**无法点击 MSN 天气 “看到了不同的天气？” 按钮**。  
+状态：ALL - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAqxvhi](https://aka.ms/AAqxvhi)
+
+<img src="Images/LG183.png" width = "50%" />
 
 [Microsoft 已做出更改 >7 天的问题](7+.md)
 
