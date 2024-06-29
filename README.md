@@ -210,7 +210,7 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 状态：ALL - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AAr3u5o](https://aka.ms/AAr3u5o) <img src="Images/M.png" width = "14%" />
 
-<img src="Images/LG186.Jpg" width = "60%" />
+<img src="Images/LG186.png" width = "60%" />
 
 ---
 
