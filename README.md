@@ -1,9 +1,8 @@
 <SPAN ID = 'HEAD'/>
 
 <div align="center">
-<img src="Images/LING_1.png" width = "25%" /> <img src="Images/MCC2024.png" width = "12%" />
+<img src="Images/LING_1.png" width = "25%" /> <img src="Images/MCA2024.png" width = "12%" />
 </div>
-
 
 <h1 align="center">灵糕中心 (Linggao Hub)</h1>
 
@@ -25,24 +24,29 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 6 月 29 日 15:00 (UTC+8)。访问次数：4550+
+> [!CAUTION]
+>
+> &emsp;因反馈中心应用服务器间歇性故障，中心将降低更新频次。敬请谅解。
+
+&emsp;&emsp;上次更新时间：2024 年 7 月 2 日 7:00 (UTC+8)。访问次数：4610+
 
 &emsp;&emsp;收录反馈 187 个，其中正在调查 10 个 (含[搁置](#3) 6 个)、正在处理 5 个、已修复 172 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 😀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：今日无更新。- Ling 🤤 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-| 🏅 友情推荐 | [WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻博客 | 欢迎关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 微博 |
-| :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  🎖️ **推 荐**   | **[Microsoft 电脑管家](https://pcmanager.microsoft.com) - 简单无打扰 · 安全又安心** | **[Microsoft WowTab](https://wowtab.microsoft.com) - 浏览器主页新形态** |
+| :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 🏅 **友情推荐** | **[WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻博客** | **欢迎关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 微博** |
 
 |         频道         |              最新版本               | 时间 (UTC+8) |                             公告                             |
 | :------------------: | :---------------------------------: | :----------: | :----------------------------------------------------------: |
-|        Canary        |                **[新]** 26244                |  2024/6/29  | [aka.ms/wip26244](https://blogs.windows.com/windows-insider/2024/06/28/announcing-windows-11-insider-preview-build-26244-canary-channel) |
+|        Canary        |                26244                |  2024/6/29  | [aka.ms/wip26244](https://blogs.windows.com/windows-insider/2024/06/28/announcing-windows-11-insider-preview-build-26244-canary-channel) |
 |         Dev          |              26120.961 (24H2)              |   2024/6/15   | [aka.ms/wip-dev-6-14](https://blogs.windows.com/windows-insider/2024/06/14/announcing-windows-11-insider-preview-build-26120-961-dev-channel) |
-|         Beta         | **[新]** 22635.3858 *(23H2)* |   2024/6/29   | [aka.ms/wip-beta-6-28](https://blogs.windows.com/windows-insider/2024/06/28/announcing-windows-11-insider-preview-build-22635-3858-beta-channel) |
+|         Beta         | 22635.3858 *(23H2)* |   2024/6/29   | [aka.ms/wip-beta-6-28](https://blogs.windows.com/windows-insider/2024/06/28/announcing-windows-11-insider-preview-build-22635-3858-beta-channel) |
 |   Release Preview    | 26100.994 (24H2) |  2024/6/21  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/06/20/releasing-windows-11-build-26100-994-to-the-release-preview-channel) |
 | General Availability |    22631.3810 *(23H2)*    |  2024/6/26  | [support.microsoft.com](https://support.microsoft.com/en-us/topic/june-25-2024-kb5039302-os-builds-22621-3810-and-22631-3810-preview-0ab34e3f-bca9-4a52-a1a4-404bf8162f58) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
 ---
 
@@ -53,7 +57,7 @@
 |      编号       |                             问题                             |   状态   |
 | :-------------: | :----------------------------------------------------------: | :------: |
 | [LG123](#LG123) |                 接收不到 Build 26080+ 更新。                 | 正在处理 |
-| [LG185](#LG185) |        **Windows 更新菜单中的文本显示为英文或消失**。        | 正在处理 |
+| [LG185](#LG185) |          Windows 更新菜单中的文本显示为英文或消失。          | 正在处理 |
 | [LG177](#LG177) |              任务管理器 “性能” 选项卡颜色异常。              | 正在处理 |
 | [LG174](#LG174) |              无法使用语音键入 (WIN + H) 功能。               | 正在处理 |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |  **——**  |
@@ -63,8 +67,8 @@
 | [LG181](#LG181) |          OpenRGB 和 ColorEngine 应用无法正常运行。           | 正在调查 |
 | [LG182](#LG182) |             开始菜单中的应用可能无法按字母排序。             | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
-| [LG186](#LG186) |     **找不到在反馈中心提交的反馈 / 反馈活动数据丢失**。      | 已修复 ✓ |
-| [LG184](#LG184) | **Copilot 的 “更有创造力” “更平衡” “更精确” 选项可能消失**。 | 已修复 ✓ |
+| [LG186](#LG186) |       找不到在反馈中心提交的反馈 / 反馈活动数据丢失。        | 已修复 ✓ |
+| [LG184](#LG184) |   Copilot 的 “更有创造力” “更平衡” “更精确” 选项可能消失。   | 已修复 ✓ |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
 
 [分享反馈线索](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [反馈平台问题](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)

@@ -1,3 +1,11 @@
+LGHUB **2024 年 7 月 2 日更新**：
+
+- 将 Community Contributor 徽章替换为 Community Advocate 徽章。
+- 新增 “反馈中心服务器故障” 提示。
+- 新增 “Microsoft 电脑管家” 和 “Microsoft WowTab” 推广。
+
+---
+
 LGHUB **2024 年 6 月 12 日更新**：
 
 - 将 2 个声明更改为警告框样式。
