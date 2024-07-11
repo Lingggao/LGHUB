@@ -28,11 +28,11 @@
 >
 > &emsp;因反馈中心应用服务器间歇性故障，中心将降低更新频次。敬请谅解。
 
-&emsp;&emsp;上次更新时间：2024 年 7 月 2 日 7:00 (UTC+8)。访问次数：4610+
+&emsp;&emsp;上次更新时间：2024 年 7 月 11 日 17:00 (UTC+8)。访问次数：4710+
 
-&emsp;&emsp;收录反馈 187 个，其中正在调查 10 个 (含[搁置](#3) 6 个)、正在处理 5 个、已修复 172 个。
+&emsp;&emsp;收录反馈 188 个，其中正在调查 6 个 (含[搁置](#3) 4 个)、正在处理 2 个、已修复 180 个。
 
-&emsp;&emsp;反馈更新记录：今日无更新。- Ling 🤤 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 🥱 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |  🎖️ **推 荐**   | **[Microsoft 电脑管家](https://pcmanager.microsoft.com) - 简单无打扰 · 安全又安心** | **[Microsoft WowTab](https://wowtab.microsoft.com) - 浏览器主页新形态** |
 | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -40,13 +40,13 @@
 
 |         频道         |              最新版本               | 时间 (UTC+8) |                             公告                             |
 | :------------------: | :---------------------------------: | :----------: | :----------------------------------------------------------: |
-|        Canary        |                26244                |  2024/6/29  | [aka.ms/wip26244](https://blogs.windows.com/windows-insider/2024/06/28/announcing-windows-11-insider-preview-build-26244-canary-channel) |
+|        Canary        |                **[新]** 26252                |  2024/7/11  | [aka.ms/wip26252](https://blogs.windows.com/windows-insider/2024/07/10/announcing-windows-11-insider-preview-build-26252-canary-channel) |
 |         Dev          |              26120.961 (24H2)              |   2024/6/15   | [aka.ms/wip-dev-6-14](https://blogs.windows.com/windows-insider/2024/06/14/announcing-windows-11-insider-preview-build-26120-961-dev-channel) |
 |         Beta         | 22635.3858 *(23H2)* |   2024/6/29   | [aka.ms/wip-beta-6-28](https://blogs.windows.com/windows-insider/2024/06/28/announcing-windows-11-insider-preview-build-22635-3858-beta-channel) |
 |   Release Preview    | 26100.994 (24H2) |  2024/6/21  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/06/20/releasing-windows-11-build-26100-994-to-the-release-preview-channel) |
-| General Availability |    22631.3810 *(23H2)*    |  2024/6/26  | [support.microsoft.com](https://support.microsoft.com/en-us/topic/june-25-2024-kb5039302-os-builds-22621-3810-and-22631-3810-preview-0ab34e3f-bca9-4a52-a1a4-404bf8162f58) |
+| General Availability |    **[新]** 22631.3880 *(23H2)*    |  2024/7/10  | [support.microsoft.com](https://support.microsoft.com/zh-cn/topic/2024-%E5%B9%B4-7-%E6%9C%88-9-%E6%97%A5-kb5040442-os-%E5%86%85%E9%83%A8%E7%89%88%E6%9C%AC-22621-3880-%E5%92%8C-22631-3880-0864308e-61cc-413b-8194-0294331aba52) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
 ---
 
@@ -57,18 +57,19 @@
 |      编号       |                             问题                             |   状态   |
 | :-------------: | :----------------------------------------------------------: | :------: |
 | [LG123](#LG123) |                 接收不到 Build 26080+ 更新。                 | 正在处理 |
-| [LG185](#LG185) |          Windows 更新菜单中的文本显示为英文或消失。          | 正在处理 |
-| [LG177](#LG177) |              任务管理器 “性能” 选项卡颜色异常。              | 正在处理 |
-| [LG174](#LG174) |              无法使用语音键入 (WIN + H) 功能。               | 正在处理 |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |  **——**  |
 | [LGH02](#LGH02) |       **[集合]** 文件资源管理器中的软件缺陷。(含列表)        | 正在处理 |
 | [LG178](#LG178) |          任务管理器设置菜单 Mica (云母) 效果异常。           | 正在调查 |
-| [LG179](#LG179) |                部分设备随机出现绿屏 (GSOD)。                 | 正在调查 |
-| [LG181](#LG181) |          OpenRGB 和 ColorEngine 应用无法正常运行。           | 正在调查 |
-| [LG182](#LG182) |             开始菜单中的应用可能无法按字母排序。             | 正在调查 |
+| [LG187](#LG187) |     **可以由 Canary 频道切换至 Release Preview 频道**。      | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
-| [LG186](#LG186) |       找不到在反馈中心提交的反馈 / 反馈活动数据丢失。        | 已修复 ✓ |
-| [LG184](#LG184) |   Copilot 的 “更有创造力” “更平衡” “更精确” 选项可能消失。   | 已修复 ✓ |
+| [LG185](#LG185) |        **Windows 更新菜单中的文本显示为英文或消失**。        | 已修复 ✓ |
+| [LG177](#LG177) |            **任务管理器 “性能” 选项卡颜色异常**。            | 已修复 ✓ |
+| [LG174](#LG174) |            **无法使用语音键入 (WIN + H) 功能**。             | 已修复 ✓ |
+| [LG179](#LG179) |              **部分设备随机出现绿屏 (GSOD)**。               | 已修复 ✓ |
+| [LG181](#LG181) |        **OpenRGB 和 ColorEngine 应用无法正常运行**。         | 已修复 ✓ |
+| [LG182](#LG182) |           **开始菜单中的应用可能无法按字母排序**。           | 已修复 ✓ |
+| [LG013](#LG013) |         **“设置”>“应用”>“启动” 页面中的图标异常**。          | 已修复 ✓ |
+| [LG168](#LG168) | **将 “合并任务栏按钮并隐藏标签” 调整为 “从不” 时部分图标消失**。 | 已修复 ✓ |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
 
 [分享反馈线索](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [反馈平台问题](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
@@ -91,39 +92,6 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 <img src="Images/M.png" width = "14%" />  
 典型反馈：[aka.ms/AApjbci](https://aka.ms/AApjbci)
 
----
-
-<SPAN ID = 'LG185'/>编号：LG185  
-日期：2024 年 6 月 29 日  
-版本：Canary 26241 - 26244  
-**问题**：**Windows 更新菜单中的文本显示为英文或消失**。  
-状态：<img src="Images/W.png" width = "9%" />  
-典型反馈：[aka.ms/AAr49wy](https://aka.ms/AAr49wy) <img src="Images/M.png" width = "14%" />
-
-<img src="Images/LG185.png" width = "60%" />
-
----
-
-<SPAN ID = 'LG177'/>编号：LG177  
-日期：2024 年 6 月 9 日  
-版本：Canary 26231 - 26244  
-**问题**：**任务管理器 “性能” 选项卡颜色异常**。  
-状态：<img src="Images/W.png" width = "9%" />  
-典型反馈：[aka.ms/AAqtf01](https://aka.ms/AAqtf01) <img src="Images/M.png" width = "14%" />
-
-<img src="Images/LG177.png" width = "45%" />
-
----
-
-<SPAN ID = 'LG174'/>编号：LG174  
-日期：2024 年 6 月 6 日  
-版本：Canary 26227 - 26244  
-**问题**：**无法使用语音键入 (WIN + H) 功能**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAqr1cs](https://aka.ms/AAqr1cs) <img src="Images/M.png" width = "14%" />
-
-<img src="Images/LG174_1.png" width = "45%" />
-
 <SPAN ID = '1'/>
 
 ## ✦ Canary - 用户反馈问题 ✦
@@ -136,7 +104,7 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 <SPAN ID = 'LGH02'/>编号：LGH02  
 日期：2024 年 4 月 7 日  
-版本：Canary 26100 - 26244  
+版本：Canary 26100 - 26252  
 **集合**：**文件资源管理器中的软件缺陷**。  
 状态：<img src="Images/W.png" width = "9%" />
 
@@ -161,7 +129,7 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 <SPAN ID = 'LG178'/>编号：LG178  
 日期：2024 年 6 月 9 日  
-版本：Canary 26231 - 26244  
+版本：Canary 26231 - 26252  
 **问题**：**任务管理器设置菜单 Mica (云母) 效果异常**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAqsxwz](https://aka.ms/AAqsxwz)
@@ -170,30 +138,14 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 ---
 
-<SPAN ID = 'LG179'/>编号：LG179  
-日期：2024 年 6 月 9 日  
-版本：Canary 26231 - 26244  
-**问题**：**部分设备随机出现绿屏 (GSOD)**。  
+<SPAN ID = 'LG187'/>编号：LG187  
+日期：2024 年 7 月 11 日  
+版本：Canary 26244 - 26252  
+**问题**：**可以由 Canary 频道切换至 Release Preview 频道**。  
 状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAqst0h](https://aka.ms/AAqst0h)
+典型反馈：[aka.ms/AArc2y7](https://aka.ms/AArc2y7) <img src="Images/M.png" width = "14%" />
 
----
-
-<SPAN ID = 'LG181'/>编号：LG181  
-日期：2024 年 6 月 16 日  
-版本：Canary 26236 - 26244  
-**问题**：**OpenRGB 和 ColorEngine 应用无法正常运行**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAqvdpw](https://aka.ms/AAqvdpw) & [aka.ms/AAqwld4](https://aka.ms/AAqwld4)
-
----
-
-<SPAN ID = 'LG182'/>编号：LG182  
-日期：2024 年 6 月 19 日  
-版本：Canary 26236 - 26244  
-**问题**：**开始菜单中的应用可能无法按字母排序**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAqy31w](https://aka.ms/AAqy31w) & [aka.ms/AAqyao8](https://aka.ms/AAqyao8)
+<img src="Images/LG187.png" width = "65%" />
 
 <SPAN ID = '2'/>
 
@@ -207,25 +159,82 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 ---
 
-<SPAN ID = 'LG186'/>编号：LG186  
+<SPAN ID = 'LG185'/>编号：LG185  
 日期：2024 年 6 月 29 日  
-版本：ALL  
-**问题**：**找不到在反馈中心提交的反馈 / 反馈活动数据丢失**。  
-状态：ALL - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAr3u5o](https://aka.ms/AAr3u5o) <img src="Images/M.png" width = "14%" />
+版本：Canary 26241 - 26244  
+**问题**：**Windows 更新菜单中的文本显示为英文或消失**。  
+状态：Canary 26252 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAr49wy](https://aka.ms/AAr49wy) <img src="Images/M.png" width = "14%" />
 
-<img src="Images/LG186.png" width = "60%" />
+<img src="Images/LG185.png" width = "60%" />
 
 ---
 
-<SPAN ID = 'LG184'/>编号：LG184  
-日期：2024 年 6 月 19 日  
-版本：ALL  
-**问题**：**Copilot 的 “更有创造力” “更平衡” “更精确” 选项可能消失**。  
-状态：ALL - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAqwx7u](https://aka.ms/AAqwx7u)
+<SPAN ID = 'LG177'/>编号：LG177  
+日期：2024 年 6 月 9 日  
+版本：Canary 26231 - 26244  
+**问题**：**任务管理器 “性能” 选项卡颜色异常**。  
+状态：Canary 26252 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAqtf01](https://aka.ms/AAqtf01) <img src="Images/M.png" width = "14%" />
 
-<img src="Images/LG184.png" width = "45%" />
+<img src="Images/LG177.png" width = "45%" />
+
+---
+
+<SPAN ID = 'LG174'/>编号：LG174  
+日期：2024 年 6 月 6 日  
+版本：Canary 26227 - 26244  
+**问题**：**无法使用语音键入 (WIN + H) 功能**。  
+状态：Canary 26252 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAqr1cs](https://aka.ms/AAqr1cs) <img src="Images/M.png" width = "14%" />
+
+<img src="Images/LG174_1.png" width = "45%" />
+
+---
+
+<SPAN ID = 'LG179'/>编号：LG179  
+日期：2024 年 6 月 9 日  
+版本：Canary 26231 - 26244  
+**问题**：**部分设备随机出现绿屏 (GSOD)**。  
+状态：Canary 26252 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAqst0h](https://aka.ms/AAqst0h)
+
+---
+
+<SPAN ID = 'LG181'/>编号：LG181  
+日期：2024 年 6 月 16 日  
+版本：Canary 26236 - 26244  
+**问题**：**OpenRGB 和 ColorEngine 应用无法正常运行**。  
+状态：Canary 26252 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAqvdpw](https://aka.ms/AAqvdpw) & [aka.ms/AAqwld4](https://aka.ms/AAqwld4)
+
+---
+
+<SPAN ID = 'LG182'/>编号：LG182  
+日期：2024 年 6 月 19 日  
+版本：Canary 26236 - 26244  
+**问题**：**开始菜单中的应用可能无法按字母排序**。  
+状态：Canary 26252 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAqy31w](https://aka.ms/AAqy31w) & [aka.ms/AAqyao8](https://aka.ms/AAqyao8)
+
+---
+
+<SPAN ID = 'LG013'/>编号：LG013  
+版本：Canary 26002 - 26244  
+**问题**：**“设置”>“应用”>“启动” 页面中的图标异常**。  
+状态：Canary 26252 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAo5wd6](https://aka.ms/AAo5wd6)
+
+<img src="Images/LG013.png" width = "50%" />
+
+---
+
+<SPAN ID = 'LG168'/>编号：LG168  
+日期：2024 年 5 月 4 日  
+版本：Canary 26200 - 26244  
+**问题**：**将 “合并任务栏按钮并隐藏标签” 调整为 “从不” 时部分图标消失**。  
+状态：Canary 26252 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAq9sq4](https://aka.ms/AAq9sq4) <img src="Images/M.png" width = "14%" />
 
 [Microsoft 已做出更改 >7 天的问题](7+.md)
 
