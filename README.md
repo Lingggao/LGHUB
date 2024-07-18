@@ -20,15 +20,11 @@
 
 &emsp;&emsp;**宗旨**：独立管理、服务用户、信息精准、更新及时
 
-[反馈中心](https://aka.ms/fbh) | [深入了解反馈](https://learn.microsoft.com/zh-cn/windows-insider/feedback) | [Flight Hub](https://learn.microsoft.com/en-us/windows-insider/flight-hub) | Windows 预览体验计划 - [网站](https://www.microsoft.com/zh-cn/windowsinsider) · [博客](https://blogs.windows.com/windows-insider) · [X (Twitter)](https://twitter.com/windowsinsider) · 社区 ([中](https://answers.microsoft.com/zh-hans/insider/forum) / [英](https://answers.microsoft.com/en-us/insider/forum))
+[反馈中心](https://aka.ms/fbh) | [深入了解反馈](https://learn.microsoft.com/zh-cn/windows-insider/feedback) | [Flight Hub](https://learn.microsoft.com/en-us/windows-insider/flight-hub) | Windows 预览体验计划 - [网站](https://www.microsoft.com/zh-cn/windowsinsider) · [博客](https://blogs.windows.com/windows-insider) · [X](https://twitter.com/windowsinsider) · Microsoft 社区 ([中](https://answers.microsoft.com/zh-hans/insider/forum) / [英](https://answers.microsoft.com/en-us/insider/forum))
 
 ## ✦ 总览 ✦
 
-> [!CAUTION]
->
-> &emsp;因反馈中心应用服务器间歇性故障，中心将降低更新频次。敬请谅解。
-
-&emsp;&emsp;上次更新时间：2024 年 7 月 18 日 19:00 (UTC+8)。访问次数：4860+
+&emsp;&emsp;上次更新时间：2024 年 7 月 19 日 0:00 (UTC+8)。访问次数：4910+
 
 &emsp;&emsp;收录反馈 199 个，其中正在调查 15 个 (含[搁置](#3) 4 个)、正在处理 2 个、已修复 182 个。
 
@@ -48,6 +44,8 @@
 | General Availability |    22631.3880 *(23H2)*    |  2024/7/10  | [support.microsoft.com](https://support.microsoft.com/zh-cn/topic/2024-%E5%B9%B4-7-%E6%9C%88-9-%E6%97%A5-kb5040442-os-%E5%86%85%E9%83%A8%E7%89%88%E6%9C%AC-22621-3880-%E5%92%8C-22631-3880-0864308e-61cc-413b-8194-0294331aba52) |
 
 <img src="Images/Graph_0.png" width = "93%" />
+
+统计图 - 2024 年 | [1 月 - 4 月](Images/Graph_2401_2404.png) · [5 月 - 8 月](Images/Graph_0.png) · [9 月 - 12 月](https://github.com/Lingggao/LGHUB)
 
 ---
 
@@ -72,7 +70,7 @@
 | [LG195](#LG195) |              手写笔在 Surface 设备中精度变低。               | 正在调查 |
 | [LG198](#LG198) |            **Microsoft Edge 生成强密码时崩溃**。             | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
-| [LG196](#LG196) |                   **反馈中心变为纯英文**。                   | 已修复 ✓ |
+| [LG196](#LG196) |                 **反馈中心应用变为纯英文**。                 | 已修复 ✓ |
 | [LG197](#LG197) |        **点击 Microsoft Edge 的 “翻译” 按钮无响应**。        | 已修复 ✓ |
 | [LG185](#LG185) |          Windows 更新菜单中的文本显示为英文或消失。          | 已修复 ✓ |
 | [LG177](#LG177) |              任务管理器 “性能” 选项卡颜色异常。              | 已修复 ✓ |
@@ -256,7 +254,7 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 <SPAN ID = 'LG196'/>编号：LG196  
 日期：2024 年 7 月 18 日  
 版本：FBH 1.2407.21941.0  
-**问题**：**反馈中心变为纯英文**。  
+**问题**：**反馈中心应用变为纯英文**。  
 状态：FBH 1.2407.21972.0 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
 典型反馈：[aka.ms/AArdntq](https://aka.ms/AArdntq)
 

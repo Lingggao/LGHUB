@@ -1,3 +1,13 @@
+LGHUB **2024 年 7 月 18 日更新**：
+
+- 移除 “反馈中心服务器故障” 提示。
+- 将 “X (Twitter)” 改为 “X”。
+- 将 “社区” 改为 “Microsoft 社区”。
+- 新增 “Windows 预览体验计划版本信息与实用链接” 推广。
+- 新增 “历史统计图” 板块。
+
+---
+
 LGHUB **2024 年 7 月 2 日更新**：
 
 - 将 Community Contributor 徽章替换为 Community Advocate 徽章。
