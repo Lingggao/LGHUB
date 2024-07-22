@@ -172,20 +172,11 @@ https://aka.ms/AAqyaof
 Account link on Start Menu - color very wrong, only shows MS account and not domain accounts ×
 https://aka.ms/AAqwimr
 
-WSL not installing on the latest builds of Windows 11 - when I try I get a catastrophic error message ✓
-https://aka.ms/AArbr2b
-
-When I try to set a very large image as a wallpaper in Windows 11, it just shows up as black on my desktop ✓
-https://aka.ms/AArbr2d
-
 After upgrading to Windows 11 24H2, I see ms-resource:AIXHost/Resource/AppDisplayName at the bottom of the all apps list in the Start menu ×
 https://aka.ms/AArdung
 
 Inaccurate Slow Charger Notification ×
 https://aka.ms/AArduni
-
-24H2 BSOD code MEMORY_MANAGEMENT when Voicemeeter program initializing. ✓
-https://aka.ms/AArdunk
 
 Problem with viewing multimedia files on Windows 11 24H2 26100.560 - 26100.1150 on AMD ×
 https://aka.ms/AArdunm
@@ -193,32 +184,20 @@ https://aka.ms/AArdunm
 Game Bar's HDR Toggle doesn't work. ×
 https://aka.ms/AArdunn
 
-spotlight desktop keeps failing ✓
-https://aka.ms/AArdunq
-
-background changed from windows spotlight to picture on its own ✓
-https://aka.ms/AAregd1
-
 Notification Centre problem ×
 https://aka.ms/AArduns
-
-After the latest Windows updates, my label maker / engraver / plotter can't print anymore ✓
-https://aka.ms/AArbr2p
 
 Energy Saver (Battery Saver) APIs do not seem to work (RegisterPowerSettingNotification, SYSTEM_POWER_STATUS) ×
 https://aka.ms/AArc6ft
 
-On my Copilot + PC device, my cursor remains dark in dark mode and doesn't change with settings adjustment ✓
-https://aka.ms/AArc6fu
-
-Mica transparency is not working in the latest Canary builds ✓
-https://aka.ms/AArduo2
-
 Inverted mouse cursor doesn't display correctly in some apps like Edge in Windows 11 after the latest updates - sometimes it's not the right color,... ×
 https://aka.ms/AArduo3
 
-Pen accuracy is worse on Surface Pro X Elite ✓
-https://aka.ms/AArdnci
+右下角鼠标指向的消息提示会被前台应用遮挡 ✓
+https://aka.ms/AArhznv
 
-mica not working while HDR is enabled ✓
-https://aka.ms/AArduo4
+7 月 17 日 - 反馈中心 (中文语言) 内置的 “使用必应翻译” 功能无法使用。 ✓
+https://aka.ms/AArfc95
+
+Issues with ntdll.dll in build 26252 ×
+https://aka.ms/AArieqw
