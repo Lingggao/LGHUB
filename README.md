@@ -6,9 +6,9 @@
 
 <h1 align="center">灵糕中心 (Linggao Hub)</h1>
 
-[github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB) (GitHub) & [lingggao.github.io/LGHUB](https://lingggao.github.io/LGHUB) (Pages)
+[github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB) (GitHub)
 
-&emsp;&emsp;**用于跟踪 “Windows 11 预览体验版本 (Canary 频道) 哪些反馈正在由 Microsoft 调查 / 处理 / 已做出更改” 的信息枢纽**。由 2021 Windows Insider Most Valuable Professional (MVP) · **Ling Gao** 先生管理。
+&emsp;&emsp;**用于跟踪 “Windows 11 预览体验版本 (Canary 频道) 中哪些反馈正在由 Microsoft 调查、处理 / 已做出更改” 的信息枢纽**。由 2021 Windows Insider 最有价值专家 (MVP) · **Ling Gao** 先生管理。
 
 &emsp;&emsp;灵糕中心成立于 2023 年 12 月 12 日，其前身可追溯至 2019 年 5 月 14 日由 Microsoft 社区创建的 “[\[BUG 汇总\] Windows 10 2019 年 5 月更新 (1903_18362) 已知问题与处理进度汇总](https://answers.microsoft.com/zh-hans/insider/forum/all/bug-%E6%B1%87%E6%80%BBwindows-10-2019-%E5%B9%B4-5/252d0d6a-022c-4bf7-9976-55b57590aee2)” 讨论话题。
 
@@ -46,7 +46,7 @@
 
 <img src="Images/Graph_1.png" width = "93%" />
 
-统计图 - 2024 年 | [1 月 - 4 月](Images/Graph_2401_2404.png) · [5 月 - 8 月](Images/Graph_1.png) · [9 月 - 12 月](https://github.com/Lingggao/LGHUB)
+统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_1.png) · [9 - 12 月](https://github.com/Lingggao/LGHUB)
 
 ---
 
