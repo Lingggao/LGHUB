@@ -41,7 +41,7 @@
 |        Canary        |                **[新]** 26257                |  2024/7/25  | [aka.ms/wip26257](https://blogs.windows.com/windows-insider/2024/07/24/announcing-windows-11-insider-preview-build-26257-canary-channel) |
 |         Dev          |              26120.1252 (24H2)              |   2024/7/16   | [aka.ms/wip-dev-7-15](https://blogs.windows.com/windows-insider/2024/07/15/announcing-windows-11-insider-preview-build-26120-1252-dev-channel) |
 |         Beta         | 22635.3936 *(23H2)* |   2024/7/23   | [aka.ms/wip-beta-7-22](https://blogs.windows.com/windows-insider/2024/07/22/announcing-windows-11-insider-preview-build-22635-3936-beta-channel) |
-|   Release Preview    | 26100.1150 (24H2) |  2024/7/10  | [support.microsoft.com](https://support.microsoft.com/zh-cn/topic/2024-%E5%B9%B4-7-%E6%9C%88-9-%E6%97%A5-kb5040435-os-%E5%86%85%E9%83%A8%E7%89%88%E6%9C%AC-26100-1150-954078e3-6c6b-4b6d-885e-f5aa534524a6?wt.mc_id=studentamb_203301) |
+|   Release Preview    | **[新]** 26100.1297 (24H2) |  2024/7/26  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/07/25/releasing-windows-11-build-26100-1297-to-the-release-preview-channel) |
 | General Availability |    22631.3880 *(23H2)*    |  2024/7/10  | [support.microsoft.com](https://support.microsoft.com/zh-cn/topic/2024-%E5%B9%B4-7-%E6%9C%88-9-%E6%97%A5-kb5040442-os-%E5%86%85%E9%83%A8%E7%89%88%E6%9C%AC-22621-3880-%E5%92%8C-22631-3880-0864308e-61cc-413b-8194-0294331aba52) |
 
 <img src="Images/Graph_0.png" width = "93%" />
