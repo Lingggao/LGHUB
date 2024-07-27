@@ -24,11 +24,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 7 月 25 日 19:00 (UTC+8)。访问次数：5050+
+&emsp;&emsp;上次更新时间：2024 年 7 月 27 日 19:00 (UTC+8)。访问次数：5130+
 
 &emsp;&emsp;收录反馈 203 个，其中正在调查 10 个 (含[搁置](#3) 4 个)、正在处理 6 个、已修复 187 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 🌀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LGH02 集合**。- Ling 🌧️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |  🎖️ **推 荐**   | **[Microsoft 电脑管家](https://pcmanager.microsoft.com) - 简单无打扰 · 安全又安心** | **[Microsoft WowTab](https://wowtab.microsoft.com) - 浏览器主页新形态** |
 | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -39,10 +39,10 @@
 |         频道         |              最新版本               | 时间 (UTC+8) |                             公告                             |
 | :------------------: | :---------------------------------: | :----------: | :----------------------------------------------------------: |
 |        Canary        |                **[新]** 26257                |  2024/7/25  | [aka.ms/wip26257](https://blogs.windows.com/windows-insider/2024/07/24/announcing-windows-11-insider-preview-build-26257-canary-channel) |
-|         Dev          |              26120.1252 (24H2)              |   2024/7/16   | [aka.ms/wip-dev-7-15](https://blogs.windows.com/windows-insider/2024/07/15/announcing-windows-11-insider-preview-build-26120-1252-dev-channel) |
-|         Beta         | 22635.3936 *(23H2)* |   2024/7/23   | [aka.ms/wip-beta-7-22](https://blogs.windows.com/windows-insider/2024/07/22/announcing-windows-11-insider-preview-build-22635-3936-beta-channel) |
+|         Dev          |              **[新]** 26120.1330 (24H2)              |   2024/7/27   | [aka.ms/wip-dev-7-26](https://blogs.windows.com/windows-insider/2024/07/26/announcing-windows-11-insider-preview-build-26120-1330-dev-channel) |
+|         Beta         | **[新]** 22635.4000 *(23H2)* |   2024/7/27   | [aka.ms/wip-beta-7-26](https://blogs.windows.com/windows-insider/2024/07/26/announcing-windows-11-insider-preview-build-22635-4000-beta-channel) |
 |   Release Preview    | **[新]** 26100.1297 (24H2) |  2024/7/26  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/07/25/releasing-windows-11-build-26100-1297-to-the-release-preview-channel) |
-| General Availability |    22631.3880 *(23H2)*    |  2024/7/10  | [support.microsoft.com](https://support.microsoft.com/zh-cn/topic/2024-%E5%B9%B4-7-%E6%9C%88-9-%E6%97%A5-kb5040442-os-%E5%86%85%E9%83%A8%E7%89%88%E6%9C%AC-22621-3880-%E5%92%8C-22631-3880-0864308e-61cc-413b-8194-0294331aba52) |
+| General Availability |    **[新]** 22631.3958 *(23H2)*    |  2024/7/26  | [support.microsoft.com](https://support.microsoft.com/help/5040527) |
 
 <img src="Images/Graph_0.png" width = "93%" />
 
@@ -57,9 +57,9 @@
 |      编号       |                             问题                             |   状态   |
 | :-------------: | :----------------------------------------------------------: | :------: |
 | [LG123](#LG123) |                 接收不到 Build 26080+ 更新。                 | 正在处理 |
-| [LG201](#LG201) |      **无法启动 Windows 沙盒，显示 0x80370106 错误**。       | 正在处理 |
-| [LG202](#LG202) |             **表情符号面板可能意外地自动关闭**。             | 正在处理 |
-| [LG177](#LG177) |            **任务管理器 “性能” 选项卡颜色异常**。            | 正在处理 |
+| [LG201](#LG201) |        无法启动 Windows 沙盒，显示 0x80370106 错误。         | 正在处理 |
+| [LG202](#LG202) |               表情符号面板可能意外地自动关闭。               | 正在处理 |
+| [LG177](#LG177) |              任务管理器 “性能” 选项卡颜色异常。              | 正在处理 |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |  **——**  |
 | [LGH02](#LGH02) |      **[集合]** 文件资源管理器中的软件缺陷。(* 含列表)       | 正在处理 |
 | [LG178](#LG178) |          任务管理器设置菜单 Mica (云母) 效果异常。           | 正在调查 |
@@ -70,11 +70,11 @@
 | [LG198](#LG198) |              Microsoft Edge 生成强密码时崩溃。               | 正在调查 |
 | [LG199](#LG199) |               Windows 通知被前台应用窗口遮挡。               | 正在处理 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
-| [LG187](#LG187) |     **可以由 Canary 频道切换至 Release Preview 频道**。      | 已修复 ✓ |
-| [LG190](#LG190) |   **启动 VoiceMeeter 应用时出现 MEMORY_MANAGEMENT 绿屏**。   | 已修复 ✓ |
-| [LG192](#LG192) | **便签打印机 / 雕刻机 / 绘图仪等特殊设备可能无法正常使用**。 | 已修复 ✓ |
-| [LG193](#LG193) |        **在 Copilot+ 设备中，鼠标指针可能变为黑色**。        | 已修复 ✓ |
-| [LG194](#LG194) |                **Mica (云母) 效果可能失效**。                | 已修复 ✓ |
+| [LG187](#LG187) |       可以由 Canary 频道切换至 Release Preview 频道。        | 已修复 ✓ |
+| [LG190](#LG190) |     启动 VoiceMeeter 应用时出现 MEMORY_MANAGEMENT 绿屏。     | 已修复 ✓ |
+| [LG192](#LG192) |   便签打印机 / 雕刻机 / 绘图仪等特殊设备可能无法正常使用。   | 已修复 ✓ |
+| [LG193](#LG193) |          在 Copilot+ 设备中，鼠标指针可能变为黑色。          | 已修复 ✓ |
+| [LG194](#LG194) |                  Mica (云母) 效果可能失效。                  | 已修复 ✓ |
 |     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
 
 [分享反馈线索](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [反馈平台问题](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
@@ -143,8 +143,10 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 列表
 
 - 卡顿 / 内存泄漏 / CPU 占用率高
+- 无法为 HEVC 视频生成缩略图 - [aka.ms/AArjpwi](https://aka.ms/AArjpwi)
+- 从 Android 设备复制文件时，报告大小是实际大小的 2 倍 - [aka.ms/AArlvsf](https://aka.ms/AArlvsf)
 - 打开主文件夹或添加新标签时崩溃 - [aka.ms/AAqyaoe](https://aka.ms/AAqyaoe)
-- 双击压缩文件时没有反应 - [aka.ms/AAqk1zl](https://aka.ms/AAqk1zl)
+- 双击压缩文件时没有反应 - [aka.ms/AAqk1zl](https://aka.ms/AAqk1zl) - 已修复 ✓
 - 打开含有 SLN 文件的文件夹时崩溃 - [aka.ms/AAqyaoa](https://aka.ms/AAqyaoa) - 已修复 ✓
 - 预览性能下降 - [aka.ms/AAqmzfc](https://aka.ms/AAqmzfc) - 已修复 ✓
 - 在搜索栏中输入的字符随机被删除 - [aka.ms/AAq9sqa](https://aka.ms/AAq9sqa) - 已修复 ✓

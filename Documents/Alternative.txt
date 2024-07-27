@@ -193,11 +193,14 @@ https://aka.ms/AArc6ft
 Inverted mouse cursor doesn't display correctly in some apps like Edge in Windows 11 after the latest updates - sometimes it's not the right color,... ×
 https://aka.ms/AArduo3
 
-右下角鼠标指向的消息提示会被前台应用遮挡 ✓
-https://aka.ms/AArhznv
-
-7 月 17 日 - 反馈中心 (中文语言) 内置的 “使用必应翻译” 功能无法使用。 ✓
-https://aka.ms/AArfc95
-
 Issues with ntdll.dll in build 26252 ×
 https://aka.ms/AArieqw
+
+File Explorer thumbnails are not being generated for HEVC video with the latest HEVC extensions update ✓
+https://aka.ms/AArjpwi
+
+The filesize that is reported when copying from an Android phone is around double the actual filesize ✓
+https://aka.ms/AArlvsf
+
+Euro Truck Simulator 2 stopped working on Windows Insider - ucrtbase.dll fails ×
+https://aka.ms/AArjpwj
