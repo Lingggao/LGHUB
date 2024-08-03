@@ -196,11 +196,20 @@ https://aka.ms/AArduo3
 Issues with ntdll.dll in build 26252 ×
 https://aka.ms/AArieqw
 
-File Explorer thumbnails are not being generated for HEVC video with the latest HEVC extensions update ✓
-https://aka.ms/AArjpwi
-
-The filesize that is reported when copying from an Android phone is around double the actual filesize ✓
-https://aka.ms/AArlvsf
-
 Euro Truck Simulator 2 stopped working on Windows Insider - ucrtbase.dll fails ×
+https://aka.ms/AArjpwj
+
+使用过程中通知跳出一个反馈，点开后均为问号 ×
+https://aka.ms/AAropvh
+
+Clicking the "new photo" notification on phone link causes snipping tool to open and crash ✓
+https://aka.ms/AArkcs7
+
+Snipping tool sometimes hang and close ✓
+https://aka.ms/AAroi77
+
+The contents of the linked devices page in Windows 11 Settings keeps flickering / flashing on my Insider PC ✓
+https://aka.ms/AAroaxp
+
+Euro Truck Simulator 2 stopped working on Windows Insider - ucrtbase.dll fails ✓
 https://aka.ms/AArjpwj
