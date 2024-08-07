@@ -30,7 +30,7 @@
 
 &emsp;&emsp;反馈更新记录：今日无更新。- Ling 📷 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-|  🎖️ **推 荐**   | <img src="Images/PCM.webp" width = "4.5%" /> [**Microsoft 电脑管家**](https://pcmanager.microsoft.com) | <img src="Images/WOWTAB.png" width = "6.5%" /> [**Microsoft WowTab**](https://wowtab.microsoft.com) |
+|  🎖️ **推 荐**   | <img src="Images/PCM.webp" width = "4.5%" /> [**Microsoft 电脑管家**](https://pcmanager.microsoft.com) | <img src="Images/WOWTAB.png" width = "7%" /> [**Microsoft WowTab**](https://wowtab.microsoft.com) |
 | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                | **Windows 预览体验计划 - [版本信息与实用链接](https://answers.microsoft.com/zh-hans/insider/forum/all/windows/2a5add38-c6d9-4c9d-958d-7451f7632b1c)** |                                                              |
 | 🏅 **友情推荐** | **[WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻博客** | **欢迎关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 微博** |
