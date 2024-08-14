@@ -207,3 +207,18 @@ https://aka.ms/AArp6xa
 
 In Edge, pen input is offset ×
 https://aka.ms/AArpk3r
+
+电源模式处为空白，无法调节 ×
+https://aka.ms/AArsg5m
+
+Edge Canary suddenly started crashing a lot (early August 2024) ✓
+https://aka.ms/AArslxp
+
+In the Canary Channel, the mouse cursor keeps freezing randomly ✓
+https://aka.ms/AArterh
+
+Mobile Device in Start - Text unreadable when Default Windows Mode set to Dark ×
+https://aka.ms/AArsnan
+
+Start unresponsive in recent list. ×
+https://aka.ms/AArst9i

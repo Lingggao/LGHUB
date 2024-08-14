@@ -24,29 +24,29 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 8 月 7 日 14:00 (UTC+8)。访问次数：5260+
+&emsp;&emsp;上次更新时间：2024 年 8 月 14 日 15:00 (UTC+8)。访问次数：5360+
 
-&emsp;&emsp;收录反馈 210 个，其中正在调查 13 个 (含[搁置](#3) 4 个)、正在处理 8 个、已修复 189 个。
+&emsp;&emsp;收录反馈 212 个，其中正在调查 14 个 (含[搁置](#3) 4 个)、正在处理 8 个、已修复 190 个。
 
-&emsp;&emsp;反馈更新记录：今日无更新。- Ling 📷 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG210 - 211**。- Ling ⁉️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |  🎖️ **推 荐**   |  [**Microsoft 电脑管家**](https://pcmanager.microsoft.com)   |     [**Microsoft WowTab**](https://wowtab.microsoft.com)     |
 | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                | **Windows 预览体验计划 - [版本信息与实用链接](https://answers.microsoft.com/zh-hans/insider/forum/all/windows/2a5add38-c6d9-4c9d-958d-7451f7632b1c)** |                                                              |
-| 🏅 **友情推荐** | **[WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻博客** | **欢迎关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 微博** |
+|                | **Windows 预览体验计划 - [信息 & 日志 & 链接](https://answers.microsoft.com/zh-hans/insider/forum/all/windows/2a5add38-c6d9-4c9d-958d-7451f7632b1c)** |                                                              |
+| 🏅 **友情推荐** | **[WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻博客** | **关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 微博** |
 |                | **[Windows Up-to-Date](https://wutd.crrashh.com) - Windows 实时版本** |                                                              |
 
 |         频道         |              最新版本               | 时间 (UTC+8) |                             公告                             |
 | :------------------: | :---------------------------------: | :----------: | :----------------------------------------------------------: |
 |        Canary        |                26257                |  2024/7/25  | [aka.ms/wip26257](https://blogs.windows.com/windows-insider/2024/07/24/announcing-windows-11-insider-preview-build-26257-canary-channel) |
-|         Dev          |              **[新]** 26120.1340 (24H2)              |   2024/8/6   | [aka.ms/wip-dev-8-5](https://blogs.windows.com/windows-insider/2024/08/05/announcing-windows-11-insider-preview-build-26120-1340-dev-channel) |
-|         Beta         | 22635.4005 *(23H2)* |   2024/8/3   | [aka.ms/wip-beta-8-2-24](https://blogs.windows.com/windows-insider/2024/08/02/announcing-windows-11-insider-preview-build-22635-4005-beta-channel) |
-|   Release Preview    | 26100.1297 (24H2) |  2024/7/26  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/07/25/releasing-windows-11-build-26100-1297-to-the-release-preview-channel) |
-| General Availability |    22631.3958 *(23H2)*    |  2024/7/26  | [support.microsoft.com](https://support.microsoft.com/help/5040527) |
+|         Dev          |              26120.1350 (24H2)              |   2024/8/10   | [aka.ms/wip-dev-8-9](https://blogs.windows.com/windows-insider/2024/08/09/announcing-windows-11-insider-preview-build-26120-1350-dev-channel) |
+|         Beta         | 22635.4010 *(23H2)* |   2024/8/10   | [aka.ms/wip-beta-8-9](https://blogs.windows.com/windows-insider/2024/08/09/announcing-windows-11-insider-preview-build-22635-4010-beta-channel) |
+|   Release Preview    | 26100.1301 (24H2) |  2024/7/31  | [support.microsoft.com](https://support.microsoft.com/zh-cn/topic/july-30-2024-kb5040529-os-build-26100-1301-preview-89f3ad4f-a5fe-4065-b217-01e622133ca1) |
+| General Availability |    **[新]** 22631.4037 *(23H2)*    |  2024/8/14  | [support.microsoft.com](https://support.microsoft.com/help/5041585) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
-统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_0.png) · [9 - 12 月](https://github.com/Lingggao/LGHUB)
+统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_1.png) · [9 - 12 月](https://github.com/Lingggao/LGHUB)
 
 ---
 
@@ -69,12 +69,14 @@
 | [LG191](#LG191) | 将桌面背景设置为 “Windows 聚焦” 时，其在一段时间后变为 “图片”。 | 正在调查 |
 | [LG195](#LG195) |              手写笔在 Surface 设备中精度变低。               | 正在调查 |
 | [LG199](#LG199) |               Windows 通知被前台应用窗口遮挡。               | 正在处理 |
-| [LG204](#LG204) |  Microsoft Edge “编辑图像”>“标记” 时线条与画笔位置不一致。   | 正在调查 |
 | [LG206](#LG206) |     点击手机连接应用中的 “新照片” 通知时，截图工具崩溃。     | 正在调查 |
 | [LG207](#LG207) |                   截图工具可能挂起或闪退。                   | 正在调查 |
-| [LG208](#LG208) |         “设置”>“添加设备” 菜单中的内容可能不断闪烁。         | 正在处理 |
+| [LG208](#LG208) |      “设置”>“账户”>“关联的设备” 菜单中的内容不断闪烁。       | 正在处理 |
 | [LG209](#LG209) |    Euro Truck Simulator 2 (欧洲卡车模拟 2) 游戏无法运行。    | 正在调查 |
+| [LG210](#LG210) |         **Microsoft Edge (Canary 频道) 频繁崩溃**。          | 正在调查 |
+| [LG211](#LG211) |                    **鼠标光标随机卡住**。                    | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
+| [LG204](#LG204) | **Microsoft Edge “编辑图像”>“标记” 时线条与画笔位置不一致**。 | 已修复 ✓ |
 | [LG205](#LG205) |             “搜索” 窗口中的图标和文字出现错乱。              | 已修复 ✓ |
 | [LG198](#LG198) |              Microsoft Edge 生成强密码时崩溃。               | 已修复 ✓ |
 | [LG187](#LG187) |       可以由 Canary 频道切换至 Release Preview 频道。        | 已修复 ✓ |
@@ -232,16 +234,6 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 
 ---
 
-<SPAN ID = 'LG204'/>编号：LG204  
-日期：2024 年 8 月 3 日  
-版本：ALL  
-**问题**：**Microsoft Edge “编辑图像”>“标记” 时线条与画笔位置不一致**。  
-状态：<img src="Images/L.png" width = "9%" />
-
-<img src="Images/LG204.jpg" width = "40%" />
-
----
-
 <SPAN ID = 'LG206'/>编号：LG206  
 日期：2024 年 8 月 3 日  
 版本：Canary 26257  
@@ -263,7 +255,7 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 <SPAN ID = 'LG208'/>编号：LG208  
 日期：2024 年 8 月 3 日  
 版本：Canary 26257  
-**问题**：**“设置”>“添加设备” 菜单中的内容可能不断闪烁**。  
+**问题**：**“设置”>“账户”>“关联的设备” 菜单中的内容不断闪烁**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAroaxp](https://aka.ms/AAroaxp) <img src="Images/M.png" width = "14%" />
 
@@ -276,6 +268,24 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AArjpwj](https://aka.ms/AArjpwj)
 
+---
+
+<SPAN ID = 'LG210'/>编号：LG210  
+日期：2024 年 8 月 14 日  
+版本：Edge Canary  
+**问题**：**Microsoft Edge (Canary 频道) 频繁崩溃**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AArslxp](https://aka.ms/AArslxp) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG211'/>编号：LG211  
+日期：2024 年 8 月 14 日  
+版本：Canary 26257  
+**问题**：**鼠标光标随机卡住**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AArterh](https://aka.ms/AArterh)
+
 <SPAN ID = '2'/>
 
 ## ✦ Canary - 归档 (已做出更改) ✦
@@ -285,6 +295,16 @@ Microsoft 官方回复：“我们正在调查有关部分 Insider 卡在 26040 
 > &emsp;记录 Microsoft 已做出更改 0 - 7 天的问题 & 超过 14 天无新增赞成票的问题。
 >
 > &emsp;无特殊情况，问题归档后不再更新。
+
+---
+
+<SPAN ID = 'LG204'/>编号：LG204  
+日期：2024 年 8 月 3 日  
+版本：ALL  
+**问题**：**Microsoft Edge “编辑图像”>“标记” 时线条与画笔位置不一致**。  
+状态：ALL - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓
+
+<img src="Images/LG204.jpg" width = "40%" />
 
 ---
 
