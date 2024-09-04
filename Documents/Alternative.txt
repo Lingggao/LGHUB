@@ -217,11 +217,14 @@ https://aka.ms/AArsnan
 Start unresponsive in recent list. ×
 https://aka.ms/AArst9i
 
-With the latest Windows 11 builds, sometimes when Settings is minimized, it cannot open from taskbar ✓
-https://aka.ms/AAry4xh
-
 I can't use disk clean up to delete the latest Windows Update files in the Dev Channel - it leaves gigabytes behind ×
 https://aka.ms/AArxx9h
 
-I'm in the Canary Channel, but under Settings > System > About, it says "Version: Dev" ✓
-https://aka.ms/AArxpls
+无法安装WSL ×
+https://aka.ms/AAs50mw
+
+Edge Canary has started crashing on launch Aug 31 2024 ✓
+https://aka.ms/AAs5n7h
+
+In the Canary Channel, some text suggestions are overlapping ×
+https://aka.ms/AAs4l8k
