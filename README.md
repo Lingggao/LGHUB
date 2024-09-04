@@ -46,7 +46,7 @@
 
 <img src="Images/Graph_1.png" width = "93%" />
 
-统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_0.png) · [9 - 12 月](https://github.com/Lingggao/LGHUB)
+统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_1.png)
 
 ---
 
