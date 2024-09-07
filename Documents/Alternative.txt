@@ -223,8 +223,8 @@ https://aka.ms/AArxx9h
 无法安装WSL ×
 https://aka.ms/AAs50mw
 
-Edge Canary has started crashing on launch Aug 31 2024 ✓
-https://aka.ms/AAs5n7h
-
-In the Canary Channel, some text suggestions are overlapping ×
+In the Canary Channel, some text suggestions are overlapping ✓
 https://aka.ms/AAs4l8k
+
+In Build 27695, there is a white empty window which covers 2/3 of the desktop that cannot be removed ✓
+https://aka.ms/AAs6ojn

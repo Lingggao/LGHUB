@@ -24,13 +24,13 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 9 月 4 日 16:00 (UTC+8)。访问次数：5630+
+&emsp;&emsp;上次更新时间：2024 年 9 月 7 日 18:00 (UTC+8)。访问次数：5660+
 
-&emsp;&emsp;收录反馈 218 个，其中正在调查 9 个 (含[搁置](#3) 2 个)、正在处理 2 个、已修复 207 个。
+&emsp;&emsp;收录反馈 221 个，其中正在调查 11 个 (含[搁置](#3) 2 个)、正在处理 3 个、已修复 207 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新 LG217**。- Ling 🥹 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG218 - 220**。- Ling 🌀 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-|  🎖️ **推 荐**   |  [**Microsoft 电脑管家**](https://pcmanager.microsoft.com)   |     [**Microsoft WowTab**](https://wowtab.microsoft.com)     |
+|  🎖️ **推 荐**   | [**Microsoft 电脑管家**](https://pcmanager.microsoft.com) 产品 |  [**Microsoft WowTab**](https://wowtab.microsoft.com) 产品   |
 | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                | **Windows 预览体验计划 - [信息 & 日志 & 链接](https://answers.microsoft.com/zh-hans/insider/forum/all/windows/2a5add38-c6d9-4c9d-958d-7451f7632b1c)** |                                                              |
 | 🏅 **友情推荐** | **[WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻博客** | **关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 微博** |
@@ -44,9 +44,9 @@
 |   Release Preview    | 26100.1586 (24H2) |  2024/8/20  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/08/19/releasing-windows-11-build-26100-1586-to-the-release-preview-channel) |
 | General Availability |    22631.4112 *(23H2)*    |  2024/8/28  | [support.microsoft.com](https://support.microsoft.com/help/5041587) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_1.png)
+统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_0.png)
 
 ---
 
@@ -57,6 +57,7 @@
 |      编号       |                             问题                             |   状态   |
 | :-------------: | :----------------------------------------------------------: | :------: |
 | [LG212](#LG212) | 在 Copilot+ 设备上加入 Canary 频道后，PIN 和生物识别信息将会丢失。 | 正在处理 |
+| [LG220](#LG220) |     **Windows 更新失败自动回退，显示 0xC1900101 错误**。     | 正在处理 |
 | [LG202](#LG202) |               表情符号面板可能意外地自动关闭。               | 正在处理 |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |  **——**  |
 | [LG178](#LG178) |          任务管理器设置菜单 Mica (云母) 效果异常。           | 正在调查 |
@@ -65,7 +66,9 @@
 | [LG214](#LG214) |         “设置” 菜单最小化时，有时无法从任务栏打开。          | 正在调查 |
 | [LG215](#LG215) |       在 Canary 版本中，“设置” 菜单显示版本号为 Dev。        | 正在调查 |
 | [LG216](#LG216) |         在以管理员权限运行的应用中无法使用触摸键盘。         | 正在调查 |
-| [LG217](#LG217) |         **Microsoft Edge (Canary 频道) 频繁崩溃**。          | 正在调查 |
+| [LG217](#LG217) |           Microsoft Edge (Canary 频道) 频繁崩溃。            | 正在调查 |
+| [LG218](#LG218) |              **输入法的文本建议可能出现重叠**。              | 正在调查 |
+| [LG219](#LG219) |        **出现覆盖 2/3 桌面且无法移除的白色空窗口**。         | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
 | [LG213](#LG213) | 打开 “碎片整理和优化驱动器” 时，显示 “找不到 SXSHARED_UCRT.dll” 错误。 | 已修复 ✓ |
 | [LGH02](#LGH02) |       **[集合]** 文件资源管理器中的软件缺陷。(*含列表)       | 已修复 ✓ |
@@ -94,6 +97,14 @@
 **问题**：**在 Copilot+ 设备上加入 Canary 频道后，PIN 和生物识别信息将会丢失**。  
 状态：<img src="Images/W.png" width = "9%" />  
 Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Preview 或 Retail 频道加入至 Canary 频道，Windows Hello PIN 和生物识别信息将会丢失。您将无法登录系统，显示 0xd0000225 错误和 ‘出错了，您的 PIN 不可用’ 信息。点击 ‘设置我的 PIN’ 选项应当可以重设 PIN。” *(Ling 译)* <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG220'/>编号：LG220  
+日期：2024 年 9 月 7 日  
+版本：Canary 27686 - 27695  
+**问题**：**Windows 更新失败自动回退，显示 0xC1900101 错误**。  
+状态：<img src="Images/W.png" width = "9%" />
 
 ---
 
@@ -179,6 +190,24 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 **问题**：**Microsoft Edge (Canary 频道) 频繁崩溃**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAs5n7h](https://aka.ms/AAs5n7h)
+
+---
+
+<SPAN ID = 'LG218'/>编号：LG218  
+日期：2024 年 9 月 7 日  
+版本：Canary 27695  
+**问题**：**输入法的文本建议可能出现重叠**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAs4l8k](https://aka.ms/AAs4l8k)
+
+---
+
+<SPAN ID = 'LG219'/>编号：LG219  
+日期：2024 年 9 月 7 日  
+版本：Canary 27695  
+**问题**：**出现覆盖 2/3 桌面且无法移除的白色空窗口**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAs6ojn](https://aka.ms/AAs6ojn)
 
 <SPAN ID = '2'/>
 
