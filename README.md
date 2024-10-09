@@ -79,7 +79,7 @@
 | [LG218](#LG218) |                输入法的文本建议可能出现重叠。                | 已修复 ✓ |
 | [LG219](#LG219) |          出现覆盖 2/3 桌面且无法移除的白色空窗口。           | 已修复 ✓ |
 |     **——**      |     **▲** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2)      |  **——**  |
-|     **——**      | **✦** [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **✦ \| ✦** [**Canary - 搁置 (未做出更改)**](#3) **✦** |  **——**  |
+|     **——**      | [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **\|** [**Canary - 搁置 (未做出更改)**](#3) |  **——**  |
 
 [分享反馈线索](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUNjUyUzJLN0JBREZGMzBBVlpVOEVBQkRENy4u) | [反馈平台问题](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUQ0haOElMVkxOWDE4U1pHQUZWMDhEM1gwSC4u)
 
