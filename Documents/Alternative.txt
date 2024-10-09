@@ -223,8 +223,17 @@ https://aka.ms/AArxx9h
 无法安装WSL ×
 https://aka.ms/AAs50mw
 
-In the Canary Channel, some text suggestions are overlapping ✓
-https://aka.ms/AAs4l8k
+With the latest Windows 11 updates, when I try to do SFC /scannnow, it shows errors every time even though it should have fixed them already ✓
+https://aka.ms/AAso1q0
 
-In Build 27695, there is a white empty window which covers 2/3 of the desktop that cannot be removed ✓
-https://aka.ms/AAs6ojn
+Solitaire broke after upgrading to Canary Channel Build 27718, it just crashes ✓
+https://aka.ms/AAspbva
+
+I can't use disk clean up to delete the latest Windows Update files in the Dev Channel or latest Release Preview builds - it always still shows... ×
+https://aka.ms/AAsmgew
+
+After upgrading to 26120.1843, when I try to use the see more button in File Explorer, the menu goes up instead of down, which means it can draw off... ✓
+https://aka.ms/AAspbvg
+
+With the latest Windows 11 updates, I have clipboard history enabled, but it's not showing items in my history, it just keeps saying it's empty ✓
+https://aka.ms/AAsohjn
