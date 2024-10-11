@@ -26,11 +26,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 10 月 10 日 3:00 (UTC+8)。访问次数：6060+
+&emsp;&emsp;上次更新时间：2024 年 10 月 12 日 6:00 (UTC+8)。访问次数：6120+
 
-&emsp;&emsp;收录反馈 228 个，其中正在调查 5 个 (含[搁置](#3) 2 个)、正在处理 4 个、已修复 219 个。
+&emsp;&emsp;收录反馈 230 个，其中正在调查 6 个 (含[搁置](#3) 2 个)、正在处理 5 个、已修复 219 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 😁 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG228 - 229**。- Ling 💹 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |  🎖️ **推 荐**   | [**Microsoft 电脑管家**](https://pcmanager.microsoft.com) 产品 |  [**Microsoft WowTab**](https://wowtab.microsoft.com) 产品   |
 | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -38,17 +38,17 @@
 | 🏅 **友情推荐** | **[WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻博客** | **关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 微博** |
 |                | **[Windows Up-to-Date](https://wutd.crrashh.com) - Windows 实时版本** |                                                              |
 
-|         频道         |              最新版本               | 时间 (UTC+8) |                             公告                             |
-| :------------------: | :---------------------------------: | :----------: | :----------------------------------------------------------: |
-|        Canary        |                **[新]** 27723                |  2024/10/10  | [aka.ms/wip27723](https://blogs.windows.com/windows-insider/2024/10/09/announcing-windows-11-insider-preview-build-27723-canary-channel) |
-|         Dev          |              26120.1930              |   2024/10/5   | [aka.ms/wip-dev-10-4](https://blogs.windows.com/windows-insider/2024/10/04/announcing-windows-11-insider-preview-build-26120-1930-dev-channel) |
-|         Beta         | 22635.4300 *(23H2)* |   2024/10/5   | [aka.ms/wip-beta-10-4](https://blogs.windows.com/windows-insider/2024/10/04/announcing-windows-11-insider-preview-build-22635-4300-beta-channel) |
-|   Release Preview    | 26100.1882 |  2024/10/1  | [support.microsoft.com](https://support.microsoft.com/help/5043178) |
-| General Availability |    **[新]** 26100.2033    |  2024/10/9  | [support.microsoft.com](https://support.microsoft.com/help/5044284) |
+|         频道         |              最新版本               | 时间 (UTC+8) |                             最新 ISO                             | 公告 |
+| :------------------: | :---------------------------------: | :----------: | :----------------------------------------------------------: | :------------------: |
+|        **Canary**        |                27723                |  2024/10/10  | [27718](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) | [aka.ms/wip27723](https://blogs.windows.com/windows-insider/2024/10/09/announcing-windows-11-insider-preview-build-27723-canary-channel) |
+|       **Dev**        |              **[新]** 26120.2122              |   2024/10/12   | [26100.1150](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) | [aka.ms/wip-dev-10-11](https://blogs.windows.com/windows-insider/2024/10/11/announcing-windows-11-insider-preview-build-26120-2122-dev-channel) |
+|         **Beta**         | **[新]** 22635.4367 *(23H2)* |   2024/10/12   | [22621](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) | [aka.ms/wip-beta-10-11](https://blogs.windows.com/windows-insider/2024/10/11/announcing-windows-11-insider-preview-build-22635-4367-beta-channel) |
+| **Release Preview**  | **[新]** 26100.2152 |  2024/10/11  | [26100.1150](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/10/10/releasing-windows-11-build-26100-2152-to-the-release-preview-channel) |
+| **General Availability** |    26100.2033    |  2024/10/9  | [下载 Windows 11](https://www.microsoft.com/zh-cn/software-download/windows11) | [support.microsoft.com](https://support.microsoft.com/help/5044284) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_1.png)
+统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_0.png)
 
 ---
 
@@ -60,17 +60,19 @@
 | :-------------: | :----------------------------------------------------------: | :------: |
 |     **——**      |            [**Canary - 公告已知问题**](#0) **▼**             |  **——**  |
 | [LG212](#LG212) | 在 Copilot+ 设备上加入 Canary 频道后，PIN 和生物识别信息将会丢失。 | 正在处理 |
-| [LG224](#LG224) |        **部分 Microsoft 休闲游戏 (如纸牌等) 崩溃**。         | 正在处理 |
-| [LG227](#LG227) |      **安装 Canary 版本时仍可能出现 0xC1900101 回退**。      | 正在处理 |
+| [LG224](#LG224) |          部分 Microsoft 休闲游戏 (如纸牌等) 崩溃。           | 正在处理 |
+| [LG227](#LG227) |        安装 Canary 版本时仍可能出现 0xC1900101 回退。        | 正在处理 |
 | [LG222](#LG222) | 表情符号面板 & 剪贴板历史记录无法在部分窗口内 (如注册表) 打开。 | 正在处理 |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |  **——**  |
 | [LG223](#LG223) |            运行 SFC /scannow 命令时可能显示错误。            | 正在调查 |
 | [LG225](#LG225) |        文件资源管理器 “...” 二级菜单无法向下方弹出。         | 正在调查 |
 | [LG226](#LG226) |               剪贴板历史记录可能始终显示为空。               | 正在调查 |
+| [LG228](#LG228) |             **启动 Roblox (罗布乐思) 时崩溃**。              | 正在处理 |
+| [LG229](#LG229) |          **NVIDIA 驱动程序无法正常工作，错误 43**。          | 正在调查 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
-| [LG221](#LG221) |       **无法在 “电影和电视” 应用中播放已购买的内容**。       | 已修复 ✓ |
-| [LG215](#LG215) |     **在 Canary 版本中，“设置” 菜单显示版本号为 Dev**。      | 中止调查 |
-| [LG216](#LG216) |       **在以管理员权限运行的应用中无法使用触摸键盘**。       | 中止调查 |
+| [LG221](#LG221) |         无法在 “电影和电视” 应用中播放已购买的内容。         | 已修复 ✓ |
+| [LG215](#LG215) |       在 Canary 版本中，“设置” 菜单显示版本号为 Dev。        | 中止调查 |
+| [LG216](#LG216) |         在以管理员权限运行的应用中无法使用触摸键盘。         | 中止调查 |
 |     **——**      |     **▲** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2)      |  **——**  |
 |     **——**      | [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **\|** [**Canary - 搁置 (未做出更改)**](#3) |  **——**  |
 
@@ -154,6 +156,25 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 **问题**：**剪贴板历史记录可能始终显示为空**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAsohjn](https://aka.ms/AAsohjn)
+
+---
+
+<SPAN ID = 'LG228'/>编号：LG228  
+日期：2024 年 10 月 12 日  
+版本：Canary 27718 - 27723  
+**问题**：**启动 Roblox (罗布乐思) 时崩溃**。  
+状态：<img src="Images/W.png" width = "9%" />  
+Microsoft 官方回复：“我们已知有一个潜在问题导致部分游戏崩溃。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
+典型反馈：[aka.ms/AAsonct](https://aka.ms/AAsonct)
+
+---
+
+<SPAN ID = 'LG229'/>编号：LG229  
+日期：2024 年 10 月 12 日  
+版本：Canary 27723  
+**问题**：**NVIDIA 驱动程序无法正常工作，错误 43**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAsphpb](https://aka.ms/AAsphpb)
 
 <SPAN ID = '2'/>
 
