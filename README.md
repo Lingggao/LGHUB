@@ -26,11 +26,11 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 11 月 7 日 6:00 (UTC+8)。访问次数：6400+
+&emsp;&emsp;上次更新时间：2024 年 11 月 9 日 9:00 (UTC+8)。访问次数：6450+
 
-&emsp;&emsp;收录反馈 232 个，其中正在调查 2 个 (含[搁置](#3) 1 个)、正在处理 3 个、已修复 227 个。
+&emsp;&emsp;收录反馈 237 个，其中正在调查 5 个 (含[搁置](#3) 1 个)、正在处理 4 个、已修复 228 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新反馈状态**。- Ling 🗳️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：**今日更新 LG232 - 236**。- Ling 🚗 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 |  🎖️ **推 荐**   | [**Microsoft 电脑管家**](https://pcmanager.microsoft.com) 产品 |  [**Microsoft WowTab**](https://wowtab.microsoft.com) 产品   |
 | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -41,14 +41,14 @@
 |         频道         |              最新版本               | 时间 (UTC+8) |                             最新 ISO                             | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :----------------------------------------------------------: | :------------------: |
 |        **Canary**        |                **[新]** 27744                |  2024/11/7  | [27718](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) | [aka.ms/wip27744](https://blogs.windows.com/windows-insider/2024/11/06/announcing-windows-11-insider-preview-build-27744-canary-channel) |
-|       **Dev**        |              **[新]** 26120.2213              |   2024/11/5   | [26100.1150](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) | [aka.ms/wip-dev-11-4](https://blogs.windows.com/windows-insider/2024/11/04/announcing-windows-11-insider-preview-build-26120-2213-dev-channel) |
-|         **Beta**         | 22635.4440 *(23H2)* |   2024/11/2   | [22621](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) | [aka.ms/wip-beta-11-1](https://blogs.windows.com/windows-insider/2024/11/01/announcing-windows-11-insider-preview-build-22635-4440-beta-channel) |
+|       **Dev**        |              **[新]** 26120.2222              |   2024/11/9   | [26100.1150](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) | [aka.ms/wip-dev-11-8](https://blogs.windows.com/windows-insider/2024/11/08/announcing-windows-11-insider-preview-build-26120-2222-dev-channel) |
+|         **Beta**         | **[新]** 22635.4445 *(23H2)* |   2024/11/9   | [22621](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) | [aka.ms/wip-beta-11-8](https://blogs.windows.com/windows-insider/2024/11/08/announcing-windows-11-insider-preview-build-22635-4445-beta-channel) |
 | **Release Preview**  | 26100.2161 |  2024/10/25  | [26100.1150](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) | [support.microsoft.com](https://support.microsoft.com/en-us/help/5044384) |
 | **General Availability** |    26100.2033    |  2024/10/9  | [下载 Windows 11](https://www.microsoft.com/zh-cn/software-download/windows11) | [support.microsoft.com](https://support.microsoft.com/help/5044284) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
-统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_0.png)
+统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_1.png)
 
 ---
 
@@ -61,15 +61,20 @@
 |     **——**      |            [**Canary - 公告已知问题**](#0) **▼**             |  **——**  |
 | [LG212](#LG212) | **[Copilot+ 电脑]** 加入 Canary 频道后，PIN 和生物识别信息将丢失。 | 正在处理 |
 | [LG227](#LG227) |        安装 Canary 版本时仍可能出现 0xC1900101 回退。        | 正在处理 |
-| [LG231](#LG231) |       **使用多个显示器时，桌面背景可能无法正常显示**。       | 正在处理 |
+| [LG231](#LG231) |         使用多个显示器时，桌面背景可能无法正常显示。         | 正在处理 |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |  **——**  |
 | [LG225](#LG225) |        文件资源管理器 “...” 二级菜单无法向下方弹出。         | 正在调查 |
+| [LG233](#LG233) | **无法更新 “Microsoft 必应的 Web 搜索” 应用，0x80073CFB**。  | 正在调查 |
+| [LG234](#LG234) | **在 ARM 设备中使用 GitHub Desktop 应用时，无法执行 Push 等操作**。 | 正在调查 |
+| [LG235](#LG235) | **通过 “ms-settings:windowsinsider” 进入菜单时，顶部缺失部分文本**。 | 正在调查 |
+| [LG236](#LG236) |         **任务管理器可能显示应用和进程的数量为 0**。         | 正在处理 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
-| [LG229](#LG229) | **[NVIDIA 显卡]** **电脑黑屏 / 显示器无响应 / 驱动程序无法正常工作**。 | 已修复 ✓ |
-| [LG230](#LG230) |    **电脑绿屏，显示 PAGE_FAULT_IN_NONPAGED_AREA 错误**。     | 已修复 ✓ |
-| [LG222](#LG222) | **表情符号面板 & 剪贴板历史记录无法在部分窗口内 (如注册表) 打开**。 | 已修复 ✓ |
-| [LG223](#LG223) |          **运行 SFC /scannow 命令时可能显示错误**。          | 已修复 ✓ |
-| [LG226](#LG226) |             **剪贴板历史记录可能始终显示为空**。             | 已修复 ✓ |
+| [LG232](#LG232) |          **无法使用 “反馈中心” 应用查看中文反馈**。          | 已修复 ✓ |
+| [LG229](#LG229) | **[NVIDIA 显卡]** 电脑黑屏 / 显示器无响应 / 驱动程序无法正常工作。 | 已修复 ✓ |
+| [LG230](#LG230) |      电脑绿屏，显示 PAGE_FAULT_IN_NONPAGED_AREA 错误。       | 已修复 ✓ |
+| [LG222](#LG222) | 表情符号面板 & 剪贴板历史记录无法在部分窗口内 (如注册表) 打开。 | 已修复 ✓ |
+| [LG223](#LG223) |            运行 SFC /scannow 命令时可能显示错误。            | 已修复 ✓ |
+| [LG226](#LG226) |               剪贴板历史记录可能始终显示为空。               | 已修复 ✓ |
 |     **——**      |     **▲** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2)      |  **——**  |
 |     **——**      | [**Canary - 归档 (已做出更改 >7 天)**](7+.md) **\|** [**Canary - 搁置 (未做出更改)**](#3) |  **——**  |
 
@@ -127,6 +132,48 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <img src="Images/LG225.png" width = "55%" />
 
+---
+
+<SPAN ID = 'LG233'/>编号：LG233  
+日期：2024 年 11 月 9 日  
+版本：ALL  
+**问题**：**无法更新 “Microsoft 必应的 Web 搜索” 应用，0x80073CFB**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAtf4vn](https://aka.ms/AAtf4vn)
+
+<img src="Images/LG233.png" width = "55%" />
+
+---
+
+<SPAN ID = 'LG234'/>编号：LG234  
+日期：2024 年 11 月 9 日  
+版本：Canary 27744  
+**问题**：**在 ARM 设备中使用 GitHub Desktop 应用时，无法执行 Push 等操作**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAteiz5](https://aka.ms/AAteiz5)
+
+<img src="Images/LG234.png" width = "55%" />
+
+---
+
+<SPAN ID = 'LG235'/>编号：LG235  
+日期：2024 年 11 月 9 日  
+版本：Canary 27744  
+**问题**：**通过 “ms-settings:windowsinsider” 进入菜单时，顶部缺失部分文本**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAtebjq](https://aka.ms/AAtebjq)
+
+<img src="Images/LG235.png" width = "50%" />
+
+---
+
+<SPAN ID = 'LG236'/>编号：LG236  
+日期：2024 年 11 月 9 日  
+版本：ALL  
+**问题**：**任务管理器可能显示应用和进程的数量为 0**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAtepq7](https://aka.ms/AAtepq7)
+
 <SPAN ID = '2'/>
 
 ## ✦ Canary - 归档 (已做出更改) ✦
@@ -136,6 +183,17 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 > &emsp;记录 Microsoft 已做出更改 0 - 7 天的问题 & 超过 14 天无新增赞成票的问题。
 >
 > &emsp;无特殊情况，问题归档后不再更新。
+
+---
+
+<SPAN ID = 'LG232'/>编号：LG232  
+日期：2024 年 11 月 9 日  
+版本：ALL  
+**问题**：**无法使用 “反馈中心” 应用查看中文反馈**。  
+状态：ALL - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAte3og](https://aka.ms/AAte3og)
+
+<img src="Images/LG232.jpg" width = "50%" />
 
 ---
 

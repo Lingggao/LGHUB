@@ -226,8 +226,17 @@ https://aka.ms/AAs50mw
 I can't use disk clean up to delete the latest Windows Update files in the Dev Channel or latest Release Preview builds - it always still shows... ×
 https://aka.ms/AAsmgew
 
-Roblox crashes on launch in Build 27718+ ✓
-https://aka.ms/AAsonct
+Canary 27744 - 通过 “ms-settings:windowsinsider” 链接进入设置菜单时，页面顶部缺失部分文本。✓
+https://aka.ms/AAtebjq
 
-NVIDIA drivers do not work after upgrading to Build 27723, shows error 43 ✓
-https://aka.ms/AAsphpb
+Canary 27744 - 在 ARM 设备中使用 GitHub Desktop 应用时，无法执行 Push / Pull / Clone 等操作。✓
+https://aka.ms/AAteiz5
+
+无法通过 Microsoft Store 更新 “Microsoft 必应的 Web 搜索” 应用，0x80073CFB。✓
+https://aka.ms/AAtebjt
+
+10 月 31 日 - 无法使用 “反馈中心” 应用查看中文反馈。✓
+https://aka.ms/AAte3og
+
+Task Manager shows 0 for the count of apps & processes after the latest Windows 11 update ✓
+https://aka.ms/AAtepq7
