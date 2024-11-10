@@ -24,27 +24,28 @@
 
 [反馈中心](https://aka.ms/fbh) | [深入了解反馈](https://learn.microsoft.com/zh-cn/windows-insider/feedback) | [Flight Hub](https://learn.microsoft.com/en-us/windows-insider/flight-hub) | Windows 预览体验计划 - [网站](https://www.microsoft.com/zh-cn/windowsinsider) · [博客](https://blogs.windows.com/windows-insider) · [X](https://twitter.com/windowsinsider) · Microsoft 社区 ([中](https://answers.microsoft.com/zh-hans/insider/forum) / [英](https://answers.microsoft.com/en-us/insider/forum))
 
+|            | [**Microsoft 电脑管家**](https://pcmanager.microsoft.com) 产品 |  [**Microsoft WowTab**](https://wowtab.microsoft.com) 产品   |
+| :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 🎖️ **推荐** | **[WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻网站** | **关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 微博** |
+|            | **Windows 预览体验计划 - [信息 · 日志 · 链接](https://answers.microsoft.com/zh-hans/insider/forum/all/windows/2a5add38-c6d9-4c9d-958d-7451f7632b1c)** | **[Windows Up-to-Date](https://wutd.crrashh.com) - Windows 实时版本** |
+
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 11 月 9 日 9:00 (UTC+8)。访问次数：6450+
+&emsp;&emsp;上次更新时间：2024 年 11 月 10 日 12:00 (UTC+8)。访问次数：6480+
 
 &emsp;&emsp;收录反馈 237 个，其中正在调查 5 个 (含[搁置](#3) 1 个)、正在处理 4 个、已修复 228 个。
 
-&emsp;&emsp;反馈更新记录：**今日更新 LG232 - 236**。- Ling 🚗 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+&emsp;&emsp;反馈更新记录：今日无更新。- Ling 🫣 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-|  🎖️ **推 荐**   | [**Microsoft 电脑管家**](https://pcmanager.microsoft.com) 产品 |  [**Microsoft WowTab**](https://wowtab.microsoft.com) 产品   |
-| :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                | **Windows 预览体验计划 - [信息 & 日志 & 链接](https://answers.microsoft.com/zh-hans/insider/forum/all/windows/2a5add38-c6d9-4c9d-958d-7451f7632b1c)** |                                                              |
-| 🏅 **友情推荐** | **[WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻博客** | **关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 微博** |
-|                | **[Windows Up-to-Date](https://wutd.crrashh.com) - Windows 实时版本** |                                                              |
+|         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
+| :------------------: | :---------------------------------: | :----------: | :------------------: |
+|        **Canary**        |                27744                |  2024/11/7  | [aka.ms/wip27744](https://blogs.windows.com/windows-insider/2024/11/06/announcing-windows-11-insider-preview-build-27744-canary-channel) |
+|       **Dev**        |              **[新]** 26120.2222              |   2024/11/9   | [aka.ms/wip-dev-11-8](https://blogs.windows.com/windows-insider/2024/11/08/announcing-windows-11-insider-preview-build-26120-2222-dev-channel) |
+|         **Beta**         | **[新]** 22635.4445 (23H2) |   2024/11/9   | [aka.ms/wip-beta-11-8](https://blogs.windows.com/windows-insider/2024/11/08/announcing-windows-11-insider-preview-build-22635-4445-beta-channel) |
+| **Release Preview**  | 26100.2161 |  2024/10/25  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5044384) |
+| **General Availability** |    26100.2033    |  2024/10/9  | [support.microsoft.com](https://support.microsoft.com/help/5044284) |
 
-|         频道         |              最新版本               | 时间 (UTC+8) |                             最新 ISO                             | 公告 |
-| :------------------: | :---------------------------------: | :----------: | :----------------------------------------------------------: | :------------------: |
-|        **Canary**        |                **[新]** 27744                |  2024/11/7  | [27718](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) | [aka.ms/wip27744](https://blogs.windows.com/windows-insider/2024/11/06/announcing-windows-11-insider-preview-build-27744-canary-channel) |
-|       **Dev**        |              **[新]** 26120.2222              |   2024/11/9   | [26100.1150](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) | [aka.ms/wip-dev-11-8](https://blogs.windows.com/windows-insider/2024/11/08/announcing-windows-11-insider-preview-build-26120-2222-dev-channel) |
-|         **Beta**         | **[新]** 22635.4445 *(23H2)* |   2024/11/9   | [22621](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) | [aka.ms/wip-beta-11-8](https://blogs.windows.com/windows-insider/2024/11/08/announcing-windows-11-insider-preview-build-22635-4445-beta-channel) |
-| **Release Preview**  | 26100.2161 |  2024/10/25  | [26100.1150](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) | [support.microsoft.com](https://support.microsoft.com/en-us/help/5044384) |
-| **General Availability** |    26100.2033    |  2024/10/9  | [下载 Windows 11](https://www.microsoft.com/zh-cn/software-download/windows11) | [support.microsoft.com](https://support.microsoft.com/help/5044284) |
+[**WIP Canary 27744 更新简报**](Canary.md) (试运行) - [往期简报](Documents/Canary_Previous.md)
 
 <img src="Images/Graph_1.png" width = "93%" />
 
