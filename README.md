@@ -45,11 +45,11 @@
 | **Release Preview**  | 26100.2161 |  2024/10/25  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5044384) |
 | **General Availability** |    26100.2033    |  2024/10/9  | [support.microsoft.com](https://support.microsoft.com/help/5044284) |
 
-[**WIP Canary 27744 更新简报**](Canary.md) (试运行) - [往期简报](Documents/Canary_Previous.md)
+[**WIP Canary 27744 更新简报**](Canary.md) (试运行) | [往期简报](Documents/Canary_Previous.md)
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_1.png)
+统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_0.png)
 
 ---
 
@@ -65,12 +65,12 @@
 | [LG231](#LG231) |         使用多个显示器时，桌面背景可能无法正常显示。         | 正在处理 |
 |     **——**      | [**Canary - 公告已知问题**](#0) **▲ \| ▼** [**Canary - 用户反馈问题**](#1) |  **——**  |
 | [LG225](#LG225) |        文件资源管理器 “...” 二级菜单无法向下方弹出。         | 正在调查 |
-| [LG233](#LG233) | **无法更新 “Microsoft 必应的 Web 搜索” 应用，0x80073CFB**。  | 正在调查 |
-| [LG234](#LG234) | **在 ARM 设备中使用 GitHub Desktop 应用时，无法执行 Push 等操作**。 | 正在调查 |
-| [LG235](#LG235) | **通过 “ms-settings:windowsinsider” 进入菜单时，顶部缺失部分文本**。 | 正在调查 |
-| [LG236](#LG236) |         **任务管理器可能显示应用和进程的数量为 0**。         | 正在处理 |
+| [LG233](#LG233) |   无法更新 “Microsoft 必应的 Web 搜索” 应用，0x80073CFB。    | 正在调查 |
+| [LG234](#LG234) | 在 ARM 设备中使用 GitHub Desktop 应用时，无法执行 Push 等操作。 | 正在调查 |
+| [LG235](#LG235) | 通过 “ms-settings:windowsinsider” 进入菜单时，顶部缺失部分文本。 | 正在调查 |
+| [LG236](#LG236) |           任务管理器可能显示应用和进程的数量为 0。           | 正在处理 |
 |     **——**      | [**Canary - 用户反馈问题**](#1) **▲ \| ▼** [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |  **——**  |
-| [LG232](#LG232) |          **无法使用 “反馈中心” 应用查看中文反馈**。          | 已修复 ✓ |
+| [LG232](#LG232) |            无法使用 “反馈中心” 应用查看中文反馈。            | 已修复 ✓ |
 | [LG229](#LG229) | **[NVIDIA 显卡]** 电脑黑屏 / 显示器无响应 / 驱动程序无法正常工作。 | 已修复 ✓ |
 | [LG230](#LG230) |      电脑绿屏，显示 PAGE_FAULT_IN_NONPAGED_AREA 错误。       | 已修复 ✓ |
 | [LG222](#LG222) | 表情符号面板 & 剪贴板历史记录无法在部分窗口内 (如注册表) 打开。 | 已修复 ✓ |
