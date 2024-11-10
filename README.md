@@ -31,13 +31,13 @@
 
 ## ✦ 总览 ✦
 
-&emsp;&emsp;上次更新时间：2024 年 11 月 10 日 12:00 (UTC+8)。访问次数：6480+
+上次更新时间：2024 年 11 月 10 日 12:00 (UTC+8)。访问次数：6480+
 
-&emsp;&emsp;收录反馈 237 个，其中正在调查 5 个 (含[搁置](#3) 1 个)、正在处理 4 个、已修复 228 个。
+收录反馈 237 个，其中正在调查 5 个 (含[搁置](#3) 1 个)、正在处理 4 个、已修复 228 个。
 
-&emsp;&emsp;反馈更新记录：今日无更新。- Ling 🫣 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：今日无更新。- Ling 🫣 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-&emsp;&emsp;[**WIP Canary 27744 更新简报**](Canary.md) (试运行) | [往期简报](Documents/Canary_Previous.md)
+[**WIP Canary 27744 更新简报**](Canary.md) (试运行) | [往期简报](Documents/Canary_Previous.md)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
@@ -49,7 +49,7 @@
 
 <img src="Images/Graph_0.png" width = "93%" />
 
-&emsp;&emsp;统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_0.png)
+统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_0.png)
 
 ---
 
