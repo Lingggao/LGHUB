@@ -4,13 +4,13 @@
 
 > [!TIP]
 >
-> &emsp;由 Ling Gao 撰写，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 著，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励 Insiders 阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2024/11/06/announcing-windows-11-insider-preview-build-27744-canary-channel)、[中文更新公告](https://aka.ms/AAtefwg)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2024/11/06/announcing-windows-11-insider-preview-build-27744-canary-channel)、[中文更新公告](https://aka.ms/AAtefwg)。
 
 ## 一、新功能
 
-1. 预览 Prism (适用于 ARM 架构的 Windows 设备模拟器) 重要功能更新。支持更多 CPU 功能，可运行更多 64 位 x86 (x64) 应用。过去因 CPU 要求无法运行的一些游戏或应用将能通过 Prism 运行。
+1. 预览 Prism (适用于 ARM 架构的 Windows 设备模拟器) 重要功能更新。支持更多 CPU 功能，可运行更多 64 位 x86 (x64) 应用。过去因 CPU 要求而无法运行的一些游戏或应用将能通过 Prism 运行。
 
 <img src="Images/27744_3.png" width = "60%" />
 
