@@ -37,7 +37,7 @@
 
 反馈更新记录：今日无更新。- Ling 🫣 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-[**WIP Canary 27744 更新简报**](Canary.md) (试运行) | [往期简报](Documents/Canary_Previous)
+[**WIP Canary 27749 更新简报**](Canary.md) (试运行) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |

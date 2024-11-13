@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27744 更新简报
+# WIP Canary 27749 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 著，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2024/11/06/announcing-windows-11-insider-preview-build-27744-canary-channel)、[中文更新公告](https://aka.ms/AAtefwg)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2024/11/13/announcing-windows-11-insider-preview-build-27749-canary-channel)、[中文更新公告 (暂无)]()。
 
 ## 一、新功能
 
@@ -27,13 +27,13 @@
 
 ## 三、修复 & 已知问题
 
-详见[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见官方原文和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 ---
 
 WIP 往期简报
 
-[Canary 27###]() · [Canary 27744]()
+[Canary 27749 (本期)](Canary.md) · [Canary 27744](Documents/Canary_Previous/Canary 27744.md)
 
 ---
 
