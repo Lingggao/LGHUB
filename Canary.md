@@ -22,11 +22,7 @@
 
 ---
 
-WIP 往期简报
-
-[Canary 27749 (本期)](Canary.md) · [Canary 27744](Documents\/Canary_Previous\/Canary 27744.md)
-
----
+[**WIP 往期简报**](Documents/Canary_Previous)
 
 [回到顶部](#HEAD)
 
