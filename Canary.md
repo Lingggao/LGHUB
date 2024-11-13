@@ -22,7 +22,7 @@
 
 ---
 
-[**WIP 往期简报**](Documents/Canary_Previous)
+[**WIP Canary 往期简报**](Documents/Canary_Previous)
 
 [回到顶部](#HEAD)
 
