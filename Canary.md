@@ -4,9 +4,9 @@
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2024/11/14)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2024/11/13/announcing-windows-11-insider-preview-build-27749-canary-channel)、[中文更新公告 (暂无)]()。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2024/11/13/announcing-windows-11-insider-preview-build-27749-canary-channel)、[中文更新公告]() (暂无)。
 
 ## 一、新功能
 
@@ -21,19 +21,23 @@
 
 ## 三、修复 & 已知问题
 
-详见官方原文和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2024/11/13/announcing-windows-11-insider-preview-build-27749-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “任务管理器可能显示应用和进程的数量为 0” 的问题。
+1. 修复了 “任务管理器显示应用和进程的数量为 0” 的问题。
 2. 修复了 “在开机或睡眠后音量变为 100%” 的问题。
 3. 修复了 “设置 > 隐私和安全性菜单中有空白选项” 的问题。
-4. 修复了 “在 ARM 设备中无法使用 Git (GitHub Desktop)” 的问题。
+4. 修复了 “无法在 ARM 设备中使用 Git (GitHub Desktop)” 的问题。
 5. 修复了 “KERNEL_MODE_HEAP_CORRUPTION 绿屏” 的问题。
 
----
+谢谢，
+
+Ling
 
 [**WIP Canary 往期简报**](Documents/Canary_Previous)
+
+---
 
 [回到顶部](#HEAD)
 
