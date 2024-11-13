@@ -10,20 +10,11 @@
 
 ## 一、新功能
 
-1. 预览 Prism (适用于 ARM 架构的 Windows 设备模拟器) 重要功能更新。支持更多 CPU 功能，可运行更多 64 位 x86 (x64) 应用。过去因 CPU 要求而无法运行的一些游戏或应用将能通过 Prism 运行。
 
-<img src="Images/27744_3.png" width = "60%" />
 
 ## 二、变更和改进
 
-1. 推出 “游戏手柄” 屏幕键盘布局。
 
-<img src="Images/27744_1.png" width = "60%" />
-
-2. 优化了任务管理器。
-3. 设置菜单 “分离虚拟硬盘 (VHD/VHDx)” 按钮回归。
-
-<img src="Images/27744_2.png" width = "40%" />
 
 ## 三、修复 & 已知问题
 
@@ -33,7 +24,7 @@
 
 WIP 往期简报
 
-[Canary 27749 (本期)](Canary.md) · [Canary 27744](Documents/Canary_Previous/Canary 27744.md)
+[Canary 27749 (本期)](Canary.md) · [Canary 27744](Documents\/Canary_Previous\/Canary 27744.md)
 
 ---
 
