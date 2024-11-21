@@ -1,35 +1,43 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27749 更新简报
+# WIP Canary 27754 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2024/11/14)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2024/11/21)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2024/11/13/announcing-windows-11-insider-preview-build-27749-canary-channel)、[中文更新公告]() (暂无)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2024/11/20/announcing-windows-11-insider-preview-build-27754-canary-channel)、[中文更新公告]() (暂无)。
 
 ## 一、新功能
 
-无
+1. 现代化的 Windows Hello —— 直观、无缝、现代视觉设计。
+   - 新的 Windows Hello 图标。
+   <img src="Images/27754_1.png" width = "35%" />
+   - 更快速、清晰的视觉交流。
+   <img src="Images/27754_2.png" width = "55%" />
+   - 更直观、简洁的 Windows 安全凭据。
+   <img src="Images/27754_3.png" width = "65%" />
 
 ## 二、变更和改进
 
-1. 优化了 “讲述人” 辅助功能。
+1. 开始菜单和任务栏的跳转列表支持按住 Shift + Ctrl 以管理员身份运行。
+2. 改进了任务栏中的应用的鼠标悬停预览，同时优化了动画。
 
-   - 添加 “讲述人 + Ctrl + X” 快捷键。
-   - 可在 NEW Outlook 应用中自动阅读邮件。
+<img src="Images/27754_4.png" width = "65%" />
+
+3. 试用更简化的系统托盘 —— 缩短日期时间、隐藏通知图标。
+
+<img src="Images/27754_5.png" width = "50%" />
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2024/11/13/announcing-windows-11-insider-preview-build-27749-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2024/11/20/announcing-windows-11-insider-preview-build-27754-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “任务管理器显示应用和进程的数量为 0” 的问题。
-2. 修复了 “在开机或睡眠后音量变为 100%” 的问题。
-3. 修复了 “设置 > 隐私和安全性菜单中有空白选项” 的问题。
-4. 修复了 “无法在 ARM 设备中使用 Git (GitHub Desktop)” 的问题。
-5. 修复了 “KERNEL_MODE_HEAP_CORRUPTION 绿屏” 的问题。
+1. 修复了 “启动菜单中出现重复的 Windows 条目” 的问题。
+2. 
+3. 修复了 “SYSTEM_THREAD_EXCEPTION_NOT_HANDLED 绿屏” 的问题。
 
 谢谢，
 
