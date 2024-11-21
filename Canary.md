@@ -13,10 +13,16 @@
 1. 现代化的 Windows Hello —— 直观、无缝、现代视觉设计。
    - 新的 Windows Hello 图标。
    <img src="Images/27754_1.png" width = "35%" />
+   
+   
+   
    - 更快速、清晰的视觉交互。
-   <img src="Images/27754_2.png" width = "55%" />
+     <img src="Images/27754_2.png" width = "55%" />
+   
+   
+   
    - 更简洁、直观的 Windows 安全凭据。
-   <img src="Images/27754_3.png" width = "65%" />
+     <img src="Images/27754_3.png" width = "65%" />
 
 ## 二、变更和改进
 
