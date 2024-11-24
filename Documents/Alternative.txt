@@ -226,17 +226,26 @@ https://aka.ms/AAs50mw
 I can't use disk clean up to delete the latest Windows Update files in the Dev Channel or latest Release Preview builds - it always still shows... ×
 https://aka.ms/AAsmgew
 
-Canary 27744 - 通过 “ms-settings:windowsinsider” 链接进入设置菜单时，页面顶部缺失部分文本。✓
-https://aka.ms/AAtebjq
+Trying to use live captions in the latest Dev and Canary Channel builds just crashes ✓
+https://aka.ms/AAtjs6l
 
-Canary 27744 - 在 ARM 设备中使用 GitHub Desktop 应用时，无法执行 Push / Pull / Clone 等操作。✓
-https://aka.ms/AAteiz5
+There's a new PAGE_FAULT_IN_NON PAGED_AREA green screen playing games and other things with Build 27754 ✓
+https://aka.ms/AAtji9a
 
-无法通过 Microsoft Store 更新 “Microsoft 必应的 Web 搜索” 应用，0x80073CFB。✓
-https://aka.ms/AAtebjt
+Cannot start warthunder with easy anti cheat after updated to build 27754 ✓
+https://aka.ms/AAtjs8a
 
-10 月 31 日 - 无法使用 “反馈中心” 应用查看中文反馈。✓
-https://aka.ms/AAte3og
+Log in Options in LogonUI.exe crashes wile Administrator Protection is enabled ×
+https://aka.ms/AAtjs8c
 
-Task Manager shows 0 for the count of apps & processes after the latest Windows 11 update ✓
-https://aka.ms/AAtepq7
+Cannot sign in with passkey on latest canary version ✓
+https://aka.ms/AAtji9i
+
+Unable to save or create passkey by Windows Hello ✓
+https://aka.ms/AAtji9j
+
+I'm on Windows 11 23H2, which is still supported, why do I suddenly see a message saying that this is End of Service ×
+https://aka.ms/AAtjs8g
+
+After upgrading to the latest Windows 11 builds / attempting to upgrade and rolling back, I unexpectedly now have 2 duplicate boot entries for... ×
+https://aka.ms/AAtj3b8

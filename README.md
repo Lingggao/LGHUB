@@ -31,25 +31,25 @@
 
 ## 总览
 
-上次更新时间：2024 年 11 月 22 日 2:00 (UTC+8)。访问次数：6780+
+上次更新时间：2024 年 11 月 25 日 3:00 (UTC+8)。访问次数：6830+
 
-收录反馈 241 个，其中正在调查 2 个 (含[搁置](#3) 1 个)、正在处理 5 个、已修复 234 个。
+收录反馈 247 个，其中正在调查 6 个 (含[搁置](#3) 1 个)、正在处理 7 个、已修复 234 个。
 
-反馈更新记录：**今日更新反馈状态**。- Ling 😕 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG241 - 246**。- Ling 🤷‍♂️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27754 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                **[新]** 27754                |  2024/11/21  | [aka.ms/wip27754](https://blogs.windows.com/windows-insider/2024/11/20/announcing-windows-11-insider-preview-build-27754-canary-channel) |
-|       Dev        |              26120.2222              |   2024/11/9   | [aka.ms/wip-dev-11-8](https://blogs.windows.com/windows-insider/2024/11/08/announcing-windows-11-insider-preview-build-26120-2222-dev-channel) |
-|         Beta         | 22635.4510 (23H2) |   2024/11/16   | [aka.ms/wip-beta-11-15](https://blogs.windows.com/windows-insider/2024/11/15/announcing-windows-11-insider-preview-build-22635-4510-beta-channel) |
-| Release Preview  | 26100.2448 |  2024/11/15  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2024/11/14/releasing-windows-11-build-26100-2448-to-the-release-preview-channel) |
+|        Canary        |                27754                |  2024/11/21  | [aka.ms/wip27754](https://blogs.windows.com/windows-insider/2024/11/20/announcing-windows-11-insider-preview-build-27754-canary-channel) |
+|       Dev        |              **[新]** 26120.2415              |   2024/11/23   | [aka.ms/wip-dev-11-22](https://blogs.windows.com/windows-insider/2024/11/22/previewing-recall-with-click-to-do-on-copilot-pcs-with-windows-insiders-in-the-dev-channel) |
+|         Beta         | **[新]** 22635.4515 (23H2) |   2024/11/23   | [aka.ms/wip-beta-11-22](https://blogs.windows.com/windows-insider/2024/11/22/announcing-windows-11-insider-preview-build-22635-4515-beta-channel) |
+| Release Preview  | 26100.2454 |  2024/11/22  | [support.microsoft.com](https://support.microsoft.com/zh-cn/help/5046740) |
 | General Availability |    26100.2314    |  2024/11/13  | [support.microsoft.com](https://support.microsoft.com/zh-cn/help/5046617) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
-统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_0.png)
+统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_1.png)
 
 ---
 
@@ -62,16 +62,22 @@
 |       ——        |              [**Canary - 公告已知问题**](#0) ▼               |    ——    |
 | [LG212](#LG212) | **[Copilot+ 电脑]** 加入 Canary 频道后，PIN 和生物识别信息将丢失。 | 正在处理 |
 | [LG227](#LG227) |        安装 Canary 版本时仍可能出现 0xC1900101 回退。        | 正在处理 |
-| [LG239](#LG239) |              **无法显示窗口边框强调色和阴影**。              | 正在处理 |
-| [LG240](#LG240) |                 **无法关闭窗口启动等动画**。                 | 正在处理 |
+| [LG239](#LG239) |                无法显示窗口边框强调色和阴影。                | 正在处理 |
+| [LG240](#LG240) |                   无法关闭窗口启动等动画。                   | 正在处理 |
 | [LG231](#LG231) |         使用多个显示器时，桌面背景可能无法正常显示。         | 正在处理 |
+| [LG241](#LG241) |             **讲述人在使用部分自然语音时崩溃**。             | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
 | [LG225](#LG225) |        文件资源管理器 “...” 二级菜单无法向下方弹出。         | 正在调查 |
+| [LG242](#LG242) |            **实时字幕功能崩溃 / 无法正常使用**。             | 正在调查 |
+| [LG243](#LG243) |       **电脑出现 PAGE_FAULT_IN_NON PAGED_AREA 绿屏**。       | 正在处理 |
+| [LG244](#LG244) |         **无法启动 “战争雷霆” (War Thunder) 游戏**。         | 正在调查 |
+| [LG245](#LG245) |               **无法使用密码登录至 Windows**。               | 正在调查 |
+| [LG246](#LG246) | **在 Chrome 浏览器中保存密码时，Windows 安全中心显示错误**。 | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
-| [LG237](#LG237) |                  **部分远程连接软件崩溃**。                  | 已修复 ✓ |
-| [LG238](#LG238) | **此版本在欧洲经济区 (EEA) 适用《数字市场法》方面存在问题**。 | 已修复 ✓ |
-| [LG233](#LG233) | **无法更新 “Microsoft 必应的 Web 搜索” 应用，0x80073CFB**。  | 已修复 ✓ |
-| [LG235](#LG235) | **通过 “ms-settings:windowsinsider” 进入菜单时，顶部缺失部分文本**。 | 已修复 ✓ |
+| [LG237](#LG237) |                    部分远程连接软件崩溃。                    | 已修复 ✓ |
+| [LG238](#LG238) |  此版本在欧洲经济区 (EEA) 适用《数字市场法》方面存在问题。   | 已修复 ✓ |
+| [LG233](#LG233) |   无法更新 “Microsoft 必应的 Web 搜索” 应用，0x80073CFB。    | 已修复 ✓ |
+| [LG235](#LG235) | 通过 “ms-settings:windowsinsider” 进入菜单时，顶部缺失部分文本。 | 已修复 ✓ |
 |       ——        | *部分未收录反馈详见 [WIP Canary 27754 更新简报](Canary.md)*  |    ——    |
 |       ——        |       ▲ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2)        |    ——    |
 |       ——        | [**Canary - 归档 (已做出更改 >7 天)**](7+.md) \| [**Canary - 搁置 (未做出更改)**](#3) |    ——    |
@@ -127,6 +133,14 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 **问题**：**使用多个显示器时，桌面背景可能无法正常显示**。  
 状态：<img src="Images/W.png" width = "9%" />
 
+---
+
+<SPAN ID = 'LG241'/>编号：LG241  
+日期：2024 年 11 月 25 日  
+版本：Canary 27754  
+**问题**：**讲述人在使用部分自然语音时崩溃**。  
+状态：<img src="Images/W.png" width = "9%" />
+
 <SPAN ID = '1'/>
 
 ## Canary - 用户反馈问题
@@ -142,9 +156,54 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 版本：Canary 27718 - 27754  
 **问题**：**文件资源管理器 “...” 二级菜单无法向下方弹出**。  
 状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAspbvg](https://aka.ms/AAspbvg)
+典型反馈：[aka.ms/AAspbvg](https://aka.ms/AAspbvg) <img src="Images/M.png" width = "14%" />
 
 <img src="Images/LG225.png" width = "55%" />
+
+---
+
+<SPAN ID = 'LG242'/>编号：LG242  
+日期：2024 年 11 月 25 日  
+版本：Canary 27754  
+**问题**：**实时字幕功能崩溃 / 无法正常使用**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAtjs6l](https://aka.ms/AAtjs6l) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG243'/>编号：LG243  
+日期：2024 年 11 月 25 日  
+版本：Canary 27754  
+**问题**：**电脑出现 PAGE_FAULT_IN_NON PAGED_AREA 绿屏**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAtji9a](https://aka.ms/AAtji9a) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG244'/>编号：LG244  
+日期：2024 年 11 月 25 日  
+版本：Canary 27754  
+**问题**：**无法启动 “战争雷霆” (War Thunder) 游戏**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAtjs8a](https://aka.ms/AAtjs8a)
+
+---
+
+<SPAN ID = 'LG245'/>编号：LG245  
+日期：2024 年 11 月 25 日  
+版本：Canary 27754  
+**问题**：**无法使用密码登录至 Windows**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAtji9i](https://aka.ms/AAtji9i)
+
+---
+
+<SPAN ID = 'LG246'/>编号：LG246  
+日期：2024 年 11 月 25 日  
+版本：Canary 27754  
+**问题**：**在 Chrome 浏览器中保存密码时，Windows 安全中心显示错误**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAtji9j](https://aka.ms/AAtji9j)
 
 <SPAN ID = '2'/>
 
