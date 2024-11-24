@@ -4,8 +4,6 @@
 <img src="Images/WCC2024_2.png" width = "12%" /> <img src="Images/LING_2.png" width = "25%" /> <img src="Images/WCC2024_1.png" width = "12%" />
 </div>
 
-
-
 <h1 align="center">灵糕中心 (Linggao Hub)</h1>
 
 [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB) (GitHub)
