@@ -226,26 +226,20 @@ https://aka.ms/AAs50mw
 I can't use disk clean up to delete the latest Windows Update files in the Dev Channel or latest Release Preview builds - it always still shows... ×
 https://aka.ms/AAsmgew
 
-Trying to use live captions in the latest Dev and Canary Channel builds just crashes ✓
-https://aka.ms/AAtjs6l
-
-There's a new PAGE_FAULT_IN_NON PAGED_AREA green screen playing games and other things with Build 27754 ✓
-https://aka.ms/AAtji9a
-
-Cannot start warthunder with easy anti cheat after updated to build 27754 ✓
-https://aka.ms/AAtjs8a
-
-Log in Options in LogonUI.exe crashes wile Administrator Protection is enabled ×
+Log in Options in LogonUI.exe crashes wile Administrator Protection is enabled ✓
 https://aka.ms/AAtjs8c
-
-Cannot sign in with passkey on latest canary version ✓
-https://aka.ms/AAtji9i
-
-Unable to save or create passkey by Windows Hello ✓
-https://aka.ms/AAtji9j
 
 I'm on Windows 11 23H2, which is still supported, why do I suddenly see a message saying that this is End of Service ×
 https://aka.ms/AAtjs8g
 
 After upgrading to the latest Windows 11 builds / attempting to upgrade and rolling back, I unexpectedly now have 2 duplicate boot entries for... ×
 https://aka.ms/AAtj3b8
+
+Explorer.exe crashes when hovering over or right clicking apps in taskbar in Build 27754, after the taskbar preview animations work ✓
+https://aka.ms/AAtk3o6
+
+Games with easy anticheat, like war thunder, do not launch in Build 27754 ✓
+https://aka.ms/AAtkikf
+
+The corners of the updated taskbar previews are improperly rendered. ✓
+https://aka.ms/AAtir0j
