@@ -1,50 +1,32 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27754 更新简报
+# WIP Canary 27758 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2024/11/21)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2024/12/5)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2024/11/20/announcing-windows-11-insider-preview-build-27754-canary-channel)、[中文更新公告](https://aka.ms/AAtjg6y)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2024/12/04/announcing-windows-11-insider-preview-build-27758-canary-channel)、[中文更新公告]() (暂无)。
 
 ## 一、新功能
 
-1. 现代化的 Windows Hello —— 直观、无缝、现代视觉设计。
-
-- 新的 Windows Hello 图标。
-
-<img src="Images/27754_1.png" width = "35%" />
-
-- 更快速、清晰的视觉交互。
-
-<img src="Images/27754_2.png" width = "55%" />
-
-- 更简洁、直观的 Windows 安全凭据。
-
-<img src="Images/27754_3.png" width = "65%" />
+无
 
 ## 二、变更和改进
 
-1. 开始菜单和任务栏的跳转列表支持按住 Shift + Ctrl 键以管理员身份运行。
-2. 改进了任务栏中应用的鼠标悬停预览，同时优化了动画。
-
-<img src="Images/27754_4.png" width = "65%" />
-
-3. 试用简化的系统托盘 —— 缩短日期时间、隐藏通知图标。
-
-<img src="Images/27754_5.png" width = "50%" />
+无
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2024/11/20/announcing-windows-11-insider-preview-build-27754-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2024/12/04/announcing-windows-11-insider-preview-build-27758-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “启动菜单中出现重复的 Windows 条目” 的问题。
-2. 修复了 “文件资源管理器的搜索框超出窗口末尾” 的问题。
-3. 修复了 “部分远程连接软件崩溃” 的问题。
-4. 修复了 “SYSTEM_THREAD_EXCEPTION_NOT_HANDLED 绿屏” 的问题。
+1. 修复了 “文件资源管理器的搜索框从窗口末端飞出” 的问题。
+2. 修复了 “右键点击任务栏中的应用时 Explorer.exe 崩溃” 的问题。
+3. 修复了 “使用多个显示器时无法显示桌面背景” 的问题。
+4. 修复了 “讲述人在使用部分自然语音时崩溃” 的问题。
+5. 修复了 “USB 音频设备闲置 1 分钟后进入睡眠状态且无法唤醒” 的问题。
 
 谢谢，
 
