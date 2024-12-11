@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27758 更新简报
+# WIP Canary 27764 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2024/12/5)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2024/12/12)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2024/12/04/announcing-windows-11-insider-preview-build-27758-canary-channel)、[中文更新公告]() (暂无)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2024/12/11/announcing-windows-11-insider-preview-build-27764-canary-channel)、[中文更新公告]() (暂无)。
 
 ## 一、新功能
 
@@ -14,19 +14,26 @@
 
 ## 二、变更和改进
 
-无
+1. 右键点击固定在开始菜单中的应用时将显示跳转列表。
+
+<img src="Images/27764_1.png" width = "30%" />
+
+2. 优化了 “动态光效” 功能。
+3. 全屏模式下将隐藏中文和日文输入法的工具栏。
+4. 优化了 “讲述人” 功能。
+5. 优化了 “语音转文本” 和 “文本转语音” 功能。
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2024/12/04/announcing-windows-11-insider-preview-build-27758-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2024/12/11/announcing-windows-11-insider-preview-build-27764-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “文件资源管理器的搜索框从窗口末端飞出” 的问题。
-2. 修复了 “右键点击任务栏中的应用时 Explorer.exe 崩溃” 的问题。
-3. 修复了 “使用多个显示器时无法显示桌面背景” 的问题。
-4. 修复了 “讲述人在使用部分自然语音时崩溃” 的问题。
-5. 修复了 “USB 音频设备闲置 1 分钟后进入睡眠状态且无法唤醒” 的问题。
+1. 修复了 “PAGE_FAULT_IN_NONPAGED_AREA 绿屏” 的问题。
+2. 修复了 “文件资源管理器挂起” 的问题。
+3. 修复了 “鼠标指针变为黑框” 的问题。
+4. 修复了 “机械硬盘在任务管理器中显示为 SSD” 的问题。
+5. 修复了 “Excel 文档挂起” 的问题。
 
 谢谢，
 

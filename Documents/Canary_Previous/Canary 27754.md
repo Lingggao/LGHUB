@@ -14,26 +14,26 @@
 
 - 新的 Windows Hello 图标。
 
-<img src="Images/27754_1.png" width = "35%" />
+<img src="https://github.com/Lingggao/LGHUB/blob/main/Images/27754_1.png?raw=true" width = "35%" />
 
 - 更快速、清晰的视觉交互。
 
-<img src="Images/27754_2.png" width = "55%" />
+<img src="https://github.com/Lingggao/LGHUB/blob/main/Images/27754_2.png?raw=true" width = "55%" />
 
 - 更简洁、直观的 Windows 安全凭据。
 
-<img src="Images/27754_3.png" width = "65%" />
+<img src="https://github.com/Lingggao/LGHUB/blob/main/Images/27754_3.png?raw=true" width = "65%" />
 
 ## 二、变更和改进
 
 1. 开始菜单和任务栏的跳转列表支持按住 Shift + Ctrl 键以管理员身份运行。
 2. 改进了任务栏中应用的鼠标悬停预览，同时优化了动画。
 
-<img src="Images/27754_4.png" width = "65%" />
+<img src="https://github.com/Lingggao/LGHUB/blob/main/Images/27754_4.png?raw=true" width = "65%" />
 
 3. 试用简化的系统托盘 —— 缩短日期时间、隐藏通知图标。
 
-<img src="Images/27754_5.png" width = "50%" />
+<img src="https://github.com/Lingggao/LGHUB/blob/main/Images/27754_5.png?raw=true" width = "50%" />
 
 ## 三、修复 & 已知问题
 

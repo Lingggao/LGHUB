@@ -29,21 +29,24 @@
 
 ## 总览
 
-上次更新时间：2024 年 12 月 5 日 23:00 (UTC+8)。访问次数：6960+
+| 🎊 庆祝灵糕中心成立一周年 🎉 |
+| :------------------------: |
+
+上次更新时间：2024 年 12 月 12 日 3:00 (UTC+8)。访问次数：7020+
 
 收录反馈 251 个，其中正在调查 7 个 (含[搁置](#3) 1 个)、正在处理 5 个、已修复 239 个。
 
-反馈更新记录：**今日更新反馈状态**。- Ling 🥱 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新反馈状态**。- Ling 🥳 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-[**WIP Canary 27758 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
+[**WIP Canary 27764 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                **[新]** 27758                |  2024/12/5  | [aka.ms/wip27758](https://blogs.windows.com/windows-insider/2024/12/04/announcing-windows-11-insider-preview-build-27758-canary-channel) |
-|       Dev        |              26120.2415              |   2024/11/23   | [aka.ms/wip-dev-11-22](https://blogs.windows.com/windows-insider/2024/11/22/previewing-recall-with-click-to-do-on-copilot-pcs-with-windows-insiders-in-the-dev-channel) |
-|         Beta         | 22635.4515 (23H2) |   2024/11/23   | [aka.ms/wip-beta-11-22](https://blogs.windows.com/windows-insider/2024/11/22/announcing-windows-11-insider-preview-build-22635-4515-beta-channel) |
+|        Canary        |                **[新]** 27764                |  2024/12/12  | [aka.ms/wip27764](https://blogs.windows.com/windows-insider/2024/12/11/announcing-windows-11-insider-preview-build-27764-canary-channel) |
+|       Dev        |              26120.2510              |   2024/12/7   | [aka.ms/wip-dev-12-6](https://blogs.windows.com/windows-insider/2024/12/06/previewing-more-copilot-experiences-with-windows-insiders-in-the-dev-channel) |
+|         Beta         | 22635.4580 (23H2) |   2024/12/7   | [aka.ms/wip-beta-12-6](https://blogs.windows.com/windows-insider/2024/12/06/announcing-windows-11-insider-preview-build-22635-4580-beta-channel) |
 | Release Preview  | 26100.2454 |  2024/11/22  | [support.microsoft.com](https://support.microsoft.com/zh-cn/help/5046740) |
-| General Availability |    26100.2314    |  2024/11/13  | [support.microsoft.com](https://support.microsoft.com/zh-cn/help/5046617) |
+| General Availability |    **[新]** 26100.2605    |  2024/12/11  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5048667) |
 
 <img src="Images/Graph_1.png" width = "93%" />
 
@@ -62,7 +65,7 @@
 | [LG227](#LG227) |        安装 Canary 版本时仍可能出现 0xC1900101 回退。        | 正在处理 |
 | [LG239](#LG239) |                无法显示窗口边框强调色和阴影。                | 正在处理 |
 | [LG240](#LG240) |                   无法关闭窗口启动等动画。                   | 正在处理 |
-| [LG243](#LG243) |       **电脑出现 PAGE_FAULT_IN_NONPAGED_AREA 绿屏**。        | 正在处理 |
+| [LG243](#LG243) |         电脑出现 PAGE_FAULT_IN_NONPAGED_AREA 绿屏。          | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
 | [LG225](#LG225) |        文件资源管理器 “...” 二级菜单无法向下方弹出。         | 正在调查 |
 | [LG242](#LG242) |              实时字幕功能崩溃 / 无法正常使用。               | 正在调查 |
@@ -71,12 +74,12 @@
 | [LG248](#LG248) |       无法启动使用 Easy Anti-Cheat 反作弊服务的游戏。        | 正在调查 |
 | [LG250](#LG250) |               任务栏预览窗口的边角处渲染异常。               | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
-| [LG231](#LG231) |       **使用多个显示器时，桌面背景可能无法正常显示**。       | 已修复 ✓ |
-| [LG241](#LG241) |             **讲述人在使用部分自然语音时崩溃**。             | 已修复 ✓ |
-| [LG245](#LG245) |               **无法使用密码登录至 Windows**。               | 已修复 ✓ |
-| [LG246](#LG246) | **在 Chrome 浏览器中保存密码时，Windows 安全中心显示错误**。 | 已修复 ✓ |
-| [LG249](#LG249) | **鼠标悬停或右键点击任务栏中的应用时，Explorer.exe 崩溃**。  | 已修复 ✓ |
-|       ——        | *部分未收录反馈详见 [WIP Canary 27758 更新简报](Canary.md)*  |    ——    |
+| [LG231](#LG231) |         使用多个显示器时，桌面背景可能无法正常显示。         | 已修复 ✓ |
+| [LG241](#LG241) |               讲述人在使用部分自然语音时崩溃。               | 已修复 ✓ |
+| [LG245](#LG245) |                 无法使用密码登录至 Windows。                 | 已修复 ✓ |
+| [LG246](#LG246) |   在 Chrome 浏览器中保存密码时，Windows 安全中心显示错误。   | 已修复 ✓ |
+| [LG249](#LG249) |   鼠标悬停或右键点击任务栏中的应用时，Explorer.exe 崩溃。    | 已修复 ✓ |
+|       ——        | *部分未收录反馈详见 [WIP Canary 27764 更新简报](Canary.md)*  |    ——    |
 |       ——        |       ▲ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2)        |    ——    |
 |       ——        | [**Canary - 归档 (已做出更改 >7 天)**](7+.md) \| [**Canary - 搁置 (未做出更改)**](#3) |    ——    |
 
