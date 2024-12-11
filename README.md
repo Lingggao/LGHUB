@@ -29,12 +29,12 @@
 
 ## 总览
 
-| 🎊 庆祝灵糕中心成立一周年 🎉 |
-| :------------------------: |
+| 🎊 热烈庆祝灵糕中心成立一周年 (2023.12.12 - 2024.12.12) 🎉 |
+| :------------------------------------------------------: |
 
-上次更新时间：2024 年 12 月 12 日 3:00 (UTC+8)。访问次数：7020+
+上次更新时间：2024 年 12 月 12 日 5:00 (UTC+8)。访问次数：7030+
 
-收录反馈 251 个，其中正在调查 7 个 (含[搁置](#3) 1 个)、正在处理 5 个、已修复 239 个。
+收录反馈 251 个，其中正在调查 4 个 (含[搁置](#3) 1 个)、正在处理 4 个、已修复 243 个。
 
 反馈更新记录：**今日更新反馈状态**。- Ling 🥳 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
@@ -48,9 +48,9 @@
 | Release Preview  | 26100.2454 |  2024/11/22  | [support.microsoft.com](https://support.microsoft.com/zh-cn/help/5046740) |
 | General Availability |    **[新]** 26100.2605    |  2024/12/11  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5048667) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_1.png)
+统计图 - 2024 年 | [1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_0.png)
 
 ---
 
@@ -65,20 +65,15 @@
 | [LG227](#LG227) |        安装 Canary 版本时仍可能出现 0xC1900101 回退。        | 正在处理 |
 | [LG239](#LG239) |                无法显示窗口边框强调色和阴影。                | 正在处理 |
 | [LG240](#LG240) |                   无法关闭窗口启动等动画。                   | 正在处理 |
-| [LG243](#LG243) |         电脑出现 PAGE_FAULT_IN_NONPAGED_AREA 绿屏。          | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
 | [LG225](#LG225) |        文件资源管理器 “...” 二级菜单无法向下方弹出。         | 正在调查 |
-| [LG242](#LG242) |              实时字幕功能崩溃 / 无法正常使用。               | 正在调查 |
 | [LG244](#LG244) |           无法启动 “战争雷霆” (War Thunder) 游戏。           | 正在调查 |
-| [LG247](#LG247) |         开启 “管理员保护” 功能时 LogonUI.exe 崩溃。          | 正在调查 |
 | [LG248](#LG248) |       无法启动使用 Easy Anti-Cheat 反作弊服务的游戏。        | 正在调查 |
-| [LG250](#LG250) |               任务栏预览窗口的边角处渲染异常。               | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
-| [LG231](#LG231) |         使用多个显示器时，桌面背景可能无法正常显示。         | 已修复 ✓ |
-| [LG241](#LG241) |               讲述人在使用部分自然语音时崩溃。               | 已修复 ✓ |
-| [LG245](#LG245) |                 无法使用密码登录至 Windows。                 | 已修复 ✓ |
-| [LG246](#LG246) |   在 Chrome 浏览器中保存密码时，Windows 安全中心显示错误。   | 已修复 ✓ |
-| [LG249](#LG249) |   鼠标悬停或右键点击任务栏中的应用时，Explorer.exe 崩溃。    | 已修复 ✓ |
+| [LG243](#LG243) |       **电脑出现 PAGE_FAULT_IN_NONPAGED_AREA 绿屏**。        | 已修复 ✓ |
+| [LG242](#LG242) |            **实时字幕功能崩溃 / 无法正常使用**。             | 已修复 ✓ |
+| [LG247](#LG247) |       **开启 “管理员保护” 功能时 LogonUI.exe 崩溃**。        | 已修复 ✓ |
+| [LG250](#LG250) |             **任务栏预览窗口的边角处渲染异常**。             | 已修复 ✓ |
 |       ——        | *部分未收录反馈详见 [WIP Canary 27764 更新简报](Canary.md)*  |    ——    |
 |       ——        |       ▲ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2)        |    ——    |
 |       ——        | [**Canary - 归档 (已做出更改 >7 天)**](7+.md) \| [**Canary - 搁置 (未做出更改)**](#3) |    ——    |
@@ -97,7 +92,7 @@
 
 <SPAN ID = 'LG212'/>编号：LG212  
 日期：2024 年 8 月 16 日  
-版本：Canary 27686 - 27758  
+版本：Canary 27686 - 27764  
 **问题**：**[Copilot+ 电脑] 加入 Canary 频道后，PIN 和生物识别信息将丢失**。  
 状态：<img src="Images/W.png" width = "9%" />  
 Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Preview 或 Retail 频道加入至 Canary 频道，Windows Hello PIN 和生物识别信息将会丢失。您将无法登录系统，显示 0xd0000225 错误和 ‘出错了，您的 PIN 不可用’ 信息。点击 ‘设置我的 PIN’ 选项应当可以重设 PIN。” *(Ling 译)* <img src="Images/M.png" width = "14%" />
@@ -106,7 +101,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG227'/>编号：LG227  
 日期：2024 年 10 月 10 日  
-版本：Canary 27723 - 27758  
+版本：Canary 27723 - 27764  
 **问题**：**安装 Canary 版本时仍可能出现 0xC1900101 回退**。  
 状态：<img src="Images/W.png" width = "9%" />
 
@@ -114,7 +109,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG239'/>编号：LG239  
 日期：2024 年 11 月 22 日  
-版本：Canary 27754 - 27758  
+版本：Canary 27754 - 27764  
 **问题**：**无法显示窗口边框强调色和阴影**。  
 状态：<img src="Images/W.png" width = "9%" />
 
@@ -122,18 +117,9 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG240'/>编号：LG240  
 日期：2024 年 11 月 22 日  
-版本：Canary 27754 - 27758  
+版本：Canary 27754 - 27764  
 **问题**：**无法关闭窗口启动等动画**。  
 状态：<img src="Images/W.png" width = "9%" />
-
----
-
-<SPAN ID = 'LG243'/>编号：LG243  
-日期：2024 年 11 月 25 日  
-版本：Canary 27754 - 27758  
-**问题**：**电脑出现 PAGE_FAULT_IN_NONPAGED_AREA 绿屏**。  
-状态：<img src="Images/W.png" width = "9%" />  
-典型反馈：[aka.ms/AAtji9a](https://aka.ms/AAtji9a) <img src="Images/M.png" width = "14%" />
 
 <SPAN ID = '1'/>
 
@@ -147,7 +133,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG225'/>编号：LG225  
 日期：2024 年 10 月 9 日  
-版本：Canary 27718 - 27758  
+版本：Canary 27718 - 27764  
 **问题**：**文件资源管理器 “...” 二级菜单无法向下方弹出**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAspbvg](https://aka.ms/AAspbvg) <img src="Images/M.png" width = "14%" />
@@ -156,48 +142,21 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 ---
 
-<SPAN ID = 'LG242'/>编号：LG242  
-日期：2024 年 11 月 25 日  
-版本：Canary 27754 - 27758  
-**问题**：**实时字幕功能崩溃 / 无法正常使用**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAtjs6l](https://aka.ms/AAtjs6l) <img src="Images/M.png" width = "14%" />
-
----
-
 <SPAN ID = 'LG244'/>编号：LG244  
 日期：2024 年 11 月 25 日  
-版本：Canary 27754 - 27758  
+版本：Canary 27754 - 27764  
 **问题**：**无法启动 “战争雷霆” (War Thunder) 游戏**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAtjs8a](https://aka.ms/AAtjs8a)
 
 ---
 
-<SPAN ID = 'LG247'/>编号：LG247  
-日期：2024 年 11 月 27 日  
-版本：Canary 27754 - 27758  
-**问题**：**开启 “管理员保护” 功能时 LogonUI.exe 崩溃**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAtjs8c](https://aka.ms/AAtjs8c)
-
----
-
 <SPAN ID = 'LG248'/>编号：LG248  
 日期：2024 年 11 月 27 日  
-版本：Canary 27754 - 27758  
+版本：Canary 27754 - 27764  
 **问题**：**无法启动使用 Easy Anti-Cheat 反作弊服务的游戏**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAtkikf](https://aka.ms/AAtkikf)
-
----
-
-<SPAN ID = 'LG250'/>编号：LG250  
-日期：2024 年 11 月 27 日  
-版本：Canary 27754 - 27758  
-**问题**：**任务栏预览窗口的边角处渲染异常**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAtir0j](https://aka.ms/AAtir0j)
 
 <SPAN ID = '2'/>
 
@@ -211,46 +170,39 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 ---
 
-<SPAN ID = 'LG231'/>编号：LG231  
-日期：2024 年 11 月 7 日  
-版本：Canary 27744 - 27754  
-**问题**：**使用多个显示器时，桌面背景可能无法正常显示**。  
-状态：Canary 27758 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓
-
----
-
-<SPAN ID = 'LG241'/>编号：LG241  
+<SPAN ID = 'LG243'/>编号：LG243  
 日期：2024 年 11 月 25 日  
-版本：Canary 27754  
-**问题**：**讲述人在使用部分自然语音时崩溃**。  
-状态：Canary 27758 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓
+版本：Canary 27754 - 27758  
+**问题**：**电脑出现 PAGE_FAULT_IN_NONPAGED_AREA 绿屏**。  
+状态：Canary 27764 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAtji9a](https://aka.ms/AAtji9a) <img src="Images/M.png" width = "14%" />
 
 ---
 
-<SPAN ID = 'LG245'/>编号：LG245  
+<SPAN ID = 'LG242'/>编号：LG242  
 日期：2024 年 11 月 25 日  
-版本：Canary 27754  
-**问题**：**无法使用密码登录至 Windows**。  
-状态：Canary 27758 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAtji9i](https://aka.ms/AAtji9i)
+版本：Canary 27754 - 27758  
+**问题**：**实时字幕功能崩溃 / 无法正常使用**。  
+状态：Canary 27764 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAtjs6l](https://aka.ms/AAtjs6l) <img src="Images/M.png" width = "14%" />
 
 ---
 
-<SPAN ID = 'LG246'/>编号：LG246  
-日期：2024 年 11 月 25 日  
-版本：Canary 27754  
-**问题**：**在 Chrome 浏览器中保存密码时，Windows 安全中心显示错误**。  
-状态：Canary 27758 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAtji9j](https://aka.ms/AAtji9j)
-
----
-
-<SPAN ID = 'LG249'/>编号：LG249  
+<SPAN ID = 'LG247'/>编号：LG247  
 日期：2024 年 11 月 27 日  
-版本：Canary 27754  
-**问题**：**鼠标悬停或右键点击任务栏中的应用时，Explorer.exe 崩溃**。  
-状态：Canary 27758 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAtk3o6](https://aka.ms/AAtk3o6)
+版本：Canary 27754 - 27758  
+**问题**：**开启 “管理员保护” 功能时 LogonUI.exe 崩溃**。  
+状态：Canary 27764 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAtjs8c](https://aka.ms/AAtjs8c)
+
+---
+
+<SPAN ID = 'LG250'/>编号：LG250  
+日期：2024 年 11 月 27 日  
+版本：Canary 27754 - 27758  
+**问题**：**任务栏预览窗口的边角处渲染异常**。  
+状态：Canary 27764 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAtir0j](https://aka.ms/AAtir0j)
 
 [Microsoft 已做出更改 >7 天的问题](7+.md)
 
