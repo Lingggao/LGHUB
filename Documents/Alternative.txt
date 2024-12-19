@@ -226,20 +226,32 @@ https://aka.ms/AAs50mw
 I can't use disk clean up to delete the latest Windows Update files in the Dev Channel or latest Release Preview builds - it always still shows... ×
 https://aka.ms/AAsmgew
 
-Log in Options in LogonUI.exe crashes wile Administrator Protection is enabled ✓
-https://aka.ms/AAtjs8c
-
 I'm on Windows 11 23H2, which is still supported, why do I suddenly see a message saying that this is End of Service ×
 https://aka.ms/AAtjs8g
 
 After upgrading to the latest Windows 11 builds / attempting to upgrade and rolling back, I unexpectedly now have 2 duplicate boot entries for... ×
 https://aka.ms/AAtj3b8
 
-Explorer.exe crashes when hovering over or right clicking apps in taskbar in Build 27754, after the taskbar preview animations work ✓
-https://aka.ms/AAtk3o6
+无法使用除系统应用之外的软件 ×
+https://aka.ms/AAtt6ws
 
-Games with easy anticheat, like war thunder, do not launch in Build 27754 ✓
-https://aka.ms/AAtkikf
+Unexpectedly seeing "Your organization used app control for business to block this app" after the latest Dev / Canary Channel update ✓
+https://aka.ms/AAtt6wu
 
-The corners of the updated taskbar previews are improperly rendered. ✓
-https://aka.ms/AAtir0j
+Build 27764 组策略编辑器和服务管理器界面显示异常 ✓
+https://aka.ms/AAtt6ww
+
+After updating to Windows 24H2, the minimize, maximize, and close buttons are missing on Settings and other apps ✓
+https://aka.ms/AAtt6wx
+
+Selecting the power icon in Start, the menu is coming up more slowly with the latest Windows 11 updates ✓
+https://aka.ms/AAtt6wy
+
+AutoHDR is causing contrast issues in some of my games with the latest Windows 11 builds - they look overexposed / colors look blown out ×
+https://aka.ms/AAtscho
+
+Grammatical Error in Windows 11 Settings: It's showing "Last Ticked" for updates instead of "Last Checked" ×
+https://aka.ms/AAtsk0y
+
+System is bugchecking every 20-30 minutes while the system is idle ✓
+https://aka.ms/AAtrp0x
