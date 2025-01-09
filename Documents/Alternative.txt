@@ -235,23 +235,23 @@ https://aka.ms/AAtj3b8
 无法使用除系统应用之外的软件 ×
 https://aka.ms/AAtt6ws
 
-Unexpectedly seeing "Your organization used app control for business to block this app" after the latest Dev / Canary Channel update ✓
-https://aka.ms/AAtt6wu
-
-Build 27764 组策略编辑器和服务管理器界面显示异常 ✓
-https://aka.ms/AAtt6ww
-
-After updating to Windows 24H2, the minimize, maximize, and close buttons are missing on Settings and other apps ✓
-https://aka.ms/AAtt6wx
-
-Selecting the power icon in Start, the menu is coming up more slowly with the latest Windows 11 updates ✓
-https://aka.ms/AAtt6wy
-
 AutoHDR is causing contrast issues in some of my games with the latest Windows 11 builds - they look overexposed / colors look blown out ×
 https://aka.ms/AAtscho
 
 Grammatical Error in Windows 11 Settings: It's showing "Last Ticked" for updates instead of "Last Checked" ×
 https://aka.ms/AAtsk0y
 
-System is bugchecking every 20-30 minutes while the system is idle ✓
-https://aka.ms/AAtrp0x
+文件资源管理器快捷栏中的全部解压缩按钮没有任何作用 ✓
+https://aka.ms/AAtxe6w
+
+Update is attempting to install outdated driver. ✓
+https://aka.ms/AAtwcvk
+
+Unable to run XBox gaming app after update. ✓
+https://aka.ms/AAtwkas
+
+Log in Options in LogonUI.exe crashes wile Administrator Protection is enabled in the latest Insider builds ✓
+https://aka.ms/AAtwkat
+
+In Build 27766, my cursor disappears in Edge Canary ✓
+https://aka.ms/AAtwcvo

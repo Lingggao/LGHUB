@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27768 更新简报
+# WIP Canary 27766 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/1/10)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/1/5)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/01/09/announcing-windows-11-insider-preview-build-27768-canary-channel)、[中文更新公告]() (暂无)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/01/03/announcing-windows-11-insider-preview-build-27766-canary-channel)、[中文更新公告](https://aka.ms/AAtvgh5)。
 
 ## 一、新功能
 
@@ -18,14 +18,13 @@
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/01/09/announcing-windows-11-insider-preview-build-27768-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/01/03/announcing-windows-11-insider-preview-build-27766-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了多个文件资源管理器相关问题。
-2. 修复了 “鼠标光标卡住” 的问题。
-3. 修复了 “玩游戏时自动 HDR 过饱和” 的问题。
-4. 修复了 “PAGE_FAULT_IN_NONPAGED_AREA 绿屏” 的问题。
+1. 修复了 “您的组织使用 App Control 阻止了此应用” 的问题。
+2. 修复了 “安装时出现 0xC1900101 回退” 的问题。
+3. 修复了 “Explorer.exe 崩溃” 的问题。
 
 谢谢，
 
