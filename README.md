@@ -22,35 +22,34 @@
 
 [反馈中心](https://aka.ms/fbh) | [深入了解反馈](https://learn.microsoft.com/zh-cn/windows-insider/feedback) | [Flight Hub](https://learn.microsoft.com/en-us/windows-insider/flight-hub) | Windows 预览体验计划 - [网站](https://www.microsoft.com/zh-cn/windowsinsider) · [博客](https://blogs.windows.com/windows-insider) · [X](https://twitter.com/windowsinsider) · Microsoft 社区 ([中](https://answers.microsoft.com/zh-hans/insider/forum) / [英](https://answers.microsoft.com/en-us/insider/forum))
 
-|            | [**Microsoft 电脑管家**](https://pcmanager.microsoft.com) 产品 |  [**Microsoft WowTab**](https://wowtab.microsoft.com) 产品   |
-| :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 🎖️ **推荐** | **[WinDiscover](https://windiscover.com) - 独立 Microsoft 新闻网站** | **关注 [@Microsoft 信仰中心](https://weibo.com/u/3139784387) 微博** |
-|            | **Windows 预览体验计划 - [信息 · 日志 · 链接](https://answers.microsoft.com/zh-hans/insider/forum/all/windows/2a5add38-c6d9-4c9d-958d-7451f7632b1c)** | **[Windows Up-to-Date](https://wutd.crrashh.com) - Windows 实时版本** |
+| :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|            |            [**LCZBlog**](https://blog.licaoz.com)            |       [**GuCATs'摸鱼站**](https://goo-aw233.github.io)       |
 
 ## 总览
 
 | 🎆 河山添锦绣，星光映万家。祝祖国时和岁丰、繁荣昌盛！🎇 |
 | :---------------------------------------------------: |
 
-上次更新时间：2025 年 1 月 10 日 5:00 (UTC+8)。访问次数：7260+
+上次更新时间：2025 年 1 月 12 日 23:00 (UTC+8)。访问次数：7300+
 
-收录反馈 263 个，其中正在调查 8 个 (含[搁置](#3) 1 个)、正在处理 5 个、已修复 250 个。
+收录反馈 264 个，其中正在调查 8 个 (含[搁置](#3) 1 个)、正在处理 6 个、已修复 250 个。
 
-反馈更新记录：**今日更新 LG256 - 262**。- Ling 🚒 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG263**。- Ling 🌊 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27768 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                **[新]** 27768                |  2025/1/10  | [aka.ms/wip27768](https://blogs.windows.com/windows-insider/2025/01/09/announcing-windows-11-insider-preview-build-27768-canary-channel) |
+|        Canary        |                27768                |  2025/1/10  | [aka.ms/wip27768](https://blogs.windows.com/windows-insider/2025/01/09/announcing-windows-11-insider-preview-build-27768-canary-channel) |
 |       Dev        |              26120.2705              |   2024/12/19   | [aka.ms/wip-dev-12-18](https://blogs.windows.com/windows-insider/2024/12/18/releasing-real-time-translation-in-live-captions-to-more-copilot-pcs-in-the-dev-channel) |
 |         Beta         | 22635.4660 (23H2) |   2025/1/4   | [aka.ms/wip-beta-1-3](https://blogs.windows.com/windows-insider/2025/01/03/announcing-windows-11-insider-preview-build-22635-4660-beta-channel) |
 | Release Preview  | 26100.2454 |  2024/11/22  | [support.microsoft.com](https://support.microsoft.com/zh-cn/help/5046740) |
 | General Availability |    26100.2605    |  2024/12/11  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5048667) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_1.png) · 5 - 8 月 · 9 - 12 月)
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_0.png) · 5 - 8 月 · 9 - 12 月)
 
 ---
 
@@ -64,16 +63,17 @@
 | [LG212](#LG212) | **[Copilot+ 电脑]** 加入 Canary 频道后，PIN 和生物识别信息将丢失。 | 正在处理 |
 | [LG239](#LG239) |                无法显示窗口边框强调色和阴影。                | 正在处理 |
 | [LG240](#LG240) |                   无法关闭窗口启动等动画。                   | 正在处理 |
-| [LG256](#LG256) |            **运行 SFC /scannow 命令时显示错误**。            | 正在处理 |
-| [LG257](#LG257) |      **最小化并恢复文件资源管理器时窗口无法正确显示**。      | 正在处理 |
+| [LG256](#LG256) |              运行 SFC /scannow 命令时显示错误。              | 正在处理 |
+| [LG257](#LG257) |        最小化并恢复文件资源管理器时窗口无法正确显示。        | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
-| [LG225](#LG225) |        文件资源管理器 “...” 二级菜单无法向下方弹出。         | 正在调查 |
+| [LG225](#LG225) |        文件资源管理器 “...” 二级菜单无法向下方弹出。         | 正在处理 |
 | [LG252](#LG252) |              组策略编辑器和服务管理器 UI 错误。              | 正在调查 |
-| [LG258](#LG258) |          **拖动表情符号面板中的滚动条时卡顿严重**。          | 正在调查 |
-| [LG259](#LG259) |         **文件资源管理器的 “全部解压缩” 按钮失效**。         | 正在调查 |
-| [LG260](#LG260) |              **Windows 更新试图安装旧版驱动**。              | 正在调查 |
-| [LG261](#LG261) |                   **无法运行 Xbox 应用**。                   | 正在调查 |
-| [LG262](#LG262) |        **鼠标光标在 Microsoft Edge Canary 中消失**。         | 正在调查 |
+| [LG258](#LG258) |            拖动表情符号面板中的滚动条时卡顿严重。            | 正在调查 |
+| [LG259](#LG259) |           文件资源管理器的 “全部解压缩” 按钮失效。           | 正在调查 |
+| [LG260](#LG260) |                Windows 更新试图安装旧版驱动。                | 正在调查 |
+| [LG261](#LG261) |                     无法运行 Xbox 应用。                     | 正在调查 |
+| [LG262](#LG262) |          鼠标光标在 Microsoft Edge Canary 中消失。           | 正在调查 |
+| [LG263](#LG263) |       **颜色配置文件在睡眠后 / 启动时无法正确加载**。        | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 |                 |                             暂无                             |          |
 |       ——        | *部分未收录反馈详见 [WIP Canary 27768 更新简报](Canary.md)*  |    ——    |
@@ -145,8 +145,8 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 日期：2024 年 10 月 9 日  
 版本：Canary 27718 - 27768  
 **问题**：**文件资源管理器 “...” 二级菜单无法向下方弹出**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAspbvg](https://aka.ms/AAspbvg) <img src="Images/M.png" width = "14%" />
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAspbvg](https://aka.ms/AAspbvg) & [aka.ms/AAtyk9a](https://aka.ms/AAtyk9a) <img src="Images/M.png" width = "14%" />
 
 <img src="Images/LG225.png" width = "55%" />
 
@@ -157,7 +157,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 版本：Canary 27764 - 27768  
 **问题**：**组策略编辑器和服务管理器 UI 错误**。  
 状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAtt6ww](https://aka.ms/AAtt6ww)
+典型反馈：[aka.ms/AAty56l](https://aka.ms/AAty56l)
 
 <img src="Images/LG252.png" width = "50%" />
 
@@ -207,6 +207,15 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 **问题**：**鼠标光标在 Microsoft Edge Canary 中消失**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAtwcvo](https://aka.ms/AAtwcvo)
+
+---
+
+<SPAN ID = 'LG263'/>编号：LG263  
+日期：2025 年 1 月 12 日  
+版本：Canary 27768  
+**问题**：**颜色配置文件在睡眠后 / 启动时无法正确加载**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAtv2mp](https://aka.ms/AAtv2mp)
 
 <SPAN ID = '2'/>
 

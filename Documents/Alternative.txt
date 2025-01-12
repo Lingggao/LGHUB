@@ -241,17 +241,14 @@ https://aka.ms/AAtscho
 Grammatical Error in Windows 11 Settings: It's showing "Last Ticked" for updates instead of "Last Checked" ×
 https://aka.ms/AAtsk0y
 
-文件资源管理器快捷栏中的全部解压缩按钮没有任何作用 ✓
-https://aka.ms/AAtxe6w
-
-Update is attempting to install outdated driver. ✓
-https://aka.ms/AAtwcvk
-
-Unable to run XBox gaming app after update. ✓
-https://aka.ms/AAtwkas
-
-Log in Options in LogonUI.exe crashes wile Administrator Protection is enabled in the latest Insider builds ✓
+Log in Options in LogonUI.exe crashes wile Administrator Protection is enabled in the latest Insider builds ×
 https://aka.ms/AAtwkat
 
-In Build 27766, my cursor disappears in Edge Canary ✓
-https://aka.ms/AAtwcvo
+Even after your latest fixes in Windows 11 - File explorer "see more" menu still opens upwards with some Display settings for Scale and Resolutions... ×
+https://aka.ms/AAtyk9a
+
+Error 0xA00F42A0 in Barcode mode ×
+https://aka.ms/AAtycv4
+
+With the latest Windows 11 builds, my color profile isn't loading properly after sleep / boot ✓
+https://aka.ms/AAtv2mp
