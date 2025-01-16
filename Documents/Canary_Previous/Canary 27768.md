@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27774 更新简报
+# WIP Canary 27768 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/1/17)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/1/10)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/01/16/announcing-windows-11-insider-preview-build-27774-canary-channel)、[中文更新公告]() (暂无)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/01/09/announcing-windows-11-insider-preview-build-27768-canary-channel)、[中文更新公告](https://aka.ms/AAtwzeu)。
 
 ## 一、新功能
 
@@ -15,20 +15,17 @@
 ## 二、变更和改进
 
 1. 改善了系统整体体验。
-2. 使用介质安装 Windows 时，现在格式化或删除分区时将出现确认对话框。
-3. 现在可以通过 Windows 安全中心开启 “管理员保护” 功能 (包括家庭用户)。
-
-<img src="Images/27774_1.png" width = "45%" />
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/01/16/announcing-windows-11-insider-preview-build-27774-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/01/09/announcing-windows-11-insider-preview-build-27768-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “无法显示窗口边框强调色和阴影” 的问题。
-2. 修复了 “无法关闭窗口启动等动画” 的问题。
-3. 修复了 “无法运行 Xbox 应用” 的问题。
+1. 修复了多个文件资源管理器相关问题。
+2. 修复了 “鼠标光标卡住” 的问题。
+3. 修复了 “玩游戏时自动 HDR 过饱和” 的问题。
+4. 修复了 “PAGE_FAULT_IN_NONPAGED_AREA 绿屏” 的问题。
 
 谢谢，
 
