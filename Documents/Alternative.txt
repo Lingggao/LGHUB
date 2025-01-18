@@ -250,5 +250,20 @@ https://aka.ms/AAtyk9a
 Error 0xA00F42A0 in Barcode mode ×
 https://aka.ms/AAtycv4
 
-With the latest Windows 11 builds, my color profile isn't loading properly after sleep / boot ✓
-https://aka.ms/AAtv2mp
+智能应用控制的图标不能正常显示 ✓
+https://aka.ms/AAu1k0e
+
+Still having issues with a particular app failing after the later builds.
+https://aka.ms/AAu0xnf
+
+The Task Manager Does not Automatically Change Colours when using Dark Mode in Canary Build 27774.1000
+https://aka.ms/AAu0xni
+
+Insider Preview Build 27774 Removes .Net Framework 3.5 + 2.0
+https://aka.ms/AAu1k0g
+
+Search results don't appear on search bar or start menu
+https://aka.ms/AAu1cdr
+
+my search dont bring up any of my programs like windows updates and apps and privacy are anything like that
+https://aka.ms/AAu0xnj
