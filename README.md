@@ -47,9 +47,9 @@
 | Release Preview  | 26100.2454 |  2024/11/22  | [support.microsoft.com](https://support.microsoft.com/zh-cn/help/5046740) |
 | General Availability |    26100.2894    |  2025/1/15  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5050009) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_1.png) · 5 - 8 月 · 9 - 12 月)
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_0.png) · 5 - 8 月 · 9 - 12 月)
 
 ---
 
