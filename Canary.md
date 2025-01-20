@@ -6,7 +6,7 @@
 >
 > &emsp;Ling Gao 制 (2025/1/17)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/01/16/announcing-windows-11-insider-preview-build-27774-canary-channel)、[中文更新公告]() (暂无)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/01/16/announcing-windows-11-insider-preview-build-27774-canary-channel)、[中文更新公告](https://aka.ms/AAu0awq)。
 
 ## 一、新功能
 
