@@ -250,29 +250,14 @@ https://aka.ms/AAtyk9a
 Error 0xA00F42A0 in Barcode mode ×
 https://aka.ms/AAtycv4
 
-智能应用控制的图标不能正常显示 ✓
-https://aka.ms/AAu1k0e
-
-Still having issues with a particular app failing after the later builds. ✓
-https://aka.ms/AAu0xnf
-
-The Task Manager Does not Automatically Change Colours when using Dark Mode in Canary Build 27774.1000 ✓
-https://aka.ms/AAu0xni
-
-Insider Preview Build 27774 Removes .Net Framework 3.5 + 2.0 ✓
-https://aka.ms/AAu1k0g
-
-Search results don't appear on search bar or start menu ✓
-https://aka.ms/AAu1cdr
-
 my search dont bring up any of my programs like windows updates and apps and privacy are anything like that ×
 https://aka.ms/AAu0xnj
 
-My camera app shuts down every time I try to record a video ✓
-https://aka.ms/AAu1m76
+Getting error 0x80860010 "this app has many too many requests" when trying to connect my microsoft account for shared experiences / apps & features ✓
+https://aka.ms/AAu1v6p
 
-开启管理员保护后无法更新或安装系统级的 VS Code ✓
-https://aka.ms/AAu1m77
+Outlook / Word are crashing on launch for me on Jan 22 2025 ✓
+https://aka.ms/AAu3hvj
 
-Windows Sandbox failed to start with error 0x80070005 ✓
-https://aka.ms/AAu1m78
+The update troubleshooter is not able to resolve my issue installing the latest Windows Update on Windows 11 ×
+https://aka.ms/AAu3hvz
