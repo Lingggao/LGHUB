@@ -257,8 +257,7 @@ Microsoft 官方回复：“临时解决方案，以管理员身份运行 MTSC.e
 版本：Canary 27774  
 **问题**：**开始菜单和搜索功能无法显示搜索结果**。  
 状态：<img src="Images/L.png" width = "9%" /> <img src="Images/I.png" width = "15%" />  
-Microsoft 官方回复：“我们未能在 27774 版本中复现此问题。请向 ‘Windows 环境’>‘搜索’ 类别提交含有捕获数据的反馈，在步骤 #4 中通过 ‘重现问题’ 功能记录数据即可。” *(Ling 译)*  
-<img src="Images/M.png" width = "14%" />  
+Microsoft 官方回复：“我们未能在 27774 版本中复现此问题。请向 ‘Windows 环境’>‘搜索’ 类别提交含有捕获数据的反馈，在步骤 #4 中通过 ‘重现问题’ 功能记录数据即可。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
 典型反馈：[aka.ms/AAu1cdr](https://aka.ms/AAu1cdr) & [aka.ms/AAu42te](https://aka.ms/AAu42te)
 
 ---
