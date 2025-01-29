@@ -253,11 +253,35 @@ https://aka.ms/AAtycv4
 my search dont bring up any of my programs like windows updates and apps and privacy are anything like that ×
 https://aka.ms/AAu0xnj
 
-Getting error 0x80860010 "this app has many too many requests" when trying to connect my microsoft account for shared experiences / apps & features ✓
-https://aka.ms/AAu1v6p
-
-Outlook / Word are crashing on launch for me on Jan 22 2025 ✓
-https://aka.ms/AAu3hvj
-
 The update troubleshooter is not able to resolve my issue installing the latest Windows Update on Windows 11 ×
 https://aka.ms/AAu3hvz
+
+Unplug screen cable will cause Windows crash ✓
+https://aka.ms/AAu3jch
+
+I've stopped getting notifications when my feedback is updated or responded to in the Feedback Hub ✓
+https://aka.ms/AAu3v9h
+
+The "Clipboard redirection" text appears misaligned when at 4K ×
+https://aka.ms/AAu3eyh
+
+After January 2025 updates, my DAC audio doesn't work anymore - the driver shows "Insufficient system resources exist to complete the API" error ✓
+https://aka.ms/AAu444i
+
+The recent and today sections of the start menu are lower than normal ×
+https://aka.ms/AAu42t7
+
+Canary Build 27764+ has a new WIN32K_CRITICAL_FAILURE green screen ✓
+https://aka.ms/AAu3v9w
+
+Search not returning results in Build 27774 - it opens, but is showing blank ✓
+https://aka.ms/AAu42te
+
+使用 ms-search: 协议链接打不开搜索还会使系统栏上的搜索框消失 ✓
+https://aka.ms/AAu42tm
+
+Canary - 右键点击文件时，“删除” 按钮的鼠标悬停提示文本的括号中的内容不应翻译为中文。 ✓
+https://aka.ms/AAu4457
+
+Yakuza 8 Infinite wealth doesnt lunch
+https://aka.ms/AAu4dne

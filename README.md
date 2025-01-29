@@ -31,25 +31,25 @@
 | 🎆 祝愿伟大祖国国泰民安、风调雨顺、繁荣昌盛！🎇 |
 | :-------------------------------------------: |
 
-上次更新时间：2025 年 1 月 26 日 0:00 (UTC+8)。访问次数：7510+
+上次更新时间：2025 年 1 月 29 日 17:00 (UTC+8)。访问次数：7530+
 
-收录反馈 277 个，其中正在调查 17 个 (含[搁置](#3) 1 个)、正在处理 6 个、已修复 254 个。
+收录反馈 283 个，其中正在调查 22 个 (含[搁置](#3) 1 个)、正在处理 7 个、已修复 254 个。
 
-反馈更新记录：**今日更新 LG273 - 276**。- Ling 🐉🐍 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG277 - 282**。- Ling 🧨 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27774 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
 |        Canary        |                27774                |  2025/1/17  | [aka.ms/wip27774](https://blogs.windows.com/windows-insider/2025/01/16/announcing-windows-11-insider-preview-build-27774-canary-channel) |
-|       Dev        |              **[新]** 26120.3000              |   2025/1/25   | [aka.ms/wip-dev-1-24-25](https://blogs.windows.com/windows-insider/2025/01/24/announcing-windows-11-insider-preview-build-26120-3000-dev-channel) |
-|         Beta         | **[新]** 22635.4805 (23H2) |   2025/1/25   | [aka.ms/wip-beta-1-24-25](https://blogs.windows.com/windows-insider/2025/01/24/announcing-windows-11-insider-preview-build-22635-4805-beta-channel) |
-| Release Preview  | **[新]** 26100.3025 |  2025/1/22  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/01/21/releasing-windows-11-build-26100-3025-to-the-release-preview-channel) |
+|       Dev        |              26120.3000              |   2025/1/25   | [aka.ms/wip-dev-1-24-25](https://blogs.windows.com/windows-insider/2025/01/24/announcing-windows-11-insider-preview-build-26120-3000-dev-channel) |
+|         Beta         | 22635.4805 (23H2) |   2025/1/25   | [aka.ms/wip-beta-1-24-25](https://blogs.windows.com/windows-insider/2025/01/24/announcing-windows-11-insider-preview-build-22635-4805-beta-channel) |
+| Release Preview  | **[新]** 26100.3037 |  2025/1/29  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5050094) |
 | General Availability |    26100.2894    |  2025/1/15  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5050009) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_1.png) · 5 - 8 月 · 9 - 12 月)
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_0.png) · 5 - 8 月 · 9 - 12 月)
 
 ---
 
@@ -79,10 +79,16 @@
 | [LG270](#LG270) |                无法使用 “相机” 应用拍摄视频。                | 正在调查 |
 | [LG271](#LG271) |  开启 “管理员保护” 功能后无法安装 Visual Studio Code 应用。  | 正在调查 |
 | [LG272](#LG272) |       无法启动 Windows Sandbox，显示 0x80070005 错误。       | 正在调查 |
-| [LG273](#LG273) |             **启动 Insurgency 游戏时电脑绿屏**。             | 正在调查 |
-| [LG274](#LG274) | **Windows 安全中心 “动态锁” 与 “管理员保护” 功能间距过大**。 | 正在调查 |
-| [LG275](#LG275) |   **[2025 年 1 月 23 日]** **Outlook 与 Word 应用崩溃**。    | 正在处理 |
-| [LG276](#LG276) |   **连接 Microsoft 账户进行共享时显示 0x80860010 错误**。    | 正在调查 |
+| [LG273](#LG273) |               启动 Insurgency 游戏时电脑绿屏。               | 正在调查 |
+| [LG274](#LG274) |   Windows 安全中心 “动态锁” 与 “管理员保护” 功能间距过大。   | 正在调查 |
+| [LG275](#LG275) |       [2025 年 1 月 23 日] Outlook 与 Word 应用崩溃。        | 正在处理 |
+| [LG276](#LG276) |     连接 Microsoft 账户进行共享时显示 0x80860010 错误。      | 正在调查 |
+| [LG277](#LG277) |   **右键文件时，删除按钮的鼠标悬停提示为 “删除 (删除)”**。   | 正在调查 |
+| [LG278](#LG278) |           **电脑 WIN32K_CRITICAL_FAILURE 绿屏**。            | 正在处理 |
+| [LG279](#LG279) | **在反馈中心提交的反馈有状态更新或官方回复时无法收到通知**。 | 正在调查 |
+| [LG280](#LG280) |                **DAC 音频设备无法正常工作**。                | 正在调查 |
+| [LG281](#LG281) |         **使用 ms-search: 链接时任务栏搜索框消失**。         | 正在调查 |
+| [LG282](#LG282) |        **无法启动 Infinite Wealth (Yakuza 8) 游戏**。        | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG239](#LG239) |                无法显示窗口边框强调色和阴影。                | 已修复 ✓ |
 | [LG240](#LG240) |                   无法关闭窗口启动等动画。                   | 已修复 ✓ |
@@ -250,8 +256,10 @@ Microsoft 官方回复：“临时解决方案，以管理员身份运行 MTSC.e
 日期：2025 年 1 月 20 日  
 版本：Canary 27774  
 **问题**：**开始菜单和搜索功能无法显示搜索结果**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAu1cdr](https://aka.ms/AAu1cdr)
+状态：<img src="Images/L.png" width = "9%" /> <img src="Images/I.png" width = "15%" />  
+Microsoft 官方回复：“我们未能在 27774 版本中复现此问题。请向 ‘Windows 环境’>‘搜索’ 类别提交含有捕获数据的反馈，在步骤 #4 中通过 ‘重现问题’ 功能记录数据即可。” *(Ling 译)*  
+<img src="Images/M.png" width = "14%" />  
+典型反馈：[aka.ms/AAu1cdr](https://aka.ms/AAu1cdr) & [aka.ms/AAu42te](https://aka.ms/AAu42te)
 
 ---
 
@@ -317,6 +325,62 @@ Microsoft 官方回复：“临时解决方案，以管理员身份运行 MTSC.e
 **问题**：**连接 Microsoft 账户进行共享时显示 0x80860010 错误**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAu1v6p](https://aka.ms/AAu1v6p)
+
+---
+
+<SPAN ID = 'LG277'/>编号：LG277  
+日期：2025 年 1 月 29 日  
+版本：Canary 27764 - 27774  
+**问题**：**右键文件时，删除按钮的鼠标悬停提示为 “删除 (删除)”**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAu4457](https://aka.ms/AAu4457)
+
+<img src="Images/LG277.png" width = "30%" />
+
+---
+
+<SPAN ID = 'LG278'/>编号：LG278  
+日期：2025 年 1 月 29 日  
+版本：Canary 27764 - 27774  
+**问题**：**电脑 WIN32K_CRITICAL_FAILURE 绿屏**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAu57ga](https://aka.ms/AAu57ga) & [aka.ms/AAu3v9w](https://aka.ms/AAu3v9w) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG279'/>编号：LG279  
+日期：2025 年 1 月 29 日  
+版本：ALL  
+**问题**：**在反馈中心提交的反馈有状态更新或官方回复时无法收到通知**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAu3v9h](https://aka.ms/AAu3v9h) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG280'/>编号：LG280  
+日期：2025 年 1 月 29 日  
+版本：Canary 27774  
+**问题**：**DAC 音频设备无法正常工作**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAu444i](https://aka.ms/AAu444i)
+
+---
+
+<SPAN ID = 'LG281'/>编号：LG281  
+日期：2025 年 1 月 29 日  
+版本：Canary 27774  
+**问题**：**使用 ms-search: 链接时任务栏搜索框消失**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAu42tm](https://aka.ms/AAu42tm)
+
+---
+
+<SPAN ID = 'LG282'/>编号：LG282  
+日期：2025 年 1 月 29 日  
+版本：Canary 27774  
+**问题**：**无法启动 Infinite Wealth (Yakuza 8) 游戏**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAu4dne](https://aka.ms/AAu4dne)
 
 <SPAN ID = '2'/>
 
