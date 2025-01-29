@@ -283,5 +283,5 @@ https://aka.ms/AAu42tm
 Canary - 右键点击文件时，“删除” 按钮的鼠标悬停提示文本的括号中的内容不应翻译为中文。 ✓
 https://aka.ms/AAu4457
 
-Yakuza 8 Infinite wealth doesnt lunch
+Yakuza 8 Infinite wealth doesnt lunch ✓
 https://aka.ms/AAu4dne
