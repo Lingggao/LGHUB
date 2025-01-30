@@ -109,7 +109,7 @@
 
 <SPAN ID = 'LG212'/>编号：LG212  
 日期：2024 年 8 月 16 日  
-版本：Canary 27686 - 27774  
+版本：Canary 27686 - 27783  
 **问题**：**[Copilot+ 电脑] 加入 Canary 频道后，PIN 和生物识别信息将丢失**。  
 状态：<img src="Images/W.png" width = "9%" />  
 Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Preview 或 Retail 频道加入至 Canary 频道，Windows Hello PIN 和生物识别信息将会丢失。您将无法登录系统，显示 0xd0000225 错误和 ‘出错了，您的 PIN 不可用’ 信息。点击 ‘设置我的 PIN’ 选项应当可以重设 PIN。” *(Ling 译)* <img src="Images/M.png" width = "14%" />
@@ -118,7 +118,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG256'/>编号：LG256  
 日期：2025 年 1 月 10 日  
-版本：Canary 27768 - 27774  
+版本：Canary 27768 - 27783  
 **问题**：**运行 SFC /scannow 命令时显示错误**。  
 状态：<img src="Images/W.png" width = "9%" />
 
@@ -126,7 +126,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG257'/>编号：LG257  
 日期：2025 年 1 月 10 日  
-版本：Canary 27768 - 27774  
+版本：Canary 27768 - 27783  
 **问题**：**最小化并恢复文件资源管理器时窗口无法正确显示**。  
 状态：<img src="Images/W.png" width = "9%" />
 
