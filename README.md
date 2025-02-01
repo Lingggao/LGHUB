@@ -337,7 +337,7 @@ Microsoft 官方回复：“我们未能在 27774 版本中复现此问题。请
 
 <SPAN ID = 'LG286'/>编号：LG286  
 日期：2025 年 2 月 1 日  
-版本：Canary 27783  
+版本：ALL  
 **问题**：**Microsoft Store 宣传视频中的 “投放到设备” 被译为 “强制转换为设备”**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAu5r06](https://aka.ms/AAu5r06)
