@@ -261,3 +261,12 @@ https://aka.ms/AAu3eyh
 
 The recent and today sections of the start menu are lower than normal ×
 https://aka.ms/AAu42t7
+
+锁屏界面BUG：点击"重置密码"后电脑登录输入框消失且电脑无法重启 ✓
+https://aka.ms/AAu6q07
+
+In the Canary Channel, the emoji panel displays a missing search data error despite Basic Typing being installed ✓
+https://aka.ms/AAu5xnm
+
+The correct translation of 'Cast to Device' in Simplified Chinese is "投放到设备", not "强制转换为设备". ✓
+https://aka.ms/AAu5r06
