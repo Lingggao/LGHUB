@@ -1,37 +1,35 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27783 更新简报
+# WIP Canary 27788 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/1/30)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/2/6)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/01/29/announcing-windows-11-insider-preview-build-27783-canary-channel)、[中文更新公告](https://aka.ms/AAu4bad)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/02/05/announcing-windows-11-insider-preview-build-27788-canary-channel)、[中文更新公告](https://aka.ms/AAu8pcj)。
 
 ## 一、新功能
 
-1. 文件资源管理器现已支持快速访问已共享的文件。
+1. 发布 Windows MIDI 服务 (公共预览版)。
+2. 支持在 Windows 11 电脑中继续编辑刚刚在手机上查看的 OneDrive 文件 (如 Word 文档)。
 
-<img src="Images/27783_1.png" width = "50%" />
+<img src="Images/27788_1.png" width = "35%" />
 
 ## 二、变更和改进
 
-1. 改善了系统整体体验。
-2. 改进了放大镜功能。
+1. 改进了文件资源管理器。
+2. 改进了设置菜单。
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/01/29/announcing-windows-11-insider-preview-build-27783-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/02/05/announcing-windows-11-insider-preview-build-27788-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “任务栏应用预览窗口无法正常显示” 的问题。
-2. 修复了 “切换窗口时拼音输入法自动切换中英文” 的问题。
-3. 修复了 “使用 Alt + Tab 快捷键时应用窗口冻结” 的问题。
-4. 修复了 “转到 ‘设置’>‘系统’>‘屏幕’>‘显示卡’ 时崩溃” 的问题。
-5. 修复了 “MTSC.exe 远程桌面 0x80080005 错误” 的问题。
-6. 修复了 “Explorer.exe 内存泄漏” 的问题。
-7. 修复了 “shutdown /r /fw 命令失效” 的问题。
+1. 修复了 “任务栏、搜索、设置、锁屏界面循环崩溃” 的问题。
+2. 修复了 “电脑 SYSTEM_SERVICE_EXCEPTION 绿屏” 的问题。
+3. 修复了 “无法检测到扫描仪” 的问题。
+4. 修复了 “服务管理器选中项颜色异常” 的问题。
 
 谢谢，
 
