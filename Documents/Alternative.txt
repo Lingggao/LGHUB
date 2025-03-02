@@ -262,50 +262,14 @@ https://aka.ms/AAu3eyh
 The recent and today sections of the start menu are lower than normal ×
 https://aka.ms/AAu42t7
 
-PAGE_FAULT_IN_NONPAGED_AREA bugcheck when updating Bitdefender ✓
-https://aka.ms/AAucjta
-
-In the Canary Channel, Winget is not recognizable in Powershell and CMD ✓
-https://aka.ms/AAulrb4
-
-Windows 11 Insider Preview 27788.1000 Missing physical drives and Green Screen ✓
-https://aka.ms/AAumcjs
-
-Widgets issue ✓
-https://aka.ms/AAulrba
-
-HTML symbols may show as plain text in Windows Spotlight image descriptions. ✓
-https://aka.ms/AAuljrf
-
 In the latest Windows 11 Insider builds, the Start icon has started disappearing in the taskbar ×
 https://aka.ms/AAulrbd
 
 When Admin Protection is enabled in the latest Canary Channel builds, Task Manager is not properly switching to dark mode if that's your system mode ×
 https://aka.ms/AAulrbg
 
-Recently (Feb 2025) I've started seeing a random Microsoft account pop up saying they need internet for this / 0x800704cf ✓
-https://aka.ms/AAulrbi
-
-BitLocker Recovery Key Error ✓
-https://aka.ms/AAumck4
-
-Overheating ✓
-https://aka.ms/AAumck9
-
-GetHelp Windows Update Troubleshooter ✓
-https://aka.ms/AAumckg
-
-Change the mouse pointer theme when running the program as an administrator. ✓
-https://aka.ms/AAulrbu
-
 Error : (0x80073712) in installing 2025-02 .NET update. ×
 https://aka.ms/AAumckm
 
-Audio is not working in Build 27783+ due to an audio service crash ✓
-https://aka.ms/AAuhupi
-
-Build 27788.1000 Since the update, my midi keyboard Cannot be found. within their connection software and inside of my daw  software. ✓
-https://aka.ms/AAumckq
-
-recent update broke my Arturia Midi gear ✓
-https://aka.ms/AAulrbx
+eSIM: every feature update resets cellular setting to SIM1 ✓
+https://aka.ms/AAutwf0
