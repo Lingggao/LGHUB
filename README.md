@@ -109,7 +109,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 <SPAN ID = 'LG306'/>编号：LG306  
 日期：2025 年 3 月 2 日  
 版本：Canary 27802 - 27808  
-**问题**：**部分应用因 d3d9.dll 崩溃而无法正常运行**。  
+**问题**：**[27802+] 部分应用因 d3d9.dll 崩溃而无法正常运行**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAutwf5](https://aka.ms/AAutwf5) <img src="Images/M.png" width = "14%" />
 
@@ -243,7 +243,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 版本：Canary 27802 - 27808  
 **问题**：**最小化并使用 ALT + TAB 还原文件资源管理器时 UI 异常**。  
 状态：<img src="Images/W.png" width = "9%" />  
-典型反馈：[aka.ms/AAuyemc](https://aka.ms/AAuyemc)
+典型反馈：[aka.ms/AAuyemc](https://aka.ms/AAuyemc) <img src="Images/M.png" width = "14%" />
 
 <img src="Images/LG308.png" width = "50%" />
 
