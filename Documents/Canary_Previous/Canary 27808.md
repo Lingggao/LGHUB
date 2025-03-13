@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27813 更新简报
+# WIP Canary 27808 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/3/14)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/3/9)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/03/12/announcing-windows-11-insider-preview-build-27813-canary-channel)、[中文更新公告]() (暂无)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/03/07/announcing-windows-11-insider-preview-build-27808-canary-channel)、[中文更新公告](https://aka.ms/AAuxyko)。
 
 ## 一、新功能
 
@@ -14,11 +14,20 @@
 
 ## 二、变更和改进
 
-1. 改善了系统整体体验。
+1. 调整了任务管理器 CPU 利用率计算方式。
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/03/12/announcing-windows-11-insider-preview-build-27813-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/03/07/announcing-windows-11-insider-preview-build-27808-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+
+部分重要修复：
+
+1. 修复了 “部分游戏导致电脑绿屏” 的问题。
+2. 修复了 “在部分应用中打印时电脑绿屏” 的问题。
+3. 修复了 “开始菜单和搜索功能无法显示搜索结果” 的问题。
+4. 修复了 “颜色设置为自定义时新电池图标无法正常显示” 的问题。
+5. 修复了 “BitLocker 功能异常” 的问题。
+6. 修复了 “Hyper-V、WSL 等功能无法正常工作” 的问题。
 
 谢谢，
 
