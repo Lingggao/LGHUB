@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27818 更新简报
+# WIP Canary 27813 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/3/20)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/3/14)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/03/19/announcing-windows-11-insider-preview-build-27818-canary-channel)、[中文更新公告](https://aka.ms/AAv4i0c)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/03/12/announcing-windows-11-insider-preview-build-27813-canary-channel)、[中文更新公告]() (暂无)。
 
 ## 一、新功能
 
@@ -15,20 +15,10 @@
 ## 二、变更和改进
 
 1. 改善了系统整体体验。
-2. 优化了 Windows 安全中心。
-3. 优化了文件资源管理器。
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/03/19/announcing-windows-11-insider-preview-build-27818-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
-
-部分重要修复：
-
-1. 修复了 “部分应用因 d3d9.dll 崩溃而无法正常运行” 的问题。
-2. 修复了 “ctmon.exe 崩溃影响输入文字” 的问题。
-3. 修复了 “设置菜单无法启动 / 崩溃” 的问题。
-4. 修复了 “部分应用 / 游戏无法启动” 的问题。
-5. 修复了 “Remote Desktop 冻结” 的问题。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/03/12/announcing-windows-11-insider-preview-build-27813-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 谢谢，
 
