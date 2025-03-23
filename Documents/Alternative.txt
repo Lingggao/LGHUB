@@ -271,5 +271,20 @@ https://aka.ms/AAulrbg
 Error : (0x80073712) in installing 2025-02 .NET update. ×
 https://aka.ms/AAumckm
 
-eSIM: every feature update resets cellular setting to SIM1 ✓
-https://aka.ms/AAutwf0
+文件资源管理器地址栏溢出列表无法正常展示全部内容 ✓
+https://aka.ms/AAv26rl
+
+27818版本，使用截图功能时，打开画笔会显示冻结重启 ✓
+https://aka.ms/AAv80jl
+
+After installing Build 26120.3360 / Build 27818, the taskbar icons are no longer resizing correctly to be bigger when entering into tablet posture ✓
+https://aka.ms/AAv7ss7
+
+Suddenly starting March 21 2025, search in Windows 11 is very slow to load results, stuck with a blank screen ✓
+https://aka.ms/AAv7ss9
+
+Notepad performance feels worse with the updated design for Windows 11 ✓
+https://aka.ms/AAv7l3r
+
+Unable to start IP Helper service ✓
+https://aka.ms/AAv80jo
