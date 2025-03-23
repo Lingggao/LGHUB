@@ -135,6 +135,9 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 - 火绒安全软件 6.0
 - 网易 MuMu 模拟器
 - 适用于 Linux 的 Windows 子系统 (WSL)
+- Oracle VM VirtualBox
+
+<img src="Images/LG310.png" width = "55%" />
 
 ---
 
