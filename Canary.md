@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27818 更新简报
+# WIP Canary 27823 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/3/20)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/3/29)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/03/19/announcing-windows-11-insider-preview-build-27818-canary-channel)、[中文更新公告](https://aka.ms/AAv4i0c)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/03/26/announcing-windows-11-insider-preview-build-27823-canary-channel)、[中文更新公告](https://aka.ms/AAvaflp)。
 
 ## 一、新功能
 
@@ -15,20 +15,24 @@
 ## 二、变更和改进
 
 1. 改善了系统整体体验。
-2. 优化了 Windows 安全中心。
-3. 优化了文件资源管理器。
+2. “设置”>“系统”>“系统信息” 菜单全新 UI。
+
+<img src="Images/27823_1.png" width = "50%" />
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/03/19/announcing-windows-11-insider-preview-build-27818-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/03/26/announcing-windows-11-insider-preview-build-27823-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “部分应用因 d3d9.dll 崩溃而无法正常运行” 的问题。
-2. 修复了 “ctmon.exe 崩溃影响输入文字” 的问题。
-3. 修复了 “设置菜单无法启动 / 崩溃” 的问题。
-4. 修复了 “部分应用 / 游戏无法启动” 的问题。
-5. 修复了 “Remote Desktop 冻结” 的问题。
+1. 修复了 “最小化并使用 ALT + TAB 还原文件资源管理器时 UI 异常” 的问题。
+2. 修复了 “文件资源管理器 ... 二级菜单无法向下方弹出” 的问题。
+3. 修复了 “复制时 ctfmon.exe 崩溃” 的问题。
+4. 修复了 “点击登录选项时崩溃” 的问题。
+5. 修复了 “设置 > 蓝牙和其他设备 > 摄像头菜单崩溃” 的问题。
+6. 修复了 “无法安装部分应用” 的问题。
+7. 修复了 “安装 Windows 时 UNSUPPORTED_PROCESSOR 绿屏” 的问题。
+8. 修复了 “无法卸载打印机” 的问题。
 
 谢谢，
 
@@ -46,4 +50,4 @@ Ling
 
 2023 - 2025, 高楷修 (Ling Gao), 灵糕中心 (Linggao Hub), [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)
 
-[字体许可使用授权书](Images/字体许可使用授权书.png) | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingggao%2FLGHUB&count_bg=%23737373&title_bg=%230078D7&icon=microsoft.svg&icon_color=%23FFFFFF&title=LGHUB&edge_flat=false)](https://hits.seeyoufarm.com) (访问次数统计：今日 / 累计)
+[字体许可使用授权书](Images/字体许可使用授权书.png) | [Ling Gao (高楷修)](https://github.com/Lingggao)
