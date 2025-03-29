@@ -412,4 +412,4 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 2023 - 2025, [高楷修 (Ling Gao)](https://github.com/Lingggao), 灵糕中心 (Linggao Hub), [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)
 
-[字体许可使用授权书](Images/字体许可使用授权书.png) | [Windows Insider 最有价值专家](Images/Windows Insider MVP.png)
+[字体许可使用授权书](Images/字体许可使用授权书.png) | [Windows Insider 最有价值专家](https://github.com/Lingggao/LGHUB/blob/main/Images/Windows%20Insider%20MVP.png?raw=true)
