@@ -271,20 +271,23 @@ https://aka.ms/AAulrbg
 Error : (0x80073712) in installing 2025-02 .NET update. ×
 https://aka.ms/AAumckm
 
-文件资源管理器地址栏溢出列表无法正常展示全部内容 ✓
-https://aka.ms/AAv26rl
+27823版本更新后游戏pubg 绿屏重启 ✓
+https://aka.ms/AAv9mb1
 
-27818版本，使用截图功能时，打开画笔会显示冻结重启 ✓
-https://aka.ms/AAv80jl
+基于ARM64处理器的Canary版本27823.1000版本Hyper-V故障
+https://aka.ms/AAv9u24
 
-After installing Build 26120.3360 / Build 27818, the taskbar icons are no longer resizing correctly to be bigger when entering into tablet posture ✓
-https://aka.ms/AAv7ss7
+The RAM / Memory speed value showing isn't correct for my PC in the new cards at the top of About in Settings in Windows 11
+https://aka.ms/AAv9eqx
 
-Suddenly starting March 21 2025, search in Windows 11 is very slow to load results, stuck with a blank screen ✓
-https://aka.ms/AAv7ss9
+It seems Weather app to heavy to load
+https://aka.ms/AAv9mb3
 
-Notepad performance feels worse with the updated design for Windows 11 ✓
-https://aka.ms/AAv7l3r
+Cannot open any disk or folder in Explorer
+https://aka.ms/AAv9u26
 
-Unable to start IP Helper service ✓
-https://aka.ms/AAv80jo
+System About
+https://aka.ms/AAv9eqz
+
+NIGHT LIGHT UNOPERATIONAL IN BUILD 27823
+https://aka.ms/AAv9mb7
