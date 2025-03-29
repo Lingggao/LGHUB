@@ -48,6 +48,6 @@ Ling
 
 在 “[署名 - 相同方式共享 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)” 协议 (CC BY-SA 4.0) 之条款下提供。
 
-2023 - 2025, 高楷修 (Ling Gao), 灵糕中心 (Linggao Hub), [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)
+2023 - 2025, [高楷修 (Ling Gao)](https://github.com/Lingggao), 灵糕中心 (Linggao Hub), [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)
 
-[字体许可使用授权书](Images/字体许可使用授权书.png) | [Ling Gao (高楷修)](https://github.com/Lingggao)
+[字体许可使用授权书](Images/字体许可使用授权书.png) | [Windows Insider 最有价值专家](Images/Windows Insider MVP.png)

@@ -274,20 +274,20 @@ https://aka.ms/AAumckm
 27823版本更新后游戏pubg 绿屏重启 ✓
 https://aka.ms/AAv9mb1
 
-基于ARM64处理器的Canary版本27823.1000版本Hyper-V故障
+基于ARM64处理器的Canary版本27823.1000版本Hyper-V故障 ✓
 https://aka.ms/AAv9u24
 
-The RAM / Memory speed value showing isn't correct for my PC in the new cards at the top of About in Settings in Windows 11
+The RAM / Memory speed value showing isn't correct for my PC in the new cards at the top of About in Settings in Windows 11 ✓
 https://aka.ms/AAv9eqx
 
-It seems Weather app to heavy to load
+It seems Weather app to heavy to load ✓
 https://aka.ms/AAv9mb3
 
-Cannot open any disk or folder in Explorer
+Cannot open any disk or folder in Explorer ✓
 https://aka.ms/AAv9u26
 
-System About
+System About ×
 https://aka.ms/AAv9eqz
 
-NIGHT LIGHT UNOPERATIONAL IN BUILD 27823
+NIGHT LIGHT UNOPERATIONAL IN BUILD 27823 ✓
 https://aka.ms/AAv9mb7
