@@ -280,10 +280,10 @@ https://aka.ms/AAvc3jh
 Hyper-V, and things that rely on Hyper-V like WSL, have stopped working again in Canary Builds 27818+ ✓
 https://aka.ms/AAvbvv3
 
-“选择声音输出”中，音量合成器中各程序音量条的按钮的蓝点是歪的 ✓
+“选择声音输出”中，音量合成器中各程序音量条的按钮的蓝点是歪的 ×
 https://aka.ms/AAvbo9n
 
-The new storage card you've added to Settings > System > About in Windows 11 shows a garbage character instead of the proper disk size *?*
+The new storage card you've added to Settings > System > About in Windows 11 shows a garbage character instead of the proper disk size ×
 https://aka.ms/AAvc3jk
 
 The last build 27823 it's very very slow I think it has to do with memories not using memory OK that's all I got to say ×
