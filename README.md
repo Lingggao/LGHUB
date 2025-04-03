@@ -28,11 +28,11 @@
 
 ## 总览
 
-上次更新时间：2025 年 4 月 3 日 3:00 (UTC+8)。Star 数量：48 ⭐
+上次更新时间：2025 年 4 月 4 日 1:00 (UTC+8)。Star 数量：48 ⭐
 
-收录反馈 325 个，其中正在调查 20 个 (含[搁置](#3) 1 个)、正在处理 3 个、已修复 302 个。
+收录反馈 325 个，其中正在调查 19 个 (含[搁置](#3) 1 个)、正在处理 4 个、已修复 302 个。
 
-反馈更新记录：**今日更新 LG323 - 324**。- Ling 👾 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日无更新**。- Ling 🌟 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27823 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
@@ -78,8 +78,8 @@
 | [LG320](#LG320) |                    “天气” 应用加载缓慢。                     | 正在调查 |
 | [LG321](#LG321) |    点击文件资源管理器左侧的导航窗格时，右侧仍停留在主页。    | 正在调查 |
 | [LG322](#LG322) |                        夜间模式失效。                        | 正在调查 |
-| [LG323](#LG323) | **将鼠标悬停在 “系统信息” 菜单顶部的选项卡时，边框显示为直角**。 | 正在调查 |
-| [LG324](#LG324) |              **无法启动 Tailscale VPN 应用**。               | 正在调查 |
+| [LG323](#LG323) | 将鼠标悬停在 “系统信息” 菜单顶部的选项卡时，边框显示为直角。 | 正在调查 |
+| [LG324](#LG324) |     无法启动 Tailscale VPN 等基于 IP Helper 服务的应用。     | 正在处理 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG225](#LG225) |        文件资源管理器 “...” 二级菜单无法向下方弹出。         | 已修复 ✓ |
 | [LG308](#LG308) |    最小化并使用 ALT + TAB 还原文件资源管理器时 UI 异常。     | 已修复 ✓ |
@@ -334,9 +334,9 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 <SPAN ID = 'LG324'/>编号：LG324  
 日期：2025 年 4 月 3 日  
 版本：Canary 27823  
-**问题**：**无法启动 Tailscale VPN 应用**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAvbo9r](https://aka.ms/AAvbo9r)
+**问题**：**无法启动 Tailscale VPN 等基于 IP Helper 服务的应用**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAvbo9r](https://aka.ms/AAvbo9r) & [aka.ms/AAvbx6d](https://aka.ms/AAvbx6d) <img src="Images/M.png" width = "14%" />
 
 <SPAN ID = '2'/>
 
