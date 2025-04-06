@@ -28,25 +28,25 @@
 
 ## 总览
 
-上次更新时间：2025 年 4 月 4 日 1:00 (UTC+8)。Star 数量：48 ⭐
+上次更新时间：2025 年 4 月 7 日 1:00 (UTC+8)。Star 数量：48 ⭐
 
-收录反馈 325 个，其中正在调查 19 个 (含[搁置](#3) 1 个)、正在处理 4 个、已修复 302 个。
+收录反馈 327 个，其中正在调查 20 个 (含[搁置](#3) 1 个)、正在处理 5 个、已修复 302 个。
 
-反馈更新记录：**今日无更新**。- Ling 🌟 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG325 - 326**。- Ling 🐬 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27823 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
 |        Canary        |                27823                |  2025/3/27  | [aka.ms/wip27823](https://blogs.windows.com/windows-insider/2025/03/26/announcing-windows-11-insider-preview-build-27823-canary-channel) |
-|       Dev        | 26200.5516 |   2025/3/29   | [aka.ms/wip-dev-3-28-25](https://blogs.windows.com/windows-insider/2025/03/28/announcing-windows-11-insider-preview-build-26200-5516-dev-channel) |
-|         Beta         | 26120.3653 |   2025/3/29   | [aka.ms/wip-beta-3-28-25](https://blogs.windows.com/windows-insider/2025/03/28/announcing-windows-11-insider-preview-build-26120-3653-beta-channel) |
+|       Dev        | **[新]** 26200.5518 |   2025/4/4   | [aka.ms/wip-dev-4-3-25](https://blogs.windows.com/windows-insider/2025/04/03/announcing-windows-11-insider-preview-build-26200-5518-dev-channel-2) |
+|         Beta         | **[新]** 26120.3671 |   2025/4/4   | [aka.ms/wip-beta-4-3-25](https://blogs.windows.com/windows-insider/2025/04/03/announcing-windows-11-insider-preview-build-26120-3671-beta-channel) |
 | Release Preview  | 26100.3624 |  2025/3/28  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5053656) |
 | General Availability |    26100.3476    |  2025/3/12  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5053598) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_0.png) · 5 - 8 月 · 9 - 12 月)
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_1.png) · 5 - 8 月 · 9 - 12 月)
 
 ---
 
@@ -80,6 +80,8 @@
 | [LG322](#LG322) |                        夜间模式失效。                        | 正在调查 |
 | [LG323](#LG323) | 将鼠标悬停在 “系统信息” 菜单顶部的选项卡时，边框显示为直角。 | 正在调查 |
 | [LG324](#LG324) |     无法启动 Tailscale VPN 等基于 IP Helper 服务的应用。     | 正在处理 |
+| [LG325](#LG325) |      **启动 “鸣潮” (Wuthering Waves) 游戏时电脑绿屏**。      | 正在调查 |
+| [LG326](#LG326) |           **“照片” 应用自动从任务栏中取消固定**。            | 正在处理 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG225](#LG225) |        文件资源管理器 “...” 二级菜单无法向下方弹出。         | 已修复 ✓ |
 | [LG308](#LG308) |    最小化并使用 ALT + TAB 还原文件资源管理器时 UI 异常。     | 已修复 ✓ |
@@ -142,7 +144,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 <SPAN ID = 'LG310'/>编号：LG310  
 日期：2025 年 3 月 24 日  
 版本：Canary 27818 - 27823  
-**问题**：**启动部分应用 / 功能时 WHEA_UNCORRECTABLE_ERROR 绿屏**。  
+**问题**：**[置顶] 启动部分应用 / 功能时 WHEA_UNCORRECTABLE_ERROR 绿屏**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAv7zrj](https://aka.ms/AAv7zrj) & [aka.ms/AAv7s0c](https://aka.ms/AAv7s0c) & [aka.ms/AAv7l43](https://aka.ms/AAv7l43) & [aka.ms/AAv7l46](https://aka.ms/AAv7l46)
 
@@ -337,6 +339,24 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 **问题**：**无法启动 Tailscale VPN 等基于 IP Helper 服务的应用**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAvbo9r](https://aka.ms/AAvbo9r) & [aka.ms/AAvbx6d](https://aka.ms/AAvbx6d) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG325'/>编号：LG325  
+日期：2025 年 4 月 7 日  
+版本：Canary 27823  
+**问题**：**启动 “鸣潮” (Wuthering Waves) 游戏时电脑绿屏**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAvbzju](https://aka.ms/AAvbzju)
+
+---
+
+<SPAN ID = 'LG326'/>编号：LG326  
+日期：2025 年 4 月 7 日  
+版本：2025.11030.27002.0  
+**问题**：**“照片” 应用自动从任务栏中取消固定**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAvbrzs](https://aka.ms/AAvbrzs) <img src="Images/M.png" width = "14%" />
 
 <SPAN ID = '2'/>
 

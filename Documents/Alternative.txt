@@ -274,12 +274,6 @@ https://aka.ms/AAumckm
 System About ×
 https://aka.ms/AAv9eqz
 
-27823 - When hovering over the new PC Specs tab at the top of the About menu, the border UI appears to have right angles instead of rounded corners. ✓
-https://aka.ms/AAvc3jh
-
-Hyper-V, and things that rely on Hyper-V like WSL, have stopped working again in Canary Builds 27818+ ✓
-https://aka.ms/AAvbvv3
-
 “选择声音输出”中，音量合成器中各程序音量条的按钮的蓝点是歪的 ×
 https://aka.ms/AAvbo9n
 
@@ -289,5 +283,14 @@ https://aka.ms/AAvc3jk
 The last build 27823 it's very very slow I think it has to do with memories not using memory OK that's all I got to say ×
 https://aka.ms/AAvbvv8
 
-Tailscale VPN fails to start in Build 27813+ ✓
-https://aka.ms/AAvbo9r
+Green Screen Error when trying to play "Wuthering Waves" ✓
+https://aka.ms/AAvbzju
+
+In the latest Insider builds, Photos keeps unpinning itself from the taskbar ✓
+https://aka.ms/AAvbrzs
+
+when i turn on some settings, it turns off when i go to a different section of settings. ×
+https://aka.ms/AAvc78a
+
+Build 27774/admin protection: screen readers do not read parts of apps running with admin privileges ×
+https://aka.ms/AAvbzjw
