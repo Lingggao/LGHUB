@@ -283,14 +283,29 @@ https://aka.ms/AAvc3jk
 The last build 27823 it's very very slow I think it has to do with memories not using memory OK that's all I got to say ×
 https://aka.ms/AAvbvv8
 
-Green Screen Error when trying to play "Wuthering Waves" ✓
-https://aka.ms/AAvbzju
-
-In the latest Insider builds, Photos keeps unpinning itself from the taskbar ✓
-https://aka.ms/AAvbrzs
-
 when i turn on some settings, it turns off when i go to a different section of settings. ×
 https://aka.ms/AAvc78a
 
 Build 27774/admin protection: screen readers do not read parts of apps running with admin privileges ×
 https://aka.ms/AAvbzjw
+
+DWM crashes when inking in the latest Canary builds, making the screen flash black ✓
+https://aka.ms/AAvgrqg
+
+DWM randomly crashed on Build 27823 ✓
+https://aka.ms/AAvgrr1
+
+randomly shutting off my laptop ✓
+https://aka.ms/AAvgrqj
+
+Hyper-V, and things that rely on Hyper-V like WSL, have stopped working again in Canary Builds 27818+ ✓
+https://aka.ms/AAvgds1
+
+Windows spotlight is not working on my Windows 11 PC ×
+https://aka.ms/AAdsl1t
+
+Since Build 27788+, my midi keyboard / devices don't work ✓
+https://aka.ms/AAv7m8v
+
+In the Canary Channel, scaling resets after closing and opening laptop ×
+https://aka.ms/AAqi9eq
