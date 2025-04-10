@@ -28,11 +28,11 @@
 
 ## 总览
 
-上次更新时间：2025 年 4 月 10 日 5:00 (UTC+8)。Star 数量：48 ⭐
+上次更新时间：2025 年 4 月 11 日 2:00 (UTC+8)。Star 数量：48 ⭐
 
 收录反馈 330 个，其中正在调查 23 个 (含[搁置](#3) 1 个)、正在处理 5 个、已修复 302 个。
 
-反馈更新记录：**今日更新 LG327 - 329**。- Ling 🔮 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日无更新**。- Ling 😽 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27823 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
@@ -41,7 +41,7 @@
 |        Canary        |                27823                |  2025/3/27  | [aka.ms/wip27823](https://blogs.windows.com/windows-insider/2025/03/26/announcing-windows-11-insider-preview-build-27823-canary-channel) |
 |       Dev        | 26200.5518 |   2025/4/4   | [aka.ms/wip-dev-4-3-25](https://blogs.windows.com/windows-insider/2025/04/03/announcing-windows-11-insider-preview-build-26200-5518-dev-channel-2) |
 |         Beta         | 26120.3671 |   2025/4/4   | [aka.ms/wip-beta-4-3-25](https://blogs.windows.com/windows-insider/2025/04/03/announcing-windows-11-insider-preview-build-26120-3671-beta-channel) |
-| Release Preview  | 26100.3624 |  2025/3/28  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5053656) |
+| Release Preview  | **[新]** 26100.3902 |  2025/4/11  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/04/10/releasing-windows-11-build-26100-3902-to-the-release-preview-channel) |
 | General Availability |    **[新]** 26100.3775    |  2025/4/9  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5055523) |
 
 <img src="Images/Graph_0.png" width = "93%" />
@@ -82,9 +82,9 @@
 | [LG324](#LG324) |     无法启动 Tailscale VPN 等基于 IP Helper 服务的应用。     |     正在处理     |
 | [LG325](#LG325) |        启动 “鸣潮” (Wuthering Waves) 游戏时电脑绿屏。        |     正在调查     |
 | [LG326](#LG326) |             “照片” 应用自动从任务栏中取消固定。              |     正在处理     |
-| [LG327](#LG327) |              **MIDI 键盘 / 设备无法正常工作**。              | 需要更多详细信息 |
-| [LG328](#LG328) |                      **DWM 随机崩溃**。                      |     正在调查     |
-| [LG329](#LG329) |                      **电脑随机关机**。                      |     正在调查     |
+| [LG327](#LG327) |                MIDI 键盘 / 设备无法正常工作。                | 需要更多详细信息 |
+| [LG328](#LG328) |                        DWM 随机崩溃。                        |     正在调查     |
+| [LG329](#LG329) |                        电脑随机关机。                        |     正在调查     |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |        ——        |
 | [LG225](#LG225) |        文件资源管理器 “...” 二级菜单无法向下方弹出。         |     已修复 ✓     |
 | [LG308](#LG308) |    最小化并使用 ALT + TAB 还原文件资源管理器时 UI 异常。     |     已修复 ✓     |
