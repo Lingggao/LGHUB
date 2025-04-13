@@ -28,21 +28,21 @@
 
 ## 总览
 
-上次更新时间：2025 年 4 月 11 日 2:00 (UTC+8)。Star 数量：48 ⭐
+上次更新时间：2025 年 4 月 13 日 23:00 (UTC+8)。Star 数量：48 ⭐
 
 收录反馈 330 个，其中正在调查 23 个 (含[搁置](#3) 1 个)、正在处理 5 个、已修复 302 个。
 
-反馈更新记录：**今日无更新**。- Ling 😽 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日无更新**。- Ling 🤤 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27823 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
 |        Canary        |                27823                |  2025/3/27  | [aka.ms/wip27823](https://blogs.windows.com/windows-insider/2025/03/26/announcing-windows-11-insider-preview-build-27823-canary-channel) |
-|       Dev        | 26200.5518 |   2025/4/4   | [aka.ms/wip-dev-4-3-25](https://blogs.windows.com/windows-insider/2025/04/03/announcing-windows-11-insider-preview-build-26200-5518-dev-channel-2) |
-|         Beta         | 26120.3671 |   2025/4/4   | [aka.ms/wip-beta-4-3-25](https://blogs.windows.com/windows-insider/2025/04/03/announcing-windows-11-insider-preview-build-26120-3671-beta-channel) |
-| Release Preview  | **[新]** 26100.3902 |  2025/4/11  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/04/10/releasing-windows-11-build-26100-3902-to-the-release-preview-channel) |
-| General Availability |    **[新]** 26100.3775    |  2025/4/9  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5055523) |
+|       Dev        | **[新]** 26200.5551 |   2025/4/12   | [aka.ms/wip-dev-4-11](https://blogs.windows.com/windows-insider/2025/04/11/announcing-windows-11-insider-preview-build-26200-5551-dev-channel) |
+|         Beta         | **[新]** 26120.3863 |   2025/4/12   | [aka.ms/wip-beta-4-11](https://blogs.windows.com/windows-insider/2025/04/11/announcing-windows-11-insider-preview-build-26120-3863-beta-channel) |
+| Release Preview  | 26100.3902 |  2025/4/11  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/04/10/releasing-windows-11-build-26100-3902-to-the-release-preview-channel) |
+| General Availability |    26100.3775    |  2025/4/9  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5055523) |
 
 <img src="Images/Graph_0.png" width = "93%" />
 
@@ -75,7 +75,7 @@
 | [LG317](#LG317) |                  启动 PUBG 游戏时电脑绿屏。                  |     正在调查     |
 | [LG318](#LG318) |        无法使用 Hyper-V 及依赖它的功能 (如 WSL 等)。         |     正在调查     |
 | [LG319](#LG319) |       “系统信息” 菜单顶部选项卡显示的内存速度不正确。        |     正在调查     |
-| [LG320](#LG320) |                    “天气” 应用加载缓慢。                     |     正在调查     |
+| [LG320](#LG320) |             “天气” 应用加载缓慢 / 无法显示内容。             |     正在调查     |
 | [LG321](#LG321) |    点击文件资源管理器左侧的导航窗格时，右侧仍停留在主页。    |     正在调查     |
 | [LG322](#LG322) |                        夜间模式失效。                        |     正在调查     |
 | [LG323](#LG323) | 将鼠标悬停在 “系统信息” 菜单顶部的选项卡时，边框显示为直角。 |     正在调查     |
@@ -301,9 +301,9 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 <SPAN ID = 'LG320'/>编号：LG320  
 日期：2025 年 3 月 30 日  
 版本：ALL  
-**问题**：**“天气” 应用加载缓慢**。  
+**问题**：**“天气” 应用加载缓慢 / 无法显示内容**。  
 状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAv9mb3](https://aka.ms/AAv9mb3)
+典型反馈：[aka.ms/AAv9mb3](https://aka.ms/AAv9mb3) & [aka.ms/AAvgh5u](https://aka.ms/AAvgh5u)
 
 ---
 
