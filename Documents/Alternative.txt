@@ -289,23 +289,38 @@ https://aka.ms/AAvc78a
 Build 27774/admin protection: screen readers do not read parts of apps running with admin privileges ×
 https://aka.ms/AAvbzjw
 
-DWM crashes when inking in the latest Canary builds, making the screen flash black ✓
-https://aka.ms/AAvgrqg
-
-DWM randomly crashed on Build 27823 ✓
-https://aka.ms/AAvgrr1
-
-randomly shutting off my laptop ✓
-https://aka.ms/AAvgrqj
-
-Hyper-V, and things that rely on Hyper-V like WSL, have stopped working again in Canary Builds 27818+ ✓
-https://aka.ms/AAvgds1
-
 Windows spotlight is not working on my Windows 11 PC ×
 https://aka.ms/AAdsl1t
 
-Since Build 27788+, my midi keyboard / devices don't work ✓
-https://aka.ms/AAv7m8v
-
 In the Canary Channel, scaling resets after closing and opening laptop ×
 https://aka.ms/AAqi9eq
+
+After upgrading to Build 27823, multiple games are green screening with an ace_base.sys KMODE_EXCEPTION_NOT_HANDLED error ✓
+https://aka.ms/AAvnsn4
+
+守望先锋游玩绿屏 ✓
+https://aka.ms/AAvo0dn
+
+Starting April 15 2025, I'm getting a green screen with SYSTEM_SERVICE_EXCEPTION when connecting an xbox controller to my Insider PC ✓
+https://aka.ms/AAvnjbu
+
+The Xbox App sometimes crashes when quitting a cloud streaming game ✓
+https://aka.ms/AAvo0dz
+
+Starting April 14 2025, the AVC Encoder Video Extension fails to install in Microsoft Store - gives error 0x80073CF6 ✓
+https://aka.ms/AAvo0du
+
+Trying to use Solitaire version 4.22.4032.0 is crashing on my Insider PC ✓
+https://aka.ms/AAvnsni
+
+Calendar not working ×
+https://aka.ms/AAvnktq
+
+Suddenly the context menu / menus in Edge aren't drawing correctly - shows a transparent halo effect ✓
+https://aka.ms/AAvnsnk
+
+When the Search Bar is in dark mode, the scrollbar in the right news section changes to light mode ×
+https://aka.ms/AAvbrks
+
+I bought a keyboard from your company iturned on my computer and it turned out be a piece of junk ×
+https://aka.ms/AAvnkub
