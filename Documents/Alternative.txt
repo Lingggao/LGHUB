@@ -295,32 +295,29 @@ https://aka.ms/AAdsl1t
 In the Canary Channel, scaling resets after closing and opening laptop ×
 https://aka.ms/AAqi9eq
 
-After upgrading to Build 27823, multiple games are green screening with an ace_base.sys KMODE_EXCEPTION_NOT_HANDLED error ✓
-https://aka.ms/AAvnsn4
-
-守望先锋游玩绿屏 ✓
-https://aka.ms/AAvo0dn
-
-Starting April 15 2025, I'm getting a green screen with SYSTEM_SERVICE_EXCEPTION when connecting an xbox controller to my Insider PC ✓
-https://aka.ms/AAvnjbu
-
-The Xbox App sometimes crashes when quitting a cloud streaming game ✓
-https://aka.ms/AAvo0dz
-
-Starting April 14 2025, the AVC Encoder Video Extension fails to install in Microsoft Store - gives error 0x80073CF6 ✓
-https://aka.ms/AAvo0du
-
-Trying to use Solitaire version 4.22.4032.0 is crashing on my Insider PC ✓
-https://aka.ms/AAvnsni
-
 Calendar not working ×
 https://aka.ms/AAvnktq
-
-Suddenly the context menu / menus in Edge aren't drawing correctly - shows a transparent halo effect ✓
-https://aka.ms/AAvnsnk
 
 When the Search Bar is in dark mode, the scrollbar in the right news section changes to light mode ×
 https://aka.ms/AAvbrks
 
 I bought a keyboard from your company iturned on my computer and it turned out be a piece of junk ×
 https://aka.ms/AAvnkub
+
+Windows Hello Face isn't working to log into my PC after updating to the latest Windows 11 Insider builds ✓
+https://aka.ms/AAvpvfn
+
+Dell Support Assist fails to launch after updating to the latest Windows 11 Insider builds ✓
+https://aka.ms/AAvpvfo
+
+News app blank and not rendering content in the latest Windows 11 Insider builds ✓
+https://aka.ms/AAvpg5t
+
+SYSTEM NONSTOP CRASH ×
+https://aka.ms/AAvpnvw
+
+M365 Copilot app fails to launch on Build 26120.3863 / 26200.5551 ×
+https://aka.ms/AAvpnvz
+
+Search isn't allowing any Text input from the START menu at all. ✓
+https://aka.ms/AAvpvfu

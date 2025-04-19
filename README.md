@@ -31,11 +31,11 @@
 | 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zgk) Teams 社区！ |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 4 月 17 日 2:00 (UTC+8)。Star 数量：48 ⭐
+上次更新时间：2025 年 4 月 20 日 1:00 (UTC+8)。Star 数量：48 ⭐
 
-收录反馈 334 个，其中正在调查 25 个 (含[搁置](#3) 1 个)、正在处理 6 个、已修复 303 个。
+收录反馈 338 个，其中正在调查 28 个 (含[搁置](#3) 1 个)、正在处理 7 个、已修复 303 个。
 
-反馈更新记录：**今日更新 LG330 - 333**。- Ling 🤥 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG334 - 337**。- Ling 🦎 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27823 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
@@ -44,12 +44,12 @@
 |        Canary        |                27823                |  2025/3/27  | [aka.ms/wip27823](https://blogs.windows.com/windows-insider/2025/03/26/announcing-windows-11-insider-preview-build-27823-canary-channel) |
 |       Dev        | 26200.5551 |   2025/4/12   | [aka.ms/wip-dev-4-11](https://blogs.windows.com/windows-insider/2025/04/11/announcing-windows-11-insider-preview-build-26200-5551-dev-channel) |
 |         Beta         | 26120.3863 |   2025/4/12   | [aka.ms/wip-beta-4-11](https://blogs.windows.com/windows-insider/2025/04/11/announcing-windows-11-insider-preview-build-26120-3863-beta-channel) |
-| Release Preview  | 26100.3902 |  2025/4/11  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/04/10/releasing-windows-11-build-26100-3902-to-the-release-preview-channel) |
+| Release Preview  | **[新]** 26100.3909 |  2025/4/19  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/04/10/releasing-windows-11-build-26100-3902-to-the-release-preview-channel) |
 | General Availability |    26100.3775    |  2025/4/9  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5055523) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_1.png) · 5 - 8 月 · 9 - 12 月)
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_0.png) · 5 - 8 月 · 9 - 12 月)
 
 ---
 
@@ -66,7 +66,7 @@
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |        ——        |
 | [LG310](#LG310) | **[置顶]** 启动部分应用 / 功能时 WHEA_UNCORRECTABLE_ERROR 绿屏。 |     正在调查     |
 | [LG318](#LG318) |   **[置顶]** 无法使用 Hyper-V 及依赖它的功能 (如 WSL 等)。   |     正在调查     |
-| [LGH04](LGH04)  |    **[置顶] [集合]** **启动部分游戏时崩溃 / 电脑绿屏**。     |     正在调查     |
+| [LGH04](LGH04)  |      **[置顶] [集合]** 启动部分游戏时崩溃 / 电脑绿屏。       |     正在调查     |
 | [LG252](#LG252) |              组策略编辑器和服务管理器 UI 错误。              |     正在调查     |
 | [LG258](#LG258) |            拖动表情符号面板中的滚动条时卡顿严重。            |     正在调查     |
 | [LG265](#LG265) |        Windows 安全中心 “智能应用控制” 功能丢失图标。        |     正在调查     |
@@ -87,11 +87,15 @@
 | [LG327](#LG327) |                MIDI 键盘 / 设备无法正常工作。                | 需要更多详细信息 |
 | [LG328](#LG328) |                        DWM 随机崩溃。                        |     正在调查     |
 | [LG329](#LG329) |                        电脑随机关机。                        |     正在调查     |
-| [LG330](#LG330) |   **连接 Xbox 手柄时电脑 SYSTEM_SERVICE_EXCEPTION 绿屏**。   |     正在调查     |
-| [LG331](#LG331) |            **退出云流媒体游戏时 Xbox 应用崩溃**。            |     正在调查     |
-| [LG332](#LG332) |   **“AVC 编码器视频扩展” 无法在 Microsoft Store 中安装**。   |     正在处理     |
+| [LG330](#LG330) |     连接 Xbox 手柄时电脑 SYSTEM_SERVICE_EXCEPTION 绿屏。     |     正在调查     |
+| [LG331](#LG331) |              退出云流媒体游戏时 Xbox 应用崩溃。              |     正在调查     |
+| [LG332](#LG332) |     “AVC 编码器视频扩展” 无法在 Microsoft Store 中安装。     |     正在处理     |
+| [LG334](#LG334) |          **无法使用 Windows Hello 面部识别登录**。           |     正在处理     |
+| [LG335](#LG335) |            **无法启动 DELL SupportAssist 应用**。            |     正在调查     |
+| [LG336](#LG336) |              **“MSN 资讯” 应用无法显示内容**。               |     正在调查     |
+| [LG337](#LG337) |         **间歇性无法在开始菜单中输入文本进行搜索**。         |     正在调查     |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |        ——        |
-| [LG333](#LG333) |        **Microsoft Edge 菜单 UI 周围出现一圈边框**。         |     已修复 ✓     |
+| [LG333](#LG333) |          Microsoft Edge 菜单 UI 周围出现一圈边框。           |     已修复 ✓     |
 | [LG225](#LG225) |        文件资源管理器 “...” 二级菜单无法向下方弹出。         |     已修复 ✓     |
 | [LG308](#LG308) |    最小化并使用 ALT + TAB 还原文件资源管理器时 UI 异常。     |     已修复 ✓     |
 | [LG312](#LG312) |               在截图工具中使用画笔时应用冻结。               |     已修复 ✓     |
@@ -421,6 +425,44 @@ Microsoft 官方回复：“如果您遇到了此问题，请打开设备管理�
 **问题**：**“AVC 编码器视频扩展” 无法在 Microsoft Store 中安装**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAvo0du](https://aka.ms/AAvo0du) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG334'/>编号：LG334  
+日期：2025 年 4 月 20 日  
+版本：Canary 27823  
+**问题**：**无法使用 Windows Hello 面部识别登录**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAvpvfn](https://aka.ms/AAvpvfn) <img src="Images/M.png" width = "14%" />
+
+<img src="Images/LG334.png" width = "50%" />
+
+---
+
+<SPAN ID = 'LG335'/>编号：LG335  
+日期：2025 年 4 月 20 日  
+版本：Canary 27823  
+**问题**：**无法启动 DELL SupportAssist 应用**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAvpvfo](https://aka.ms/AAvpvfo)
+
+---
+
+<SPAN ID = 'LG336'/>编号：LG336  
+日期：2025 年 4 月 20 日  
+版本：Canary 27823  
+**问题**：**“MSN 资讯” 应用无法显示内容**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAvpg5t](https://aka.ms/AAvpg5t) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG337'/>编号：LG337  
+日期：2025 年 4 月 20 日  
+版本：Canary 27823  
+**问题**：**间歇性无法在开始菜单中输入文本进行搜索**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAvpvfu](https://aka.ms/AAvpvfu)
 
 <SPAN ID = '2'/>
 
