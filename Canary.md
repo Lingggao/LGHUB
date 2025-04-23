@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27823 更新简报
+# WIP Canary 27842 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/3/29)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/4/24)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/03/26/announcing-windows-11-insider-preview-build-27823-canary-channel)、[中文更新公告](https://aka.ms/AAvaflp)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/04/23/announcing-windows-11-insider-preview-build-27842-canary-channel)、[中文更新公告]() (暂无)。
 
 ## 一、新功能
 
@@ -14,25 +14,25 @@
 
 ## 二、变更和改进
 
-1. 改善了系统整体体验。
-2. “设置”>“系统”>“系统信息” 菜单全新 UI。
+1. 新版彩色电池图标暂时消失。
+2. 预览全新简化版绿屏 UI。
 
-<img src="Images/27823_1.png" width = "50%" />
+<img src="Images/27842_1.png" width = "55%" />
+
+3. 优化了 Windows 安全中心。
+4. 删除了 bypassnro.cmd 脚本。
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/03/26/announcing-windows-11-insider-preview-build-27823-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/04/23/announcing-windows-11-insider-preview-build-27842-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “最小化并使用 ALT + TAB 还原文件资源管理器时 UI 异常” 的问题。
-2. 修复了 “文件资源管理器 ... 二级菜单无法向下方弹出” 的问题。
-3. 修复了 “复制时 ctfmon.exe 崩溃” 的问题。
-4. 修复了 “点击登录选项时崩溃” 的问题。
-5. 修复了 “设置 > 蓝牙和其他设备 > 摄像头菜单崩溃” 的问题。
-6. 修复了 “无法安装部分应用” 的问题。
-7. 修复了 “安装 Windows 时 UNSUPPORTED_PROCESSOR 绿屏” 的问题。
-8. 修复了 “无法卸载打印机” 的问题。
+1. 修复了 “在最新更新可用后立即获取选项无法正确呈现” 的问题。
+2. 修复了 “WHEA_UNCORRECTABLE_ERROR 绿屏” 的问题。
+3. 修复了 “explorer.exe 可靠性下降” 的问题。
+4. 修复了 “DWM 随机崩溃” 的问题。
+5. 修复了 “智能应用控制功能丢失图标” 的问题。
 
 谢谢，
 
