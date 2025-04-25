@@ -172,7 +172,7 @@ Microsoft 官方回复：“如果您遇到了此问题，请打开设备管理�
 
 <SPAN ID = 'LGH04'/>编号：LGH04  
 日期：2025 年 4 月 17 日  
-版本：Canary 27823  
+版本：Canary 27823 - 27842  
 **集合**：**启动部分游戏时崩溃 / 电脑绿屏**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAvnsn4](https://aka.ms/AAvnsn4)
