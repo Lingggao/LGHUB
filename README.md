@@ -28,28 +28,28 @@
 
 ## 总览
 
-| 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zgk) Teams 社区！ |
+| 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zgk) Microsoft Teams 社区！ |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 4 月 24 日 5:00 (UTC+8)。Star 数量：48 ⭐
+上次更新时间：2025 年 4 月 26 日 2:00 (UTC+8)。Star 数量：48 ⭐
 
-收录反馈 338 个，其中正在调查 14 个 (含[搁置](#3) 1 个)、正在处理 5 个、已修复 319 个。
+收录反馈 343 个，其中正在调查 18 个 (含[搁置](#3) 0 个)、正在处理 5 个、已修复 320 个。
 
-反馈更新记录：**今日更新反馈状态**。- Ling 😋 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG338 - 342**。- Ling 😎 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27842 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
 |        Canary        |                **[新]** 27842                |  2025/4/24  | [aka.ms/wip27842](https://blogs.windows.com/windows-insider/2025/04/23/announcing-windows-11-insider-preview-build-27842-canary-channel) |
-|       Dev        | **[新]** 26200.5562 |   2025/4/22   | [aka.ms/wip-dev-4-21-25](https://blogs.windows.com/windows-insider/2025/04/21/announcing-windows-11-insider-preview-build-26200-5562-dev-channel) |
-|         Beta         | **[新]** 26120.3872 |   2025/4/22   | [aka.ms/wip-beta-4-21-25](https://blogs.windows.com/windows-insider/2025/04/21/announcing-windows-11-insider-preview-build-26120-3872-beta-channel) |
+|       Dev        | 26200.5562 |   2025/4/22   | [aka.ms/wip-dev-4-21-25](https://blogs.windows.com/windows-insider/2025/04/21/announcing-windows-11-insider-preview-build-26200-5562-dev-channel) |
+|         Beta         | 26120.3872 |   2025/4/22   | [aka.ms/wip-beta-4-21-25](https://blogs.windows.com/windows-insider/2025/04/21/announcing-windows-11-insider-preview-build-26120-3872-beta-channel) |
 | Release Preview  | 26100.3909 |  2025/4/19  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/04/10/releasing-windows-11-build-26100-3902-to-the-release-preview-channel) |
 | General Availability |    26100.3775    |  2025/4/9  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5055523) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_1.png) · 5 - 8 月 · 9 - 12 月)
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_0.png) · 5 - 8 月 · 9 - 12 月)
 
 ---
 
@@ -66,6 +66,7 @@
 | [LG309](#LG309) |        以平板电脑方式使用时，任务栏中的图标不会变大。        | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
 | [LG318](#LG318) |   **[置顶]** 无法使用 Hyper-V 及依赖它的功能 (如 WSL 等)。   | 正在调查 |
+| [LGH04](LGH04)  |          **[集合]** 启动部分游戏时崩溃 / 电脑绿屏。          | 正在调查 |
 | [LG252](#LG252) |              组策略编辑器和服务管理器 UI 错误。              | 正在调查 |
 | [LG258](#LG258) |            拖动表情符号面板中的滚动条时卡顿严重。            | 正在调查 |
 | [LG277](#LG277) |     右键文件时，删除按钮的鼠标悬停提示为 “删除 (删除)”。     | 正在调查 |
@@ -78,10 +79,14 @@
 | [LG323](#LG323) | 将鼠标悬停在 “系统信息” 菜单顶部的选项卡时，边框显示为直角。 | 正在调查 |
 | [LG334](#LG334) |            无法使用 Windows Hello 面部识别登录。             | 正在处理 |
 | [LG337](#LG337) |           间歇性无法在开始菜单中输入文本进行搜索。           | 正在调查 |
+| [LG338](#LG338) |    **无法安装 Canary 27842 更新，错误代码 0x8007000d**。     | 正在调查 |
+| [LG339](#LG339) |   **开始菜单、任务栏、文件资源管理器等组件无法显示文字**。   | 正在调查 |
+| [LG340](#LG340) |       **Canary 27842 安装极度缓慢，耗时超过 2 小时**。       | 正在调查 |
+| [LG341](#LG341) |                     **WLAN 网络故障**。                      | 正在调查 |
+| [LG342](#LG342) |               **打开组策略编辑器时提示错误**。               | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG316](#LG316) |   “在最新更新可用后立即获取” 选项无法正确呈现并自动关闭。    | 已修复 ✓ |
 | [LG310](#LG310) |    启动部分应用 / 功能时 WHEA_UNCORRECTABLE_ERROR 绿屏。     | 已修复 ✓ |
-| [LGH04](LGH04)  |          **[集合]** 启动部分游戏时崩溃 / 电脑绿屏。          | 已修复 ✓ |
 | [LG265](#LG265) |        Windows 安全中心 “智能应用控制” 功能丢失图标。        | 已修复 ✓ |
 | [LG319](#LG319) |       “系统信息” 菜单顶部选项卡显示的内存速度不正确。        | 已修复 ✓ |
 | [LG320](#LG320) |             “天气” 应用加载缓慢 / 无法显示内容。             | 已修复 ✓ |
@@ -159,9 +164,25 @@ Microsoft 官方回复：“如果您遇到了此问题，请打开设备管理�
 <SPAN ID = 'LG318'/>编号：LG318  
 日期：2025 年 3 月 30 日  
 版本：Canary 27818 - 27842  
-**问题**：**无法使用 Hyper-V 及依赖它的功能 (如 WSL 等)**。  
+**问题**：**[置顶] 无法使用 Hyper-V 及依赖它的功能 (如 WSL 等)**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAv9u24](https://aka.ms/AAv9u24) & [aka.ms/AAvbvv3](https://aka.ms/AAvbvv3) & [aka.ms/AAvgds1](https://aka.ms/AAvgds1)
+
+---
+
+<SPAN ID = 'LGH04'/>编号：LGH04  
+日期：2025 年 4 月 17 日  
+版本：Canary 27823  
+**集合**：**启动部分游戏时崩溃 / 电脑绿屏**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAvnsn4](https://aka.ms/AAvnsn4)
+
+列表：
+
+- PUBG - [aka.ms/AAv9mb1](https://aka.ms/AAv9mb1)
+- 鸣潮 (Wuthering Waves) - [aka.ms/AAvbzju](https://aka.ms/AAvbzju)
+- 守望先锋 - [aka.ms/AAvo0dn](https://aka.ms/AAvo0dn)
+- Microsoft Solitaire - [aka.ms/AAvnsni](https://aka.ms/AAvnsni)
 
 ---
 
@@ -289,6 +310,53 @@ Microsoft 官方回复：“如果您遇到了此问题，请打开设备管理�
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAvpvfu](https://aka.ms/AAvpvfu)
 
+---
+
+<SPAN ID = 'LG338'/>编号：LG338  
+日期：2025 年 4 月 26 日  
+版本：Canary 27842  
+**问题**：**无法安装 Canary 27842 更新，错误代码 0x8007000d**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAvs3c5](https://aka.ms/AAvs3c5)
+
+---
+
+<SPAN ID = 'LG339'/>编号：LG339  
+日期：2025 年 4 月 26 日  
+版本：Canary 27842  
+**问题**：**开始菜单、任务栏、文件资源管理器等组件无法显示文字**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAvsow5](https://aka.ms/AAvsow5) & [aka.ms/AAvs3a3](https://aka.ms/AAvs3a3) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG340'/>编号：LG340  
+日期：2025 年 4 月 26 日  
+版本：Canary 27842  
+**问题**：**Canary 27842 安装极度缓慢，耗时超过 2 小时**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAvsowb](https://aka.ms/AAvsowb) & [aka.ms/AAvro05](https://aka.ms/AAvro05)
+
+---
+
+<SPAN ID = 'LG341'/>编号：LG341  
+日期：2025 年 4 月 26 日  
+版本：Canary 27842  
+**问题**：**WLAN 网络故障**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAvs3ag](https://aka.ms/AAvs3ag) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG342'/>编号：LG342  
+日期：2025 年 4 月 26 日  
+版本：Canary 27842  
+**问题**：**打开组策略编辑器时提示错误**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAvskqo](https://aka.ms/AAvskqo)
+
+<img src="Images/LG342.png" width = "50%" />
+
 <SPAN ID = '2'/>
 
 ## Canary - 归档 (已做出更改)
@@ -327,22 +395,6 @@ Microsoft 官方回复：“如果您遇到了此问题，请打开设备管理�
 - Oracle VM VirtualBox
 
 <img src="Images/LG310.png" width = "55%" />
-
----
-
-<SPAN ID = 'LGH04'/>编号：LGH04  
-日期：2025 年 4 月 17 日  
-版本：Canary 27823  
-**集合**：**启动部分游戏时崩溃 / 电脑绿屏**。  
-状态：Canary 27842 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAvnsn4](https://aka.ms/AAvnsn4)
-
-列表：
-
-- PUBG - [aka.ms/AAv9mb1](https://aka.ms/AAv9mb1)
-- 鸣潮 (Wuthering Waves) - [aka.ms/AAvbzju](https://aka.ms/AAvbzju)
-- 守望先锋 - [aka.ms/AAvo0dn](https://aka.ms/AAvo0dn)
-- Microsoft Solitaire - [aka.ms/AAvnsni](https://aka.ms/AAvnsni)
 
 ---
 

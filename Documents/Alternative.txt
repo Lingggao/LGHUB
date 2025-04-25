@@ -304,20 +304,26 @@ https://aka.ms/AAvbrks
 I bought a keyboard from your company iturned on my computer and it turned out be a piece of junk ×
 https://aka.ms/AAvnkub
 
-Windows Hello Face isn't working to log into my PC after updating to the latest Windows 11 Insider builds ✓
-https://aka.ms/AAvpvfn
-
-Dell Support Assist fails to launch after updating to the latest Windows 11 Insider builds ✓
-https://aka.ms/AAvpvfo
-
-News app blank and not rendering content in the latest Windows 11 Insider builds ✓
-https://aka.ms/AAvpg5t
-
 SYSTEM NONSTOP CRASH ×
 https://aka.ms/AAvpnvw
 
 M365 Copilot app fails to launch on Build 26120.3863 / 26200.5551 ×
 https://aka.ms/AAvpnvz
 
-Search isn't allowing any Text input from the START menu at all. ✓
-https://aka.ms/AAvpvfu
+更新到build 27842版本后搜索菜单、资源管理器等不显示文字，严重影响正常使用 ✓
+https://aka.ms/AAvs3a3
+
+Build 27842 has an issue where random UI across windows (taskbar, start, context menu, etc) isn't displaying and is blank ✓
+https://aka.ms/AAvsow5
+
+Build finely installed , slow on the download and install , stopped at 30% on the install, Had to shutdown and restart system then all move smoothly. ✓
+https://aka.ms/AAvsowb
+
+Build 27842 broke wi-fi ✓
+https://aka.ms/AAvs3ag
+
+Build 27842+, Edit Group Policy error messages. ✓
+https://aka.ms/AAvskqo
+
+Canary channel build 27842: Worst install ever!! ✓
+https://aka.ms/AAvro05
