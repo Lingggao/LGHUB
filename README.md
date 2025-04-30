@@ -28,28 +28,31 @@
 
 ## 总览
 
+| 用创造拥抱新时代，以奋斗铸就新辉煌。向全国工人阶级和广大劳动群众致以节日的问候！ |
+| :----------------------------------------------------------: |
+
 | 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zgk) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 4 月 28 日 2:00 (UTC+8)。Star 数量：48 ⭐
+上次更新时间：2025 年 5 月 1 日 2:00 (UTC+8)。Star 数量：48 ⭐
 
-收录反馈 346 个，其中正在调查 21 个 (含[搁置](#3) 0 个)、正在处理 5 个、已修复 320 个。
+收录反馈 348 个，其中正在调查 22 个 (含[搁置](#3) 0 个)、正在处理 6 个、已修复 320 个。
 
-反馈更新记录：**今日更新 LG343 - 345**。- Ling 😌 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG346 - 347**。- Ling 👷‍♂️🧑‍🌾 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27842 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
 |        Canary        |                27842                |  2025/4/24  | [aka.ms/wip27842](https://blogs.windows.com/windows-insider/2025/04/23/announcing-windows-11-insider-preview-build-27842-canary-channel) |
-|       Dev        | **[新]** 26200.5570 |   2025/4/26   | [aka.ms/wip-dev-4-25-25](https://blogs.windows.com/windows-insider/2025/04/25/announcing-windows-11-insider-preview-build-26200-5570-dev-channel) |
-|         Beta         | **[新]** 26120.3941 |   2025/4/26   | [aka.ms/wip-beta-4-25-25](https://blogs.windows.com/windows-insider/2025/04/25/announcing-windows-11-insider-preview-build-26120-3941-beta-channel) |
-| Release Preview  | **[新]** 26100.3915 |  2025/4/26  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5055627) |
+|       Dev        | 26200.5570 |   2025/4/26   | [aka.ms/wip-dev-4-25-25](https://blogs.windows.com/windows-insider/2025/04/25/announcing-windows-11-insider-preview-build-26200-5570-dev-channel) |
+|         Beta         | 26120.3941 |   2025/4/26   | [aka.ms/wip-beta-4-25-25](https://blogs.windows.com/windows-insider/2025/04/25/announcing-windows-11-insider-preview-build-26120-3941-beta-channel) |
+| Release Preview  | 26100.3915 |  2025/4/26  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5055627) |
 | General Availability |    26100.3775    |  2025/4/9  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5055523) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_1.png) · 5 - 8 月 · 9 - 12 月)
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_0.png) · 9 - 12 月)
 
 ---
 
@@ -84,9 +87,11 @@
 | [LG340](#LG340) |         Canary 27842 安装极度缓慢，耗时超过 2 小时。         | 正在调查 |
 | [LG341](#LG341) |                       WLAN 网络故障。                        | 正在调查 |
 | [LG342](#LG342) |                 打开组策略编辑器时提示错误。                 | 正在调查 |
-| [LG343](#LG343) |     **打开文件资源管理器时，地址栏中不显示 “此电脑”**。      | 正在调查 |
-| [LG344](#LG344) |       **Canary 27842 稳定性表现不佳，电脑随机绿屏**。        | 正在调查 |
-| [LG345](#LG345) |           **“画图” 应用在 Canary 27842 中崩溃**。            | 正在调查 |
+| [LG343](#LG343) |       打开文件资源管理器时，地址栏中不显示 “此电脑”。        | 正在调查 |
+| [LG344](#LG344) |         Canary 27842 稳定性表现不佳，电脑随机绿屏。          | 正在调查 |
+| [LG345](#LG345) |             “画图” 应用在 Canary 27842 中崩溃。              | 正在调查 |
+| [LG346](#LG346) |          **安装 Canary 27842 更新时卡在黑屏状态**。          | 正在处理 |
+| [LG347](#LG347) |          **满足条件后在反馈中心无法获得成就徽章**。          | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG316](#LG316) |   “在最新更新可用后立即获取” 选项无法正确呈现并自动关闭。    | 已修复 ✓ |
 | [LG310](#LG310) |    启动部分应用 / 功能时 WHEA_UNCORRECTABLE_ERROR 绿屏。     | 已修复 ✓ |
@@ -388,6 +393,24 @@ Microsoft 官方回复：“如果您遇到了此问题，请打开设备管理�
 **问题**：**“画图” 应用在 Canary 27842 中崩溃**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAw0ikn](https://aka.ms/AAw0ikn)
+
+---
+
+<SPAN ID = 'LG346'/>编号：LG346  
+日期：2025 年 5 月 1 日  
+版本：Canary 27842  
+**问题**：**安装 Canary 27842 更新时卡在黑屏状态**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAw2a0c](https://aka.ms/AAw2a0c) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG347'/>编号：LG347  
+日期：2025 年 5 月 1 日  
+版本：ALL  
+**问题**：**满足条件后在反馈中心无法获得成就徽章**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAw0kh1](https://aka.ms/AAw0kh1)
 
 <SPAN ID = '2'/>
 

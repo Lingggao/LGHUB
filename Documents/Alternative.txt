@@ -310,11 +310,8 @@ https://aka.ms/AAvpnvw
 M365 Copilot app fails to launch on Build 26120.3863 / 26200.5551 ×
 https://aka.ms/AAvpnvz
 
-系统自带画图工具使用文字时崩溃 ✓
-https://aka.ms/AAw0ikn
+Not receiving badge for feedback submission ✓
+https://aka.ms/AAw0kh1
 
-Canary 27842 - 打开文件资源管理器时，地址栏中不显示 “此电脑”。 ✓
-https://aka.ms/AAvsqke
-
-Latest Canary Build (27842) has a persistent crashing issue ✓
-https://aka.ms/AAw0ilg
+Got stuck at a black screen when trying to upgrade to Build 27842 ✓
+https://aka.ms/AAw2a0c
