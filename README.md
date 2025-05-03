@@ -28,17 +28,17 @@
 
 ## 总览
 
-| 用创造拥抱新时代，以奋斗铸就新辉煌。向全国工人阶级和广大劳动群众致以节日的问候！ |
+| 为中国式现代化建设贡献青春力量。向全国广大青年致以节日祝贺！ |
 | :----------------------------------------------------------: |
 
 | 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zgk) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 5 月 1 日 2:00 (UTC+8)。Star 数量：48 ⭐
+上次更新时间：2025 年 5 月 4 日 3:00 (UTC+8)。Star 数量：48 ⭐
 
-收录反馈 348 个，其中正在调查 22 个 (含[搁置](#3) 0 个)、正在处理 6 个、已修复 320 个。
+收录反馈 355 个，其中正在调查 28 个 (含[搁置](#3) 0 个)、正在处理 7 个、已修复 320 个。
 
-反馈更新记录：**今日更新 LG346 - 347**。- Ling 👷‍♂️🧑‍🌾 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG348 - 354**。- Ling 🧑‍🎓 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27842 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
@@ -50,9 +50,9 @@
 | Release Preview  | 26100.3915 |  2025/4/26  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5055627) |
 | General Availability |    26100.3775    |  2025/4/9  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5055523) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_0.png) · 9 - 12 月)
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_1.png) · 9 - 12 月)
 
 ---
 
@@ -90,8 +90,15 @@
 | [LG343](#LG343) |       打开文件资源管理器时，地址栏中不显示 “此电脑”。        | 正在调查 |
 | [LG344](#LG344) |         Canary 27842 稳定性表现不佳，电脑随机绿屏。          | 正在调查 |
 | [LG345](#LG345) |             “画图” 应用在 Canary 27842 中崩溃。              | 正在调查 |
-| [LG346](#LG346) |          **安装 Canary 27842 更新时卡在黑屏状态**。          | 正在处理 |
-| [LG347](#LG347) |          **满足条件后在反馈中心无法获得成就徽章**。          | 正在调查 |
+| [LG346](#LG346) |            安装 Canary 27842 更新时卡在黑屏状态。            | 正在处理 |
+| [LG347](#LG347) |            满足条件后在反馈中心无法获得成就徽章。            | 正在调查 |
+| [LG348](#LG348) |     **安装 Windows 11 时，菜单按照从右到左的方式排列**。     | 正在调查 |
+| [LG349](#LG349) |           **无法在小组件中登录 Microsoft 账户**。            | 正在调查 |
+| [LG350](#LG350) |                  **AMD 显卡驱动持续崩溃**。                  | 正在调查 |
+| [LG351](#LG351) |           **可变刷新率功能 (VRR) 无法正常工作**。            | 正在调查 |
+| [LG352](#LG352) |              **电脑因 dxgmms2.sys 错误绿屏**。               | 正在处理 |
+| [LG353](#LG353) |            **无法启动 Windows 终端 (Terminal)**。            | 正在调查 |
+| [LG354](#LG354) |                **更新后无法登录 OneDrive**。                 | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG316](#LG316) |   “在最新更新可用后立即获取” 选项无法正确呈现并自动关闭。    | 已修复 ✓ |
 | [LG310](#LG310) |    启动部分应用 / 功能时 WHEA_UNCORRECTABLE_ERROR 绿屏。     | 已修复 ✓ |
@@ -411,6 +418,71 @@ Microsoft 官方回复：“如果您遇到了此问题，请打开设备管理�
 **问题**：**满足条件后在反馈中心无法获得成就徽章**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAw0kh1](https://aka.ms/AAw0kh1)
+
+---
+
+<SPAN ID = 'LG348'/>编号：LG348  
+日期：2025 年 5 月 4 日  
+版本：ALL  
+**问题**：**安装 Windows 11 时，菜单按照从右到左的方式排列**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAw2o68](https://aka.ms/AAw2o68) & [aka.ms/AAw5fk3](https://aka.ms/AAw5fk3)
+
+<img src="Images/LG348.png" width = "40%" />
+
+---
+
+<SPAN ID = 'LG349'/>编号：LG349  
+日期：2025 年 5 月 4 日  
+版本：Canary 27842  
+**问题**：**无法在小组件中登录 Microsoft 账户**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAw3xr3](https://aka.ms/AAw3xr3)
+
+---
+
+<SPAN ID = 'LG350'/>编号：LG350  
+日期：2025 年 5 月 4 日  
+版本：Canary 27842  
+**问题**：**AMD 显卡驱动持续崩溃**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAw5fmn](https://aka.ms/AAw5fmn)
+
+---
+
+<SPAN ID = 'LG351'/>编号：LG351  
+日期：2025 年 5 月 4 日  
+版本：Canary 27842  
+**问题**：**可变刷新率功能 (VRR) 无法正常工作**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAw3xtn](https://aka.ms/AAw3xtn)
+
+---
+
+<SPAN ID = 'LG352'/>编号：LG352  
+日期：2025 年 5 月 4 日  
+版本：Canary 27842  
+**问题**：**电脑因 dxgmms2.sys 错误绿屏**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAw5fn3](https://aka.ms/AAw5fn3)
+
+---
+
+<SPAN ID = 'LG353'/>编号：LG353  
+日期：2025 年 5 月 4 日  
+版本：Canary 27842  
+**问题**：**无法启动 Windows 终端 (Terminal)**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAw583q](https://aka.ms/AAw583q)
+
+---
+
+<SPAN ID = 'LG354'/>编号：LG354  
+日期：2025 年 5 月 4 日  
+版本：Canary 27842  
+**问题**：**更新后无法登录 OneDrive**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAw5842](https://aka.ms/AAw5842)
 
 <SPAN ID = '2'/>
 

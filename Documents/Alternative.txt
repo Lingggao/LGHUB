@@ -298,7 +298,7 @@ https://aka.ms/AAqi9eq
 Calendar not working ×
 https://aka.ms/AAvnktq
 
-When the Search Bar is in dark mode, the scrollbar in the right news section changes to light mode ×
+When the Search Bar is in dark mode, the scrollb小组件登录不了账号ar in the right news section changes to light mode ×
 https://aka.ms/AAvbrks
 
 I bought a keyboard from your company iturned on my computer and it turned out be a piece of junk ×
@@ -310,8 +310,29 @@ https://aka.ms/AAvpnvw
 M365 Copilot app fails to launch on Build 26120.3863 / 26200.5551 ×
 https://aka.ms/AAvpnvz
 
-Not receiving badge for feedback submission ✓
-https://aka.ms/AAw0kh1
+使用 ISO 安装 Windows 11 时，“退出” 菜单中的内容错误地按照从右到左的方式排列。 ✓
+https://aka.ms/AAw2o68
 
-Got stuck at a black screen when trying to upgrade to Build 27842 ✓
-https://aka.ms/AAw2a0c
+Windows 安装程序的退出窗口在从左到右排列的语言中错误的使用了从右到左的排布 ✓
+https://aka.ms/AAw5fk3
+
+小组件登录不了账号 ✓
+https://aka.ms/AAw3xr3
+
+Зависает окно ×
+https://aka.ms/AAw583e
+
+VIdeo Driver constantly crashing  in 27842(Canary) ✓
+https://aka.ms/AAw5fmn
+
+VRR broken in build 27842 ✓
+https://aka.ms/AAw3xtn
+
+Cannot launch Terminal after updating to Build 27842 ✓
+https://aka.ms/AAw583q
+
+dxgmms2.sys crashes when playing Steam games ✓
+https://aka.ms/AAw5fn3
+
+Not possible to login to One Drive after update possible ✓
+https://aka.ms/AAw5842
