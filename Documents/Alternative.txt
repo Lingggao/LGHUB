@@ -310,29 +310,14 @@ https://aka.ms/AAvpnvw
 M365 Copilot app fails to launch on Build 26120.3863 / 26200.5551 ×
 https://aka.ms/AAvpnvz
 
-使用 ISO 安装 Windows 11 时，“退出” 菜单中的内容错误地按照从右到左的方式排列。 ✓
-https://aka.ms/AAw2o68
-
-Windows 安装程序的退出窗口在从左到右排列的语言中错误的使用了从右到左的排布 ✓
-https://aka.ms/AAw5fk3
-
-小组件登录不了账号 ✓
-https://aka.ms/AAw3xr3
-
 Зависает окно ×
 https://aka.ms/AAw583e
 
-VIdeo Driver constantly crashing  in 27842(Canary) ✓
-https://aka.ms/AAw5fmn
+Trying to launch Naraka: Bladepoint on the latest Canary builds (Build 27823+) leads to a green screen ✓
+https://aka.ms/AAw3yn3
 
-VRR broken in build 27842 ✓
-https://aka.ms/AAw3xtn
+issues with new build using AMD architecture ✓
+https://aka.ms/AAw58ws
 
-Cannot launch Terminal after updating to Build 27842 ✓
-https://aka.ms/AAw583q
-
-dxgmms2.sys crashes when playing Steam games ✓
-https://aka.ms/AAw5fn3
-
-Not possible to login to One Drive after update possible ✓
-https://aka.ms/AAw5842
+Build 27842 has a new SYSTEM_THREAD_EXCEPTION_NOT_HANDLED green screen that I hit when gaming ✓
+https://aka.ms/AAw5gfm
