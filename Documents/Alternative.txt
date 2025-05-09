@@ -313,11 +313,17 @@ https://aka.ms/AAvpnvz
 Зависает окно ×
 https://aka.ms/AAw583e
 
-Trying to launch Naraka: Bladepoint on the latest Canary builds (Build 27823+) leads to a green screen ✓
-https://aka.ms/AAw3yn3
+In the Canary Channel, my mouse automatically scrolls left or up when connecting to multi-monitors ✓
+https://aka.ms/AAw87ng
 
-issues with new build using AMD architecture ✓
-https://aka.ms/AAw58ws
+After installing the latest Windows 11 Insider builds, clicking my profile picture in Start menu to open the account manager doesn't do anything ×
+https://aka.ms/AAw6tsj
 
-Build 27842 has a new SYSTEM_THREAD_EXCEPTION_NOT_HANDLED green screen that I hit when gaming ✓
-https://aka.ms/AAw5gfm
+I'm not able to use the Snipping Tool to take screenshots of certain Windows UI in Windows 11 - search, context menu, and others. The UI appears... ✓
+https://aka.ms/AAw7f38
+
+Windows Recall not working ×
+https://aka.ms/AAw87nt
+
+Mouse control vertical inverted in Hyper-V virtual machine ✓
+https://aka.ms/AAw87o0
