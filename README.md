@@ -42,14 +42,14 @@
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
 |        Canary        |                27842                |  2025/4/24  | [aka.ms/wip27842](https://blogs.windows.com/windows-insider/2025/04/23/announcing-windows-11-insider-preview-build-27842-canary-channel) |
-|       Dev        | 26200.5570 |   2025/4/26   | [aka.ms/wip-dev-4-25-25](https://blogs.windows.com/windows-insider/2025/04/25/announcing-windows-11-insider-preview-build-26200-5570-dev-channel) |
-|         Beta         | 26120.3941 |   2025/4/26   | [aka.ms/wip-beta-4-25-25](https://blogs.windows.com/windows-insider/2025/04/25/announcing-windows-11-insider-preview-build-26120-3941-beta-channel) |
+|       Dev        | **[新]** 26200.5600 |   2025/5/13   | [aka.ms/wip-dev-5-12-25](https://blogs.windows.com/windows-insider/2025/05/12/announcing-windows-11-insider-preview-build-26200-5600-dev-channel) |
+|         Beta         | **[新]** 26120.3964 |   2025/5/13   | [aka.ms/wip-beta-5-12-25](https://blogs.windows.com/windows-insider/2025/05/12/announcing-windows-11-insider-preview-build-26120-3964-beta-channel) |
 | Release Preview  | 26100.3915 |  2025/4/26  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5055627) |
-| General Availability |    26100.3775    |  2025/4/9  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5055523) |
+| General Availability |    **[新]** 26100.4061    |  2025/5/14  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5058411) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_1.png) · 9 - 12 月)
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_0.png) · 9 - 12 月)
 
 ---
 
@@ -97,9 +97,9 @@
 | [LG353](#LG353) |              无法启动 Windows 终端 (Terminal)。              | 正在调查 |
 | [LG354](#LG354) |                  更新后无法登录 OneDrive。                   | 正在调查 |
 | [LG355](#LG355) |       电脑 SYSTEM_THREAD_EXCEPTION_NOT_HANDLED 绿屏。        | 正在处理 |
-| [LG356](#LG356) |        **连接多个显示器时，鼠标自动向左或向上滑动**。        | 正在调查 |
-| [LG357](#LG357) |       **截图工具无法截取搜索界面、上下文菜单等 UI**。        | 正在调查 |
-| [LG358](#LG358) |      **在 Hyper-V 中使用虚拟机时，鼠标控制上下颠倒**。       | 正在调查 |
+| [LG356](#LG356) |          连接多个显示器时，鼠标自动向左或向上滑动。          | 正在调查 |
+| [LG357](#LG357) |         截图工具无法截取搜索界面、上下文菜单等 UI。          | 正在调查 |
+| [LG358](#LG358) |        在 Hyper-V 中使用虚拟机时，鼠标控制上下颠倒。         | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG316](#LG316) |   “在最新更新可用后立即获取” 选项无法正确呈现并自动关闭。    | 已修复 ✓ |
 | [LG310](#LG310) |    启动部分应用 / 功能时 WHEA_UNCORRECTABLE_ERROR 绿屏。     | 已修复 ✓ |

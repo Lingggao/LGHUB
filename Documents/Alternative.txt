@@ -313,17 +313,29 @@ https://aka.ms/AAvpnvz
 Зависает окно ×
 https://aka.ms/AAw583e
 
-In the Canary Channel, my mouse automatically scrolls left or up when connecting to multi-monitors ✓
-https://aka.ms/AAw87ng
-
 After installing the latest Windows 11 Insider builds, clicking my profile picture in Start menu to open the account manager doesn't do anything ×
 https://aka.ms/AAw6tsj
-
-I'm not able to use the Snipping Tool to take screenshots of certain Windows UI in Windows 11 - search, context menu, and others. The UI appears... ✓
-https://aka.ms/AAw7f38
 
 Windows Recall not working ×
 https://aka.ms/AAw87nt
 
-Mouse control vertical inverted in Hyper-V virtual machine ✓
-https://aka.ms/AAw87o0
+Graphics drivers are crashing a lot with live kernel events in Build 27842 ✓
+https://aka.ms/AAw9dn6
+
+Build finely installed , slow on the download and install , stopped at 30% on the install, Had to shutdown and restart system then all move smoothly. ×
+https://aka.ms/AAvsowb
+
+Feedback hub "Achievements" tab is broken ✓
+https://aka.ms/AAw9dna
+
+Microsoft Store not showing older updates ✓
+https://aka.ms/AAw8czh
+
+Onedrive ✓
+https://aka.ms/AAw9dni
+
+Start Menu won't load ✓
+https://aka.ms/AAw8uu5
+
+The news stops scrolling after some time using a mousepad ✓
+https://aka.ms/AAw9hur
