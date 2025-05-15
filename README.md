@@ -31,11 +31,11 @@
 | 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zgk) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 5 月 10 日 2:00 (UTC+8)。Star 数量：48 ⭐
+上次更新时间：2025 年 5 月 15 日 21:00 (UTC+8)。Star 数量：48 ⭐
 
-收录反馈 359 个，其中正在调查 31 个 (含[搁置](#3) 0 个)、正在处理 8 个、已修复 320 个。
+收录反馈 365 个，其中正在调查 36 个 (含[搁置](#3) 0 个)、正在处理 9 个、已修复 320 个。
 
-反馈更新记录：**今日更新 LG356 - 358**。- Ling 🧁 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG359 - 364**。- Ling 🥝 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27842 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
@@ -100,6 +100,12 @@
 | [LG356](#LG356) |          连接多个显示器时，鼠标自动向左或向上滑动。          | 正在调查 |
 | [LG357](#LG357) |         截图工具无法截取搜索界面、上下文菜单等 UI。          | 正在调查 |
 | [LG358](#LG358) |        在 Hyper-V 中使用虚拟机时，鼠标控制上下颠倒。         | 正在调查 |
+| [LG359](#LG359) |             **显卡驱动因实时内核事件频繁崩溃**。             | 正在处理 |
+| [LG360](#LG360) |              **反馈中心应用中的成就变为灰色**。              | 正在调查 |
+| [LG361](#LG361) |        **Microsoft Store 不显示较早的应用更新记录**。        | 正在调查 |
+| [LG362](#LG362) |              **打开 OneDrive 时桌面图标变乱**。              | 正在调查 |
+| [LG363](#LG363) |                  **点击开始菜单没有反应**。                  | 正在调查 |
+| [LG364](#LG364) |            **在小组件中滚动鼠标浏览新闻时卡住**。            | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG316](#LG316) |   “在最新更新可用后立即获取” 选项无法正确呈现并自动关闭。    | 已修复 ✓ |
 | [LG310](#LG310) |    启动部分应用 / 功能时 WHEA_UNCORRECTABLE_ERROR 绿屏。     | 已修复 ✓ |
@@ -521,6 +527,60 @@ Microsoft 官方回复：“如果您遇到了此问题，请打开设备管理�
 **问题**：**在 Hyper-V 中使用虚拟机时，鼠标控制上下颠倒**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAw87o0](https://aka.ms/AAw87o0)
+
+---
+
+<SPAN ID = 'LG359'/>编号：LG359  
+日期：2025 年 5 月 15 日  
+版本：Canary 27842  
+**问题**：**显卡驱动因实时内核事件频繁崩溃**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAw9dn6](https://aka.ms/AAw9dn6) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG360'/>编号：LG360  
+日期：2025 年 5 月 15 日  
+版本：ALL  
+**问题**：**反馈中心应用中的成就变为灰色**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAw9dna](https://aka.ms/AAw9dna)
+
+---
+
+<SPAN ID = 'LG361'/>编号：LG361  
+日期：2025 年 5 月 15 日  
+版本：ALL  
+**问题**：**Microsoft Store 不显示较早的应用更新记录**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAw8czh](https://aka.ms/AAw8czh)
+
+---
+
+<SPAN ID = 'LG362'/>编号：LG362  
+日期：2025 年 5 月 15 日  
+版本：Canary 27842  
+**问题**：**打开 OneDrive 时桌面图标变乱**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAw9dni](https://aka.ms/AAw9dni)
+
+---
+
+<SPAN ID = 'LG363'/>编号：LG363  
+日期：2025 年 5 月 15 日  
+版本：Canary 27842  
+**问题**：**点击开始菜单没有反应**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAw8uu5](https://aka.ms/AAw8uu5) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG364'/>编号：LG364  
+日期：2025 年 5 月 15 日  
+版本：Canary 27842  
+**问题**：**在小组件中滚动鼠标浏览新闻时卡住**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAw9hur](https://aka.ms/AAw9hur)
 
 <SPAN ID = '2'/>
 
