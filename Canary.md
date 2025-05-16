@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27842 更新简报
+# WIP Canary 27858 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/4/24)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/5/17)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/04/23/announcing-windows-11-insider-preview-build-27842-canary-channel)、[中文更新公告](https://aka.ms/AAvskmz)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/05/16/announcing-windows-11-insider-preview-build-27858-canary-channel)、[中文更新公告]() (暂无)。
 
 ## 一、新功能
 
@@ -14,25 +14,22 @@
 
 ## 二、变更和改进
 
-1. 新版彩色电池图标暂时消失。
-2. 预览全新简化版绿屏 UI。
+1. 任务栏新增 “表情符号” 托盘图标。
 
-<img src="Images/27842_1.png" width = "55%" />
-
-3. 优化了 Windows 安全中心。
-4. 删除了 bypassnro.cmd 脚本。
+<img src="Images/27858_1.png" width = "36%" />
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/04/23/announcing-windows-11-insider-preview-build-27842-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/05/16/announcing-windows-11-insider-preview-build-27858-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “在最新更新可用后立即获取选项无法正确呈现” 的问题。
-2. 修复了 “WHEA_UNCORRECTABLE_ERROR 绿屏” 的问题。
-3. 修复了 “explorer.exe 可靠性下降” 的问题。
-4. 修复了 “DWM 随机崩溃” 的问题。
-5. 修复了 “智能应用控制功能丢失图标” 的问题。
+1. 修复了 “安装更新时卡在黑屏状态” 的问题。
+2. 修复了 “开始菜单等组件无法显示文字” 的问题。
+3. 修复了 “以平板电脑使用时任务栏图标不会变大” 的问题。
+4. 修复了 “夜间模式失效” 的问题。
+5. 修复了 “WLAN 网络故障” 的问题。
+6. 修复了 “电脑绿屏” 的问题。
 
 谢谢，
 
