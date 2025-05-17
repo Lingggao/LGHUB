@@ -319,23 +319,32 @@ https://aka.ms/AAw6tsj
 Windows Recall not working ×
 https://aka.ms/AAw87nt
 
-Graphics drivers are crashing a lot with live kernel events in Build 27842 ✓
-https://aka.ms/AAw9dn6
-
 Build finely installed , slow on the download and install , stopped at 30% on the install, Had to shutdown and restart system then all move smoothly. ×
 https://aka.ms/AAvsowb
 
-Feedback hub "Achievements" tab is broken ✓
-https://aka.ms/AAw9dna
+Canary 27858 - 安装 Windows 更新时屏幕显示白色画面。 ✓
+https://aka.ms/AAw9lrw
 
-Microsoft Store not showing older updates ✓
-https://aka.ms/AAw8czh
+Canary 27858 - 任务栏 UI 显示效果异常。 ✓
+https://aka.ms/AAwak57
 
-Onedrive ✓
-https://aka.ms/AAw9dni
+Windows Sandbox Fails to Initialize on Canary Build 27858 (shows Error 0xc0370106) ✓
+https://aka.ms/AAw9m8q
 
-Start Menu won't load ✓
-https://aka.ms/AAw8uu5
+Task Manager search/filtering doesn't work after upgrading to Build 27858 ✓
+https://aka.ms/AAwafdz
 
-The news stops scrolling after some time using a mousepad ✓
-https://aka.ms/AAw9hur
+Restarting explorer.exe causes a white screen to appear rather than the usual black ✓
+https://aka.ms/AAw9m8s
+
+玩游戏绿屏 ✓
+https://aka.ms/AAwal5x
+
+In Build 27858 the acrylic material effects fail to take effect for Taskbar. Instead, the Taskbar turns dark gray and no longer shows hints of my wallpaper color ✓
+https://aka.ms/AAw9ms9
+
+windows设置任务栏自动隐藏会有大黑条 ✓
+https://aka.ms/AAwafxd
+
+WIN32K_CRITICAL_FAILURE (0x164) ✓
+https://aka.ms/AAwafxe
