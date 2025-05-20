@@ -31,11 +31,11 @@
 | 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zgk) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 5 月 18 日 6:00 (UTC+8)。Star 数量：49 ⭐
+上次更新时间：2025 年 5 月 20 日 22:00 (UTC+8)。Star 数量：49 ⭐
 
-收录反馈 374 个，其中正在调查 21 个 (含[搁置](#3) 0 个)、正在处理 4 个、已修复 349 个。
+收录反馈 379 个，其中正在调查 24 个 (含[搁置](#3) 0 个)、正在处理 6 个、已修复 349 个。
 
-反馈更新记录：**今日更新 LG366 - 373**。- Ling 🍉 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG374 - 378**。- Ling 🥰 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27858 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
@@ -47,9 +47,9 @@
 | Release Preview  | **[新]** 26100.4188 |  2025/5/20  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/05/19/releasing-windows-11-build-26100-4188-to-the-release-preview-channel) |
 | General Availability |    26100.4061    |  2025/5/14  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5058411) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_0.png) · 9 - 12 月)
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_1.png) · 9 - 12 月)
 
 ---
 
@@ -86,6 +86,11 @@
 | [LG371](#LG371) |              开启 “自动隐藏任务栏” 后出现黑边。              | 正在调查 |
 | [LG372](#LG372) |                   玩 DNF 游戏时电脑绿屏。                    | 正在调查 |
 | [LG373](#LG373) |         电脑 WIN32K_CRITICAL_FAILURE (0x164) 绿屏。          | 正在调查 |
+| [LG374](#LG374) |          **高采样率 (192 kHz) 设备无法播放音频**。           | 正在处理 |
+| [LG375](#LG375) |            **触摸屏的双击、长按右键等操作失效**。            | 正在处理 |
+| [LG376](#LG376) |         **使用 NVIDIA GeForce NOW 平台时电脑绿屏**。         | 正在调查 |
+| [LG377](#LG377) |              **红外 (IR) 摄像头无法正常工作**。              | 正在调查 |
+| [LG378](#LG378) |         **记事本文档中的下划线 “_” 无法正常显示**。          | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG322](#LG322) |                        夜间模式失效。                        | 已修复 ✓ |
 | [LG330](#LG330) |     连接 Xbox 手柄时电脑 SYSTEM_SERVICE_EXCEPTION 绿屏。     | 已修复 ✓ |
@@ -156,7 +161,8 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 日期：2025 年 5 月 17 日  
 版本：Canary 27858  
 **问题**：**手写笔无法正常使用**。  
-状态：<img src="Images/W.png" width = "9%" />
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAwc3xq](https://aka.ms/AAwc3xq) <img src="Images/M.png" width = "14%" />
 
 ---
 
@@ -364,7 +370,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 版本：Canary 27858  
 **问题**：**开启 “自动隐藏任务栏” 后出现黑边**。  
 状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAwafxd](https://aka.ms/AAwafxd)
+典型反馈：[aka.ms/AAwafxd](https://aka.ms/AAwafxd) & [aka.ms/AAwc9vp](https://aka.ms/AAwc9vp)
 
 ---
 
@@ -383,6 +389,51 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 **问题**：**电脑 WIN32K_CRITICAL_FAILURE (0x164) 绿屏**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwafxe](https://aka.ms/AAwafxe)
+
+---
+
+<SPAN ID = 'LG374'/>编号：LG374  
+日期：2025 年 5 月 20 日  
+版本：Canary 27858  
+**问题**：**高采样率 (192 kHz) 设备无法播放音频**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAwc9vi](https://aka.ms/AAwc9vi) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG375'/>编号：LG375  
+日期：2025 年 5 月 20 日  
+版本：Canary 27858  
+**问题**：**触摸屏的双击、长按右键等操作失效**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAwapbn](https://aka.ms/AAwapbn) & [aka.ms/AAwa9gh](https://aka.ms/AAwa9gh) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG376'/>编号：LG376  
+日期：2025 年 5 月 20 日  
+版本：Canary 27858  
+**问题**：**使用 NVIDIA GeForce NOW 平台时电脑绿屏**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwc3xt](https://aka.ms/AAwc3xt)
+
+---
+
+<SPAN ID = 'LG377'/>编号：LG377  
+日期：2025 年 5 月 20 日  
+版本：Canary 27858  
+**问题**：**红外 (IR) 摄像头无法正常工作**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwapc6](https://aka.ms/AAwapc6)
+
+---
+
+<SPAN ID = 'LG378'/>编号：LG378  
+日期：2025 年 5 月 20 日  
+版本：ALL  
+**问题**：**记事本文档中的下划线 “_” 无法正常显示**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwcalk](https://aka.ms/AAwcalk)
 
 <SPAN ID = '2'/>
 
