@@ -322,29 +322,26 @@ https://aka.ms/AAw87nt
 Build finely installed , slow on the download and install , stopped at 30% on the install, Had to shutdown and restart system then all move smoothly. ×
 https://aka.ms/AAvsowb
 
-Canary 27858 - 安装 Windows 更新时屏幕显示白色画面。 ✓
-https://aka.ms/AAw9lrw
+Sound isn't working on devices with high sampling rates (192 kHz) and channels after upgrading to Build 27858 ✓
+https://aka.ms/AAwc9vi
 
-Canary 27858 - 任务栏 UI 显示效果异常。 ✓
-https://aka.ms/AAwak57
+触摸问题 ✓
+https://aka.ms/AAwapbn
 
-Windows Sandbox Fails to Initialize on Canary Build 27858 (shows Error 0xc0370106) ✓
-https://aka.ms/AAw9m8q
+资源管理器 磁盘容量条显示异常 ×
+https://aka.ms/AAwapbt
 
-Task Manager search/filtering doesn't work after upgrading to Build 27858 ✓
-https://aka.ms/AAwafdz
+Pen input doesn't work on Build 27858 ✓
+https://aka.ms/AAwc3xq
 
-Restarting explorer.exe causes a white screen to appear rather than the usual black ✓
-https://aka.ms/AAw9m8s
+Build 27858 Issues ✓
+https://aka.ms/AAwc9vp
 
-玩游戏绿屏 ✓
-https://aka.ms/AAwal5x
+I'm getting green screens in the latest Windows 11 Insider builds when gaming with GeForceNow ✓
+https://aka.ms/AAwc3xt
 
-In Build 27858 the acrylic material effects fail to take effect for Taskbar. Instead, the Taskbar turns dark gray and no longer shows hints of my wallpaper color ✓
-https://aka.ms/AAw9ms9
+IR Camera Problems With Most Recent (27858) Canary Release ✓
+https://aka.ms/AAwapc6
 
-windows设置任务栏自动隐藏会有大黑条 ✓
-https://aka.ms/AAwafxd
-
-WIN32K_CRITICAL_FAILURE (0x164) ✓
-https://aka.ms/AAwafxe
+Touch Double Clicking Does not Work on Canary Build 27858 ✓
+https://aka.ms/AAwa9gh

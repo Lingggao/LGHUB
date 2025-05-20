@@ -41,10 +41,10 @@
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                **[新]** 27858                |  2025/5/17  | [aka.ms/wip27858](https://blogs.windows.com/windows-insider/2025/05/16/announcing-windows-11-insider-preview-build-27858-canary-channel) |
-|       Dev        | 26200.5600 |   2025/5/13   | [aka.ms/wip-dev-5-12-25](https://blogs.windows.com/windows-insider/2025/05/12/announcing-windows-11-insider-preview-build-26200-5600-dev-channel) |
-|         Beta         | 26120.3964 |   2025/5/13   | [aka.ms/wip-beta-5-12-25](https://blogs.windows.com/windows-insider/2025/05/12/announcing-windows-11-insider-preview-build-26120-3964-beta-channel) |
-| Release Preview  | 26100.3915 |  2025/4/26  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5055627) |
+|        Canary        |                27858                |  2025/5/17  | [aka.ms/wip27858](https://blogs.windows.com/windows-insider/2025/05/16/announcing-windows-11-insider-preview-build-27858-canary-channel) |
+|       Dev        | **[新]** 26200.5603 |   2025/5/20   | [aka.ms/wip-dev-5-19-25](https://blogs.windows.com/windows-insider/2025/05/19/announcing-windows-11-insider-preview-build-26200-5603-dev-channel) |
+|         Beta         | **[新]** 26120.4151 |   2025/5/20   | [aka.ms/wip-beta-5-19-25](https://blogs.windows.com/windows-insider/2025/05/19/announcing-windows-11-insider-preview-build-26120-4151-beta-channel) |
+| Release Preview  | **[新]** 26100.4188 |  2025/5/20  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/05/19/releasing-windows-11-build-26100-4188-to-the-release-preview-channel) |
 | General Availability |    26100.4061    |  2025/5/14  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5058411) |
 
 <img src="Images/Graph_0.png" width = "93%" />
@@ -63,7 +63,7 @@
 | [LG212](#LG212) | **[Copilot+ 电脑]** 加入 Canary 频道后，PIN 和生物识别信息将丢失。 | 正在处理 |
 | [LG342](#LG342) |                 打开组策略编辑器时提示错误。                 | 正在处理 |
 | [LG365](#LG365) |                     手写笔无法正常使用。                     | 正在处理 |
-| [LG366](#LG366) |             **任务管理器的搜索和筛选功能失效**。             | 正在处理 |
+| [LG366](#LG366) |               任务管理器的搜索和筛选功能失效。               | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
 | [LG252](#LG252) |              组策略编辑器和服务管理器 UI 错误。              | 正在调查 |
 | [LG258](#LG258) |            拖动表情符号面板中的滚动条时卡顿严重。            | 正在调查 |
@@ -79,13 +79,13 @@
 | [LG361](#LG361) |          Microsoft Store 不显示较早的应用更新记录。          | 正在调查 |
 | [LG362](#LG362) |                打开 OneDrive 时桌面图标变乱。                | 正在调查 |
 | [LG364](#LG364) |              在小组件中滚动鼠标浏览新闻时卡住。              | 正在调查 |
-| [LG367](#LG367) |       **安装 Canary 27858 更新时，屏幕显示白色画面**。       | 正在调查 |
-| [LG368](#LG368) |            **任务栏材质效果消失，变成了深灰色**。            | 正在调查 |
-| [LG369](#LG369) |    **Windows Sandbox 初始化失败，显示 0xc0370106 错误**。    | 正在调查 |
-| [LG370](#LG370) |                **重启 explorer.exe 时白屏**。                | 正在调查 |
-| [LG371](#LG371) |            **开启 “自动隐藏任务栏” 后出现黑边**。            | 正在调查 |
-| [LG372](#LG372) |                 **玩 DNF 游戏时电脑绿屏**。                  | 正在调查 |
-| [LG373](#LG373) |       **电脑 WIN32K_CRITICAL_FAILURE (0x164) 绿屏**。        | 正在调查 |
+| [LG367](#LG367) |         安装 Canary 27858 更新时，屏幕显示白色画面。         | 正在调查 |
+| [LG368](#LG368) |              任务栏材质效果消失，变成了深灰色。              | 正在调查 |
+| [LG369](#LG369) |      Windows Sandbox 初始化失败，显示 0xc0370106 错误。      | 正在调查 |
+| [LG370](#LG370) |                  重启 explorer.exe 时白屏。                  | 正在调查 |
+| [LG371](#LG371) |              开启 “自动隐藏任务栏” 后出现黑边。              | 正在调查 |
+| [LG372](#LG372) |                   玩 DNF 游戏时电脑绿屏。                    | 正在调查 |
+| [LG373](#LG373) |         电脑 WIN32K_CRITICAL_FAILURE (0x164) 绿屏。          | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG322](#LG322) |                        夜间模式失效。                        | 已修复 ✓ |
 | [LG330](#LG330) |     连接 Xbox 手柄时电脑 SYSTEM_SERVICE_EXCEPTION 绿屏。     | 已修复 ✓ |
