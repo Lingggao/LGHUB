@@ -322,26 +322,26 @@ https://aka.ms/AAw87nt
 Build finely installed , slow on the download and install , stopped at 30% on the install, Had to shutdown and restart system then all move smoothly. ×
 https://aka.ms/AAvsowb
 
-Sound isn't working on devices with high sampling rates (192 kHz) and channels after upgrading to Build 27858 ✓
-https://aka.ms/AAwc9vi
-
-触摸问题 ✓
-https://aka.ms/AAwapbn
-
 资源管理器 磁盘容量条显示异常 ×
 https://aka.ms/AAwapbt
 
-Pen input doesn't work on Build 27858 ✓
-https://aka.ms/AAwc3xq
+Playing PUBG automatically restarts the system ✓
+https://aka.ms/AAwd8az
 
-Build 27858 Issues ✓
-https://aka.ms/AAwc9vp
+After upgrading to Build 27858, the wechat input method unexpectedly shows a thick black border around the candidate pane ✓
+https://aka.ms/AAwdlyb
 
-I'm getting green screens in the latest Windows 11 Insider builds when gaming with GeForceNow ✓
-https://aka.ms/AAwc3xt
+When Windows updates is installing build 27863.1000, every extra monitor is completely white
+https://aka.ms/AAwdmg2
 
-IR Camera Problems With Most Recent (27858) Canary Release ✓
-https://aka.ms/AAwapc6
+Windows background keep reverting to "Picture" setting when set to "Windows spotlight" in Windows 11
+https://aka.ms/AAwe72g
 
-Touch Double Clicking Does not Work on Canary Build 27858 ✓
-https://aka.ms/AAwa9gh
+Canary 27863 - when Microsoft Store is minimized, I cannot close it by right-clicking its icon in the taskbar.
+https://aka.ms/AAwd8s4
+
+Opening Windows Terminal as admin causes subsequent UAC dialogs to deadlock system if Administrator protection enabled
+https://aka.ms/AAwdmg7
+
+2025.11040.23001.0 - After cropping an image in the Photos app, the screen flickers briefly while saving the image.
+https://aka.ms/AAw9alj
