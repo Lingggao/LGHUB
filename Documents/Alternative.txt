@@ -331,17 +331,17 @@ https://aka.ms/AAwd8az
 After upgrading to Build 27858, the wechat input method unexpectedly shows a thick black border around the candidate pane ✓
 https://aka.ms/AAwdlyb
 
-When Windows updates is installing build 27863.1000, every extra monitor is completely white
+When Windows updates is installing build 27863.1000, every extra monitor is completely white ✓
 https://aka.ms/AAwdmg2
 
-Windows background keep reverting to "Picture" setting when set to "Windows spotlight" in Windows 11
+Windows background keep reverting to "Picture" setting when set to "Windows spotlight" in Windows 11 ✓
 https://aka.ms/AAwe72g
 
-Canary 27863 - when Microsoft Store is minimized, I cannot close it by right-clicking its icon in the taskbar.
+Canary 27863 - when Microsoft Store is minimized, I cannot close it by right-clicking its icon in the taskbar. ✓
 https://aka.ms/AAwd8s4
 
-Opening Windows Terminal as admin causes subsequent UAC dialogs to deadlock system if Administrator protection enabled
+Opening Windows Terminal as admin causes subsequent UAC dialogs to deadlock system if Administrator protection enabled ✓
 https://aka.ms/AAwdmg7
 
-2025.11040.23001.0 - After cropping an image in the Photos app, the screen flickers briefly while saving the image.
+2025.11040.23001.0 - After cropping an image in the Photos app, the screen flickers briefly while saving the image. ✓
 https://aka.ms/AAw9alj

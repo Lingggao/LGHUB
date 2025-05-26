@@ -31,25 +31,25 @@
 | 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zgk) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 5 月 24 日 3:00 (UTC+8)。Star 数量：49 ⭐
+上次更新时间：2025 年 5 月 26 日 16:00 (UTC+8)。Star 数量：49 ⭐
 
-收录反馈 379 个，其中正在调查 20 个 (含[搁置](#3) 0 个)、正在处理 7 个、已修复 352 个。
+收录反馈 385 个，其中正在调查 26 个 (含[搁置](#3) 0 个)、正在处理 7 个、已修复 352 个。
 
-反馈更新记录：**今日更新反馈状态**。- Ling 🐈 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG379 - 384**。- Ling 🤭 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27863 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                **[新]** 27863                |  2025/5/24  | [aka.ms/wip27863](https://blogs.windows.com/windows-insider/2025/05/23/announcing-windows-11-insider-preview-build-27863-canary-channel) |
+|        Canary        |                27863                |  2025/5/24  | [aka.ms/wip27863](https://blogs.windows.com/windows-insider/2025/05/23/announcing-windows-11-insider-preview-build-27863-canary-channel) |
 |       Dev        | 26200.5603 |   2025/5/20   | [aka.ms/wip-dev-5-19-25](https://blogs.windows.com/windows-insider/2025/05/19/announcing-windows-11-insider-preview-build-26200-5603-dev-channel) |
-|         Beta         | **[新]** 26120.4161 |   2025/5/24   | [aka.ms/wip-beta-5-23-25](https://blogs.windows.com/windows-insider/2025/05/23/announcing-windows-11-insider-preview-build-26120-4161-beta-channel) |
+|         Beta         | 26120.4161 |   2025/5/24   | [aka.ms/wip-beta-5-23-25](https://blogs.windows.com/windows-insider/2025/05/23/announcing-windows-11-insider-preview-build-26120-4161-beta-channel) |
 | Release Preview  | 26100.4188 |  2025/5/20  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/05/19/releasing-windows-11-build-26100-4188-to-the-release-preview-channel) |
 | General Availability |    26100.4061    |  2025/5/14  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5058411) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_0.png) · 9 - 12 月)
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_1.png) · 9 - 12 月)
 
 ---
 
@@ -88,6 +88,12 @@
 | [LG376](#LG376) |           使用 NVIDIA GeForce NOW 平台时电脑绿屏。           | 正在调查 |
 | [LG377](#LG377) |                红外 (IR) 摄像头无法正常工作。                | 正在调查 |
 | [LG378](#LG378) |           记事本文档中的下划线 “_” 无法正常显示。            | 正在调查 |
+| [LG379](#LG379) |  **Microsoft Store 最小化时，无法右键任务栏图标将其关闭**。  | 正在调查 |
+| [LG380](#LG380) |    **使用 “照片” 应用裁剪图片后，保存时屏幕会闪烁一下**。    | 正在调查 |
+| [LG381](#LG381) |               **玩 PUBG 游戏时电脑自动重启**。               | 正在调查 |
+| [LG382](#LG382) |            **微信输入法候选框周围出现黑粗边框**。            | 正在调查 |
+| [LG383](#LG383) | **开启 “管理员保护” 功能并以管理员身份运行终端时，UAC 对话框死锁**。 | 正在调查 |
+| [LG384](#LG384) |    **将背景设置为 “Windows 聚焦” 后自动恢复为 “图片”**。     | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG362](#LG362) |                打开 OneDrive 时桌面图标变乱。                | 已修复 ✓ |
 | [LG364](#LG364) |              在小组件中滚动鼠标浏览新闻时卡住。              | 已修复 ✓ |
@@ -303,7 +309,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 版本：Canary 27858 - 27863  
 **问题**：**安装 Canary 27858 更新时，屏幕显示白色画面**。  
 状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAw9msg](https://aka.ms/AAw9msg)
+典型反馈：[aka.ms/AAw9msg](https://aka.ms/AAw9msg) & [aka.ms/AAwdmg2](https://aka.ms/AAwdmg2)
 
 <img src="Images/LG367.png" width = "45%" />
 
@@ -378,6 +384,60 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 **问题**：**记事本文档中的下划线 “_” 无法正常显示**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwcalk](https://aka.ms/AAwcalk)
+
+---
+
+<SPAN ID = 'LG379'/>编号：LG379  
+日期：2025 年 5 月 26 日  
+版本：ALL  
+**问题**：**Microsoft Store 最小化时，无法右键任务栏图标将其关闭**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwd8s4](https://aka.ms/AAwd8s4)
+
+---
+
+<SPAN ID = 'LG380'/>编号：LG380  
+日期：2025 年 5 月 26 日  
+版本：ALL  
+**问题**：**使用 “照片” 应用裁剪图片后，保存时屏幕会闪烁一下**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAw9alj](https://aka.ms/AAw9alj)
+
+---
+
+<SPAN ID = 'LG381'/>编号：LG381  
+日期：2025 年 5 月 26 日  
+版本：Canary 27863  
+**问题**：**玩 PUBG 游戏时电脑自动重启**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwd8az](https://aka.ms/AAwd8az)
+
+---
+
+<SPAN ID = 'LG382'/>编号：LG382  
+日期：2025 年 5 月 26 日  
+版本：Canary 27863  
+**问题**：**微信输入法候选框周围出现黑粗边框**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwdlyb](https://aka.ms/AAwdlyb)
+
+---
+
+<SPAN ID = 'LG383'/>编号：LG383  
+日期：2025 年 5 月 26 日  
+版本：Canary 27863  
+**问题**：**开启 “管理员保护” 功能并以管理员身份运行终端时，UAC 对话框死锁**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwdmg7](https://aka.ms/AAwdmg7)
+
+---
+
+<SPAN ID = 'LG384'/>编号：LG384  
+日期：2025 年 5 月 26 日  
+版本：ALL  
+**问题**：**将背景设置为 “Windows 聚焦” 后自动恢复为 “图片”**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwe72g](https://aka.ms/AAwe72g)
 
 <SPAN ID = '2'/>
 
