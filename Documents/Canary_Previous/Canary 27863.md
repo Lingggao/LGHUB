@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27868 更新简报
+# WIP Canary 27863 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/5/30)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/5/24)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/05/29/announcing-windows-11-insider-preview-build-27868-canary-channel)、[中文更新公告]() (暂无)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/05/23/announcing-windows-11-insider-preview-build-27863-canary-channel)、[中文更新公告](https://aka.ms/AAwddms)。
 
 ## 一、新功能
 
@@ -14,21 +14,15 @@
 
 ## 二、变更和改进
 
-1. 语音访问功能支持沉浸式体验。
-
-<img src="Images/27868_1.png" width = "40%" />
+1. 支持后量子签名算法 ML-DSA 44 65 87。
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/05/29/announcing-windows-11-insider-preview-build-27868-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/05/23/announcing-windows-11-insider-preview-build-27863-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “手写笔无法正常使用” 的问题。
-2. 修复了 “触摸屏双击、长按右键等操作失效” 的问题。
-3. 修复了 “部分应用 (如 Spotify) 无法启动” 的问题。
-4. 修复了 “Microsoft Store 显示 0x80070032 错误” 的问题。
-5. 修复了 “SYSTEM_THREAD_EXCEPTION_NOT_HANDLED 绿屏” 的问题。
+1. 修复了 “Windows Sandbox 显示 0xc0370106 错误” 的问题。
 
 谢谢，
 
