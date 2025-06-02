@@ -325,23 +325,17 @@ https://aka.ms/AAvsowb
 资源管理器 磁盘容量条显示异常 ×
 https://aka.ms/AAwapbt
 
-Playing PUBG automatically restarts the system ✓
-https://aka.ms/AAwd8az
+My submitted feedback randomly disappears from My Feedback. ✓
+https://aka.ms/AAw9m7w
 
-After upgrading to Build 27858, the wechat input method unexpectedly shows a thick black border around the candidate pane ✓
-https://aka.ms/AAwdlyb
+更新Win11 24H2后，游玩Path of Exile读取地图时会出现系统卡死现象，鼠标移动非常缓慢，键盘快捷键无响应 ✓
+https://aka.ms/AAwhpsd
 
-When Windows updates is installing build 27863.1000, every extra monitor is completely white ✓
-https://aka.ms/AAwdmg2
+Apps > Actions is empty for me on build 27868 ✓
+https://aka.ms/AAwfiiv
 
-Windows background keep reverting to "Picture" setting when set to "Windows spotlight" in Windows 11 ✓
-https://aka.ms/AAwe72g
+As of Build 27868, Widgets start at logon regardless of the "Disable Widgets Board" policy. ✓
+https://aka.ms/AAwhae1
 
-Canary 27863 - when Microsoft Store is minimized, I cannot close it by right-clicking its icon in the taskbar. ✓
-https://aka.ms/AAwd8s4
-
-Opening Windows Terminal as admin causes subsequent UAC dialogs to deadlock system if Administrator protection enabled ✓
-https://aka.ms/AAwdmg7
-
-2025.11040.23001.0 - After cropping an image in the Photos app, the screen flickers briefly while saving the image. ✓
-https://aka.ms/AAw9alj
+unable to use windows media creation tool when admin protection is enabled ✓
+https://aka.ms/AAwhpsg
