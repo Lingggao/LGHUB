@@ -325,17 +325,17 @@ https://aka.ms/AAvsowb
 资源管理器 磁盘容量条显示异常 ×
 https://aka.ms/AAwapbt
 
-My submitted feedback randomly disappears from My Feedback. ✓
-https://aka.ms/AAw9m7w
+动效消失 ✓
+https://aka.ms/AAwi4xm
 
-更新Win11 24H2后，游玩Path of Exile读取地图时会出现系统卡死现象，鼠标移动非常缓慢，键盘快捷键无响应 ✓
-https://aka.ms/AAwhpsd
+Search issue ✓
+https://aka.ms/AAwi4xq
 
-Apps > Actions is empty for me on build 27868 ✓
-https://aka.ms/AAwfiiv
+click to do blocks out a 1/4  of the screen when trying to work ×
+https://aka.ms/AAwicoa
 
-As of Build 27868, Widgets start at logon regardless of the "Disable Widgets Board" policy. ✓
-https://aka.ms/AAwhae1
+Snipping Tool doesn't work in the latest Windows 11 Insider builds - the app opens but I can't take screenshots (WIN + Shift + S doesn't work either) ✓
+https://aka.ms/AAwicob
 
-unable to use windows media creation tool when admin protection is enabled ✓
-https://aka.ms/AAwhpsg
+X-Plane 12 crashes with BSOD 0x0000001e. Reinstalling does not fix ✓
+https://aka.ms/AAwikfb
