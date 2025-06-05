@@ -31,9 +31,9 @@
 | 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zgk) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 6 月 5 日 10:00 (UTC+8)。Star 数量：50 ⭐
+上次更新时间：2025 年 6 月 5 日 12:00 (UTC+8)。Star 数量：50 ⭐
 
-收录反馈 395 个，其中正在调查 33 个 (含[搁置](#3) 0 个)、正在处理 2 个、已修复 360 个。
+收录反馈 395 个，其中正在调查 33 个 (含[搁置](#3) 6 个)、正在处理 2 个、已修复 360 个。
 
 反馈更新记录：**今日更新反馈状态**。- Ling 🍾 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
@@ -63,12 +63,7 @@
 | [LG212](#LG212) | **[Copilot+ 电脑]** 加入 Canary 频道后，PIN 和生物识别信息将丢失。 | 正在处理 |
 | [LG368](#LG368) |              任务栏材质效果消失，变成了深灰色。              | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
-| [LG252](#LG252) |              组策略编辑器和服务管理器 UI 错误。              | 正在调查 |
-| [LG258](#LG258) |            拖动表情符号面板中的滚动条时卡顿严重。            | 正在调查 |
-| [LG277](#LG277) |     右键文件时，删除按钮的鼠标悬停提示为 “删除 (删除)”。     | 正在调查 |
-| [LG279](#LG279) |   在反馈中心提交的反馈有状态更新或官方回复时无法收到通知。   | 正在调查 |
-| [LG281](#LG281) |           使用 ms-search: 链接时任务栏搜索框消失。           | 正在调查 |
-| [LG286](#LG286) | Microsoft Store 宣传视频中的 “投放到设备” 被译为 “强制转换为设备”。 | 正在调查 |
+|       ——        |        ***注**：长期未修复的问题收录于[搁置](#3)板块*        |    ——    |
 | [LG311](#LG311) |          文件资源管理器地址栏溢出列表无法正确呈现。          | 正在调查 |
 | [LG347](#LG347) |            满足条件后在反馈中心无法获得成就徽章。            | 正在调查 |
 | [LG348](#LG348) |       安装 Windows 11 时，菜单按照从右到左的方式排列。       | 正在调查 |
@@ -103,7 +98,7 @@
 | [LG366](#LG366) |               任务管理器的搜索和筛选功能失效。               | 已修复 ✓ |
 | [LG323](#LG323) | 将鼠标悬停在 “系统信息” 菜单顶部的选项卡时，边框显示为直角。 | 已修复 ✓ |
 | [LG389](#LG389) |     “禁用小组件面板” (Disable Widgets Board) 策略失效。      | 已修复 ✓ |
-|       ——        | *部分未收录反馈详见 [WIP Canary 27871 更新简报](Canary.md)*  |    ——    |
+|       ——        | ***注**：部分未收录的问题详见 [WIP Canary 27871 更新简报](Canary.md)* |    ——    |
 |       ——        |       ▲ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2)        |    ——    |
 |       ——        | [**Canary - 归档 (已做出更改 >7 天)**](7+.md) \| [**Canary - 搁置 (未做出更改)**](#3) |    ——    |
 
@@ -144,68 +139,6 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 > [!TIP]
 >
 > &emsp;记录[反馈中心应用](https://aka.ms/fbh)中 Microsoft 明确响应的问题。
-
----
-
-<SPAN ID = 'LG252'/>编号：LG252  
-日期：2024 年 12 月 20 日  
-版本：Canary 27764 - 27871  
-**问题**：**组策略编辑器和服务管理器 UI 错误**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAty56l](https://aka.ms/AAty56l)
-
-<img src="Images/LG252.png" width = "50%" />
-
----
-
-<SPAN ID = 'LG258'/>编号：LG258  
-日期：2025 年 1 月 10 日  
-版本：Canary 27766 - 27871  
-**问题**：**拖动表情符号面板中的滚动条时卡顿严重**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAtws2s](https://aka.ms/AAtws2s)
-
-<img src="Images/LG258.png" width = "30%" />
-
----
-
-<SPAN ID = 'LG277'/>编号：LG277  
-日期：2025 年 1 月 29 日  
-版本：Canary 27764 - 27871  
-**问题**：**右键文件时，删除按钮的鼠标悬停提示为 “删除 (删除)”**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAu4457](https://aka.ms/AAu4457)
-
-<img src="Images/LG277.png" width = "30%" />
-
----
-
-<SPAN ID = 'LG279'/>编号：LG279  
-日期：2025 年 1 月 29 日  
-版本：ALL  
-**问题**：**在反馈中心提交的反馈有状态更新或官方回复时无法收到通知**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAu3v9h](https://aka.ms/AAu3v9h) <img src="Images/M.png" width = "14%" />
-
----
-
-<SPAN ID = 'LG281'/>编号：LG281  
-日期：2025 年 1 月 29 日  
-版本：Canary 27774 - 27871  
-**问题**：**使用 ms-search: 链接时任务栏搜索框消失**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAu42tm](https://aka.ms/AAu42tm)
-
----
-
-<SPAN ID = 'LG286'/>编号：LG286  
-日期：2025 年 2 月 1 日  
-版本：ALL  
-**问题**：**Microsoft Store 宣传视频中的 “投放到设备” 被译为 “强制转换为设备”**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAu5r06](https://aka.ms/AAu5r06)
-
-<img src="Images/LG286.png" width = "30%" />
 
 ---
 
