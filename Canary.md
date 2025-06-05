@@ -1,34 +1,40 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27868 更新简报
+# WIP Canary 27871 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/5/30)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/6/5)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/05/29/announcing-windows-11-insider-preview-build-27868-canary-channel)、[中文更新公告](https://aka.ms/AAwfidi)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/06/04/announcing-windows-11-insider-preview-build-27871-canary-channel)、[中文更新公告]() (暂无)。
 
 ## 一、新功能
 
-无
+1. 将 “电池节能” 功能引入 Microsoft Intune。
+
+<img src="Images/27871_1.png" width = "50%" />
 
 ## 二、变更和改进
 
-1. 语音访问功能支持沉浸式体验。
+1. 开始菜单 “手机伴侣” 面向 Canary 频道推出。
 
-<img src="Images/27868_1.png" width = "40%" />
+<img src="Images/27871_2.png" width = "30%" />
+
+2. 任务栏中 “需要关注的应用” 的图标底部横条更宽、更明显。
+
+<img src="Images/27871_3.png" width = "45%" />
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/05/29/announcing-windows-11-insider-preview-build-27868-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/06/04/announcing-windows-11-insider-preview-build-27871-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “手写笔无法正常使用” 的问题。
-2. 修复了 “触摸屏双击、长按右键等操作失效” 的问题。
-3. 修复了 “部分应用 (如 Spotify) 无法启动” 的问题。
-4. 修复了 “Microsoft Store 显示 0x80070032 错误” 的问题。
-5. 修复了 “SYSTEM_THREAD_EXCEPTION_NOT_HANDLED 绿屏” 的问题。
+1. 修复了 “打开组策略编辑器时提示错误” 的问题。
+2. 修复了 “高采样率 (192 kHz) 设备无法播放音频” 的问题。
+3. 修复了 “依赖于虚拟化的应用无法运行” 的问题。
+4. 修复了 “任务管理器的搜索和筛选功能失效” 的问题。
+5. 修复了 “系统信息菜单顶部选项卡边框显示直角” 的问题。
 
 谢谢，
 

@@ -31,25 +31,25 @@
 | 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zgk) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 6 月 4 日 18:00 (UTC+8)。Star 数量：50 ⭐
+上次更新时间：2025 年 6 月 5 日 10:00 (UTC+8)。Star 数量：50 ⭐
 
-收录反馈 395 个，其中正在调查 35 个 (含[搁置](#3) 0 个)、正在处理 6 个、已修复 354 个。
+收录反馈 395 个，其中正在调查 33 个 (含[搁置](#3) 0 个)、正在处理 2 个、已修复 360 个。
 
-反馈更新记录：**今日更新 LG391 - 394**。- Ling 🛳️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新反馈状态**。- Ling 🍾 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-[**WIP Canary 27868 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
+[**WIP Canary 27871 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                27868                |  2025/5/30  | [aka.ms/wip27868](https://blogs.windows.com/windows-insider/2025/05/29/announcing-windows-11-insider-preview-build-27868-canary-channel) |
+|        Canary        |                **[新]** 27871                |  2025/6/5  | [aka.ms/wip27871](https://blogs.windows.com/windows-insider/2025/06/04/announcing-windows-11-insider-preview-build-27871-canary-channel) |
 |       Dev        | **[新]** 26200.5622 |   2025/6/3   | [aka.ms/wip-dev-6-2-25](https://blogs.windows.com/windows-insider/2025/06/02/announcing-windows-11-insider-preview-build-26200-5622-dev-channel) |
 |         Beta         | **[新]** 26120.4230 |   2025/6/3   | [aka.ms/wip-beta-6-2-25](https://blogs.windows.com/windows-insider/2025/06/02/announcing-windows-11-insider-preview-build-26120-4230-beta-channel) |
 | Release Preview  | 26100.4202 |  2025/5/28  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/05/19/releasing-windows-11-build-26100-4188-to-the-release-preview-channel) |
 | General Availability |    26100.4202    |  2025/5/29  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5058499) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_0.png) · 9 - 12 月)
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_1.png) · 9 - 12 月)
 
 ---
 
@@ -61,11 +61,7 @@
 | :-------------: | :----------------------------------------------------------: | :------: |
 |       ——        |              [**Canary - 公告已知问题**](#0) ▼               |    ——    |
 | [LG212](#LG212) | **[Copilot+ 电脑]** 加入 Canary 频道后，PIN 和生物识别信息将丢失。 | 正在处理 |
-| [LG342](#LG342) |                 打开组策略编辑器时提示错误。                 | 正在处理 |
 | [LG368](#LG368) |              任务栏材质效果消失，变成了深灰色。              | 正在处理 |
-| [LG374](#LG374) |            高采样率 (192 kHz) 设备无法播放音频。             | 正在处理 |
-| [LG385](#LG385) | 启用基于虚拟化的安全 (VBS) 后，依赖于虚拟化的应用将无法运行。 | 正在处理 |
-| [LG366](#LG366) |               任务管理器的搜索和筛选功能失效。               | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
 | [LG252](#LG252) |              组策略编辑器和服务管理器 UI 错误。              | 正在调查 |
 | [LG258](#LG258) |            拖动表情符号面板中的滚动条时卡顿严重。            | 正在调查 |
@@ -74,12 +70,11 @@
 | [LG281](#LG281) |           使用 ms-search: 链接时任务栏搜索框消失。           | 正在调查 |
 | [LG286](#LG286) | Microsoft Store 宣传视频中的 “投放到设备” 被译为 “强制转换为设备”。 | 正在调查 |
 | [LG311](#LG311) |          文件资源管理器地址栏溢出列表无法正确呈现。          | 正在调查 |
-| [LG323](#LG323) | 将鼠标悬停在 “系统信息” 菜单顶部的选项卡时，边框显示为直角。 | 正在调查 |
 | [LG347](#LG347) |            满足条件后在反馈中心无法获得成就徽章。            | 正在调查 |
 | [LG348](#LG348) |       安装 Windows 11 时，菜单按照从右到左的方式排列。       | 正在调查 |
 | [LG357](#LG357) |         截图工具无法截取搜索界面、上下文菜单等 UI。          | 正在调查 |
 | [LG361](#LG361) |          Microsoft Store 不显示较早的应用更新记录。          | 正在调查 |
-| [LG367](#LG367) |         安装 Canary 27858 更新时，屏幕显示白色画面。         | 正在调查 |
+| [LG367](#LG367) |            安装 Canary 更新时，屏幕显示白色画面。            | 正在调查 |
 | [LG370](#LG370) |                  重启 explorer.exe 时白屏。                  | 正在调查 |
 | [LG371](#LG371) |              开启 “自动隐藏任务栏” 后出现黑边。              | 正在调查 |
 | [LG372](#LG372) |                   玩 DNF 游戏时电脑绿屏。                    | 正在调查 |
@@ -96,16 +91,19 @@
 | [LG386](#LG386) |            已提交的反馈在 “我的反馈” 中随机消失。            | 正在调查 |
 | [LG387](#LG387) |        玩 “Path of Exile” (流放之路) 游戏时电脑死机。        | 正在调查 |
 | [LG388](#LG388) |             “设置”>“应用”>“操作” 菜单变为空白。              | 正在调查 |
-| [LG389](#LG389) |     “禁用小组件面板” (Disable Widgets Board) 策略失效。      | 正在调查 |
 | [LG390](#LG390) | 开启 “管理员保护” 功能后，无法使用 Windows 11 媒体创建工具。 | 正在调查 |
-| [LG391](#LG391) |                 **开始菜单的动画效果异常**。                 | 正在调查 |
-| [LG392](#LG392) |             **任务栏 “搜索” 功能显示纯白界面**。             | 正在调查 |
-| [LG393](#LG393) | **截图工具可以正常启动，但无法截图 (WIN + Shift + S 也失效)**。 | 正在调查 |
-| [LG394](#LG394) |              **玩 X-Plane 12 游戏时电脑绿屏**。              | 正在调查 |
+| [LG391](#LG391) |                   开始菜单的动画效果异常。                   | 正在调查 |
+| [LG392](#LG392) |               任务栏 “搜索” 功能显示纯白界面。               | 正在调查 |
+| [LG393](#LG393) | 截图工具可以正常启动，但无法截图 (WIN + Shift + S 也失效)。  | 正在调查 |
+| [LG394](#LG394) |                玩 X-Plane 12 游戏时电脑绿屏。                | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
-| [LG365](#LG365) |                     手写笔无法正常使用。                     | 已修复 ✓ |
-| [LG375](#LG375) |              触摸屏的双击、长按右键等操作失效。              | 已修复 ✓ |
-|       ——        | *部分未收录反馈详见 [WIP Canary 27868 更新简报](Canary.md)*  |    ——    |
+| [LG342](#LG342) |                 打开组策略编辑器时提示错误。                 | 已修复 ✓ |
+| [LG374](#LG374) |            高采样率 (192 kHz) 设备无法播放音频。             | 已修复 ✓ |
+| [LG385](#LG385) | 启用基于虚拟化的安全 (VBS) 后，依赖于虚拟化的应用将无法运行。 | 已修复 ✓ |
+| [LG366](#LG366) |               任务管理器的搜索和筛选功能失效。               | 已修复 ✓ |
+| [LG323](#LG323) | 将鼠标悬停在 “系统信息” 菜单顶部的选项卡时，边框显示为直角。 | 已修复 ✓ |
+| [LG389](#LG389) |     “禁用小组件面板” (Disable Widgets Board) 策略失效。      | 已修复 ✓ |
+|       ——        | *部分未收录反馈详见 [WIP Canary 27871 更新简报](Canary.md)*  |    ——    |
 |       ——        |       ▲ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2)        |    ——    |
 |       ——        | [**Canary - 归档 (已做出更改 >7 天)**](7+.md) \| [**Canary - 搁置 (未做出更改)**](#3) |    ——    |
 
@@ -123,62 +121,21 @@
 
 <SPAN ID = 'LG212'/>编号：LG212  
 日期：2024 年 8 月 16 日  
-版本：Canary 27686 - 27868  
+版本：Canary 27686 - 27871  
 **问题**：**[Copilot+ 电脑] 加入 Canary 频道后，PIN 和生物识别信息将丢失**。  
 状态：<img src="Images/W.png" width = "9%" />  
 Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Preview 或 Retail 频道加入至 Canary 频道，Windows Hello PIN 和生物识别信息将会丢失。您将无法登录系统，显示 0xd0000225 错误和 ‘出错了，您的 PIN 不可用’ 信息。点击 ‘设置我的 PIN’ 选项应当可以重设 PIN。” *(Ling 译)* <img src="Images/M.png" width = "14%" />
 
 ---
 
-<SPAN ID = 'LG342'/>编号：LG342  
-日期：2025 年 4 月 26 日  
-版本：Canary 27842 - 27868  
-**问题**：**打开组策略编辑器时提示错误**。  
-状态：<img src="Images/W.png" width = "9%" />  
-典型反馈：[aka.ms/AAvskqo](https://aka.ms/AAvskqo)
-
-<img src="Images/LG342.png" width = "50%" />
-
----
-
 <SPAN ID = 'LG368'/>编号：LG368  
 日期：2025 年 5 月 18 日  
-版本：Canary 27858 - 27868  
+版本：Canary 27858 - 27871  
 **问题**：**任务栏材质效果消失，变成了深灰色**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAw9ms9](https://aka.ms/AAw9ms9) & [aka.ms/AAwak57](https://aka.ms/AAwak57)
 
 <img src="Images/LG368.png" width = "60%" />
-
----
-
-<SPAN ID = 'LG374'/>编号：LG374  
-日期：2025 年 5 月 20 日  
-版本：Canary 27858 - 27868  
-**问题**：**高采样率 (192 kHz) 设备无法播放音频**。  
-状态：<img src="Images/W.png" width = "9%" />  
-典型反馈：[aka.ms/AAwc9vi](https://aka.ms/AAwc9vi) <img src="Images/M.png" width = "14%" />
-
----
-
-<SPAN ID = 'LG385'/>编号：LG385  
-日期：2025 年 5 月 30 日  
-版本：Canary 27868  
-**问题**：**启用基于虚拟化的安全 (VBS) 后，依赖于虚拟化的应用将无法运行**。  
-状态：<img src="Images/W.png" width = "9%" />  
-Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，依赖于虚拟化的应用 (如 VMware Workstation) 将无法运行，除非还启用了 ‘Windows Hypervisor Platform’ 可选功能。而以前无需启用它。” *(Ling 译)*  
-<img src="Images/M.png" width = "14%" />
-
----
-
-<SPAN ID = 'LG366'/>编号：LG366  
-日期：2025 年 5 月 18 日  
-版本：Canary 27858 - 27868  
-**问题**：**任务管理器的搜索和筛选功能失效**。  
-状态：<img src="Images/W.png" width = "9%" />  
-典型反馈：[aka.ms/AAwafdz](https://aka.ms/AAwafdz) <img src="Images/M.png" width = "14%" />
-
-<img src="Images/LG366.png" width = "50%" />
 
 <SPAN ID = '1'/>
 
@@ -192,7 +149,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG252'/>编号：LG252  
 日期：2024 年 12 月 20 日  
-版本：Canary 27764 - 27868  
+版本：Canary 27764 - 27871  
 **问题**：**组策略编辑器和服务管理器 UI 错误**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAty56l](https://aka.ms/AAty56l)
@@ -203,7 +160,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG258'/>编号：LG258  
 日期：2025 年 1 月 10 日  
-版本：Canary 27766 - 27868  
+版本：Canary 27766 - 27871  
 **问题**：**拖动表情符号面板中的滚动条时卡顿严重**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAtws2s](https://aka.ms/AAtws2s)
@@ -214,7 +171,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG277'/>编号：LG277  
 日期：2025 年 1 月 29 日  
-版本：Canary 27764 - 27868  
+版本：Canary 27764 - 27871  
 **问题**：**右键文件时，删除按钮的鼠标悬停提示为 “删除 (删除)”**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAu4457](https://aka.ms/AAu4457)
@@ -234,7 +191,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG281'/>编号：LG281  
 日期：2025 年 1 月 29 日  
-版本：Canary 27774 - 27868  
+版本：Canary 27774 - 27871  
 **问题**：**使用 ms-search: 链接时任务栏搜索框消失**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAu42tm](https://aka.ms/AAu42tm)
@@ -254,23 +211,12 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG311'/>编号：LG311  
 日期：2025 年 3 月 24 日  
-版本：Canary 27818 - 27868  
+版本：Canary 27818 - 27871  
 **问题**：**文件资源管理器地址栏溢出列表无法正确呈现**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAv26rl](https://aka.ms/AAv26rl)
 
 <img src="Images/LG311.png" width = "50%" />
-
----
-
-<SPAN ID = 'LG323'/>编号：LG323  
-日期：2025 年 4 月 3 日  
-版本：Canary 27823 - 27868  
-**问题**：**将鼠标悬停在 “系统信息” 菜单顶部的选项卡时，边框显示为直角**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAvc3jh](https://aka.ms/AAvc3jh)
-
-<img src="Images/LG323.png" width = "60%" />
 
 ---
 
@@ -314,8 +260,8 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG367'/>编号：LG367  
 日期：2025 年 5 月 18 日  
-版本：Canary 27858 - 27868  
-**问题**：**安装 Canary 27858 更新时，屏幕显示白色画面**。  
+版本：Canary 27858 - 27871  
+**问题**：**安装 Canary 更新时，屏幕显示白色画面**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAw9msg](https://aka.ms/AAw9msg) & [aka.ms/AAwdmg2](https://aka.ms/AAwdmg2)
 
@@ -325,7 +271,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG370'/>编号：LG370  
 日期：2025 年 5 月 18 日  
-版本：Canary 27858 - 27868  
+版本：Canary 27858 - 27871  
 **问题**：**重启 explorer.exe 时白屏**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAw9m8s](https://aka.ms/AAw9m8s)
@@ -334,7 +280,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG371'/>编号：LG371  
 日期：2025 年 5 月 18 日  
-版本：Canary 27858 - 27868  
+版本：Canary 27858 - 27871  
 **问题**：**开启 “自动隐藏任务栏” 后出现黑边**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwafxd](https://aka.ms/AAwafxd) & [aka.ms/AAwc9vp](https://aka.ms/AAwc9vp)
@@ -343,7 +289,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG372'/>编号：LG372  
 日期：2025 年 5 月 18 日  
-版本：Canary 27858 - 27868  
+版本：Canary 27858 - 27871  
 **问题**：**玩 DNF 游戏时电脑绿屏**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwal5x](https://aka.ms/AAwal5x)
@@ -352,7 +298,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG373'/>编号：LG373  
 日期：2025 年 5 月 18 日  
-版本：Canary 27858 - 27868  
+版本：Canary 27858 - 27871  
 **问题**：**电脑 WIN32K_CRITICAL_FAILURE (0x164) 绿屏**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwafxe](https://aka.ms/AAwafxe)
@@ -361,7 +307,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG376'/>编号：LG376  
 日期：2025 年 5 月 20 日  
-版本：Canary 27858 - 27868  
+版本：Canary 27858 - 27871  
 **问题**：**使用 NVIDIA GeForce NOW 平台时电脑绿屏**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwc3xt](https://aka.ms/AAwc3xt)
@@ -370,7 +316,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG377'/>编号：LG377  
 日期：2025 年 5 月 20 日  
-版本：Canary 27858 - 27868  
+版本：Canary 27858 - 27871  
 **问题**：**红外 (IR) 摄像头无法正常工作**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwapc6](https://aka.ms/AAwapc6)
@@ -406,7 +352,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG381'/>编号：LG381  
 日期：2025 年 5 月 26 日  
-版本：Canary 27863 - 27868  
+版本：Canary 27863 - 27871  
 **问题**：**玩 PUBG 游戏时电脑自动重启**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwd8az](https://aka.ms/AAwd8az)
@@ -415,7 +361,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG382'/>编号：LG382  
 日期：2025 年 5 月 26 日  
-版本：Canary 27863 - 27868  
+版本：Canary 27863 - 27871  
 **问题**：**微信输入法候选框周围出现黑粗边框**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwdlyb](https://aka.ms/AAwdlyb)
@@ -424,7 +370,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG383'/>编号：LG383  
 日期：2025 年 5 月 26 日  
-版本：Canary 27863 - 27868  
+版本：Canary 27863 - 27871  
 **问题**：**开启 “管理员保护” 功能并以管理员身份运行终端时，UAC 对话框死锁**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwdmg7](https://aka.ms/AAwdmg7)
@@ -451,7 +397,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG387'/>编号：LG387  
 日期：2025 年 6 月 2 日  
-版本：Canary 27868  
+版本：Canary 27868 - 27871  
 **问题**：**玩 “Path of Exile” (流放之路) 游戏时电脑死机**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwhpsd](https://aka.ms/AAwhpsd)
@@ -460,25 +406,16 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG388'/>编号：LG388  
 日期：2025 年 6 月 2 日  
-版本：Canary 27868  
+版本：Canary 27868 - 27871  
 **问题**：**“设置”>“应用”>“操作” 菜单变为空白**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwfiiv](https://aka.ms/AAwfiiv)
 
 ---
 
-<SPAN ID = 'LG389'/>编号：LG389  
-日期：2025 年 6 月 2 日  
-版本：Canary 27868  
-**问题**：**“禁用小组件面板” (Disable Widgets Board) 策略失效**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAwhae1](https://aka.ms/AAwhae1)
-
----
-
 <SPAN ID = 'LG390'/>编号：LG390  
 日期：2025 年 6 月 2 日  
-版本：Canary 27868  
+版本：Canary 27868 - 27871  
 **问题**：**开启 “管理员保护” 功能后，无法使用 Windows 11 媒体创建工具**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwhpsg](https://aka.ms/AAwhpsg)
@@ -487,7 +424,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG391'/>编号：LG391  
 日期：2025 年 6 月 4 日  
-版本：Canary 27868  
+版本：Canary 27868 - 27871  
 **问题**：**开始菜单的动画效果异常**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwi4xm](https://aka.ms/AAwi4xm)
@@ -496,7 +433,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG392'/>编号：LG392  
 日期：2025 年 6 月 4 日  
-版本：Canary 27868  
+版本：Canary 27868 - 27871  
 **问题**：**任务栏 “搜索” 功能显示纯白界面**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwi4xq](https://aka.ms/AAwi4xq)
@@ -514,7 +451,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 <SPAN ID = 'LG394'/>编号：LG394  
 日期：2025 年 6 月 4 日  
-版本：Canary 27868  
+版本：Canary 27868 - 27871  
 **问题**：**玩 X-Plane 12 游戏时电脑绿屏**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwikfb](https://aka.ms/AAwikfb)
@@ -531,25 +468,68 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 ---
 
-<SPAN ID = 'LG365'/>编号：LG365  
-日期：2025 年 5 月 17 日  
-版本：Canary 27858 - 27863  
-**问题**：**手写笔无法正常使用**。  
-状态：Canary 27868 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAwc3xq](https://aka.ms/AAwc3xq) <img src="Images/M.png" width = "14%" />
+<SPAN ID = 'LG342'/>编号：LG342  
+日期：2025 年 4 月 26 日  
+版本：Canary 27842 - 27868  
+**问题**：**打开组策略编辑器时提示错误**。  
+状态：Canary 27871 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAvskqo](https://aka.ms/AAvskqo)
+
+<img src="Images/LG342.png" width = "50%" />
 
 ---
 
-<SPAN ID = 'LG375'/>编号：LG375  
+<SPAN ID = 'LG374'/>编号：LG374  
 日期：2025 年 5 月 20 日  
-版本：Canary 27858 - 27863  
-**问题**：**触摸屏的双击、长按右键等操作失效**。  
-状态：Canary 27868 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAwapbn](https://aka.ms/AAwapbn) & [aka.ms/AAwa9gh](https://aka.ms/AAwa9gh) <img src="Images/M.png" width = "14%" />
+版本：Canary 27858 - 27868  
+**问题**：**高采样率 (192 kHz) 设备无法播放音频**。  
+状态：Canary 27871 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAwc9vi](https://aka.ms/AAwc9vi) <img src="Images/M.png" width = "14%" />
 
 ---
 
-*部分未收录反馈详见 [WIP Canary 27868 更新简报](Canary.md)*
+<SPAN ID = 'LG385'/>编号：LG385  
+日期：2025 年 5 月 30 日  
+版本：Canary 27868  
+**问题**：**启用基于虚拟化的安全 (VBS) 后，依赖于虚拟化的应用将无法运行**。  
+状态：Canary 27871 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，依赖于虚拟化的应用 (如 VMware Workstation) 将无法运行，除非还启用了 ‘Windows Hypervisor Platform’ 可选功能。而以前无需启用它。” *(Ling 译)*  
+<img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG366'/>编号：LG366  
+日期：2025 年 5 月 18 日  
+版本：Canary 27858 - 27868  
+**问题**：**任务管理器的搜索和筛选功能失效**。  
+状态：Canary 27871 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAwafdz](https://aka.ms/AAwafdz) <img src="Images/M.png" width = "14%" />
+
+<img src="Images/LG366.png" width = "50%" />
+
+---
+
+<SPAN ID = 'LG323'/>编号：LG323  
+日期：2025 年 4 月 3 日  
+版本：Canary 27823 - 27868  
+**问题**：**将鼠标悬停在 “系统信息” 菜单顶部的选项卡时，边框显示为直角**。  
+状态：Canary 27871 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAvc3jh](https://aka.ms/AAvc3jh)
+
+<img src="Images/LG323.png" width = "60%" />
+
+---
+
+<SPAN ID = 'LG389'/>编号：LG389  
+日期：2025 年 6 月 2 日  
+版本：Canary 27868  
+**问题**：**“禁用小组件面板” (Disable Widgets Board) 策略失效**。  
+状态：Canary 27871 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAwhae1](https://aka.ms/AAwhae1)
+
+---
+
+*部分未收录反馈详见 [WIP Canary 27871 更新简报](Canary.md)*
 
 [Microsoft 已做出更改 >7 天的问题](7+.md)
 
