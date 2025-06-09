@@ -28,10 +28,10 @@
 
 ## 总览
 
-| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zgk) Microsoft Teams 社区 😽 |
+| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zhg) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 6 月 5 日 12:00 (UTC+8)。Star 数量：50 ⭐
+上次更新时间：2025 年 6 月 5 日 12:00 (UTC+8)。Star 数量：51 ⭐
 
 收录反馈 395 个，其中正在调查 33 个 (含[搁置](#3) 6 个)、正在处理 2 个、已修复 360 个。
 
@@ -41,9 +41,9 @@
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                **[新]** 27871                |  2025/6/5  | [aka.ms/wip27871](https://blogs.windows.com/windows-insider/2025/06/04/announcing-windows-11-insider-preview-build-27871-canary-channel) |
-|       Dev        | **[新]** 26200.5622 |   2025/6/3   | [aka.ms/wip-dev-6-2-25](https://blogs.windows.com/windows-insider/2025/06/02/announcing-windows-11-insider-preview-build-26200-5622-dev-channel) |
-|         Beta         | **[新]** 26120.4230 |   2025/6/3   | [aka.ms/wip-beta-6-2-25](https://blogs.windows.com/windows-insider/2025/06/02/announcing-windows-11-insider-preview-build-26120-4230-beta-channel) |
+|        Canary        |                27871                |  2025/6/5  | [aka.ms/wip27871](https://blogs.windows.com/windows-insider/2025/06/04/announcing-windows-11-insider-preview-build-27871-canary-channel) |
+|       Dev        | 26200.5622 |   2025/6/3   | [aka.ms/wip-dev-6-2-25](https://blogs.windows.com/windows-insider/2025/06/02/announcing-windows-11-insider-preview-build-26200-5622-dev-channel) |
+|         Beta         | 26120.4230 |   2025/6/3   | [aka.ms/wip-beta-6-2-25](https://blogs.windows.com/windows-insider/2025/06/02/announcing-windows-11-insider-preview-build-26120-4230-beta-channel) |
 | Release Preview  | 26100.4202 |  2025/5/28  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/05/19/releasing-windows-11-build-26100-4188-to-the-release-preview-channel) |
 | General Availability |    26100.4202    |  2025/5/29  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5058499) |
 
