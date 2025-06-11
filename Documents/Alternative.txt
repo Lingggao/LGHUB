@@ -325,17 +325,26 @@ https://aka.ms/AAvsowb
 资源管理器 磁盘容量条显示异常 ×
 https://aka.ms/AAwapbt
 
-动效消失 ✓
-https://aka.ms/AAwi4xm
-
-Search issue ✓
-https://aka.ms/AAwi4xq
-
 click to do blocks out a 1/4  of the screen when trying to work ×
 https://aka.ms/AAwicoa
 
-Snipping Tool doesn't work in the latest Windows 11 Insider builds - the app opens but I can't take screenshots (WIN + Shift + S doesn't work either) ✓
-https://aka.ms/AAwicob
+Canary 27871 - Searching for "Advanced network settings" in the Settings menu yields no results. ✓
+https://aka.ms/AAwndix
 
-X-Plane 12 crashes with BSOD 0x0000001e. Reinstalling does not fix ✓
-https://aka.ms/AAwikfb
+截图工具中的颜色选取器界面提供的界面宽度太短导致一些语言（如中文）中无法显示完整文字内容 ✓
+https://aka.ms/AAwi7nq
+
+ActionsServer is crashing over and over June 2025 ✓
+https://aka.ms/AAwn7mb
+
+实时字幕修改背景和窗口透明度无效 ×
+https://aka.ms/AAwn60b
+
+Exception somewhere in TryStartCaptureFromMonitorHandle() ✓
+https://aka.ms/AAwn3qx
+
+Edge is endlessly checking for updates and never finishes in late May 2025 - June 2025 ✓
+https://aka.ms/AAwn60f
+
+ZTHELPER.dll shows error 15100 after the latest Canary builds
+https://aka.ms/AAwn60g

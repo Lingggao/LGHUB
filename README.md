@@ -28,14 +28,17 @@
 
 ## 总览
 
-| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zhg) Microsoft Teams 社区 😽 |
+| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zhk) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 6 月 5 日 12:00 (UTC+8)。Star 数量：51 ⭐
+| 灵糕中心设立 [“Microsoft 网站错误 & 本地化问题”](WebLoc/README.md) 板块 |
+| :----------------------------------------------------------: |
 
-收录反馈 395 个，其中正在调查 33 个 (含[搁置](#3) 6 个)、正在处理 2 个、已修复 360 个。
+上次更新时间：2025 年 6 月 11 日 23:00 (UTC+8)。Star 数量：51 ⭐
 
-反馈更新记录：**今日更新反馈状态**。- Ling 🍾 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+收录反馈 400 个，其中正在调查 38 个 (含[搁置](#3) 6 个)、正在处理 3 个、已修复 359 个。
+
+反馈更新记录：**今日更新 LG395 - 399**。- Ling 🥓 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27871 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
@@ -45,11 +48,11 @@
 |       Dev        | **[新]** 26200.5641 |   2025/6/10   | [aka.ms/wip-dev-6-9-25](https://blogs.windows.com/windows-insider/2025/06/09/announcing-windows-11-insider-preview-build-26200-5641-dev-channel) |
 |         Beta         | **[新]** 26120.4250 |   2025/6/10   | [aka.ms/wip-beta-6-9-25](https://blogs.windows.com/windows-insider/2025/06/09/announcing-windows-11-insider-preview-build-26120-4250-beta-channel) |
 | Release Preview  | 26100.4202 |  2025/5/28  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/05/19/releasing-windows-11-build-26100-4188-to-the-release-preview-channel) |
-| General Availability |    26100.4202    |  2025/5/29  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5058499) |
+| General Availability |    **[新]** 26100.4349    |  2025/6/11  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5060842) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_1.png) · 9 - 12 月)
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_0.png) · 9 - 12 月)
 
 ---
 
@@ -62,6 +65,7 @@
 |       ——        |              [**Canary - 公告已知问题**](#0) ▼               |    ——    |
 | [LG212](#LG212) | **[Copilot+ 电脑]** 加入 Canary 频道后，PIN 和生物识别信息将丢失。 | 正在处理 |
 | [LG368](#LG368) |              任务栏材质效果消失，变成了深灰色。              | 正在处理 |
+| [LG342](#LG342) |               **打开组策略编辑器时提示错误**。               | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
 |       ——        |        ***注**：长期未修复的问题收录于[搁置](#3)板块*        |    ——    |
 | [LG311](#LG311) |          文件资源管理器地址栏溢出列表无法正确呈现。          | 正在调查 |
@@ -91,8 +95,12 @@
 | [LG392](#LG392) |               任务栏 “搜索” 功能显示纯白界面。               | 正在调查 |
 | [LG393](#LG393) | 截图工具可以正常启动，但无法截图 (WIN + Shift + S 也失效)。  | 正在调查 |
 | [LG394](#LG394) |                玩 X-Plane 12 游戏时电脑绿屏。                | 正在调查 |
+| [LG395](#LG395) |     **在 “设置” 菜单中搜索 “高级网络设置” 时没有结果**。     | 正在调查 |
+| [LG396](#LG396) |    **截图工具 “颜色选取器” 功能的顶栏无法完整显示文字**。    | 正在调查 |
+| [LG397](#LG397) |                 **ActionsServer 反复崩溃**。                 | 正在调查 |
+| [LG398](#LG398) |    **Microsoft Edge 不断检查更新，但始终无法完成更新**。     | 正在调查 |
+| [LG399](#LG399) |              **ZTHELPER.dll 显示 15100 错误**。              | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
-| [LG342](#LG342) |                 打开组策略编辑器时提示错误。                 | 已修复 ✓ |
 | [LG374](#LG374) |            高采样率 (192 kHz) 设备无法播放音频。             | 已修复 ✓ |
 | [LG385](#LG385) | 启用基于虚拟化的安全 (VBS) 后，依赖于虚拟化的应用将无法运行。 | 已修复 ✓ |
 | [LG366](#LG366) |               任务管理器的搜索和筛选功能失效。               | 已修复 ✓ |
@@ -131,6 +139,17 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 典型反馈：[aka.ms/AAw9ms9](https://aka.ms/AAw9ms9) & [aka.ms/AAwak57](https://aka.ms/AAwak57)
 
 <img src="Images/LG368.png" width = "60%" />
+
+---
+
+<SPAN ID = 'LG342'/>编号：LG342  
+日期：2025 年 4 月 26 日  
+版本：Canary 27842 - 27871  
+**问题**：**打开组策略编辑器时提示错误**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAvskqo](https://aka.ms/AAvskqo) & [aka.ms/AAwif5b](https://aka.ms/AAwif5b)
+
+<img src="Images/LG342.png" width = "50%" />
 
 <SPAN ID = '1'/>
 
@@ -378,7 +397,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 版本：ALL  
 **问题**：**截图工具可以正常启动，但无法截图 (WIN + Shift + S 也失效)**。  
 状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAwicob](https://aka.ms/AAwicob)
+典型反馈：[aka.ms/AAwicob](https://aka.ms/AAwicob) & [aka.ms/AAwn3qx](https://aka.ms/AAwn3qx)
 
 ---
 
@@ -389,6 +408,55 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwikfb](https://aka.ms/AAwikfb)
 
+---
+
+<SPAN ID = 'LG395'/>编号：LG395  
+日期：2025 年 6 月 11 日  
+版本：Canary 27871  
+**问题**：**在 “设置” 菜单中搜索 “高级网络设置” 时没有结果**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwndix](https://aka.ms/AAwndix)
+
+<img src="Images/LG395.png" width = "50%" />
+
+---
+
+<SPAN ID = 'LG396'/>编号：LG396  
+日期：2025 年 6 月 11 日  
+版本：ALL  
+**问题**：**截图工具 “颜色选取器” 功能的顶栏无法完整显示文字**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwi7nq](https://aka.ms/AAwi7nq)
+
+<img src="Images/LG396.png" width = "35%" />
+
+---
+
+<SPAN ID = 'LG397'/>编号：LG397  
+日期：2025 年 6 月 11 日  
+版本：Canary 27871  
+**问题**：**ActionsServer 反复崩溃**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwn7mb](https://aka.ms/AAwn7mb)
+
+---
+
+<SPAN ID = 'LG398'/>编号：LG398  
+日期：2025 年 6 月 11 日  
+版本：ALL  
+**问题**：**Microsoft Edge 不断检查更新，但始终无法完成更新**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwn60f](https://aka.ms/AAwn60f)
+
+---
+
+<SPAN ID = 'LG399'/>编号：LG399  
+日期：2025 年 6 月 11 日  
+版本：Canary 27871  
+**问题**：**ZTHELPER.dll 显示 15100 错误**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwn60g](https://aka.ms/AAwn60g)
+
 <SPAN ID = '2'/>
 
 ## Canary - 归档 (已做出更改)
@@ -398,17 +466,6 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 > &emsp;记录 Microsoft 已做出更改 0 - 7 天的问题 & 超过 14 天无新增赞成票的问题。
 >
 > &emsp;无特殊情况，问题归档后不再更新。
-
----
-
-<SPAN ID = 'LG342'/>编号：LG342  
-日期：2025 年 4 月 26 日  
-版本：Canary 27842 - 27868  
-**问题**：**打开组策略编辑器时提示错误**。  
-状态：Canary 27871 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAvskqo](https://aka.ms/AAvskqo)
-
-<img src="Images/LG342.png" width = "50%" />
 
 ---
 
