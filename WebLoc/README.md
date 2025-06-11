@@ -12,24 +12,23 @@
 >
 > &emsp;本板块中的反馈独立于 [“灵糕中心”](https://github.com/Lingggao/LGHUB) 主板块，不参与数量统计。
 
-|      编号       |                             问题                             | 状态 |
-| :-------------: | :----------------------------------------------------------: | :--: |
-| [WL001](#WL001) | 待办待办待办待办待办待办待办待办待办待办待办待办待办待办待办待办 | 待办 |
-| [WL002](#WL002) |                                                              |      |
-| [WL003](#WL003) |                                                              |      |
+|      编号       |                             问题                             |  状态  |
+| :-------------: | :----------------------------------------------------------: | :----: |
+| [WL001](#WL001) | Rewards 中的 “抽奖：￥36,000” 项目的宣传图错误地写为 36 万元。 | 已处理 |
+| [WL002](#WL002) |                                                              |        |
+| [WL003](#WL003) |                                                              |        |
 
 <SPAN ID = 'WL001'/>编号：WL001  
 日期：2024 年 11 月 2 日  
-产品：Microsoft xxxxx  
-**问题**：**xxxxx**  
-类别：网站错误 / 本地化问题  
-网址 (如果有)：[github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)  
-状态：**\*用户告知\*** → 传递反馈 → 等待 Microsoft 处理 → 已处理 | 90 天未处理  
-用户：[鸣谢] / 匿名  
-传递人：Ling Gao  
-图像 (必需)
+产品：Microsoft Rewards  
+**问题**：**Rewards 中的 “抽奖：￥36,000” 项目的宣传图错误地写为 36 万元**。  
+类别：网站错误  
+网址：[rewards.bing.com](https://rewards.bing.com)  
+状态：用户告知 → 传递反馈 → 等待 Microsoft 处理 → **◆已处理◆** | 90 天未处理  
+用户：未记录  
+传递人：Ling Gao
 
-<img src="LGHUB/Images/LING_2.png" width = "20%" />
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL001.png?raw=true" width = "50%" />
 
 ---
 
@@ -41,25 +40,23 @@
 网址 (如果有)：[github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)  
 状态：**\*用户告知\*** → 传递反馈 → 等待 Microsoft 处理 → 已处理 | 90 天未处理  
 用户：[鸣谢] / 匿名  
-传递人：Ling Gao  
-图像 (必需)
+传递人：Ling Gao
 
-<img src="https://github.com/Lingggao/LGHUB/blob/main/Images/LING_2.png?raw=true" width = "20%" />
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL002.png?raw=true" width = "60%" />
 
 ---
 
 <SPAN ID = 'WL003'/>编号：WL003  
-日期：xxxx 年 xx 月 xx 日  
+日期：2024 年 12 月 26 日  
 产品：Microsoft xxxxx  
 **问题**：**xxxxx**  
 类别：网站错误 / 本地化问题  
 网址 (如果有)：[github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)  
 状态：**\*用户告知\*** → 传递反馈 → 等待 Microsoft 处理 → 已处理 | 90 天未处理  
 用户：[鸣谢] / 匿名  
-传递人：Ling Gao  
-图像 (必需)
+传递人：Ling Gao
 
-<img src="https://github.com/Lingggao/LGHUB/blob/main/Images/LING_2.png?raw=true" width = "20%" />
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL003.png?raw=true" width = "50%" />
 
 ---
 
