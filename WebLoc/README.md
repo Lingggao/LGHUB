@@ -19,8 +19,8 @@
 |      编号       |                             问题                             |  状态  |
 | :-------------: | :----------------------------------------------------------: | :----: |
 | [WL001](#WL001) | Rewards 中的 “抽奖：￥36,000” 项目的宣传图错误地写为 36 万元。 | 已处理 |
-| [WL002](#WL002) |                                                              |        |
-| [WL003](#WL003) |                                                              |        |
+| [WL002](#WL002) |    支持文章 - 这可能导致电池只要是新电池就不能保持充电。     | 已处理 |
+| [WL003](#WL003) | “使用证书管理器工具查看证书” 文档中的 certlm.msc 错误地写为 certlm.mmc。 | 已处理 |
 
 <SPAN ID = 'WL001'/>编号：WL001  
 日期：2024 年 11 月 2 日  
@@ -38,12 +38,12 @@
 
 <SPAN ID = 'WL002'/>编号：WL002  
 日期：2024 年 12 月 18 日  
-产品：Microsoft xxxxx  
-**问题**：**xxxxx**  
-类别：网站错误 / 本地化问题  
-网址 (如果有)：[github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)  
-状态：**\*用户告知\*** → 传递反馈 → 等待 Microsoft 处理 → 已处理 | 90 天未处理  
-用户：[鸣谢] / 匿名  
+产品：Microsoft Support  
+**问题**：**支持文章 - 这可能导致电池只要是新电池就不能保持充电**。  
+类别：本地化问题  
+网址：[在 Windows 中使用智能充电](https://support.microsoft.com/zh-cn/windows/%E5%9C%A8-windows-%E4%B8%AD%E4%BD%BF%E7%94%A8%E6%99%BA%E8%83%BD%E5%85%85%E7%94%B5-2ac1b4ba-6027-410a-b80e-f6767d867002)  
+状态：用户告知 → 传递反馈 → 等待 Microsoft 处理 → **◆已处理◆** | 90 天未处理  
+用户：未记录  
 传递人：Ling Gao
 
 <img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL002.png?raw=true" width = "60%" />
@@ -52,12 +52,12 @@
 
 <SPAN ID = 'WL003'/>编号：WL003  
 日期：2024 年 12 月 26 日  
-产品：Microsoft xxxxx  
-**问题**：**xxxxx**  
-类别：网站错误 / 本地化问题  
-网址 (如果有)：[github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)  
-状态：**\*用户告知\*** → 传递反馈 → 等待 Microsoft 处理 → 已处理 | 90 天未处理  
-用户：[鸣谢] / 匿名  
+产品：Microsoft Learn  
+**问题**：**“使用证书管理器工具查看证书” 文档中的 certlm.msc 错误地写为 certlm.mmc**。  
+类别：网站错误  
+网址：[使用证书管理器工具查看证书](https://learn.microsoft.com/zh-cn/dotnet/framework/wcf/feature-details/how-to-view-certificates-with-the-mmc-snap-in#view-certificates-with-the-certificate-manager-tool)  
+状态：用户告知 → 传递反馈 → 等待 Microsoft 处理 → **◆已处理◆** | 90 天未处理  
+用户：未记录  
 传递人：Ling Gao
 
 <img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL003.png?raw=true" width = "50%" />
