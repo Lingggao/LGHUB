@@ -8,29 +8,30 @@
 >
 > &emsp;Ling Gao 可以协助用户向 Microsoft 传递有关网站错误和本地化问题的反馈。请通过 [**“Ling 的 Windows Insider 小屋”**](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zhg) Microsoft Teams 私人社区的 [“3. Windows Insider - 问题”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zhg) 频道分享以上两类反馈。
 >
-> &emsp;据《最有价值专家奖项条款》，“MVP 计划通过在参与者与 Microsoft 产品或工程团队间建立直接联系，将社区的声音融入 Microsoft 的技术路线图”。另据《最有价值专家行为准则》，“MVP 应对自己所说或所做的一切承担全部责任，包括基于在社区获得的建议所采取的行动”。您的反馈不会在传递中丢失。**请注意：Ling Gao 不是 Microsoft 公司员工，不能代表 Microsoft 公司立场、态度**。
+> &emsp;根据《最有价值专家奖项条款》，“MVP 计划通过在参与者与 Microsoft 产品或工程团队间建立直接联系，将社区的声音融入 Microsoft 的技术路线图”。另据《最有价值专家行为准则》，“MVP 应对自己所说或所做的一切承担全部责任，包括基于在社区获得的建议所采取的行动”。您的反馈不会在传递中丢失。**请注意：Ling Gao 不是 Microsoft 公司员工，不能代表 Microsoft 公司立场、态度**。
 >
 > &emsp;本板块中的反馈独立于 [“灵糕中心”](https://github.com/Lingggao/LGHUB) 主板块，不参与数量统计。
 
-|      编号       |                   问题                   | 状态 |
-| :-------------: | :--------------------------------------: | :--: |
-| [WL001](#WL001) | 待办待办待办待办待办待办待办待办待办待办 | 待办 |
-| [WL002](#WL002) |                                          |      |
-| [WL003](#WL003) |                                          |      |
-| [WL004](#WL004) |                                          |      |
-| [WL005](#WL005) |                                          |      |
+|      编号       |                             问题                             | 状态 |
+| :-------------: | :----------------------------------------------------------: | :--: |
+| [WL001](#WL001) | 待办待办待办待办待办待办待办待办待办待办待办待办待办待办待办待办 | 待办 |
+| [WL002](#WL002) |                                                              |      |
+| [WL003](#WL003) |                                                              |      |
+| [WL004](#WL004) |                                                              |      |
+| [WL005](#WL005) |                                                              |      |
 
 <SPAN ID = 'WL001'/>编号：WL001  
 日期：xxxx 年 xx 月 xx 日  
 产品：Microsoft xxxxx  
 **问题**：**xxxxx**  
 类别：网站错误 / 本地化问题  
-状态：用户告知 → **\*传递反馈\*** → 等待 Microsoft 处理 → 已处理 | 超过 90 天未处理  
+网址 (如果有)：[github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)  
+状态：**\*用户告知\*** → 传递反馈 → 等待 Microsoft 处理 → 已处理 | 90 天未处理  
 用户：[鸣谢] / 匿名  
 传递人：Ling Gao  
 图像 (必需)
 
-<img src="" width = "50%" />
+<img src="https://github.com/Lingggao/LGHUB/blob/main/Images/LING_2.png?raw=true" width = "20%" />
 
 ---
 

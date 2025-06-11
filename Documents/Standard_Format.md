@@ -17,10 +17,11 @@ Microsoft 官方回复 14 (如果有)：xxxxx
 产品：Microsoft xxxxx  
 **问题**：**xxxxx**  
 类别：网站错误 / 本地化问题  
-状态：用户告知 → **\*传递反馈\*** → 等待 Microsoft 处理 → 已处理 | 超过 90 天未处理  
+网址 (如果有)：[github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB)  
+状态：**\*用户告知\*** → 传递反馈 → 等待 Microsoft 处理 → 已处理 | 90 天未处理  
 用户：[鸣谢] / 匿名  
 传递人：Ling Gao  
 图像 (必需)
 
-<img src="" width = "50%" />
+<img src="https://github.com/Lingggao/LGHUB/blob/main/Images/LING_2.png?raw=true" width = "20%" />
 ```
