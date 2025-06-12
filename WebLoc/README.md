@@ -14,13 +14,23 @@
 >
 > &emsp;本板块中的反馈独立于 [“灵糕中心”](https://github.com/Lingggao/LGHUB) 主板块，不参与数量统计。
 
-截至 2025 年 6 月，收录反馈 3 个。
+截至 2025 年 6 月，收录反馈 12 个。
 
-|      编号       |                             问题                             |  状态  |
-| :-------------: | :----------------------------------------------------------: | :----: |
-| [WL001](#WL001) | Rewards 中的 “抽奖：￥36,000” 项目的宣传图错误地写为 36 万元。 | 已处理 |
-| [WL002](#WL002) |    支持文章 - 这可能导致电池只要是新电池就不能保持充电。     | 已处理 |
-| [WL003](#WL003) | “使用证书管理器工具查看证书” 文档中的 certlm.msc 错误地写为 certlm.mmc。 | 已处理 |
+|      编号       |                             问题                             |        状态         |
+| :-------------: | :----------------------------------------------------------: | :-----------------: |
+| [WL001](#WL001) | Rewards 中的 “抽奖：￥36,000” 项目的宣传图错误地写为 36 万元。 |       已处理        |
+| [WL002](#WL002) |    支持文章 - 这可能导致电池只要是新电池就不能保持充电。     |       已处理        |
+| [WL003](#WL003) | “使用证书管理器工具查看证书” 文档中的 certlm.msc 错误地写为 certlm.mmc。 |       已处理        |
+| [WL004](#WL004) |  Surface Studio 2+ 支持文章的 “电源键” 和 “音量键” 标反了。  |       已处理        |
+| [WL005](#WL005) |       “Edge 帮助和学习” 网站中的 “整理想法” 配图损坏。       |       已处理        |
+| [WL006](#WL006) |  “使用 Windows 更新修复电脑问题” 支持文章中的多个图像损坏。  |       已处理        |
+| [WL007](#WL007) |           “系统文件检查器” 支持文章中的图像损坏。            |       已处理        |
+| [WL008](#WL008) |             保持登录状态 - 每次都跳过登录的作。              |       已处理        |
+| [WL009](#WL009) |                    .NET 被翻译为 “。网”。                    | 等待 Microsoft 处理 |
+| [WL010](#WL010) |    简中 Copilot 中的 “維夫” 和 “格魯夫” 声音使用了繁中。     | 等待 Microsoft 处理 |
+| [WL011](#WL011) |      工作室效果中的 “创意滤镜” 被翻译为 “创意筛选器”。       | 等待 Microsoft 处理 |
+| [WL012](#WL012) |        Xbox 支持文章中的 “Store” 错误地写为 “Sotre”。        | 等待 Microsoft 处理 |
+|      ————       |      ***注**：本版块一般按时间先后排序，底部为最新反馈*      |     ——————————      |
 
 <SPAN ID = 'WL001'/>编号：WL001  
 日期：2024 年 11 月 2 日  
@@ -46,7 +56,7 @@
 用户：未记录  
 传递人：Ling Gao
 
-<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL002.png?raw=true" width = "60%" />
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL002.png?raw=true" width = "50%" />
 
 ---
 
@@ -61,6 +71,130 @@
 传递人：Ling Gao
 
 <img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL003.png?raw=true" width = "50%" />
+
+---
+
+<SPAN ID = 'WL004'/>编号：WL004  
+日期：2025 年 2 月 12 日  
+产品：Microsoft Support  
+**问题**：**Surface Studio 2+ 支持文章的 “电源键” 和 “音量键” 标反了**。  
+类别：网站错误  
+网址：[Get to know Surface Studio 2+](https://support.microsoft.com/en-us/surface/surface-studio-2-features-53cfae12-28fd-483d-9c4d-6e8f943c05a0)  
+状态：用户告知 → 传递反馈 → 等待 Microsoft 处理 → **◆已处理◆** | 90 天未处理  
+用户：ThinkBou  
+传递人：Ling Gao
+
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL004.png?raw=true" width = "50%" />
+
+---
+
+<SPAN ID = 'WL005'/>编号：WL005  
+日期：2025 年 2 月 23 日  
+产品：Edge Support  
+**问题**：**“Edge 帮助和学习” 网站中的 “整理想法” 配图损坏**。  
+类别：网站错误  
+网址：[Microsoft Edge 帮助和学习](https://support.microsoft.com/zh-cn/microsoft-edge)  
+状态：用户告知 → 传递反馈 → 等待 Microsoft 处理 → **◆已处理◆** | 90 天未处理  
+用户：GuCATs  
+传递人：Ling Gao
+
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL005.png?raw=true" width = "50%" />
+
+---
+
+<SPAN ID = 'WL006'/>编号：WL006  
+日期：2025 年 4 月 18 日  
+产品：Microsoft Support  
+**问题**：**“使用 Windows 更新修复电脑问题” 支持文章中的多个图像损坏**。  
+类别：网站错误  
+网址：[通过重新安装当前版本的 Windows 修复问题](https://support.microsoft.com/zh-cn/windows/%E9%80%9A%E8%BF%87%E9%87%8D%E6%96%B0%E5%AE%89%E8%A3%85%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC%E7%9A%84-windows-%E4%BF%AE%E5%A4%8D%E9%97%AE%E9%A2%98-497ac6da-7cac-4641-82a5-f50398d879a0)  
+状态：用户告知 → 传递反馈 → 等待 Microsoft 处理 → **◆已处理◆** | 90 天未处理  
+用户：GuCATs  
+传递人：Ling Gao
+
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL006.png?raw=true" width = "50%" />
+
+---
+
+<SPAN ID = 'WL007'/>编号：WL007  
+日期：2025 年 4 月 18 日  
+产品：Microsoft Support  
+**问题**：**“系统文件检查器” 支持文章中的图像损坏**。  
+类别：网站错误  
+网址：[使用系统文件检查器工具修复丢失或损坏的系统文件](https://support.microsoft.com/zh-cn/topic/%E4%BD%BF%E7%94%A8%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6%E6%A3%80%E6%9F%A5%E5%99%A8%E5%B7%A5%E5%85%B7%E4%BF%AE%E5%A4%8D%E4%B8%A2%E5%A4%B1%E6%88%96%E6%8D%9F%E5%9D%8F%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6-79aa86cb-ca52-166a-92a3-966e85d4094e)  
+状态：用户告知 → 传递反馈 → 等待 Microsoft 处理 → **◆已处理◆** | 90 天未处理  
+用户：GuCATs  
+传递人：Ling Gao
+
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL007.png?raw=true" width = "50%" />
+
+---
+
+<SPAN ID = 'WL008'/>编号：WL008  
+日期：2025 年 4 月 23 日  
+产品：Microsoft Account  
+**问题**：**保持登录状态 - 每次都跳过登录的作**。  
+类别：本地化问题  
+网址：[login.live.com](https://login.live.com)  
+状态：用户告知 → 传递反馈 → 等待 Microsoft 处理 → **◆已处理◆** | 90 天未处理  
+用户：Ling Gao  
+传递人：Ling Gao
+
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL008.png?raw=true" width = "50%" />
+
+---
+
+<SPAN ID = 'WL009'/>编号：WL009  
+日期：2025 年 5 月 13 日  
+产品：Microsoft Learn  
+**问题**：**.NET 被翻译为 “。网”**。  
+类别：本地化问题  
+网址：[.NET 基础知识文档](https://learn.microsoft.com/zh-cn/dotnet/fundamentals)  
+状态：用户告知 → 传递反馈 → **◆等待 Microsoft 处理◆** → 已处理 | 90 天未处理  
+用户：Ling Gao  
+传递人：Ling Gao
+
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL009.png?raw=true" width = "50%" />
+
+---
+
+<SPAN ID = 'WL010'/>编号：WL010  
+日期：2025 年 5 月 23 日  
+产品：Copilot  
+**问题**：**简中 Copilot 中的 “維夫” 和 “格魯夫” 声音使用了繁中**。  
+类别：本地化问题  
+状态：用户告知 → 传递反馈 → **◆等待 Microsoft 处理◆** → 已处理 | 90 天未处理  
+用户：Ling Gao  
+传递人：Ling Gao
+
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL010.png?raw=true" width = "50%" />
+
+---
+
+<SPAN ID = 'WL011'/>编号：WL011  
+日期：2025 年 6 月 6 日  
+产品：Windows 11  
+**问题**：**工作室效果中的 “创意滤镜” 被翻译为 “创意筛选器”**。  
+类别：本地化问题  
+状态：用户告知 → 传递反馈 → **◆等待 Microsoft 处理◆** → 已处理 | 90 天未处理  
+用户：云萧是个咕咕怪！  
+传递人：Ling Gao
+
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL011.png?raw=true" width = "50%" />
+
+---
+
+<SPAN ID = 'WL012'/>编号：WL012  
+日期：2025 年 6 月 7 日  
+产品：Xbox Support  
+**问题**：**Xbox 支持文章中的 “Store” 错误地写为 “Sotre”**。  
+类别：网站错误  
+网址：[获取 Xbox 预览体验中心应用](https://support.xbox.com/zh-CN/help/account-profile/manage-account/xbox-insider-hub)  
+状态：用户告知 → 传递反馈 → **◆等待 Microsoft 处理◆** → 已处理 | 90 天未处理  
+用户：饭团同学喵  
+传递人：Ling Gao
+
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL012.png?raw=true" width = "50%" />
 
 ---
 
