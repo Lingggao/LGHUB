@@ -206,10 +206,10 @@
 **问题**：**右键文件时 “删除” 按钮的鼠标悬停提示为 “删除 (删除)”**。  
 类别：本地化问题  
 状态：用户告知 → 传递反馈 → 等待 Microsoft 处理 → 已处理 | **◆90 天未处理◆**  
-用户：未记录  
+用户：Ling Gao  
 传递人：Ling Gao
 
-<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL013.png?raw=true" width = "50%" />
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL013.png?raw=true" width = "30%" />
 
 ---
 
@@ -222,7 +222,7 @@
 用户：zwJimRaynor  
 传递人：Ling Gao
 
-<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL014.png?raw=true" width = "50%" />
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL014.png?raw=true" width = "40%" />
 
 ---
 
