@@ -45,10 +45,10 @@
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
 |        Canary        |                27871                |  2025/6/5  | [aka.ms/wip27871](https://blogs.windows.com/windows-insider/2025/06/04/announcing-windows-11-insider-preview-build-27871-canary-channel) |
-|       Dev        | **[新]** 26200.5641 |   2025/6/10   | [aka.ms/wip-dev-6-9-25](https://blogs.windows.com/windows-insider/2025/06/09/announcing-windows-11-insider-preview-build-26200-5641-dev-channel) |
-|         Beta         | **[新]** 26120.4250 |   2025/6/10   | [aka.ms/wip-beta-6-9-25](https://blogs.windows.com/windows-insider/2025/06/09/announcing-windows-11-insider-preview-build-26120-4250-beta-channel) |
+|       Dev        | **[新]** 26200.5651 |   2025/6/14   | [aka.ms/wip-dev-6-13-25](https://blogs.windows.com/windows-insider/2025/06/13/announcing-windows-11-insider-preview-build-26200-5651-dev-channel) |
+|         Beta         | **[新]** 26120.4441 |   2025/6/14   | [aka.ms/wip-beta-6-13-25](https://blogs.windows.com/windows-insider/2025/06/13/announcing-windows-11-insider-preview-build-26120-4441-beta-channel) |
 | Release Preview  | 26100.4202 |  2025/5/28  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/05/19/releasing-windows-11-build-26100-4188-to-the-release-preview-channel) |
-| General Availability |    **[新]** 26100.4349    |  2025/6/11  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5060842) |
+| General Availability |    26100.4351    |  2025/6/12  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5063060) |
 
 <img src="Images/Graph_0.png" width = "93%" />
 
