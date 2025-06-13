@@ -14,7 +14,7 @@
 >
 > &emsp;本板块中的反馈独立于 [“灵糕中心”](https://github.com/Lingggao/LGHUB) 主板块，不参与数量统计。
 
-截至 2025 年 6 月，收录反馈 14 个。
+截至 2025 年 6 月，收录反馈 15 个。
 
 |      编号       |                             问题                             |        状态         |
 | :-------------: | :----------------------------------------------------------: | :-----------------: |
@@ -32,6 +32,7 @@
 | [WL012](#WL012) |        Xbox 支持文章中的 “Store” 错误地写为 “Sotre”。        | 等待 Microsoft 处理 |
 | [WL013](#WL013) |    右键文件时 “删除” 按钮的鼠标悬停提示为 “删除 (删除)”。    |     90 天未处理     |
 | [WL014](#WL014) | Microsoft Store 应用视频中的 “投放到设备” 被翻译为 “强制转换为设备”。 |     90 天未处理     |
+| [WL015](#WL015) |      “Microsoft 账户恢复表单” 被翻译为 “账户恢复窗体”。      |      用户告知       |
 |      ————       |      ***注**：本版块一般按时间先后排序，底部为最新反馈*      |     ——————————      |
 
 <SPAN ID = 'WL001'/>编号：WL001  
@@ -223,6 +224,20 @@
 传递人：Ling Gao
 
 <img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL014.png?raw=true" width = "40%" />
+
+---
+
+<SPAN ID = 'WL015'/>编号：WL015  
+日期：暂未传递反馈  
+产品：Microsoft Support  
+**问题**：**“Microsoft 账户恢复表单” 被翻译为 “账户恢复窗体”**。  
+类别：本地化问题  
+网址：[有关 Microsoft 帐户恢复窗体的帮助](https://support.microsoft.com/zh-cn/account-billing/%E6%9C%89%E5%85%B3-microsoft-%E5%B8%90%E6%88%B7%E6%81%A2%E5%A4%8D%E7%AA%97%E4%BD%93%E7%9A%84%E5%B8%AE%E5%8A%A9-b19c02d1-a782-dee6-93c3-dc8113b20c42)  
+状态：**◆用户告知◆** → 传递反馈 → 等待 Microsoft 处理 → 已处理 | 90 天未处理  
+用户：zwJimRaynor  
+传递人：Ling Gao
+
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL015.png?raw=true" width = "50%" />
 
 ---
 
