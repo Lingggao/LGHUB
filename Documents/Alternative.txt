@@ -328,23 +328,23 @@ https://aka.ms/AAwapbt
 click to do blocks out a 1/4  of the screen when trying to work ×
 https://aka.ms/AAwicoa
 
-Canary 27871 - Searching for "Advanced network settings" in the Settings menu yields no results. ✓
-https://aka.ms/AAwndix
-
-截图工具中的颜色选取器界面提供的界面宽度太短导致一些语言（如中文）中无法显示完整文字内容 ✓
-https://aka.ms/AAwi7nq
-
-ActionsServer is crashing over and over June 2025 ✓
-https://aka.ms/AAwn7mb
-
 实时字幕修改背景和窗口透明度无效 ×
 https://aka.ms/AAwn60b
 
-Exception somewhere in TryStartCaptureFromMonitorHandle() ✓
-https://aka.ms/AAwn3qx
+新版本中游玩“守望先锋2”会导致系统崩溃重启 ✓
+https://aka.ms/AAwp98m
 
-Edge is endlessly checking for updates and never finishes in late May 2025 - June 2025 ✓
-https://aka.ms/AAwn60f
+在同一窗口中打开每个文件夹，不优先显示最新打开的文件夹 ×
+https://aka.ms/AAwo9ap
 
-ZTHELPER.dll shows error 15100 after the latest Canary builds
-https://aka.ms/AAwn60g
+Updating Windows feels like it's gotten slower in the latest Windows 11 builds ×
+https://aka.ms/AAmbgrq
+
+Some older Dolby Vision displays might see severe discoloration in the latest Windows 11 builds (for example, the screen turns green) ✓
+https://aka.ms/AAwndxy
+
+Microsoft Defender Security Intelligence definition update fails with error 8024402e starting June 11 2025 ✓
+https://aka.ms/AAwo9as
+
+Web links in related support are not working properly ✓
+https://aka.ms/AAwoi47

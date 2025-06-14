@@ -34,11 +34,11 @@
 | 灵糕中心设立 [“Microsoft 网站错误 & 本地化问题”](WebLoc/README.md) 板块 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 6 月 11 日 23:00 (UTC+8)。Star 数量：51 ⭐
+上次更新时间：2025 年 6 月 14 日 19:00 (UTC+8)。Star 数量：51 ⭐
 
-收录反馈 400 个，其中正在调查 38 个 (含[搁置](#3) 6 个)、正在处理 3 个、已修复 359 个。
+收录反馈 404 个，其中正在调查 41 个 (含[搁置](#3) 6 个)、正在处理 4 个、已修复 359 个。
 
-反馈更新记录：**今日更新 LG395 - 399**。- Ling 🥓 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG400 - 403**。- Ling 🪙 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27871 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
@@ -50,9 +50,9 @@
 | Release Preview  | 26100.4202 |  2025/5/28  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/05/19/releasing-windows-11-build-26100-4188-to-the-release-preview-channel) |
 | General Availability |    26100.4351    |  2025/6/12  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5063060) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_0.png) · 9 - 12 月)
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_1.png) · 9 - 12 月)
 
 ---
 
@@ -65,7 +65,7 @@
 |       ——        |              [**Canary - 公告已知问题**](#0) ▼               |    ——    |
 | [LG212](#LG212) | **[Copilot+ 电脑]** 加入 Canary 频道后，PIN 和生物识别信息将丢失。 | 正在处理 |
 | [LG368](#LG368) |              任务栏材质效果消失，变成了深灰色。              | 正在处理 |
-| [LG342](#LG342) |               **打开组策略编辑器时提示错误**。               | 正在处理 |
+| [LG342](#LG342) |                 打开组策略编辑器时提示错误。                 | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
 |       ——        |        ***注**：长期未修复的问题收录于[搁置](#3)板块*        |    ——    |
 | [LG311](#LG311) |          文件资源管理器地址栏溢出列表无法正确呈现。          | 正在调查 |
@@ -95,11 +95,15 @@
 | [LG392](#LG392) |               任务栏 “搜索” 功能显示纯白界面。               | 正在调查 |
 | [LG393](#LG393) | 截图工具可以正常启动，但无法截图 (WIN + Shift + S 也失效)。  | 正在调查 |
 | [LG394](#LG394) |                玩 X-Plane 12 游戏时电脑绿屏。                | 正在调查 |
-| [LG395](#LG395) |     **在 “设置” 菜单中搜索 “高级网络设置” 时没有结果**。     | 正在调查 |
-| [LG396](#LG396) |    **截图工具 “颜色选取器” 功能的顶栏无法完整显示文字**。    | 正在调查 |
-| [LG397](#LG397) |                 **ActionsServer 反复崩溃**。                 | 正在调查 |
-| [LG398](#LG398) |    **Microsoft Edge 不断检查更新，但始终无法完成更新**。     | 正在调查 |
-| [LG399](#LG399) |              **ZTHELPER.dll 显示 15100 错误**。              | 正在调查 |
+| [LG395](#LG395) |       在 “设置” 菜单中搜索 “高级网络设置” 时没有结果。       | 正在调查 |
+| [LG396](#LG396) |      截图工具 “颜色选取器” 功能的顶栏无法完整显示文字。      | 正在调查 |
+| [LG397](#LG397) |                   ActionsServer 反复崩溃。                   | 正在调查 |
+| [LG398](#LG398) |      Microsoft Edge 不断检查更新，但始终无法完成更新。       | 正在调查 |
+| [LG399](#LG399) |                ZTHELPER.dll 显示 15100 错误。                | 正在调查 |
+| [LG400](#LG400) |    **玩 “守望先锋 2” (Overwatch 2) 游戏时电脑自动重启**。    | 正在调查 |
+| [LG401](#LG401) |     **连接较旧的 Dolby Vision 显示器时，屏幕严重偏色**。     | 正在处理 |
+| [LG402](#LG402) | **Microsoft Defender 安全智能定义更新失败，显示 8024402e 错误**。 | 正在调查 |
+| [LG403](#LG403) | **点击设置菜单 “相关支持” 中的 “更改隐私设置” 时，打开的链接有误**。 | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG374](#LG374) |            高采样率 (192 kHz) 设备无法播放音频。             | 已修复 ✓ |
 | [LG385](#LG385) | 启用基于虚拟化的安全 (VBS) 后，依赖于虚拟化的应用将无法运行。 | 已修复 ✓ |
@@ -456,6 +460,42 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 **问题**：**ZTHELPER.dll 显示 15100 错误**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwn60g](https://aka.ms/AAwn60g)
+
+---
+
+<SPAN ID = 'LG400'/>编号：LG400  
+日期：2025 年 6 月 14 日  
+版本：Canary 27871  
+**问题**：**玩 “守望先锋 2” (Overwatch 2) 游戏时电脑自动重启**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwp98m](https://aka.ms/AAwp98m)
+
+---
+
+<SPAN ID = 'LG401'/>编号：LG401  
+日期：2025 年 6 月 14 日  
+版本：Canary 27871  
+**问题**：**连接较旧的 Dolby Vision 显示器时，屏幕严重偏色**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAwndxy](https://aka.ms/AAwndxy) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG402'/>编号：LG402  
+日期：2025 年 6 月 14 日  
+版本：Canary 27871  
+**问题**：**Microsoft Defender 安全智能定义更新失败，显示 8024402e 错误**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwo9as](https://aka.ms/AAwo9as)
+
+---
+
+<SPAN ID = 'LG403'/>编号：LG403  
+日期：2025 年 6 月 14 日  
+版本：Canary 27871  
+**问题**：**点击设置菜单 “相关支持” 中的 “更改隐私设置” 时，打开的链接有误**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAwoi47](https://aka.ms/AAwoi47)
 
 <SPAN ID = '2'/>
 
