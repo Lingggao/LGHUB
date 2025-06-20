@@ -34,19 +34,19 @@
 | 灵糕中心设立 [“Microsoft 网站错误 & 本地化问题”](WebLoc/README.md) 板块 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 6 月 14 日 19:00 (UTC+8)。Star 数量：51 ⭐
+上次更新时间：2025 年 6 月 20 日 13:00 (UTC+8)。Star 数量：51 ⭐
 
 收录反馈 404 个，其中正在调查 41 个 (含[搁置](#3) 6 个)、正在处理 4 个、已修复 359 个。
 
-反馈更新记录：**今日更新 LG400 - 403**。- Ling 🪙 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新反馈状态**。- Ling 🙃 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-[**WIP Canary 27871 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
+[**WIP Canary 27881 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                27871                |  2025/6/5  | [aka.ms/wip27871](https://blogs.windows.com/windows-insider/2025/06/04/announcing-windows-11-insider-preview-build-27871-canary-channel) |
-|       Dev        | **[新]** 26200.5651 |   2025/6/14   | [aka.ms/wip-dev-6-13-25](https://blogs.windows.com/windows-insider/2025/06/13/announcing-windows-11-insider-preview-build-26200-5651-dev-channel) |
-|         Beta         | **[新]** 26120.4441 |   2025/6/14   | [aka.ms/wip-beta-6-13-25](https://blogs.windows.com/windows-insider/2025/06/13/announcing-windows-11-insider-preview-build-26120-4441-beta-channel) |
+|        Canary        |                **[新]** 27871                |  2025/6/5  | [aka.ms/wip27871](https://blogs.windows.com/windows-insider/2025/06/04/announcing-windows-11-insider-preview-build-27871-canary-channel) |
+|       Dev        | 26200.5651 |   2025/6/14   | [aka.ms/wip-dev-6-13-25](https://blogs.windows.com/windows-insider/2025/06/13/announcing-windows-11-insider-preview-build-26200-5651-dev-channel) |
+|         Beta         | 26120.4441 |   2025/6/14   | [aka.ms/wip-beta-6-13-25](https://blogs.windows.com/windows-insider/2025/06/13/announcing-windows-11-insider-preview-build-26120-4441-beta-channel) |
 | Release Preview  | 26100.4202 |  2025/5/28  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/05/19/releasing-windows-11-build-26100-4188-to-the-release-preview-channel) |
 | General Availability |    26100.4351    |  2025/6/12  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5063060) |
 
@@ -100,17 +100,17 @@
 | [LG397](#LG397) |                   ActionsServer 反复崩溃。                   | 正在调查 |
 | [LG398](#LG398) |      Microsoft Edge 不断检查更新，但始终无法完成更新。       | 正在调查 |
 | [LG399](#LG399) |                ZTHELPER.dll 显示 15100 错误。                | 正在调查 |
-| [LG400](#LG400) |    **玩 “守望先锋 2” (Overwatch 2) 游戏时电脑自动重启**。    | 正在调查 |
-| [LG401](#LG401) |     **连接较旧的 Dolby Vision 显示器时，屏幕严重偏色**。     | 正在处理 |
-| [LG402](#LG402) | **Microsoft Defender 安全智能定义更新失败，显示 8024402e 错误**。 | 正在调查 |
-| [LG403](#LG403) | **点击设置菜单 “相关支持” 中的 “更改隐私设置” 时，打开的链接有误**。 | 正在调查 |
+| [LG400](#LG400) |      玩 “守望先锋 2” (Overwatch 2) 游戏时电脑自动重启。      | 正在调查 |
+| [LG401](#LG401) |       连接较旧的 Dolby Vision 显示器时，屏幕严重偏色。       | 正在处理 |
+| [LG402](#LG402) | Microsoft Defender 安全智能定义更新失败，显示 8024402e 错误。 | 正在调查 |
+| [LG403](#LG403) | 点击设置菜单 “相关支持” 中的 “更改隐私设置” 时，打开的链接有误。 | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG374](#LG374) |            高采样率 (192 kHz) 设备无法播放音频。             | 已修复 ✓ |
 | [LG385](#LG385) | 启用基于虚拟化的安全 (VBS) 后，依赖于虚拟化的应用将无法运行。 | 已修复 ✓ |
 | [LG366](#LG366) |               任务管理器的搜索和筛选功能失效。               | 已修复 ✓ |
 | [LG323](#LG323) | 将鼠标悬停在 “系统信息” 菜单顶部的选项卡时，边框显示为直角。 | 已修复 ✓ |
 | [LG389](#LG389) |     “禁用小组件面板” (Disable Widgets Board) 策略失效。      | 已修复 ✓ |
-|       ——        | ***注**：部分未收录的问题详见 [WIP Canary 27871 更新简报](Canary.md)* |    ——    |
+|       ——        | ***注**：部分未收录的问题详见 [WIP Canary 27881 更新简报](Canary.md)* |    ——    |
 |       ——        |       ▲ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2)        |    ——    |
 |       ——        | [**Canary - 归档 (已做出更改 >7 天)**](7+.md) \| [**Canary - 搁置 (未做出更改)**](#3) |    ——    |
 
@@ -559,7 +559,7 @@ Microsoft 官方回复：“启用 ‘基于虚拟化的安全’ (VBS) 后，�
 
 ---
 
-*部分未收录反馈详见 [WIP Canary 27871 更新简报](Canary.md)*
+*部分未收录反馈详见 [WIP Canary 27881 更新简报](Canary.md)*
 
 [Microsoft 已做出更改 >7 天的问题](7+.md)
 
