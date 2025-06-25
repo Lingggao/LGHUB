@@ -331,20 +331,35 @@ https://aka.ms/AAwicoa
 实时字幕修改背景和窗口透明度无效 ×
 https://aka.ms/AAwn60b
 
-新版本中游玩“守望先锋2”会导致系统崩溃重启 ✓
-https://aka.ms/AAwp98m
-
 在同一窗口中打开每个文件夹，不优先显示最新打开的文件夹 ×
 https://aka.ms/AAwo9ap
 
 Updating Windows feels like it's gotten slower in the latest Windows 11 builds ×
 https://aka.ms/AAmbgrq
 
-Some older Dolby Vision displays might see severe discoloration in the latest Windows 11 builds (for example, the screen turns green) ✓
-https://aka.ms/AAwndxy
+Canary 27881 - 部分应用的任务栏窗口缩略图无法正常显示。 ✓
+https://aka.ms/AAwqtn1
 
-Microsoft Defender Security Intelligence definition update fails with error 8024402e starting June 11 2025 ✓
-https://aka.ms/AAwo9as
+Canary 27881 - 最小化应用时的动画存在异常。 ✓
+https://aka.ms/AAwqtmq
 
-Web links in related support are not working properly ✓
-https://aka.ms/AAwoi47
+“搜索”菜单的“更多选项”列表的选项间距不已知 ✓
+https://aka.ms/AAwsrbo
+
+预览版NBA2K2无法正常运行 ✓
+https://aka.ms/AAwtbwa
+
+Pressing shift + f10 during OOBE does not bring up CMD on first boot ✓
+https://aka.ms/AAwqzl7
+
+Windows OOBE Problem ✓
+https://aka.ms/AAwt4dj
+
+Edge version 138.0.3351.34 (June 19 2025) crashes opening inPrivate mode ✓
+https://aka.ms/AAwtbwk
+
+What is "电动交通工具和通行能力"?🤬 ✓
+https://aka.ms/AAwtbwl
+
+sudo does not work with the new Administrator Protection ✓
+https://aka.ms/AAwsrcc
