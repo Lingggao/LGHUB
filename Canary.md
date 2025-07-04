@@ -1,58 +1,38 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27881 更新简报
+# WIP Canary 27891 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/6/20)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/7/5)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/06/19/announcing-windows-11-insider-preview-build-27881-canary-channel)、[中文更新公告]() (暂无)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/07/03/announcing-windows-11-insider-preview-build-27891-canary-channel)、[中文更新公告](https://aka.ms/AAwycrg)。
 
 ## 一、新功能
 
-1. 语音输入 (WIN + H) 功能支持筛选不雅内容。
-
-<img src="Images/27881_1.png" width = "25%" />
-
-2. 讲述人新增 “语音回顾” 功能。
-
-<img src="Images/27881_2.png" width = "50%" />
+无
 
 ## 二、变更和改进
 
-1. Canary 预览体验版本的过期时间更新至 2026 年 8 月。
-2. 任务栏中 “需要关注的应用” 的图标底部横条更宽、更明显。
-
-<img src="Images/27871_3.png" width = "45%" />
-
-3. 快速设置中的 “辅助功能” 弹出菜单按视觉、听觉等分组。
-
-<img src="Images/27881_3.png" width = "30%" />
-
-4. 改进了 Windows 的搜索和共享功能。
-5. 在 “设置”>“系统”>“系统信息” 页面设立常见问题答疑板块。
-
-<img src="Images/27881_4.png" width = "50%" />
-
-6. 翻新了 “设置”>“蓝牙和其他设备”>“打印机和扫描仪” 中的重命名打印机对话框。
-
-<img src="Images/27881_5.png" width = "50%" />
-
-7. 改进了用手指在触摸屏上拖动时的视觉效果。
+1. 弃用 Windows PowerShell 2.0。
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/06/19/announcing-windows-11-insider-preview-build-27881-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/07/03/announcing-windows-11-insider-preview-build-27891-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “UAC、任务管理器等窗口出现乱码” 的问题。
-2. 修复了 “启动安全模式时提示 PIN 不可用” 的问题。
-3. 修复了 “文件资源管理器和开始菜单崩溃” 的问题。
-4. 修复了 “无法调整电脑使用时段为自动” 的问题。
-5. 修复了 “语音访问功能崩溃” 的问题。
-6. 修复了 “清理已安装的 Windows 时生成空白的 Windows.old 文件夹” 的问题。
-7. 修复了 “打开组策略编辑器时提示错误” 的问题。
+1. 修复了 “重置此电脑功能失效” 的问题。
+2. 修复了 “任务栏材质效果消失” 的问题。
+3. 修复了 “更新下载进度卡在 2%” 的问题。
+4. 修复了 “文件资源管理器地址栏溢出列表无法正确显示” 的问题。
+5. 修复了 “打开麦克风属性菜单时崩溃” 的问题。
+6. 修复了 “打开快速设置菜单时崩溃” 的问题。
+7. 修复了 “窗口最小化动画异常” 的问题。
+8. 修复了 “系统声音停止工作” 的问题。
+9. 修复了 “打印预览模糊” 的问题。
+10. 修复了 “Media Player 播放控件异常” 的问题。
+11. 修复了 “任务管理器统计异常” 的问题。
 
 [**WIP Canary 往期简报**](Documents/Canary_Previous)
 
