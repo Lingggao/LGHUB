@@ -34,21 +34,21 @@
 | 灵糕中心设立 [“Microsoft 网站错误 & 本地化问题”](WebLoc/README.md) 板块 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 7 月 5 日 3:00 (UTC+8)。Star 数量：51 ⭐
+上次更新时间：2025 年 7 月 12 日 5:00 (UTC+8)。Star 数量：51 ⭐
 
 收录反馈 418 个，其中正在调查 29 个 (含[搁置](#3) 6 个)、正在处理 3 个、已修复 386 个。
 
-反馈更新记录：**今日更新反馈状态**。- Ling 😜 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新反馈状态**。- Ling 🥳 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-[**WIP Canary 27891 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
+[**WIP Canary 27898 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                **[新]** 27891                |  2025/7/4  | [aka.ms/wip27891](https://blogs.windows.com/windows-insider/2025/07/03/announcing-windows-11-insider-preview-build-27891-canary-channel) |
+|        Canary        |                **[新]** 27898                |  2025/7/12  | [aka.ms/wip27898](https://blogs.windows.com/windows-insider/2025/07/11/announcing-windows-11-insider-preview-build-27898-canary-channel) |
 |       Dev        | 26200.5670 |   2025/6/28   | [aka.ms/wip-dev-6-27-25](https://blogs.windows.com/windows-insider/2025/06/27/announcing-windows-11-insider-preview-build-26200-5670-dev-channel) |
 |         Beta         | 26120.4520 |   2025/6/28   | [aka.ms/wip-beta-6-27-25](https://blogs.windows.com/windows-insider/2025/06/27/announcing-windows-11-insider-preview-build-26120-4520-beta-channel) |
-| Release Preview  | 26100.4482 |  2025/6/20  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/06/19/releasing-windows-11-build-26100-4482-to-the-release-preview-channel) |
-| General Availability |    26100.4484    |  2025/6/27  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5060829) |
+| Release Preview  | **[新]** 26100.4762 |  2025/7/11  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/07/10/releasing-windows-11-build-26100-4762-to-the-release-preview-channel) |
+| General Availability |    26100.4652    |  2025/7/9  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5062553) |
 
 <img src="Images/Graph_0.png" width = "93%" />
 
@@ -64,8 +64,8 @@
 | :-------------: | :----------------------------------------------------------: | :------: |
 |       ——        |              [**Canary - 公告已知问题**](#0) ▼               |    ——    |
 | [LG212](#LG212) | **[Copilot+ 电脑]** 加入 Canary 频道后，PIN 和生物识别信息将丢失。 | 正在处理 |
-| [LG416](#LG416) |        **“设置”>“系统”>“电源和电池” 菜单可能崩溃**。         | 正在处理 |
-| [LG417](#LG417) | **在 ARM64 设备中使用远程桌面时，出现图形失真和渲染错误**。  | 正在处理 |
+| [LG416](#LG416) |          “设置”>“系统”>“电源和电池” 菜单可能崩溃。           | 正在处理 |
+| [LG417](#LG417) |   在 ARM64 设备中使用远程桌面时，出现图形失真和渲染错误。    | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
 |       ——        |        ***注**：长期未修复的问题收录于[搁置](#3)板块*        |    ——    |
 | [LG347](#LG347) |            满足条件后在反馈中心无法获得成就徽章。            | 正在调查 |
@@ -108,7 +108,7 @@
 | [LG407](#LG407) |            部分应用的任务栏窗口预览无法正常显示。            | 已修复 ✓ |
 | [LG408](#LG408) |                 最小化应用时的动画存在异常。                 | 已修复 ✓ |
 | [LG412](#LG412) |         使用 ISO 安装 Canary 27881 时卡住几个小时。          | 已修复 ✓ |
-|       ——        | ***注**：部分未收录的问题详见 [WIP Canary 27891 更新简报](Canary.md)* |    ——    |
+|       ——        | ***注**：部分未收录的问题详见 [WIP Canary 27898 更新简报](Canary.md)* |    ——    |
 |       ——        |       ▲ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2)        |    ——    |
 |       ——        | [**Canary - 归档 (已做出更改 >7 天)**](7+.md) \| [**Canary - 搁置 (未做出更改)**](#3) |    ——    |
 
@@ -532,7 +532,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 ---
 
-*部分未收录反馈详见 [WIP Canary 27891 更新简报](Canary.md)*
+*部分未收录反馈详见 [WIP Canary 27898 更新简报](Canary.md)*
 
 [Microsoft 已做出更改 >7 天的问题](7+.md)
 
