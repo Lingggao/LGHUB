@@ -28,7 +28,7 @@
 
 ## 总览
 
-| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zhw) Microsoft Teams 社区 😽 |
+| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zh0) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
 | 灵糕中心设立 [“Microsoft 网站错误 & 本地化问题”](WebLoc/README.md) 板块 |
@@ -36,7 +36,7 @@
 
 上次更新时间：2025 年 7 月 12 日 5:00 (UTC+8)。Star 数量：51 ⭐
 
-收录反馈 418 个，其中正在调查 29 个 (含[搁置](#3) 6 个)、正在处理 3 个、已修复 386 个。
+收录反馈 419 个，其中正在调查 29 个 (含[搁置](#3) 6 个)、正在处理 4 个、已修复 386 个。
 
 反馈更新记录：**今日更新反馈状态**。- Ling 🥳 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
@@ -50,7 +50,7 @@
 | Release Preview  | **[新]** 26100.4762 |  2025/7/11  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/07/10/releasing-windows-11-build-26100-4762-to-the-release-preview-channel) |
 | General Availability |    26100.4652    |  2025/7/9  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5062553) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
 统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_1.png) · 9 - 12 月)
 
@@ -64,6 +64,7 @@
 | :-------------: | :----------------------------------------------------------: | :------: |
 |       ——        |              [**Canary - 公告已知问题**](#0) ▼               |    ——    |
 | [LG212](#LG212) | **[Copilot+ 电脑]** 加入 Canary 频道后，PIN 和生物识别信息将丢失。 | 正在处理 |
+| [LG418](#LG418) |          **文件资源管理器和桌面无法保留视图更改**。          | 正在处理 |
 | [LG416](#LG416) |          “设置”>“系统”>“电源和电池” 菜单可能崩溃。           | 正在处理 |
 | [LG417](#LG417) |   在 ARM64 设备中使用远程桌面时，出现图形失真和渲染错误。    | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
@@ -92,22 +93,7 @@
 | [LG413](#LG413) |     “辅助功能” 快速设置中出现 “电动交通工具” 错误翻译。      | 正在调查 |
 | [LG414](#LG414) |              sudo 不适用于 “管理员保护” 功能。               | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
-| [LG368](#LG368) |              任务栏材质效果消失，变成了深灰色。              | 已修复 ✓ |
-| [LG405](#LG405) |      “设置”>“系统”>“恢复” 中的 “重置此电脑” 功能失效。       | 已修复 ✓ |
-| [LG406](#LG406) |     在 “设置”>“系统”>“声音” 中打开麦克风属性时菜单崩溃。     | 已修复 ✓ |
-| [LG311](#LG311) |          文件资源管理器地址栏溢出列表无法正确呈现。          | 已修复 ✓ |
-| [LG348](#LG348) |       安装 Windows 11 时，菜单按照从右到左的方式排列。       | 已修复 ✓ |
-| [LG367](#LG367) |            安装 Canary 更新时，屏幕显示白色画面。            | 已修复 ✓ |
-| [LG370](#LG370) |                  重启 explorer.exe 时白屏。                  | 已修复 ✓ |
-| [LG371](#LG371) |              开启 “自动隐藏任务栏” 后出现黑边。              | 已修复 ✓ |
-| [LG382](#LG382) |              微信输入法候选框周围出现黑粗边框。              | 已修复 ✓ |
-| [LG388](#LG388) |             “设置”>“应用”>“操作” 菜单变为空白。              | 已修复 ✓ |
-| [LG393](#LG393) | 截图工具可以正常启动，但无法截图 (WIN + Shift + S 也失效)。  | 已修复 ✓ |
-| [LG399](#LG399) |                ZTHELPER.dll 显示 15100 错误。                | 已修复 ✓ |
-| [LG401](#LG401) |       连接较旧的 Dolby Vision 显示器时，屏幕严重偏色。       | 已修复 ✓ |
-| [LG407](#LG407) |            部分应用的任务栏窗口预览无法正常显示。            | 已修复 ✓ |
-| [LG408](#LG408) |                 最小化应用时的动画存在异常。                 | 已修复 ✓ |
-| [LG412](#LG412) |         使用 ISO 安装 Canary 27881 时卡住几个小时。          | 已修复 ✓ |
+|                 |                             暂无                             |          |
 |       ——        | ***注**：部分未收录的问题详见 [WIP Canary 27898 更新简报](Canary.md)* |    ——    |
 |       ——        |       ▲ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2)        |    ——    |
 |       ——        | [**Canary - 归档 (已做出更改 >7 天)**](7+.md) \| [**Canary - 搁置 (未做出更改)**](#3) |    ——    |
@@ -126,16 +112,24 @@
 
 <SPAN ID = 'LG212'/>编号：LG212  
 日期：2024 年 8 月 16 日  
-版本：Canary 27686 - 27891  
+版本：Canary 27686 - 27898  
 **问题**：**[Copilot+ 电脑] 加入 Canary 频道后，PIN 和生物识别信息将丢失**。  
 状态：<img src="Images/W.png" width = "9%" />  
 Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Preview 或 Retail 频道加入至 Canary 频道，Windows Hello PIN 和生物识别信息将会丢失。您将无法登录系统，显示 0xd0000225 错误和 ‘出错了，您的 PIN 不可用’ 信息。点击 ‘设置我的 PIN’ 选项应当可以重设 PIN。” *(Ling 译)* <img src="Images/M.png" width = "14%" />
 
 ---
 
+<SPAN ID = 'LG418'/>编号：LG418  
+日期：2025 年 7 月 12 日  
+版本：Canary 27898  
+**问题**：**文件资源管理器和桌面无法保留视图更改**。  
+状态：<img src="Images/W.png" width = "9%" />
+
+---
+
 <SPAN ID = 'LG416'/>编号：LG416  
 日期：2025 年 7 月 5 日  
-版本：Canary 27891  
+版本：Canary 27891 - 27898  
 **问题**：**“设置”>“系统”>“电源和电池” 菜单可能崩溃**。  
 状态：<img src="Images/W.png" width = "9%" />
 
@@ -143,7 +137,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG417'/>编号：LG417  
 日期：2025 年 7 月 5 日  
-版本：Canary 27891  
+版本：Canary 27891 - 27898  
 **问题**：**在 ARM64 设备中使用远程桌面时，出现图形失真和渲染错误**。  
 状态：<img src="Images/W.png" width = "9%" />
 
@@ -213,7 +207,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG381'/>编号：LG381  
 日期：2025 年 5 月 26 日  
-版本：Canary 27863 - 27891  
+版本：Canary 27863 - 27898  
 **问题**：**玩 PUBG 游戏时电脑自动重启**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwd8az](https://aka.ms/AAwd8az)
@@ -222,7 +216,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG383'/>编号：LG383  
 日期：2025 年 5 月 26 日  
-版本：Canary 27863 - 27891  
+版本：Canary 27863 - 27898  
 **问题**：**开启 “管理员保护” 功能并以管理员身份运行终端时，UAC 对话框死锁**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwdmg7](https://aka.ms/AAwdmg7)
@@ -249,7 +243,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG387'/>编号：LG387  
 日期：2025 年 6 月 2 日  
-版本：Canary 27868 - 27891  
+版本：Canary 27868 - 27898  
 **问题**：**玩 “Path of Exile” (流放之路) 游戏时电脑死机**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwhpsd](https://aka.ms/AAwhpsd)
@@ -258,7 +252,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG390'/>编号：LG390  
 日期：2025 年 6 月 2 日  
-版本：Canary 27868 - 27891  
+版本：Canary 27868 - 27898  
 **问题**：**开启 “管理员保护” 功能后，无法使用 Windows 11 媒体创建工具**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwhpsg](https://aka.ms/AAwhpsg)
@@ -267,7 +261,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG391'/>编号：LG391  
 日期：2025 年 6 月 4 日  
-版本：Canary 27868 - 27891  
+版本：Canary 27868 - 27898  
 **问题**：**开始菜单的动画效果异常**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwi4xm](https://aka.ms/AAwi4xm)
@@ -276,7 +270,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG394'/>编号：LG394  
 日期：2025 年 6 月 4 日  
-版本：Canary 27868 - 27891  
+版本：Canary 27868 - 27898  
 **问题**：**玩 X-Plane 12 游戏时电脑绿屏**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwikfb](https://aka.ms/AAwikfb)
@@ -285,7 +279,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG395'/>编号：LG395  
 日期：2025 年 6 月 11 日  
-版本：Canary 27871 - 27891  
+版本：Canary 27871 - 27898  
 **问题**：**在 “设置” 菜单中搜索 “高级网络设置” 时没有结果**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwndix](https://aka.ms/AAwndix)
@@ -307,7 +301,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG400'/>编号：LG400  
 日期：2025 年 6 月 14 日  
-版本：Canary 27871 - 27891  
+版本：Canary 27871 - 27898  
 **问题**：**玩 “守望先锋 2” (Overwatch 2) 游戏时电脑自动重启**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwp98m](https://aka.ms/AAwp98m)
@@ -316,7 +310,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG403'/>编号：LG403  
 日期：2025 年 6 月 14 日  
-版本：Canary 27871 - 27891  
+版本：Canary 27871 - 27898  
 **问题**：**点击设置菜单 “相关支持” 中的 “更改隐私设置” 时，打开的链接有误**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwoi47](https://aka.ms/AAwoi47)
@@ -325,7 +319,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG409'/>编号：LG409  
 日期：2025 年 6 月 25 日  
-版本：Canary 27881 - 27891  
+版本：Canary 27881 - 27898  
 **问题**：**搜索菜单 “更多选项” 列表的间距不一致**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwsrbo](https://aka.ms/AAwsrbo)
@@ -334,7 +328,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG410'/>编号：LG410  
 日期：2025 年 6 月 25 日  
-版本：Canary 27881 - 27891  
+版本：Canary 27881 - 27898  
 **问题**：**玩 NBA2K 游戏时电脑自动重启**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwtbwa](https://aka.ms/AAwtbwa)
@@ -343,7 +337,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG411'/>编号：LG411  
 日期：2025 年 6 月 25 日  
-版本：Canary 27881 - 27891  
+版本：Canary 27881 - 27898  
 **问题**：**在 OOBE 期间按下 Shift + F10 无法启动 CMD**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwqzl7](https://aka.ms/AAwqzl7)
@@ -352,7 +346,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG413'/>编号：LG413  
 日期：2025 年 6 月 25 日  
-版本：Canary 27881 - 27891  
+版本：Canary 27881 - 27898  
 **问题**：**“辅助功能” 快速设置中出现 “电动交通工具” 错误翻译**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwtbwl](https://aka.ms/AAwtbwl)
@@ -363,7 +357,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 <SPAN ID = 'LG414'/>编号：LG414  
 日期：2025 年 6 月 25 日  
-版本：Canary 27881 - 27891  
+版本：Canary 27881 - 27898  
 **问题**：**sudo 不适用于 “管理员保护” 功能**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAwsrcc](https://aka.ms/AAwsrcc)
@@ -380,155 +374,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 
 ---
 
-<SPAN ID = 'LG368'/>编号：LG368  
-日期：2025 年 5 月 18 日  
-版本：Canary 27858 - 27881  
-**问题**：**任务栏材质效果消失，变成了深灰色**。  
-状态：Canary 27891 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAw9ms9](https://aka.ms/AAw9ms9) & [aka.ms/AAwak57](https://aka.ms/AAwak57)
-
-<img src="Images/LG368.png" width = "60%" />
-
----
-
-<SPAN ID = 'LG405'/>编号：LG405  
-日期：2025 年 6 月 20 日  
-版本：Canary 27881  
-**问题**：**“设置”>“系统”>“恢复” 中的 “重置此电脑” 功能失效**。  
-状态：Canary 27891 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓
-
----
-
-<SPAN ID = 'LG406'/>编号：LG406  
-日期：2025 年 6 月 20 日  
-版本：Canary 27881  
-**问题**：**在 “设置”>“系统”>“声音” 中打开麦克风属性时菜单崩溃**。  
-状态：Canary 27891 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓
-
----
-
-<SPAN ID = 'LG311'/>编号：LG311  
-日期：2025 年 3 月 24 日  
-版本：Canary 27818 - 27881  
-**问题**：**文件资源管理器地址栏溢出列表无法正确呈现**。  
-状态：Canary 27891 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAv26rl](https://aka.ms/AAv26rl)
-
-<img src="Images/LG311.png" width = "50%" />
-
----
-
-<SPAN ID = 'LG348'/>编号：LG348  
-日期：2025 年 5 月 4 日  
-版本：ALL  
-**问题**：**安装 Windows 11 时，菜单按照从右到左的方式排列**。  
-状态：ALL - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAw2o68](https://aka.ms/AAw2o68) & [aka.ms/AAw5fk3](https://aka.ms/AAw5fk3)
-
-<img src="Images/LG348.png" width = "40%" />
-
----
-
-<SPAN ID = 'LG367'/>编号：LG367  
-日期：2025 年 5 月 18 日  
-版本：Canary 27858 - 27881  
-**问题**：**安装 Canary 更新时，屏幕显示白色画面**。  
-状态：Canary 27891 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAw9msg](https://aka.ms/AAw9msg) & [aka.ms/AAwdmg2](https://aka.ms/AAwdmg2)
-
-<img src="Images/LG367.png" width = "45%" />
-
----
-
-<SPAN ID = 'LG370'/>编号：LG370  
-日期：2025 年 5 月 18 日  
-版本：Canary 27858 - 27881  
-**问题**：**重启 explorer.exe 时白屏**。  
-状态：Canary 27891 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAw9m8s](https://aka.ms/AAw9m8s)
-
----
-
-<SPAN ID = 'LG371'/>编号：LG371  
-日期：2025 年 5 月 18 日  
-版本：Canary 27858 - 27881  
-**问题**：**开启 “自动隐藏任务栏” 后出现黑边**。  
-状态：Canary 27891 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAwafxd](https://aka.ms/AAwafxd) & [aka.ms/AAwc9vp](https://aka.ms/AAwc9vp)
-
----
-
-<SPAN ID = 'LG382'/>编号：LG382  
-日期：2025 年 5 月 26 日  
-版本：Canary 27863 - 27881  
-**问题**：**微信输入法候选框周围出现黑粗边框**。  
-状态：Canary 27891 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAwdlyb](https://aka.ms/AAwdlyb)
-
----
-
-<SPAN ID = 'LG388'/>编号：LG388  
-日期：2025 年 6 月 2 日  
-版本：Canary 27868 - 27881  
-**问题**：**“设置”>“应用”>“操作” 菜单变为空白**。  
-状态：Canary 27891 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAwfiiv](https://aka.ms/AAwfiiv)
-
----
-
-<SPAN ID = 'LG393'/>编号：LG393  
-日期：2025 年 6 月 4 日  
-版本：ALL  
-**问题**：**截图工具可以正常启动，但无法截图 (WIN + Shift + S 也失效)**。  
-状态：ALL - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAwicob](https://aka.ms/AAwicob) & [aka.ms/AAwn3qx](https://aka.ms/AAwn3qx)
-
----
-
-<SPAN ID = 'LG399'/>编号：LG399  
-日期：2025 年 6 月 11 日  
-版本：Canary 27871 - 27881  
-**问题**：**ZTHELPER.dll 显示 15100 错误**。  
-状态：Canary 27891 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAwn60g](https://aka.ms/AAwn60g)
-
----
-
-<SPAN ID = 'LG401'/>编号：LG401  
-日期：2025 年 6 月 14 日  
-版本：Canary 27871 - 27881  
-**问题**：**连接较旧的 Dolby Vision 显示器时，屏幕严重偏色**。  
-状态：Canary 27891 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAwndxy](https://aka.ms/AAwndxy) <img src="Images/M.png" width = "14%" />
-
----
-
-<SPAN ID = 'LG407'/>编号：LG407  
-日期：2025 年 6 月 25 日  
-版本：Canary 27881  
-**问题**：**部分应用的任务栏窗口预览无法正常显示**。  
-状态：Canary 27891 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAwqtn1](https://aka.ms/AAwqtn1)
-
-<img src="Images/LG407.png" width = "30%" />
-
----
-
-<SPAN ID = 'LG408'/>编号：LG408  
-日期：2025 年 6 月 25 日  
-版本：Canary 27881  
-**问题**：**最小化应用时的动画存在异常**。  
-状态：Canary 27891 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAwqtmq](https://aka.ms/AAwqtmq)
-
----
-
-<SPAN ID = 'LG412'/>编号：LG412  
-日期：2025 年 6 月 25 日  
-版本：Canary 27881  
-**问题**：**使用 ISO 安装 Canary 27881 时卡住几个小时**。  
-状态：Canary 27891 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAwt4dj](https://aka.ms/AAwt4dj)
+暂无
 
 ---
 
