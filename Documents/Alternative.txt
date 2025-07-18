@@ -343,38 +343,38 @@ https://aka.ms/AAx2vrt
 Connecting to VPN makes PC green screen with KERNEL_SECURITY_CHECK_FAILURE after Build 27898 ✓
 https://aka.ms/AAx2o1l
 
-The battery percentage is not displayed in Power & Battery
+The battery percentage is not displayed in Power & Battery ✓
 https://aka.ms/AAx33g5
 
-The translation of the Primary Mouse Button option is incorrect
+The translation of the Primary Mouse Button option is incorrect ✓
 https://aka.ms/AAx2o1o
 
-Steam game artwork is low resolution (Desktop Icon)
+Steam game artwork is low resolution (Desktop Icon) ✓
 https://aka.ms/AAwzljg
 
-File Explorer and desktop icons won't retain view or customization after Build 27898
+File Explorer and desktop icons won't retain view or customization after Build 27898 ×
 https://aka.ms/AAx2vrz
 
-The Hindi and Marathi Phonetic keyboards (and other phonetic keyboards) are no longer working after the latest Windows updates
+The Hindi and Marathi Phonetic keyboards (and other phonetic keyboards) are no longer working after the latest Windows updates ✓
 https://aka.ms/AAwzmf7
 
-Open with Dialog Crashes and Fails to Show Application List in the latest Canary builds
+Open with Dialog Crashes and Fails to Show Application List in the latest Canary builds ×
 https://aka.ms/AAx2o1s
 
-When the CPU portion of Task Manager is selected, the patch length is not aligned
+When the CPU portion of Task Manager is selected, the patch length is not aligned ✓
 https://aka.ms/AAx0xzj
 
-Settings crashes in the latest Canary builds when you try to change the powering off options in power and battery
+Settings crashes in the latest Canary builds when you try to change the powering off options in power and battery ✓
 https://aka.ms/AAx33ga
 
-Starting VPN connection caused BSOD bugcheck
+Starting VPN connection caused BSOD bugcheck ✓
 https://aka.ms/AAx2vs1
 
-Feedback Hub doesn't mark badges as "earned"
+Feedback Hub doesn't mark badges as "earned" ✓
 https://aka.ms/AAx2o1t
 
-App Crash and System Lag after windows update 27898.1000 rs_prerelease Canary Insider
+App Crash and System Lag after windows update 27898.1000 rs_prerelease Canary Insider ✓
 https://aka.ms/AAx33gf
 
-My PC won't shut down after Canary Build 27891 - it appears to reboot instead
+My PC won't shut down after Canary Build 27891 - it appears to reboot instead ✓
 https://aka.ms/AAx2o1u
