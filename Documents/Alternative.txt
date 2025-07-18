@@ -337,29 +337,44 @@ https://aka.ms/AAwo9ap
 Updating Windows feels like it's gotten slower in the latest Windows 11 builds ×
 https://aka.ms/AAmbgrq
 
-Canary 27881 - 部分应用的任务栏窗口缩略图无法正常显示。 ✓
-https://aka.ms/AAwqtn1
+Windows 11（Canary Build 27898）开机音乐变成Windows 7（or Vista？）的？？！！ ✓
+https://aka.ms/AAx2vrt
 
-Canary 27881 - 最小化应用时的动画存在异常。 ✓
-https://aka.ms/AAwqtmq
+Connecting to VPN makes PC green screen with KERNEL_SECURITY_CHECK_FAILURE after Build 27898 ✓
+https://aka.ms/AAx2o1l
 
-“搜索”菜单的“更多选项”列表的选项间距不已知 ✓
-https://aka.ms/AAwsrbo
+The battery percentage is not displayed in Power & Battery
+https://aka.ms/AAx33g5
 
-预览版NBA2K2无法正常运行 ✓
-https://aka.ms/AAwtbwa
+The translation of the Primary Mouse Button option is incorrect
+https://aka.ms/AAx2o1o
 
-Pressing shift + f10 during OOBE does not bring up CMD on first boot ✓
-https://aka.ms/AAwqzl7
+Steam game artwork is low resolution (Desktop Icon)
+https://aka.ms/AAwzljg
 
-Windows OOBE Problem ✓
-https://aka.ms/AAwt4dj
+File Explorer and desktop icons won't retain view or customization after Build 27898
+https://aka.ms/AAx2vrz
 
-Edge version 138.0.3351.34 (June 19 2025) crashes opening inPrivate mode ✓
-https://aka.ms/AAwtbwk
+The Hindi and Marathi Phonetic keyboards (and other phonetic keyboards) are no longer working after the latest Windows updates
+https://aka.ms/AAwzmf7
 
-What is "电动交通工具和通行能力"?🤬 ✓
-https://aka.ms/AAwtbwl
+Open with Dialog Crashes and Fails to Show Application List in the latest Canary builds
+https://aka.ms/AAx2o1s
 
-sudo does not work with the new Administrator Protection ✓
-https://aka.ms/AAwsrcc
+When the CPU portion of Task Manager is selected, the patch length is not aligned
+https://aka.ms/AAx0xzj
+
+Settings crashes in the latest Canary builds when you try to change the powering off options in power and battery
+https://aka.ms/AAx33ga
+
+Starting VPN connection caused BSOD bugcheck
+https://aka.ms/AAx2vs1
+
+Feedback Hub doesn't mark badges as "earned"
+https://aka.ms/AAx2o1t
+
+App Crash and System Lag after windows update 27898.1000 rs_prerelease Canary Insider
+https://aka.ms/AAx33gf
+
+My PC won't shut down after Canary Build 27891 - it appears to reboot instead
+https://aka.ms/AAx2o1u
