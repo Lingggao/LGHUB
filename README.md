@@ -151,7 +151,7 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 日期：2025 年 7 月 5 日  
 版本：Canary 27891 - 27902  
 **问题**：**“设置”>“系统”>“电源和电池” 菜单可能崩溃**。  
-状态：<img src="Images/W.png" width = "9%" />
+状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAx33ga](https://aka.ms/AAx33ga)
 
 ---
