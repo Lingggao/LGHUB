@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27909 更新简报
+# WIP Canary 27902 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/7/26)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/7/19)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/07/25/announcing-windows-11-insider-preview-build-27909-canary-channel)、[中文更新公告]() (暂无)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/07/17/announcing-windows-11-insider-preview-build-27902-canary-channel)、[中文更新公告](https://aka.ms/AAx33o2)。
 
 ## 一、新功能
 
@@ -18,14 +18,12 @@
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/07/25/announcing-windows-11-insider-preview-build-27909-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/07/17/announcing-windows-11-insider-preview-build-27902-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “启用管理员保护后部分应用无法启动” 的问题。
-2. 修复了 “电源和电池页面不显示电池电量百分比” 的问题。
-3. 修复了 “在 ARM64 设备中使用远程桌面时图形失真、渲染错误” 的问题。
-4. 修复了 “pcasvc.dll 崩溃” 的问题。
+1. 修复了 “文件资源管理器无法保留视图更改” 的问题。
+2. 修复了 “相机应用卡住” 的问题。
 
 [**WIP Canary 往期简报**](Documents/Canary_Previous)
 
