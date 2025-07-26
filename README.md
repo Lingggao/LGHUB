@@ -47,7 +47,7 @@
 |        Canary        |                **[新]** 27909                |  2025/7/26  | [aka.ms/wip27909](https://blogs.windows.com/windows-insider/2025/07/25/announcing-windows-11-insider-preview-build-27909-canary-channel) |
 |       Dev        | 26200.5710 |   2025/7/19   | [aka.ms/wip-dev-7-18-25](https://blogs.windows.com/windows-insider/2025/07/18/announcing-windows-11-insider-preview-build-26200-5710-dev-channel) |
 |         Beta         | 26120.4741 |   2025/7/19   | [aka.ms/wip-beta-7-18-25](https://blogs.windows.com/windows-insider/2025/07/18/announcing-windows-11-insider-preview-build-26120-4741-beta-channel) |
-| Release Preview  | 26100.4767 |  2025/7/18  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/07/10/releasing-windows-11-build-26100-4762-to-the-release-preview-channel) |
+| Release Preview  | 26100.4770 |  2025/7/23  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5062660) |
 | General Availability |    26100.4656    |  2025/7/14  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5064489) |
 
 <img src="Images/Graph_1.png" width = "93%" />
