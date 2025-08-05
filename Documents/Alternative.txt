@@ -337,44 +337,50 @@ https://aka.ms/AAwo9ap
 Updating Windows feels like it's gotten slower in the latest Windows 11 builds ×
 https://aka.ms/AAmbgrq
 
-Windows 11（Canary Build 27898）开机音乐变成Windows 7（or Vista？）的？？！！ ✓
-https://aka.ms/AAx2vrt
-
-Connecting to VPN makes PC green screen with KERNEL_SECURITY_CHECK_FAILURE after Build 27898 ✓
-https://aka.ms/AAx2o1l
-
-The battery percentage is not displayed in Power & Battery ✓
-https://aka.ms/AAx33g5
-
-The translation of the Primary Mouse Button option is incorrect ✓
-https://aka.ms/AAx2o1o
-
-Steam game artwork is low resolution (Desktop Icon) ✓
-https://aka.ms/AAwzljg
-
 File Explorer and desktop icons won't retain view or customization after Build 27898 ×
 https://aka.ms/AAx2vrz
-
-The Hindi and Marathi Phonetic keyboards (and other phonetic keyboards) are no longer working after the latest Windows updates ✓
-https://aka.ms/AAwzmf7
 
 Open with Dialog Crashes and Fails to Show Application List in the latest Canary builds ×
 https://aka.ms/AAx2o1s
 
-When the CPU portion of Task Manager is selected, the patch length is not aligned ✓
-https://aka.ms/AAx0xzj
+Garbled characters (â?’) still appear in Windows Security app despite partial fix addressing other text strings in Build 27913 ✓
+https://aka.ms/AAxgmdp
 
-Settings crashes in the latest Canary builds when you try to change the powering off options in power and battery ✓
-https://aka.ms/AAx33ga
+反馈记录功能不起作用 ×
+https://aka.ms/AAxhok9
 
-Starting VPN connection caused BSOD bugcheck ✓
-https://aka.ms/AAx2vs1
+开启HDR后鼠标显示异常 ✓
+https://aka.ms/AAxgme4
 
-Feedback Hub doesn't mark badges as "earned" ✓
-https://aka.ms/AAx2o1t
+总是突然黑屏 ×
+https://aka.ms/AAxgme5
 
-App Crash and System Lag after windows update 27898.1000 rs_prerelease Canary Insider ✓
-https://aka.ms/AAx33gf
+French translation error / Typo in the Settings home page ×
+https://aka.ms/AAxhokg
 
-My PC won't shut down after Canary Build 27891 - it appears to reboot instead ✓
-https://aka.ms/AAx2o1u
+Multi Monitor Support Broken for remote desktop after Build 27913 ✓
+https://aka.ms/AAxhoki
+
+After updating to the latest Canary Build (27913), my mouse suddenly is showing crosshairs ✓
+https://aka.ms/AAxgmee
+
+When upgrading to Build 27913, the "working on it" screen unexpectedly shows a rectangle instead of the progress wheel ✓
+https://aka.ms/AAxhokj
+
+Unwanted power-saving: Intel CPU Turbo Boost feature gets disabled every time I update Windows 11 Pro Insider Preview OS. ✓
+https://aka.ms/AAxgmeg
+
+There is no icon shown for the "Microsoft account password" sign-in option on the sign-in screen in the latest Windows 11 updates ✓
+https://aka.ms/AAxhokm
+
+when opening start window i cant search for apps by keyboard ×
+https://aka.ms/AAxgmej
+
+Download and Install worked perfectly ×
+https://aka.ms/AAxgmel
+
+[27908/27913] GSOD when booting into Safe Mode ✓
+https://aka.ms/AAxbeyf
+
+The performance of opening the new Home page in Settings in Windows 11 needs to be improved, it's slow to launch ✓
+https://aka.ms/AAvnm9a

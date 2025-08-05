@@ -34,19 +34,19 @@
 | 灵糕中心设立 [“Microsoft 网站错误 & 本地化问题”](WebLoc/README.md) 板块 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 8 月 1 日 1:00 (UTC+8)。Star 数量：52 ⭐
+上次更新时间：2025 年 8 月 5 日 13:00 (UTC+8)。Star 数量：52 ⭐
 
 收录反馈 432 个，其中正在调查 24 个 (含[搁置](#3) 4 个)、正在处理 2 个、已修复 406 个。
 
-反馈更新记录：**今日更新反馈状态**。- Ling 🫡🎖️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG**。- Ling 😒 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27913 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                **[新]** 27913                |  2025/7/31  | [aka.ms/wip27913](https://blogs.windows.com/windows-insider/2025/07/30/announcing-windows-11-insider-preview-build-27913-canary-channel) |
-|       Dev        | **[新]** 26200.5722 |   2025/7/29   | [aka.ms/wip-dev-7-28-25](https://blogs.windows.com/windows-insider/2025/07/28/announcing-windows-11-insider-preview-build-26200-5722-dev-channel) |
-|         Beta         | **[新]** 26120.5722 |   2025/7/29   | [aka.ms/wip-beta-7-28-25](https://blogs.windows.com/windows-insider/2025/07/28/announcing-windows-11-insider-preview-build-26120-5722-beta-channel) |
+|        Canary        |                27913                |  2025/7/31  | [aka.ms/wip27913](https://blogs.windows.com/windows-insider/2025/07/30/announcing-windows-11-insider-preview-build-27913-canary-channel) |
+|       Dev        | 26200.5733 |   2025/8/2   | [aka.ms/wip-dev-8-1-25](https://blogs.windows.com/windows-insider/2025/08/01/announcing-windows-11-insider-preview-build-26200-5733-dev-channel) |
+|         Beta         | 26120.5733 |   2025/8/2   | [aka.ms/wip-beta-8-1-25](https://blogs.windows.com/windows-insider/2025/08/01/announcing-windows-11-insider-preview-build-26120-5733-beta-channel) |
 | Release Preview  | 26100.4770 |  2025/7/23  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5062660) |
 | General Availability |    26100.4656    |  2025/7/14  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5064489) |
 
@@ -64,7 +64,7 @@
 | :-------------: | :----------------------------------------------------------: | :------: |
 |       ——        |              [**Canary - 公告已知问题**](#0) ▼               |    ——    |
 | [LG212](#LG212) | **[Copilot+ 电脑]** 加入 Canary 频道后，PIN 和生物识别信息将丢失。 | 正在处理 |
-| [LG431](#LG431) |          **更新过程中，进度条显示为 ▯ 方块形状**。           | 正在处理 |
+| [LG431](#LG431) |            更新过程中，进度条显示为 ▯ 方块形状。             | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
 |       ——        |        ***注**：长期未修复的问题收录于[搁置](#3)板块*        |    ——    |
 | [LG347](#LG347) |            满足条件后在反馈中心无法获得成就徽章。            | 正在调查 |
@@ -87,8 +87,16 @@
 | [LG424](#LG424) |      “设置”>“鼠标” 菜单中 “主鼠标按钮” 的选项翻译有误。      | 正在调查 |
 | [LG427](#LG427) |          任务管理器 “性能” 页面中的选项卡无法对齐。          | 正在调查 |
 | [LG429](#LG429) |                      电脑无法正常关机。                      | 正在调查 |
-|       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG252](#LG252) |              组策略编辑器和服务管理器 UI 错误。              | 已修复 ✓ |
+| [LG432](#LG432) |            **Windows 安全中心内仍有 “â?” 乱码**。            | 正在调查 |
+| [LG433](#LG433) |                  **开启 HDR 后鼠标过曝**。                   | 正在调查 |
+| [LG434](#LG434) |              **远程桌面多显示器支持出现异常**。              | 正在处理 |
+| [LG435](#LG435) |                **鼠标周围突然出现十字准星**。                | 正在调查 |
+| [LG436](#LG436) |                                                              |          |
+| [LG437](#LG437) |                                                              |          |
+| [LG438](#LG438) |                                                              |          |
+| [LG439](#LG439) |                                                              |          |
+|       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG258](#LG258) |            拖动表情符号面板中的滚动条时卡顿严重。            | 已修复 ✓ |
 | [LG420](#LG420) |     连接 VPN 时出现 KERNEL_SECURITY_CHECK_FAILURE 绿屏。     | 已修复 ✓ |
 | [LG419](#LG419) |           电脑开机时发出 Windows Vista 启动声音。            | 已修复 ✓ |
@@ -124,7 +132,8 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 日期：2025 年 7 月 31 日  
 版本：Canary 27913  
 **问题**：**更新过程中，进度条显示为 ▯ 方块形状**。  
-状态：<img src="Images/W.png" width = "9%" />
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAxhokj](https://aka.ms/AAxhokj)
 
 <img src="Images/LG431.png" width = "30%" />
 
@@ -326,6 +335,98 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAx2o1u](https://aka.ms/AAx2o1u)
 
+---
+
+<SPAN ID = 'LG252'/>编号：LG252  
+日期：2024 年 12 月 20 日  
+版本：Canary 27764 - 27913  
+**问题**：**组策略编辑器和服务管理器 UI 错误**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAty56l](https://aka.ms/AAty56l) <img src="Images/M.png" width = "14%" />
+
+<img src="Images/LG252.png" width = "45%" />
+
+---
+
+<SPAN ID = 'LG432'/>编号：LG432  
+日期：2025 年 8 月 5 日  
+版本：Canary 27913  
+**问题**：**Windows 安全中心内仍有 “â?” 乱码**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxgmdp](https://aka.ms/AAxgmdp) <img src="Images/M.png" width = "14%" />
+
+<img src="Images/LG432.png" width = "50%" />
+
+---
+
+<SPAN ID = 'LG433'/>编号：LG433  
+日期：2025 年 8 月 5 日  
+版本：Canary 27913  
+**问题**：**开启 HDR 后鼠标过曝**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxgme4](https://aka.ms/AAxgme4)
+
+---
+
+<SPAN ID = 'LG434'/>编号：LG434  
+日期：2025 年 8 月 5 日  
+版本：Canary 27913  
+**问题**：**远程桌面多显示器支持出现异常**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAxhoki](https://aka.ms/AAxhoki) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG435'/>编号：LG435  
+日期：2025 年 8 月 5 日  
+版本：Canary 27913  
+**问题**：**鼠标周围突然出现十字准星**。  
+状态：<img src="Images/L.png" width = "9%" />  
+Microsoft 官方回复：“如遇此问题，请按下 WIN + Ctrl + X 快捷键。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
+典型反馈：[aka.ms/AAxgmee](https://aka.ms/AAxgmee)
+
+<img src="Images/LG435.png" width = "40%" />
+
+---
+
+<SPAN ID = 'LG436'/>编号：LG436  
+日期：2025 年 8 月 5 日  
+版本：Canary 27913  
+**问题**：**xxxxx**  
+状态：<img src="Images/L.png" width = "9%" />  
+Microsoft 官方回复：xxxxx  
+典型反馈：[aka.ms/AAxxxxx](https://aka.ms/fbh)
+
+---
+
+<SPAN ID = 'LG437'/>编号：LG437  
+日期：2025 年 8 月 5 日  
+版本：Canary 27913  
+**问题**：**xxxxx**  
+状态：<img src="Images/L.png" width = "9%" />  
+Microsoft 官方回复：xxxxx  
+典型反馈：[aka.ms/AAxxxxx](https://aka.ms/fbh)
+
+---
+
+<SPAN ID = 'LG438'/>编号：LG438  
+日期：2025 年 8 月 5 日  
+版本：Canary 27913  
+**问题**：**xxxxx**  
+状态：<img src="Images/L.png" width = "9%" />  
+Microsoft 官方回复：xxxxx  
+典型反馈：[aka.ms/AAxxxxx](https://aka.ms/fbh)
+
+---
+
+<SPAN ID = 'LG439'/>编号：LG439  
+日期：2025 年 8 月 5 日  
+版本：Canary 27913  
+**问题**：**xxxxx**  
+状态：<img src="Images/L.png" width = "9%" />  
+Microsoft 官方回复：xxxxx  
+典型反馈：[aka.ms/AAxxxxx](https://aka.ms/fbh)
+
 <SPAN ID = '2'/>
 
 ## Canary - 归档 (已做出更改)
@@ -335,17 +436,6 @@ Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Pre
 > &emsp;记录 Microsoft 已做出更改 0 - 7 天的问题 & 超过 14 天无新增赞成票的问题。
 >
 > &emsp;无特殊情况，问题归档后不再更新。
-
----
-
-<SPAN ID = 'LG252'/>编号：LG252  
-日期：2024 年 12 月 20 日  
-版本：Canary 27764 - 27909  
-**问题**：**组策略编辑器和服务管理器 UI 错误**。  
-状态：Canary 27913 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAty56l](https://aka.ms/AAty56l)
-
-<img src="Images/LG252.png" width = "50%" />
 
 ---
 
