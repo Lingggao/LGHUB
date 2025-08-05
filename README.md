@@ -28,17 +28,17 @@
 
 ## 总览
 
-| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5ZiA) Microsoft Teams 社区 😽 |
+| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5ZiE) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
 | 灵糕中心设立 [“Microsoft 网站错误 & 本地化问题”](WebLoc/README.md) 板块 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 8 月 5 日 13:00 (UTC+8)。Star 数量：52 ⭐
+上次更新时间：2025 年 8 月 5 日 21:00 (UTC+8)。Star 数量：52 ⭐
 
-收录反馈 432 个，其中正在调查 24 个 (含[搁置](#3) 4 个)、正在处理 2 个、已修复 406 个。
+收录反馈 440 个，其中正在调查 31 个 (含[搁置](#3) 4 个)、正在处理 4 个、已修复 405 个。
 
-反馈更新记录：**今日更新 LG**。- Ling 😒 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG432 - 439**。- Ling 😒 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27913 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
@@ -50,9 +50,9 @@
 | Release Preview  | 26100.4770 |  2025/7/23  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5062660) |
 | General Availability |    26100.4656    |  2025/7/14  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5064489) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_0.png) · 9 - 12 月)
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_1.png) · 9 - 12 月)
 
 ---
 
@@ -87,15 +87,15 @@
 | [LG424](#LG424) |      “设置”>“鼠标” 菜单中 “主鼠标按钮” 的选项翻译有误。      | 正在调查 |
 | [LG427](#LG427) |          任务管理器 “性能” 页面中的选项卡无法对齐。          | 正在调查 |
 | [LG429](#LG429) |                      电脑无法正常关机。                      | 正在调查 |
-| [LG252](#LG252) |              组策略编辑器和服务管理器 UI 错误。              | 已修复 ✓ |
+| [LG252](#LG252) |              组策略编辑器和服务管理器 UI 错误。              | 正在调查 |
 | [LG432](#LG432) |            **Windows 安全中心内仍有 “â?” 乱码**。            | 正在调查 |
 | [LG433](#LG433) |                  **开启 HDR 后鼠标过曝**。                   | 正在调查 |
 | [LG434](#LG434) |              **远程桌面多显示器支持出现异常**。              | 正在处理 |
 | [LG435](#LG435) |                **鼠标周围突然出现十字准星**。                | 正在调查 |
-| [LG436](#LG436) |                                                              |          |
-| [LG437](#LG437) |                                                              |          |
-| [LG438](#LG438) |                                                              |          |
-| [LG439](#LG439) |                                                              |          |
+| [LG436](#LG436) |   **每次更新系统后，“英特尔睿频加速” 功能会被自动禁用**。    | 正在调查 |
+| [LG437](#LG437) |     **登录界面中 “Microsoft 账户密码” 选项不显示图标**。     | 正在处理 |
+| [LG438](#LG438) |                 **进入安全模式时电脑绿屏**。                 | 正在调查 |
+| [LG439](#LG439) |                **设置菜单主页响应速度较慢**。                | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG258](#LG258) |            拖动表情符号面板中的滚动条时卡顿严重。            | 已修复 ✓ |
 | [LG420](#LG420) |     连接 VPN 时出现 KERNEL_SECURITY_CHECK_FAILURE 绿屏。     | 已修复 ✓ |
@@ -392,40 +392,38 @@ Microsoft 官方回复：“如遇此问题，请按下 WIN + Ctrl + X 快捷键
 <SPAN ID = 'LG436'/>编号：LG436  
 日期：2025 年 8 月 5 日  
 版本：Canary 27913  
-**问题**：**xxxxx**  
+**问题**：**每次更新系统后，“英特尔睿频加速” 功能会被自动禁用**。  
 状态：<img src="Images/L.png" width = "9%" />  
-Microsoft 官方回复：xxxxx  
-典型反馈：[aka.ms/AAxxxxx](https://aka.ms/fbh)
+典型反馈：[aka.ms/AAxgmeg](https://aka.ms/AAxgmeg)
 
 ---
 
 <SPAN ID = 'LG437'/>编号：LG437  
 日期：2025 年 8 月 5 日  
 版本：Canary 27913  
-**问题**：**xxxxx**  
-状态：<img src="Images/L.png" width = "9%" />  
-Microsoft 官方回复：xxxxx  
-典型反馈：[aka.ms/AAxxxxx](https://aka.ms/fbh)
+**问题**：**登录界面中 “Microsoft 账户密码” 选项不显示图标**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAxhokm](https://aka.ms/AAxhokm)
+
+<img src="Images/LG437.png" width = "40%" />
 
 ---
 
 <SPAN ID = 'LG438'/>编号：LG438  
 日期：2025 年 8 月 5 日  
 版本：Canary 27913  
-**问题**：**xxxxx**  
+**问题**：**进入安全模式时电脑绿屏**。  
 状态：<img src="Images/L.png" width = "9%" />  
-Microsoft 官方回复：xxxxx  
-典型反馈：[aka.ms/AAxxxxx](https://aka.ms/fbh)
+典型反馈：[aka.ms/AAxbeyf](https://aka.ms/AAxbeyf)
 
 ---
 
 <SPAN ID = 'LG439'/>编号：LG439  
 日期：2025 年 8 月 5 日  
 版本：Canary 27913  
-**问题**：**xxxxx**  
+**问题**：**设置菜单主页响应速度较慢**。  
 状态：<img src="Images/L.png" width = "9%" />  
-Microsoft 官方回复：xxxxx  
-典型反馈：[aka.ms/AAxxxxx](https://aka.ms/fbh)
+典型反馈：[aka.ms/AAvnm9a](https://aka.ms/AAvnm9a)
 
 <SPAN ID = '2'/>
 
