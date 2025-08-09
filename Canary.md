@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27913 更新简报
+# WIP Canary 27919 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/7/31)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/8/9)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/07/30/announcing-windows-11-insider-preview-build-27913-canary-channel)、[中文更新公告](https://aka.ms/AAxfxga)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/08/08/announcing-windows-11-insider-preview-build-27919-canary-channel)、[中文更新公告]() (暂无)。
 
 ## 一、新功能
 
@@ -14,22 +14,19 @@
 
 ## 二、变更和改进
 
-1. 改善了系统整体体验。
-2. 设置菜单中的搜索框将显示在顶部。
+1. 改进了 “设置”>“隐私和安全性”>“搜索” 页面。
+
+<img src="Images/27919_1.png" width = "45%" />
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/07/30/announcing-windows-11-insider-preview-build-27913-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/08/08/announcing-windows-11-insider-preview-build-27919-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “电脑开机时发出 Windows Vista 启动声音” 的问题。
-2. 修复了 “桌面壁纸变为黑色” 的问题。
-3. 修复了 “设置 > 系统 > 电源和电池 菜单崩溃” 的问题。
-4. 修复了 “设置菜单等对话框中的撇号变为随机字符” 的问题。
-5. 修复了 “电脑 KERNEL_SECURITY_CHECK_FAILURE 绿屏” 的问题。
-6. 修复了 “亚克力材质效果变为透明样式” 的问题。
-7. 修复了 “组策略编辑器与服务管理器 UI 错误” 的问题。
+1. 修复了 “Windows 安全中心内出现 â? 乱码” 的问题。
+2. 修复了 “文件资源管理器崩溃” 的问题。
+3. 修复了 “Microsoft 仓颉输入法无法正常工作” 的问题。
 
 [**WIP Canary 往期简报**](Documents/Canary_Previous)
 
