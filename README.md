@@ -31,9 +31,9 @@
 | 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5ZiQ) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 8 月 24 日 23:00 (UTC+8)。Star 数量：52 ⭐
+上次更新时间：2025 年 8 月 24 日 23:00 (UTC+8)。Star 数量：53 ⭐
 
-收录反馈 456 个，其中正在调查 29 个 (含[搁置](#3) 7 个)、正在处理 6 个、已修复 421 个。
+收录反馈 456 个，其中正在调查 29 个 (含[搁置](#3) 7 个)、正在处理 7 个、已修复 420 个。
 
 反馈更新记录：**今日更新 LG446 - 455**。- Ling 🍅 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
@@ -82,6 +82,7 @@
 | [LG429](#LG429) |                      电脑无法正常关机。                      | 正在调查 |
 | [LG252](#LG252) |              组策略编辑器和服务管理器 UI 错误。              | 正在调查 |
 | [LG438](#LG438) |                   进入安全模式时电脑绿屏。                   | 正在调查 |
+| [LG437](#LG437) |       登录界面中 “Microsoft 账户密码” 选项不显示图标。       | 正在处理 |
 | [LG448](#LG448) |        **[Copilot+ 电脑] “回顾” 功能无法正常工作**。         | 正在调查 |
 | [LG449](#LG449) |      **搜索栏打开时，切换输入法会导致任务栏图标溢出**。      | 正在调查 |
 | [LG450](#LG450) |         **关闭工作室效果后，控制中心仍显示其开启**。         | 正在调查 |
@@ -95,7 +96,6 @@
 | [LG444](#LG444) | **[Copilot+ 电脑]** “单击以执行” 中的文本和图片操作无法正常工作。 | 已修复 ✓ |
 | [LG440](#LG440) |                 打开组策略编辑器时提示错误。                 | 已修复 ✓ |
 | [LG212](#LG212) | **[Copilot+ 电脑]** 加入 Canary 频道后，PIN 和生物识别信息将丢失。 | 已修复 ✓ |
-| [LG437](#LG437) |       登录界面中 “Microsoft 账户密码” 选项不显示图标。       | 已修复 ✓ |
 | [LG439](#LG439) |                  设置菜单主页响应速度较慢。                  | 已修复 ✓ |
 |       ——        | ***注**：部分未收录的问题详见 [WIP Canary 27928 更新简报](Canary.md)* |    ——    |
 |       ——        |       ▲ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2)        |    ——    |
@@ -317,6 +317,17 @@
 
 ---
 
+<SPAN ID = 'LG437'/>编号：LG437  
+日期：2025 年 8 月 5 日  
+版本：Canary 27913 - 27928  
+**问题**：**登录界面中 “Microsoft 账户密码” 选项不显示图标**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAxhokm](https://aka.ms/AAxhokm)
+
+<img src="Images/LG437.png" width = "40%" />
+
+---
+
 <SPAN ID = 'LG448'/>编号：LG448  
 日期：2025 年 8 月 24 日  
 版本：Canary 27928  
@@ -435,17 +446,6 @@
 **问题**：**[Copilot+ 电脑] 加入 Canary 频道后，PIN 和生物识别信息将丢失**。  
 状态：Canary 27928 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
 Microsoft 官方回复：“如果您使用 Copilot+ 设备从 Dev、Release Preview 或 Retail 频道加入至 Canary 频道，Windows Hello PIN 和生物识别信息将会丢失。您将无法登录系统，显示 0xd0000225 错误和 ‘出错了，您的 PIN 不可用’ 信息。点击 ‘设置我的 PIN’ 选项应当可以重设 PIN。” *(Ling 译)* <img src="Images/M.png" width = "14%" />
-
----
-
-<SPAN ID = 'LG437'/>编号：LG437  
-日期：2025 年 8 月 5 日  
-版本：Canary 27913 - 27924  
-**问题**：**登录界面中 “Microsoft 账户密码” 选项不显示图标**。  
-状态：Canary 27928 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAxhokm](https://aka.ms/AAxhokm)
-
-<img src="Images/LG437.png" width = "40%" />
 
 ---
 
