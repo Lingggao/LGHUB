@@ -1,41 +1,37 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27924 更新简报
+# WIP Canary 27928 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/8/16)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/8/24)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/08/14/announcing-windows-11-insider-preview-build-27924-canary-channel)、[中文更新公告]() (暂无)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/08/20/announcing-windows-11-insider-preview-build-27928-canary-channel)、[中文更新公告]() (暂无)。
 
 ## 一、新功能
 
-1. 启用 Copilot+ 电脑独占功能。
-   - 回顾 (预览版)
-   - 单击以执行 (预览版)
-   - 改进后的 Windows 搜索
-   - 实时翻译字幕
-   - 设置菜单 Agent
-
-2. 全新 “设置”>“系统”>“高级” 菜单。
-
-<img src="Images/27924_1.png" width = "50%" />
+无
 
 ## 二、变更和改进
 
-1. 优化了 “指针指示器” 功能。
+1. “全新电池图标” 暂时消失。
+2. “管理员保护” 功能暂时消失。
+3. 将更多 “时间和语言” 选项从控制面板移动至设置菜单。
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/08/14/announcing-windows-11-insider-preview-build-27924-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/08/20/announcing-windows-11-insider-preview-build-27928-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “更新过程中进度条显示为 ▯” 的问题。
-2. 修复了 “小组件无法正常工作” 的问题。
-3. 修复了 “远程桌面多显示器支持出现异常” 的问题。
-4. 修复了 “webauth.dll 崩溃” 的问题。
-5. 修复了 “鼠标周围突然出现十字准星” 的问题。
+1. 修复了 “dao360.dll / textinputframework.dll 导致应用崩溃” 的问题。
+2. 修复了 “单击以执行无法正常工作” 的问题。
+3. 修复了 “任务栏崩溃” 的问题。
+4. 修复了 “使用中文输入法时首个字符被吞” 的问题。
+5. 修复了 “登录时出现白屏” 的问题。
+6. 修复了 “从睡眠状态唤醒后电脑出现异常” 的问题。
+7. 修复了 “添加安全密钥时设置菜单崩溃” 的问题。
+8. 修复了 “打开组策略编辑器时提示错误” 的问题。
 
 [**WIP Canary 往期简报**](Documents/Canary_Previous)
 

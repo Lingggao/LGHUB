@@ -343,14 +343,8 @@ https://aka.ms/AAx2vrz
 Open with Dialog Crashes and Fails to Show Application List in the latest Canary builds ×
 https://aka.ms/AAx2o1s
 
-Garbled characters (â?’) still appear in Windows Security app despite partial fix addressing other text strings in Build 27913 ✓
-https://aka.ms/AAxgmdp
-
 反馈记录功能不起作用 ×
 https://aka.ms/AAxhok9
-
-开启HDR后鼠标显示异常 ✓
-https://aka.ms/AAxgme4
 
 总是突然黑屏 ×
 https://aka.ms/AAxgme5
@@ -358,29 +352,50 @@ https://aka.ms/AAxgme5
 French translation error / Typo in the Settings home page ×
 https://aka.ms/AAxhokg
 
-Multi Monitor Support Broken for remote desktop after Build 27913 ✓
-https://aka.ms/AAxhoki
-
-After updating to the latest Canary Build (27913), my mouse suddenly is showing crosshairs ✓
-https://aka.ms/AAxgmee
-
-When upgrading to Build 27913, the "working on it" screen unexpectedly shows a rectangle instead of the progress wheel ✓
-https://aka.ms/AAxhokj
-
-Unwanted power-saving: Intel CPU Turbo Boost feature gets disabled every time I update Windows 11 Pro Insider Preview OS. ✓
-https://aka.ms/AAxgmeg
-
-There is no icon shown for the "Microsoft account password" sign-in option on the sign-in screen in the latest Windows 11 updates ✓
-https://aka.ms/AAxhokm
-
 when opening start window i cant search for apps by keyboard ×
 https://aka.ms/AAxgmej
 
 Download and Install worked perfectly ×
 https://aka.ms/AAxgmel
 
-[27908/27913] GSOD when booting into Safe Mode ✓
-https://aka.ms/AAxbeyf
+New battery icon missing in the latest Canary Channel builds of Windows 11 ×
+https://aka.ms/AAxovrl
 
-The performance of opening the new Home page in Settings in Windows 11 needs to be improved, it's slow to launch ✓
-https://aka.ms/AAvnm9a
+更新到 27928 后 Windows 搜索无法正常加载 ✓
+https://aka.ms/AAxogjt
+
+系统更新后临时文件里无法找到旧的安装文件 ✓
+https://aka.ms/AAxoo3v
+
+更新Windows 11 Insider Preview 27902.1000之后游玩守望先锋系统奔溃 ✓
+https://aka.ms/AAxovrp
+
+Going to Settings > System > Storage > Temporary Files will get stuck on scanning and cannot clean up the old windows update files in the latest... ✓
+https://aka.ms/AAxl4nc
+
+When using the new option to copy current user settings to welcome screen and system accounts, Settings may crash ✓
+https://aka.ms/AAxogjz
+
+Narrator can't be enabled to install Windows 11 Insider build 27924 from the ISO file. ✓
+https://aka.ms/AAxovrt
+
+In the latest Canary builds, when I try to launch cmd or pwsh from the Run dialog (WIN + R), it opens in conhost even though it should open in... ✓
+https://aka.ms/AAxogk0
+
+Using the unblock option on a downloaded file in File Explorer Properties doesn't seem to work in Windows 11. It still shows as blocked the next time... ×
+https://aka.ms/AAxoo42
+
+explorer UI locks up ✓
+https://aka.ms/AAxovru
+
+Even with the latest Windows 11 updates, the update and shutdown open still isn't working properly and does a restart instead ✓
+https://aka.ms/AAxogk4
+
+Canary 27924 - “回顾” 功能无法正常工作。 ✓
+https://aka.ms/AAxlcug
+
+Taskbar icon overflows when switching input method when opening Search Bar ✓
+https://aka.ms/AAxljuq
+
+The Control Center will still show on when Studio Effects are turned off ✓
+https://aka.ms/AAxoo4i
