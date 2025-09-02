@@ -28,7 +28,7 @@
 
 ## 总览
 
-| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;正义必胜&emsp;&emsp;和平必胜&emsp;&emsp;人民必胜&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;正义必胜&emsp;&emsp;和平必胜&emsp;&emsp;人民必胜&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :------------------------: |
 
 | 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5ZiQ) Microsoft Teams 社区 😽 |
