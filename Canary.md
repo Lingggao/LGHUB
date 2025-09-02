@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27928 更新简报
+# WIP Canary 27934 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/8/24)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/9/2)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/08/20/announcing-windows-11-insider-preview-build-27928-canary-channel)、[中文更新公告]() (暂无)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/08/29/announcing-windows-11-insider-preview-build-27934-canary-channel)、[中文更新公告]() (暂无)。
 
 ## 一、新功能
 
@@ -14,24 +14,17 @@
 
 ## 二、变更和改进
 
-1. “全新电池图标” 暂时消失。
-2. “管理员保护” 功能暂时消失。
-3. 将更多 “时间和语言” 选项从控制面板移动至设置菜单。
+1. 改善了系统整体体验。
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/08/20/announcing-windows-11-insider-preview-build-27928-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/08/29/announcing-windows-11-insider-preview-build-27934-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “dao360.dll / textinputframework.dll 导致应用崩溃” 的问题。
-2. 修复了 “单击以执行无法正常工作” 的问题。
-3. 修复了 “任务栏崩溃” 的问题。
-4. 修复了 “使用中文输入法时首个字符被吞” 的问题。
-5. 修复了 “登录时出现白屏” 的问题。
-6. 修复了 “从睡眠状态唤醒后电脑出现异常” 的问题。
-7. 修复了 “添加安全密钥时设置菜单崩溃” 的问题。
-8. 修复了 “打开组策略编辑器时提示错误” 的问题。
+1. 修复了 “DWM 崩溃次数增加” 的问题。
+2. 修复了 “启动 CMD 时出现控制台主机” 的问题。
+3. 修复了 “部分 UWP 应用崩溃” 的问题。
 
 [**WIP Canary 往期简报**](Documents/Canary_Previous)
 

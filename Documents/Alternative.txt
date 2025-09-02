@@ -361,41 +361,44 @@ https://aka.ms/AAxgmel
 New battery icon missing in the latest Canary Channel builds of Windows 11 ×
 https://aka.ms/AAxovrl
 
-更新到 27928 后 Windows 搜索无法正常加载 ✓
-https://aka.ms/AAxogjt
-
-系统更新后临时文件里无法找到旧的安装文件 ✓
-https://aka.ms/AAxoo3v
-
-更新Windows 11 Insider Preview 27902.1000之后游玩守望先锋系统奔溃 ✓
-https://aka.ms/AAxovrp
-
-Going to Settings > System > Storage > Temporary Files will get stuck on scanning and cannot clean up the old windows update files in the latest... ✓
-https://aka.ms/AAxl4nc
-
-When using the new option to copy current user settings to welcome screen and system accounts, Settings may crash ✓
-https://aka.ms/AAxogjz
-
-Narrator can't be enabled to install Windows 11 Insider build 27924 from the ISO file. ✓
-https://aka.ms/AAxovrt
-
-In the latest Canary builds, when I try to launch cmd or pwsh from the Run dialog (WIN + R), it opens in conhost even though it should open in... ✓
-https://aka.ms/AAxogk0
-
 Using the unblock option on a downloaded file in File Explorer Properties doesn't seem to work in Windows 11. It still shows as blocked the next time... ×
 https://aka.ms/AAxoo42
 
-explorer UI locks up ✓
-https://aka.ms/AAxovru
+Canary 27928 - 在 Microsoft Visio 应用中使用键盘时窗口冻结 / 无响应。✓
+https://aka.ms/AAxoh9o
 
-Even with the latest Windows 11 updates, the update and shutdown open still isn't working properly and does a restart instead ✓
-https://aka.ms/AAxogk4
+电脑卡似 ✓
+https://aka.ms/AAxqsce
 
-Canary 27924 - “回顾” 功能无法正常工作。 ✓
-https://aka.ms/AAxlcug
+开始菜单有延迟 ✓
+https://aka.ms/AAxr7jf
 
-Taskbar icon overflows when switching input method when opening Search Bar ✓
-https://aka.ms/AAxljuq
+We cannot reliably sustain and secure our workstations if Windows Updates keep causing failures.  The most recent KB5063878 causes SSD and HDD errors ×
+https://aka.ms/AAxs5pb
 
-The Control Center will still show on when Studio Effects are turned off ✓
-https://aka.ms/AAxoo4i
+Windows 11 Update  KB5063878 causing SSD data corruption / failure issue / disappear issue ×
+https://aka.ms/AAxqsch
+
+“Battery Limit” was removed from UEFI, so I cannot charge the battery on my Surface higher than 50% ✓
+https://aka.ms/AAxqzz0
+
+After the latest Notepad updates, when I launch Notepad it adds another keyboard to my input list ✓
+https://aka.ms/AAxr7j8
+
+Window sharing and window recording broken after installing Windows 11 Insider Preview Build 27928.1 (Canary) ✓
+https://aka.ms/AAxqsck
+
+In the Canary Channel, Winget is not recognizable in Powershell and CMD ✓
+https://aka.ms/AAulrb4
+
+System Restore Point named Windows Module Installer Created on Every Windows Logon or Unlock ✓
+https://aka.ms/AAxr7jj
+
+WINDOWS AI RECALL feature has a Scheduled Task that creates a "Windows Modules Installer " System Restore Point on Every Workstation UNLOCK ×
+https://aka.ms/AAxqscq
+
+Windows 11 Print Preview ×
+https://aka.ms/AAwsdkg
+
+Windows 11 Canary 27924.1000 keep crash Explorer.exe when copy or delete file ×
+https://aka.ms/AAxr7jl
