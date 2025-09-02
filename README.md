@@ -31,7 +31,7 @@
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;正义必胜&emsp;&emsp;和平必胜&emsp;&emsp;人民必胜&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :------------------------: |
 
-| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5ZiQ) Microsoft Teams 社区 😽 |
+| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5ZiU) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
 上次更新时间：2025 年 9 月 2 日 21:00 (UTC+8)。Star 数量：54 ⭐
@@ -95,7 +95,7 @@
 | [LG460](#LG460) |         **“电池限制” 功能在 Surface UEFI 中消失**。          | 正在调查 |
 | [LG461](#LG461) |      **启动记事本应用时，会在输入法列表添加一个键盘**。      | 正在处理 |
 | [LG462](#LG462) |      **使用 Windows 图形捕获 API 的应用无法正常工作**。      | 正在调查 |
-| [LG463](#LG463) |         **Winget 在 Powershell 和 CMD 中无法识别**。         | 正在调查 |
+| [LG463](#LG463) |         **WinGet 在 PowerShell 和 CMD 中无法识别**。         | 正在调查 |
 | [LG464](#LG464) |    **每次登录 Windows 时，都会自动创建一个系统还原点**。     | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG446](#LG446) | 在 “运行” 中启动 CMD 时，出现的是控制台主机而非 Windows 终端。 | 已修复 ✓ |
@@ -421,7 +421,7 @@
 <SPAN ID = 'LG463'/>编号：LG463  
 日期：2025 年 9 月 2 日  
 版本：Canary 27934  
-**问题**：**Winget 在 Powershell 和 CMD 中无法识别**。  
+**问题**：**WinGet 在 PowerShell 和 CMD 中无法识别**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAulrb4](https://aka.ms/AAulrb4)
 
