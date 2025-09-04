@@ -28,17 +28,14 @@
 
 ## 总览
 
-| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;正义必胜&emsp;&emsp;和平必胜&emsp;&emsp;人民必胜&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
-| :------------------------: |
-
-| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5ZiU) Microsoft Teams 社区 😽 |
+| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5ZiY) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 9 月 2 日 21:00 (UTC+8)。Star 数量：54 ⭐
+上次更新时间：2025 年 9 月 5 日 2:00 (UTC+8)。Star 数量：54 ⭐
 
-收录反馈 465 个，其中正在调查 31 个 (含[搁置](#3) 7 个)、正在处理 8 个、已修复 426 个。
+收录反馈 471 个，其中正在调查 34 个 (含[搁置](#3) 7 个)、正在处理 11 个、已修复 426 个。
 
-反馈更新记录：**今日更新 LG456 - 464**。- Ling 🥳 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG465 - 470**。- Ling 😫 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27934 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
@@ -50,9 +47,9 @@
 | Release Preview  | 26200.5074 |  2025/8/30  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/08/29/releasing-windows-11-version-25h2-to-the-release-preview-channel) |
 | General Availability |    26100.5074    |  2025/8/30  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5064081) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_1.png))
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_0.png))
 
 ---
 
@@ -65,7 +62,7 @@
 |       ——        |              [**Canary - 公告已知问题**](#0) ▼               |    ——    |
 | [LG443](#LG443) |         “设置”>“系统”>“存储”>“临时文件” 扫描时卡住。         | 正在处理 |
 | [LG445](#LG445) |           深色模式下文件资源管理器中的颜色不正确。           | 正在处理 |
-| [LG456](#LG456) |             **“重置此电脑” 功能无法正常使用**。              | 正在处理 |
+| [LG456](#LG456) |               “重置此电脑” 功能无法正常使用。                | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
 |       ——        |        ***注**：长期未修复的问题收录于[搁置](#3)板块*        |    ——    |
 | [LG379](#LG379) |    Microsoft Store 最小化时，无法右键任务栏图标将其关闭。    | 正在调查 |
@@ -89,14 +86,20 @@
 | [LG450](#LG450) |           关闭工作室效果后，控制中心仍显示其开启。           | 正在调查 |
 | [LG451](#LG451) |               “更新并关机” 选项无法正常工作。                | 正在处理 |
 | [LG453](#LG453) |   使用 “将当前用户设置复制到......” 选项时，设置菜单崩溃。   | 正在处理 |
-| [LG457](#LG457) |         **Microsoft Visio 应用窗口冻结 / 无响应**。          | 正在处理 |
-| [LG458](#LG458) |                **使用 Word 应用时电脑卡死**。                | 正在调查 |
-| [LG459](#LG459) |             **点击开始菜单时有 1 - 2 秒延迟**。              | 正在调查 |
-| [LG460](#LG460) |         **“电池限制” 功能在 Surface UEFI 中消失**。          | 正在调查 |
-| [LG461](#LG461) |      **启动记事本应用时，会在输入法列表添加一个键盘**。      | 正在处理 |
-| [LG462](#LG462) |      **使用 Windows 图形捕获 API 的应用无法正常工作**。      | 正在调查 |
-| [LG463](#LG463) |         **WinGet 在 PowerShell 和 CMD 中无法识别**。         | 正在调查 |
-| [LG464](#LG464) |    **每次登录 Windows 时，都会自动创建一个系统还原点**。     | 正在调查 |
+| [LG457](#LG457) |           Microsoft Visio 应用窗口冻结 / 无响应。            | 正在处理 |
+| [LG458](#LG458) |                  使用 Word 应用时电脑卡死。                  | 正在调查 |
+| [LG459](#LG459) |               点击开始菜单时有 1 - 2 秒延迟。                | 正在调查 |
+| [LG460](#LG460) |           “电池限制” 功能在 Surface UEFI 中消失。            | 正在调查 |
+| [LG461](#LG461) |        启动记事本应用时，会在输入法列表添加一个键盘。        | 正在处理 |
+| [LG462](#LG462) |        使用 Windows 图形捕获 API 的应用无法正常工作。        | 正在调查 |
+| [LG463](#LG463) |           WinGet 在 PowerShell 和 CMD 中无法识别。           | 正在调查 |
+| [LG464](#LG464) |      每次登录 Windows 时，都会自动创建一个系统还原点。       | 正在调查 |
+| [LG465](#LG465) |               **任务栏应用窗口预览发生错位**。               | 正在调查 |
+| [LG466](#LG466) |      **无法关闭 Xbox 应用中的 “显示其他游戏库” 设置**。      | 正在处理 |
+| [LG467](#LG467) |       **使用 “wt” 启动 Windows 终端时出现显示异常**。        | 正在调查 |
+| [LG468](#LG468) | **更新 Canary 27934 版本后出现 “不满足最低系统要求” 提示**。 | 正在调查 |
+| [LG469](#LG469) |             **dao360.dll 崩溃问题未完全修复**。              | 正在处理 |
+| [LG470](#LG470) |   **在虚拟机中安装 Canary 27934 版本时出现 0x17E 绿屏**。    | 正在处理 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG446](#LG446) | 在 “运行” 中启动 CMD 时，出现的是控制台主机而非 Windows 终端。 | 已修复 ✓ |
 | [LG447](#LG447) |              DWM 崩溃 (黑屏 / 闪烁) 次数增加。               | 已修复 ✓ |
@@ -433,6 +436,60 @@
 **问题**：**每次登录 Windows 时，都会自动创建一个系统还原点**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAxr7jj](https://aka.ms/AAxr7jj)
+
+---
+
+<SPAN ID = 'LG465'/>编号：LG465  
+日期：2025 年 9 月 5 日  
+版本：Canary 27934  
+**问题**：**任务栏应用窗口预览发生错位**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxtvks](https://aka.ms/AAxtvks)
+
+---
+
+<SPAN ID = 'LG466'/>编号：LG466  
+日期：2025 年 9 月 5 日  
+版本：Canary 27934  
+**问题**：**无法关闭 Xbox 应用中的 “显示其他游戏库” 设置**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAxu39x](https://aka.ms/AAxu39x)
+
+---
+
+<SPAN ID = 'LG467'/>编号：LG467  
+日期：2025 年 9 月 5 日  
+版本：Canary 27934  
+**问题**：**使用 “wt” 启动 Windows 终端时出现显示异常**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxtvkx](https://aka.ms/AAxtvkx)
+
+---
+
+<SPAN ID = 'LG468'/>编号：LG468  
+日期：2025 年 9 月 5 日  
+版本：Canary 27934  
+**问题**：**更新 Canary 27934 版本后出现 “不满足最低系统要求” 提示**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxuaym](https://aka.ms/AAxuaym)
+
+---
+
+<SPAN ID = 'LG469'/>编号：LG469  
+日期：2025 年 9 月 5 日  
+版本：Canary 27928 - 27934  
+**问题**：**dao360.dll 崩溃问题未完全修复**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAxuayr](https://aka.ms/AAxuayr) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG470'/>编号：LG470  
+日期：2025 年 9 月 5 日  
+版本：Canary 27934  
+**问题**：**在虚拟机中安装 Canary 27934 版本时出现 0x17E 绿屏**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAxu3a9](https://aka.ms/AAxu3a9) <img src="Images/M.png" width = "14%" />
 
 <SPAN ID = '2'/>
 

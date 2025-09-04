@@ -364,35 +364,11 @@ https://aka.ms/AAxovrl
 Using the unblock option on a downloaded file in File Explorer Properties doesn't seem to work in Windows 11. It still shows as blocked the next time... ×
 https://aka.ms/AAxoo42
 
-Canary 27928 - 在 Microsoft Visio 应用中使用键盘时窗口冻结 / 无响应。✓
-https://aka.ms/AAxoh9o
-
-电脑卡似 ✓
-https://aka.ms/AAxqsce
-
-开始菜单有延迟 ✓
-https://aka.ms/AAxr7jf
-
 We cannot reliably sustain and secure our workstations if Windows Updates keep causing failures.  The most recent KB5063878 causes SSD and HDD errors ×
 https://aka.ms/AAxs5pb
 
 Windows 11 Update  KB5063878 causing SSD data corruption / failure issue / disappear issue ×
 https://aka.ms/AAxqsch
-
-“Battery Limit” was removed from UEFI, so I cannot charge the battery on my Surface higher than 50% ✓
-https://aka.ms/AAxqzz0
-
-After the latest Notepad updates, when I launch Notepad it adds another keyboard to my input list ✓
-https://aka.ms/AAxr7j8
-
-Window sharing and window recording broken after installing Windows 11 Insider Preview Build 27928.1 (Canary) ✓
-https://aka.ms/AAxqsck
-
-In the Canary Channel, Winget is not recognizable in Powershell and CMD ✓
-https://aka.ms/AAulrb4
-
-System Restore Point named Windows Module Installer Created on Every Windows Logon or Unlock ✓
-https://aka.ms/AAxr7jj
 
 WINDOWS AI RECALL feature has a Scheduled Task that creates a "Windows Modules Installer " System Restore Point on Every Workstation UNLOCK ×
 https://aka.ms/AAxqscq
@@ -402,3 +378,27 @@ https://aka.ms/AAwsdkg
 
 Windows 11 Canary 27924.1000 keep crash Explorer.exe when copy or delete file ×
 https://aka.ms/AAxr7jl
+
+应用状态栏预览错位 ✓
+https://aka.ms/AAxtvks
+
+In the Dev/Beta Channel, I'm unable to uninstall Windows 11 ADK due to conflicting install state ×
+https://aka.ms/AAxtvkv
+
+I turned off the setting to show other game libraries in the Xbox app, but when I close and open the app it's enabled again ✓
+https://aka.ms/AAxu39x
+
+In the Canary Channel, launching Windows Terminal with 'wt' causes display issues ✓
+https://aka.ms/AAxtvkx
+
+Failed to uninstall KB5063878, Failed to recovery point before KB5063878 ×
+https://aka.ms/AAxuayk
+
+I have a PC that supports Windows 11, but after Canary Channel Build 27934 Windows Update is suddenly showing me a message that it doesn't mean... ✓
+https://aka.ms/AAxuaym
+
+Issue with dao360.dll not fixed on Canary - Even on build 27928.1 ✓
+https://aka.ms/AAxuayr
+
+during install of build 27934.1 after about 30% the VM Guest will stop code of 0x17E.  in a green screen "your device ran into a problem and needs to ✓
+https://aka.ms/AAxu3a9
