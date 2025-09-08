@@ -31,7 +31,7 @@
 | 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zic) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
-| 在 [Microsoft Lists](https://lghub01-my.sharepoint.com/:l:/g/personal/ling_lghub01_onmicrosoft_com/FClnGu07sUVIgSgS1Wokae4BWoMWWF76fu0nGw-ioJ5FSw) 中浏览灵糕中心 |
+| &emsp;&emsp;&emsp;&emsp;&emsp;在 [Microsoft Lists](https://lghub01-my.sharepoint.com/:l:/g/personal/ling_lghub01_onmicrosoft_com/FClnGu07sUVIgSgS1Wokae4BWoMWWF76fu0nGw-ioJ5FSw) 中浏览灵糕中心&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :----------------------------------------------------------: |
 
 上次更新时间：2025 年 9 月 8 日 23:00 (UTC+8)。Star 数量：54 ⭐
