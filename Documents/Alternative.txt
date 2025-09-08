@@ -379,26 +379,29 @@ https://aka.ms/AAwsdkg
 Windows 11 Canary 27924.1000 keep crash Explorer.exe when copy or delete file ×
 https://aka.ms/AAxr7jl
 
-应用状态栏预览错位 ✓
-https://aka.ms/AAxtvks
-
 In the Dev/Beta Channel, I'm unable to uninstall Windows 11 ADK due to conflicting install state ×
 https://aka.ms/AAxtvkv
-
-I turned off the setting to show other game libraries in the Xbox app, but when I close and open the app it's enabled again ✓
-https://aka.ms/AAxu39x
-
-In the Canary Channel, launching Windows Terminal with 'wt' causes display issues ✓
-https://aka.ms/AAxtvkx
 
 Failed to uninstall KB5063878, Failed to recovery point before KB5063878 ×
 https://aka.ms/AAxuayk
 
-I have a PC that supports Windows 11, but after Canary Channel Build 27934 Windows Update is suddenly showing me a message that it doesn't mean... ✓
-https://aka.ms/AAxuaym
+开始菜单中的 “更新并关机” 选项的中文翻译有误。✓
+https://aka.ms/AAxtyzd
 
-Issue with dao360.dll not fixed on Canary - Even on build 27928.1 ✓
-https://aka.ms/AAxuayr
+突然黑屏，之后桌面全黑 ×
+https://aka.ms/AAxuefk
 
-during install of build 27934.1 after about 30% the VM Guest will stop code of 0x17E.  in a green screen "your device ran into a problem and needs to ✓
-https://aka.ms/AAxu3a9
+Dynamic Lock keeps the Bluetooth controller permanently active during Modern Standby
+https://aka.ms/AAxuefp
+
+HDR is not working
+https://aka.ms/AAxu6nk
+
+System event log showing Microsoft-Windows-Configuration-Change-Monitor Event ID 1 every time netsh.exe is run
+https://aka.ms/AAxuefr
+
+Windows 11 Insider Preview Build 27934.1 was no longer activated, displaying the watermark requesting Windows activation.
+https://aka.ms/AAxtyzv
+
+Win11 Build 27934 Turned on Location Information without my permission.
+https://aka.ms/AAxueg3
