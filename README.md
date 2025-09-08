@@ -28,28 +28,31 @@
 
 ## 总览
 
-| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5ZiY) Microsoft Teams 社区 😽 |
+| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zic) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 9 月 5 日 2:00 (UTC+8)。Star 数量：54 ⭐
+| 在 [Microsoft Lists](https://lghub01-my.sharepoint.com/:l:/g/personal/ling_lghub01_onmicrosoft_com/FClnGu07sUVIgSgS1Wokae4BWoMWWF76fu0nGw-ioJ5FSw) 中浏览灵糕中心 |
+| :----------------------------------------------------------: |
 
-收录反馈 471 个，其中正在调查 34 个 (含[搁置](#3) 7 个)、正在处理 11 个、已修复 426 个。
+上次更新时间：2025 年 9 月 8 日 23:00 (UTC+8)。Star 数量：54 ⭐
 
-反馈更新记录：**今日更新 LG465 - 470**。- Ling 😫 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+收录反馈 477 个，其中正在调查 40 个 (含[搁置](#3) 7 个)、正在处理 11 个、已修复 426 个。
+
+反馈更新记录：**今日更新 LG471 - 476**。- Ling 🌖 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27934 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
 |        Canary        |                27934                |  2025/8/30  | [aka.ms/wip27934](https://blogs.windows.com/windows-insider/2025/08/29/announcing-windows-11-insider-preview-build-27934-canary-channel) |
-|       Dev        | 26220.5770 |   2025/8/30   | [aka.ms/wip-dev-8-29-25](https://blogs.windows.com/windows-insider/2025/08/29/announcing-windows-11-insider-preview-build-26220-5770-dev-channel) |
-|         Beta         | 26120.5770 |   2025/8/30   | [aka.ms/wip-beta-8-29-25](https://blogs.windows.com/windows-insider/2025/08/29/announcing-windows-11-insider-preview-build-26120-5770-beta-channel) |
+|       Dev        | 26220.5790 |   2025/9/6   | [aka.ms/wip-dev-9-5-25](https://blogs.windows.com/windows-insider/2025/09/05/announcing-windows-11-insider-preview-build-26220-5790-dev-channel) |
+|         Beta         | 26120.5790 |   2025/9/6   | [aka.ms/wip-beta-9-5-25](https://blogs.windows.com/windows-insider/2025/09/05/announcing-windows-11-insider-preview-build-26120-5790-beta-channel) |
 | Release Preview  | 26200.5074 |  2025/8/30  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/08/29/releasing-windows-11-version-25h2-to-the-release-preview-channel) |
 | General Availability |    26100.5074    |  2025/8/30  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5064081) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_0.png))
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_1.png))
 
 ---
 
@@ -94,12 +97,18 @@
 | [LG462](#LG462) |        使用 Windows 图形捕获 API 的应用无法正常工作。        | 正在调查 |
 | [LG463](#LG463) |           WinGet 在 PowerShell 和 CMD 中无法识别。           | 正在调查 |
 | [LG464](#LG464) |      每次登录 Windows 时，都会自动创建一个系统还原点。       | 正在调查 |
-| [LG465](#LG465) |               **任务栏应用窗口预览发生错位**。               | 正在调查 |
-| [LG466](#LG466) |      **无法关闭 Xbox 应用中的 “显示其他游戏库” 设置**。      | 正在处理 |
-| [LG467](#LG467) |       **使用 “wt” 启动 Windows 终端时出现显示异常**。        | 正在调查 |
-| [LG468](#LG468) | **更新 Canary 27934 版本后出现 “不满足最低系统要求” 提示**。 | 正在调查 |
-| [LG469](#LG469) |             **dao360.dll 崩溃问题未完全修复**。              | 正在处理 |
-| [LG470](#LG470) |   **在虚拟机中安装 Canary 27934 版本时出现 0x17E 绿屏**。    | 正在处理 |
+| [LG465](#LG465) |                 任务栏应用窗口预览发生错位。                 | 正在调查 |
+| [LG466](#LG466) |        无法关闭 Xbox 应用中的 “显示其他游戏库” 设置。        | 正在处理 |
+| [LG467](#LG467) |         使用 “wt” 启动 Windows 终端时出现显示异常。          | 正在调查 |
+| [LG468](#LG468) |   更新 Canary 27934 版本后出现 “不满足最低系统要求” 提示。   | 正在调查 |
+| [LG469](#LG469) |               dao360.dll 崩溃问题未完全修复。                | 正在处理 |
+| [LG470](#LG470) |     在虚拟机中安装 Canary 27934 版本时出现 0x17E 绿屏。      | 正在处理 |
+| [LG471](#LG471) |      **“更新并关机” 选项被错误地翻译为 “更新和关闭”**。      | 正在调查 |
+| [LG472](#LG472) | **“动态锁” 功能频繁激活蓝牙控制器，阻止电脑进入低功耗状态**。 | 正在调查 |
+| [LG473](#LG473) |                  **HDR 功能无法正常工作**。                  | 正在调查 |
+| [LG474](#LG474) | **运行 netsh.exe 时事件查看器会记录 Change-Monitor 错误**。  | 正在调查 |
+| [LG475](#LG475) |       **更新 Canary 27934 版本后 Windows 激活丢失**。        | 正在调查 |
+| [LG476](#LG476) |            **“位置” 选项未经用户许可自动开启**。             | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG446](#LG446) | 在 “运行” 中启动 CMD 时，出现的是控制台主机而非 Windows 终端。 | 已修复 ✓ |
 | [LG447](#LG447) |              DWM 崩溃 (黑屏 / 闪烁) 次数增加。               | 已修复 ✓ |
@@ -490,6 +499,62 @@
 **问题**：**在虚拟机中安装 Canary 27934 版本时出现 0x17E 绿屏**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAxu3a9](https://aka.ms/AAxu3a9) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG471'/>编号：LG471  
+日期：2025 年 9 月 8 日  
+版本：ALL  
+**问题**：**“更新并关机” 选项被错误地翻译为 “更新和关闭”**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxtyzd](https://aka.ms/AAxtyzd)
+
+<img src="Images/LG471.png" width = "35%" />
+
+---
+
+<SPAN ID = 'LG472'/>编号：LG472  
+日期：2025 年 9 月 8 日  
+版本：Canary 27934  
+**问题**：**“动态锁” 功能频繁激活蓝牙控制器，阻止电脑进入低功耗状态**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxuefp](https://aka.ms/AAxuefp)
+
+---
+
+<SPAN ID = 'LG473'/>编号：LG473  
+日期：2025 年 9 月 8 日  
+版本：Canary 27934  
+**问题**：**HDR 功能无法正常工作**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxu6nk](https://aka.ms/AAxu6nk)
+
+---
+
+<SPAN ID = 'LG474'/>编号：LG474  
+日期：2025 年 9 月 8 日  
+版本：Canary 27934  
+**问题**：**运行 netsh.exe 时事件查看器会记录 Change-Monitor 错误**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxuefr](https://aka.ms/AAxuefr)
+
+---
+
+<SPAN ID = 'LG475'/>编号：LG475  
+日期：2025 年 9 月 8 日  
+版本：Canary 27934  
+**问题**：**更新 Canary 27934 版本后 Windows 激活丢失**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxtyzv](https://aka.ms/AAxtyzv)
+
+---
+
+<SPAN ID = 'LG476'/>编号：LG476  
+日期：2025 年 9 月 8 日  
+版本：Canary 27934  
+**问题**：**“位置” 选项未经用户许可自动开启**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxueg3](https://aka.ms/AAxueg3)
 
 <SPAN ID = '2'/>
 

@@ -391,17 +391,17 @@ https://aka.ms/AAxtyzd
 突然黑屏，之后桌面全黑 ×
 https://aka.ms/AAxuefk
 
-Dynamic Lock keeps the Bluetooth controller permanently active during Modern Standby
+Dynamic Lock keeps the Bluetooth controller permanently active during Modern Standby ✓
 https://aka.ms/AAxuefp
 
-HDR is not working
+HDR is not working ✓
 https://aka.ms/AAxu6nk
 
-System event log showing Microsoft-Windows-Configuration-Change-Monitor Event ID 1 every time netsh.exe is run
+System event log showing Microsoft-Windows-Configuration-Change-Monitor Event ID 1 every time netsh.exe is run ✓
 https://aka.ms/AAxuefr
 
-Windows 11 Insider Preview Build 27934.1 was no longer activated, displaying the watermark requesting Windows activation.
+Windows 11 Insider Preview Build 27934.1 was no longer activated, displaying the watermark requesting Windows activation. ✓
 https://aka.ms/AAxtyzv
 
-Win11 Build 27934 Turned on Location Information without my permission.
+Win11 Build 27934 Turned on Location Information without my permission. ✓
 https://aka.ms/AAxueg3
