@@ -150,8 +150,8 @@ Microsoft 官方回复：“部分 Windows 预览体验成员安装此版本时�
 状态：<img src="Images/W.png" width = "9%" />  
 Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX 中修复。受此影响的用户可通过 PIX 中的 ‘发送反馈’ 按钮提交问题，或前往 DirectX Discord 服务器联系我们获取私有版本。” *(Ling 译)* <img src="Images/M.png" width = "14%" />
 
-- [**PIX on Windows**](https://devblogs.microsoft.com/pix/download)
-- [**DirectX Discord 服务器**](https://discord.com/invite/BBZyTEA3MR)
+- [PIX on Windows](https://devblogs.microsoft.com/pix/download)
+- [DirectX Discord 服务器](https://discord.com/invite/BBZyTEA3MR)
 
 ---
 
