@@ -1,46 +1,30 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27938 更新简报
+# WIP Canary 27943 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/9/9)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/9/13)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/09/08/announcing-windows-11-insider-preview-build-27938-canary-channel)、[中文更新公告]() (暂无)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/09/11/announcing-windows-11-insider-preview-build-27943-canary-channel)、[中文更新公告]() (暂无)。
 
 ## 一、新功能
 
-1. 在文件资源管理器中引入 AI 操作。
-   - 必应视觉搜索
-   - 背景模糊
-   - 擦除对象
-   - 删除背景
-
-<img src="Images/27938_1.png" width = "50%" />
-
-2. 通知中心支持显示更大的时间。
-
-<img src="Images/27938_2.png" width = "50%" />
+无
 
 ## 二、变更和改进
 
-1. 现在可以查看哪些第三方应用近期使用了 Windows 生成式 AI 模型。
-
-<img src="Images/27938_3.png" width = "50%" />
+1. 改善了系统整体体验。
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/09/08/announcing-windows-11-insider-preview-build-27938-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/09/11/announcing-windows-11-insider-preview-build-27943-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “重置此电脑功能无法正常使用” 的问题。
-2. 修复了 “深色模式下文件资源管理器中的颜色不正确” 的问题。
-3. 修复了 “登录界面中显示空白图标” 的问题。
-4. 修复了 “搜索功能可能卡在加载状态” 的问题。
-5. 修复了 “任务管理器卡住” 的问题。
-6. 修复了 “电脑 IRQL_NOT_LESS_OR_EQUAL 绿屏” 的问题。
-7. 修复了 “电脑 CRITICAL_PROCESS_DIED 绿屏” 的问题。
+1. 修复了 “扫描临时文件时卡住” 的问题。
+2. 修复了 “dao360.dll 崩溃” 的问题。
+3. 修复了 “HDR 功能无法正常工作” 的问题。
 
 [**WIP Canary 往期简报**](Documents/Canary_Previous)
 

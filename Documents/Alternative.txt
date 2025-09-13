@@ -385,23 +385,17 @@ https://aka.ms/AAxtvkv
 Failed to uninstall KB5063878, Failed to recovery point before KB5063878 ×
 https://aka.ms/AAxuayk
 
-开始菜单中的 “更新并关机” 选项的中文翻译有误。✓
-https://aka.ms/AAxtyzd
-
 突然黑屏，之后桌面全黑 ×
 https://aka.ms/AAxuefk
 
-Dynamic Lock keeps the Bluetooth controller permanently active during Modern Standby ✓
-https://aka.ms/AAxuefp
+Canary 27934 版本的卡顿现象有所加重。✓
+https://aka.ms/AAxuckd
 
-HDR is not working ✓
-https://aka.ms/AAxu6nk
+After installing the Intel Serial IO driver provided by ASUS, Canary 27938 fails to read hard drives with VMD/IRST enabled during boot ✓
+https://aka.ms/AAxxkpl
 
-System event log showing Microsoft-Windows-Configuration-Change-Monitor Event ID 1 every time netsh.exe is run ✓
-https://aka.ms/AAxuefr
+Xbox App continues to show me as Online in games even after closing the game or uninstalling it ✓
+https://aka.ms/AAxq9zb
 
-Windows 11 Insider Preview Build 27934.1 was no longer activated, displaying the watermark requesting Windows activation. ✓
-https://aka.ms/AAxtyzv
-
-Win11 Build 27934 Turned on Location Information without my permission. ✓
-https://aka.ms/AAxueg3
+Microsoft WebView fails to create data directory on a application running under Administrator Protection ×
+https://aka.ms/AAxxs84
