@@ -4,37 +4,39 @@
 
 [github.com/Lingggao/LGHUB/tree/main/WebLoc](https://github.com/Lingggao/LGHUB/tree/main/WebLoc)
 
-> [!TIP]
+> [!IMPORTANT]
 >
-> &emsp;本板块记录 Microsoft 的**网站错误** (Microsoft 各产品 / Learn / Support 等网站 - 如内容错误、UI 布局异常、图像 / 链接缺失等) 和**本地化问题** (如翻译错误 / 低质量、语法 / 标点错误、中文缺失等)。
+> &emsp;本板块记录 Microsoft 的**网站错误** (Microsoft 产品和 Learn / Support 等网站 - 内容错误、UI 异常、图像或链接缺失等) 与**本地化问题** (翻译错误或低质量、字词或语法错误、缺少中文等)。
 >
-> &emsp;Ling Gao 可以协助用户向 Microsoft 传递有关网站错误和本地化问题的反馈。请通过 [**“Ling 的 Windows Insider 小屋”**](https://teams.live.com/l/community/FEAd0AVp_B_pTH5ZiU) Microsoft Teams 私人社区的 [“3. Windows Insider - 问题”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5ZiU) 频道分享以上两类反馈。
+> &emsp;Ling Gao 可协助用户向 Microsoft 递交有关**网站错误**和**本地化问题**的反馈。请通过 [**“Ling 的 Windows Insider 小屋”**](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zig) 私人 Teams 社区的 [“3. Windows Insider - 问题”](https://teams.live.com/l/community/FEAd0AVp_B_pTH5Zig) 频道分享线索。
 >
-> &emsp;根据《最有价值专家奖项条款》，“MVP 计划通过在参与者与 Microsoft 产品或工程团队间建立直接联系，将社区的声音融入 Microsoft 的技术路线图”。另据《最有价值专家行为准则》，“MVP 应对自己所说或所做的一切承担全部责任，包括基于在社区获得的建议所采取的行动”。您的反馈不会在传递中丢失。**请注意：Ling Gao 不是 Microsoft 公司员工，不能代表 Microsoft 公司立场、态度**。
+> &emsp;根据《最有价值专家奖项条款》，“MVP 计划通过在参与者与 Microsoft 产品或工程团队间直接建立联系，将社区的声音融入 Microsoft 的技术路线图”。另据《最有价值专家行为准则》，“MVP 应对自己所说或所做的一切承担全部责任，包括基于在社区获得的建议所采取的行动”。您的反馈不会在传递中丢失。**请注意：Ling Gao 不是 Microsoft 公司员工，不能代表 Microsoft 公司立场、态度**。
 >
 > &emsp;本板块中的反馈独立于 [“灵糕中心”](https://github.com/Lingggao/LGHUB) 主板块，不参与数量统计。
 
-截至 2025 年 6 月，收录反馈 16 个。
+截至 2025 年 9 月，收录反馈 18 个。
 
-|      编号       |                             问题                             |        状态         |
-| :-------------: | :----------------------------------------------------------: | :-----------------: |
-| [WL001](#WL001) | Rewards 中的 “抽奖：￥36,000” 项目的宣传图错误地写为 36 万元。 |       已处理        |
-| [WL002](#WL002) |    支持文章 - 这可能导致电池只要是新电池就不能保持充电。     |       已处理        |
-| [WL003](#WL003) | “使用证书管理器工具查看证书” 文档中的 certlm.msc 错误地写为 certlm.mmc。 |       已处理        |
-| [WL004](#WL004) |  Surface Studio 2+ 支持文章的 “电源键” 和 “音量键” 标反了。  |       已处理        |
-| [WL005](#WL005) |       “Edge 帮助和学习” 网站中的 “整理想法” 配图损坏。       |       已处理        |
-| [WL006](#WL006) |  “使用 Windows 更新修复电脑问题” 支持文章中的多个图像损坏。  |       已处理        |
-| [WL007](#WL007) |           “系统文件检查器” 支持文章中的图像损坏。            |       已处理        |
-| [WL008](#WL008) |             保持登录状态 - 每次都跳过登录的作。              |       已处理        |
-| [WL009](#WL009) |                    .NET 被翻译为 “。网”。                    | 等待 Microsoft 处理 |
-| [WL010](#WL010) |    简中 Copilot 中的 “維夫” 和 “格魯夫” 声音使用了繁中。     | 等待 Microsoft 处理 |
-| [WL011](#WL011) |      工作室效果中的 “创意滤镜” 被翻译为 “创意筛选器”。       | 等待 Microsoft 处理 |
-| [WL012](#WL012) |        Xbox 支持文章中的 “Store” 错误地写为 “Sotre”。        | 等待 Microsoft 处理 |
-| [WL013](#WL013) |    右键文件时 “删除” 按钮的鼠标悬停提示为 “删除 (删除)”。    |     90 天未处理     |
-| [WL014](#WL014) | Microsoft Store 应用视频中的 “投放到设备” 被翻译为 “强制转换为设备”。 |     90 天未处理     |
-| [WL015](#WL015) |      “Microsoft 账户恢复表单” 被翻译为 “账户恢复窗体”。      |      用户告知       |
-| [WL016](#WL016) |        “Windows 命令” 文档中的很多命令被机翻为中文。         |      用户告知       |
-|      ————       |      ***注**：本版块一般按时间先后排序，底部为最新反馈*      |     ——————————      |
+|      编号       |                             问题                             |    状态     |
+| :-------------: | :----------------------------------------------------------: | :---------: |
+| [WL001](#WL001) | Rewards 中的 “抽奖：￥36,000” 项目的宣传图错误地写为 36 万元。 |   已处理    |
+| [WL002](#WL002) |    支持文章 - 这可能导致电池只要是新电池就不能保持充电。     |   已处理    |
+| [WL003](#WL003) | “使用证书管理器工具查看证书” 文档中的 certlm.msc 错误地写为 certlm.mmc。 |   已处理    |
+| [WL004](#WL004) |  Surface Studio 2+ 支持文章的 “电源键” 和 “音量键” 标反了。  |   已处理    |
+| [WL005](#WL005) |       “Edge 帮助和学习” 网站中的 “整理想法” 配图损坏。       |   已处理    |
+| [WL006](#WL006) |  “使用 Windows 更新修复电脑问题” 支持文章中的多个图像损坏。  |   已处理    |
+| [WL007](#WL007) |           “系统文件检查器” 支持文章中的图像损坏。            |   已处理    |
+| [WL008](#WL008) |             保持登录状态 - 每次都跳过登录的作。              |   已处理    |
+| [WL009](#WL009) |                    .NET 被翻译为 “。网”。                    |   已处理    |
+| [WL010](#WL010) |    简中 Copilot 中的 “維夫” 和 “格魯夫” 声音使用了繁中。     | 90 天未处理 |
+| [WL011](#WL011) |      工作室效果中的 “创意滤镜” 被翻译为 “创意筛选器”。       | 90 天未处理 |
+| [WL012](#WL012) |        Xbox 支持文章中的 “Store” 错误地写为 “Sotre”。        | 90 天未处理 |
+| [WL013](#WL013) |    右键文件时 “删除” 按钮的鼠标悬停提示为 “删除 (删除)”。    | 90 天未处理 |
+| [WL014](#WL014) | Microsoft Store 应用视频中的 “投放到设备” 被翻译为 “强制转换为设备”。 | 90 天未处理 |
+| [WL015](#WL015) |      “Microsoft 账户恢复表单” 被翻译为 “账户恢复窗体”。      |  用户告知   |
+| [WL016](#WL016) |        “Windows 命令” 文档中的很多命令被机翻为中文。         |  用户告知   |
+| [WL017](#WL017) |       Learn 网站顶栏中的部分产品名被错误地翻译为中文。       |  用户告知   |
+| [WL018](#WL018) |       必应翻译及依托它的功能自动屏蔽 “操” 字造成错误。       |  用户告知   |
+|      —————      |      ***注**：本版块通常按时间先后排序，底部是最新反馈*      | ——————————  |
 
 <SPAN ID = 'WL001'/>编号：WL001  
 日期：2024 年 11 月 2 日  
@@ -154,7 +156,7 @@
 **问题**：**.NET 被翻译为 “。网”**。  
 类别：本地化问题  
 网址：[.NET 基础知识文档](https://learn.microsoft.com/zh-cn/dotnet/fundamentals)  
-状态：用户告知 → 传递反馈 → **◆等待 Microsoft 处理◆** → 已处理 | 90 天未处理  
+状态：用户告知 → 传递反馈 → 等待 Microsoft 处理 → **◆已处理◆** | 90 天未处理  
 用户：Ling Gao  
 传递人：Ling Gao
 
@@ -167,7 +169,7 @@
 产品：Copilot  
 **问题**：**简中 Copilot 中的 “維夫” 和 “格魯夫” 声音使用了繁中**。  
 类别：本地化问题  
-状态：用户告知 → 传递反馈 → **◆等待 Microsoft 处理◆** → 已处理 | 90 天未处理  
+状态：用户告知 → 传递反馈 → 等待 Microsoft 处理 → 已处理 | **◆90 天未处理◆**  
 用户：Ling Gao  
 传递人：Ling Gao
 
@@ -180,7 +182,7 @@
 产品：Windows 11  
 **问题**：**工作室效果中的 “创意滤镜” 被翻译为 “创意筛选器”**。  
 类别：本地化问题  
-状态：用户告知 → 传递反馈 → **◆等待 Microsoft 处理◆** → 已处理 | 90 天未处理  
+状态：用户告知 → 传递反馈 → 等待 Microsoft 处理 → 已处理 | **◆90 天未处理◆**  
 用户：云萧是个咕咕怪！  
 传递人：Ling Gao
 
@@ -194,7 +196,7 @@
 **问题**：**Xbox 支持文章中的 “Store” 错误地写为 “Sotre”**。  
 类别：网站错误  
 网址：[获取 Xbox 预览体验中心应用](https://support.xbox.com/zh-CN/help/account-profile/manage-account/xbox-insider-hub)  
-状态：用户告知 → 传递反馈 → **◆等待 Microsoft 处理◆** → 已处理 | 90 天未处理  
+状态：用户告知 → 传递反馈 → 等待 Microsoft 处理 → 已处理 | **◆90 天未处理◆**  
 用户：饭团同学喵  
 传递人：Ling Gao
 
@@ -253,6 +255,33 @@
 传递人：Ling Gao
 
 <img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL016.png?raw=true" width = "50%" />
+
+---
+
+<SPAN ID = 'WL017'/>编号：WL017  
+日期：2025 年 9 月 15 日  
+产品：Microsoft Learn  
+**问题**：**Learn 网站顶栏中的部分产品名被错误地翻译为中文**。  
+类别：本地化问题  
+网址：[Microsoft Learn](https://learn.microsoft.com/zh-cn)  
+状态：**◆用户告知◆** → 传递反馈 → 等待 Microsoft 处理 → 已处理 | 90 天未处理  
+用户：Ling Gao  
+传递人：Ling Gao
+
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL017.png?raw=true" width = "50%" />
+
+---
+
+<SPAN ID = 'WL018'/>编号：WL018  
+日期：2025 年 9 月 15 日  
+产品：Microsoft Translator  
+**问题**：**必应翻译及依托它的功能自动屏蔽 “操” 字造成错误**。  
+类别：本地化问题  
+状态：**◆用户告知◆** → 传递反馈 → 等待 Microsoft 处理 → 已处理 | 90 天未处理  
+用户：Ling Gao  
+传递人：Ling Gao
+
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL018.png?raw=true" width = "50%" />
 
 ---
 
