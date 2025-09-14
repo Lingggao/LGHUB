@@ -296,7 +296,7 @@
 用户：zwJimRaynorr  
 传递人：zwJimRaynorr
 
-
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL019.png?raw=true" width = "35%" />
 
 ---
 
@@ -309,7 +309,7 @@
 用户：GuCATs  
 传递人：GuCATs
 
-
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL020.png?raw=true" width = "50%" />
 
 ---
 
