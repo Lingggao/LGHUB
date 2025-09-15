@@ -321,7 +321,7 @@
 **问题**：**“更新已完成” 网站错误地将 Windows 11 翻译为 “窗户 11”**。  
 类别：本地化问题  
 网址：[最新功能 | 窗户 11](https://www.microsoft.com/getting-started/windows/update)  
-状态：**◆用户告知◆** → 传递反馈 → 等待 Microsoft 处理 → 已处理 | 90 天未处理  
+状态：**◆用户告知◆** → 递交反馈 → 等待 Microsoft 处理 → 已处理 | 90 天未处理  
 用户：云萧是个咕咕怪  
 传递人：Ling Gao
 
@@ -334,7 +334,7 @@
 产品：Copilot  
 **问题**：**Copilot 应用中的 “Copilot 键” 被翻译为 “Copilot 密钥”**。  
 类别：本地化问题  
-状态：**◆用户告知◆** → 传递反馈 → 等待 Microsoft 处理 → 已处理 | 90 天未处理  
+状态：**◆用户告知◆** → 递交反馈 → 等待 Microsoft 处理 → 已处理 | 90 天未处理  
 用户：zwJimRaynorr  
 传递人：Ling Gao
 
