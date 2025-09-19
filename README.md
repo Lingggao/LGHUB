@@ -34,7 +34,7 @@
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;在 [Microsoft Lists](https://lghub01-my.sharepoint.com/:l:/g/personal/ling_lghub01_onmicrosoft_com/FClnGu07sUVIgSgS1Wokae4BWoMWWF76fu0nGw-ioJ5FSw) 中访问灵糕中心&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 9 月 13 日 23:00 (UTC+8)。Star 数量：54 ⭐
+上次更新时间：2025 年 9 月 13 日 23:00 (UTC+8)。Star 数量：55 ⭐
 
 收录反馈 485 个，其中正在调查 32 个 (含[搁置](#3) 13 个)、正在处理 9 个、已修复 444 个。
 
@@ -44,10 +44,10 @@
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                **[新]** 27943                |  2025/9/12  | [aka.ms/wip27943](https://blogs.windows.com/windows-insider/2025/09/11/announcing-windows-11-insider-preview-build-27943-canary-channel) |
-|       Dev        | **[新]** 26220.6682 |   2025/9/13   | [aka.ms/wip-dev-9-12-25](https://blogs.windows.com/windows-insider/2025/09/12/announcing-windows-11-insider-preview-build-26220-6682-dev-channel) |
-|         Beta         | **[新]** 26120.6682 |   2025/9/13   | [aka.ms/wip-beta-9-12-25](https://blogs.windows.com/windows-insider/2025/09/12/announcing-windows-11-insider-preview-build-26120-6682-beta-channel) |
-| Release Preview  | **[新]** 26200.6713 |  2025/9/13  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/09/12/releasing-windows-11-builds-26100-6713-and-26200-6713-to-the-release-preview-channel) |
+|        Canary        |                27943                |  2025/9/12  | [aka.ms/wip27943](https://blogs.windows.com/windows-insider/2025/09/11/announcing-windows-11-insider-preview-build-27943-canary-channel) |
+|       Dev        | 26220.6682 |   2025/9/13   | [aka.ms/wip-dev-9-12-25](https://blogs.windows.com/windows-insider/2025/09/12/announcing-windows-11-insider-preview-build-26220-6682-dev-channel) |
+|         Beta         | 26120.6682 |   2025/9/13   | [aka.ms/wip-beta-9-12-25](https://blogs.windows.com/windows-insider/2025/09/12/announcing-windows-11-insider-preview-build-26120-6682-beta-channel) |
+| Release Preview  | **[新]** 26200.6718 |  2025/9/18  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/09/12/releasing-windows-11-builds-26100-6713-and-26200-6713-to-the-release-preview-channel) |
 | General Availability |    26100.6584    |  2025/9/10  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5065426) |
 
 <img src="Images/Graph_1.png" width = "93%" />
@@ -64,7 +64,7 @@
 | :-------------: | :----------------------------------------------------------: | :------: |
 |       ——        |              [**Canary - 公告已知问题**](#0) ▼               |    ——    |
 | [LG477](#LG477) | **[置顶]** 安装 Canary 27938 版本时可能回滚并显示 0xC1900101 错误。 | 正在处理 |
-| [LG481](#LG481) |       **ARM64 设备出现 IRQL_NOT_LESS_OR_EQUAL 绿屏**。       | 正在处理 |
+| [LG481](#LG481) |         ARM64 设备出现 IRQL_NOT_LESS_OR_EQUAL 绿屏。         | 正在处理 |
 | [LG478](#LG478) |            PIX on Windows 无法播放 GPU 捕获内容。            | 正在处理 |
 | [LG479](#LG479) |          使用浏览器时 (可能还有其他场景) 屏幕闪烁。          | 正在处理 |
 | [LG480](#LG480) |                        音频停止工作。                        | 正在处理 |
@@ -88,9 +88,9 @@
 | [LG466](#LG466) |        无法关闭 Xbox 应用中的 “显示其他游戏库” 设置。        | 正在处理 |
 | [LG470](#LG470) |        在虚拟机中安装 Canary 版本时出现 0x17E 绿屏。         | 正在处理 |
 | [LG472](#LG472) |  “动态锁” 功能频繁激活蓝牙控制器，阻止电脑进入低功耗状态。   | 正在调查 |
-| [LG482](#LG482) |                  **电脑卡顿现象有所加重**。                  | 正在调查 |
-| [LG483](#LG483) | **安装华硕提供的 Intel 串行 I/O 驱动后，无法读取启用 VMD/IRST 的硬盘**。 | 正在调查 |
-| [LG484](#LG484) |       **关闭 / 卸载 Xbox 应用后仍显示处于在线状态**。        | 正在调查 |
+| [LG482](#LG482) |                    电脑卡顿现象有所加重。                    | 正在调查 |
+| [LG483](#LG483) | 安装华硕提供的 Intel 串行 I/O 驱动后，无法读取启用 VMD/IRST 的硬盘。 | 正在调查 |
+| [LG484](#LG484) |         关闭 / 卸载 Xbox 应用后仍显示处于在线状态。          | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG443](#LG443) |         “设置”>“系统”>“存储”>“临时文件” 扫描时卡住。         | 已修复 ✓ |
 | [LG469](#LG469) |               dao360.dll 崩溃问题未完全修复。                | 已修复 ✓ |

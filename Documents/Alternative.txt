@@ -388,14 +388,20 @@ https://aka.ms/AAxuayk
 突然黑屏，之后桌面全黑 ×
 https://aka.ms/AAxuefk
 
-Canary 27934 版本的卡顿现象有所加重。✓
-https://aka.ms/AAxuckd
-
-After installing the Intel Serial IO driver provided by ASUS, Canary 27938 fails to read hard drives with VMD/IRST enabled during boot ✓
-https://aka.ms/AAxxkpl
-
-Xbox App continues to show me as Online in games even after closing the game or uninstalling it ✓
-https://aka.ms/AAxq9zb
-
 Microsoft WebView fails to create data directory on a application running under Administrator Protection ×
 https://aka.ms/AAxxs84
+
+设置应用的搜索框内文字偏移 ×
+https://aka.ms/AAxzhl6
+
+在最近的 Windows Canary 版本中使用 Hyper-V 运行 Windows 10 虚拟机创建增强会话无法进入登录界面，不使用增强会话或使用 Windows 11 虚拟机就不存在此问题 ✓
+https://aka.ms/AAxz9zr
+
+Mic problems no mic works ✓
+https://aka.ms/AAxz9zx
+
+Windows on ARM: after upgrading to 27943.1 Hyper-V VM doesn't start w/ TPM error ✓
+https://aka.ms/AAxzhl8
+
+HDR not turning off with recent update ×
+https://aka.ms/AAx59hi
