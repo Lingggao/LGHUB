@@ -34,11 +34,11 @@
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;在 [Microsoft Lists](https://lghub01-my.sharepoint.com/:l:/g/personal/ling_lghub01_onmicrosoft_com/FClnGu07sUVIgSgS1Wokae4BWoMWWF76fu0nGw-ioJ5FSw) 中访问灵糕中心&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 9 月 13 日 23:00 (UTC+8)。Star 数量：55 ⭐
+上次更新时间：2025 年 9 月 19 日 23:00 (UTC+8)。Star 数量：55 ⭐
 
-收录反馈 485 个，其中正在调查 32 个 (含[搁置](#3) 13 个)、正在处理 9 个、已修复 444 个。
+收录反馈 488 个，其中正在调查 35 个 (含[搁置](#3) 13 个)、正在处理 9 个、已修复 444 个。
 
-反馈更新记录：**今日更新 LG481 - 484**。- Ling 🌳 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG485 - 487**。- Ling 😠 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27943 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
@@ -50,9 +50,9 @@
 | Release Preview  | **[新]** 26200.6718 |  2025/9/18  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/09/12/releasing-windows-11-builds-26100-6713-and-26200-6713-to-the-release-preview-channel) |
 | General Availability |    26100.6584    |  2025/9/10  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5065426) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_1.png))
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_0.png))
 
 ---
 
@@ -91,6 +91,9 @@
 | [LG482](#LG482) |                    电脑卡顿现象有所加重。                    | 正在调查 |
 | [LG483](#LG483) | 安装华硕提供的 Intel 串行 I/O 驱动后，无法读取启用 VMD/IRST 的硬盘。 | 正在调查 |
 | [LG484](#LG484) |         关闭 / 卸载 Xbox 应用后仍显示处于在线状态。          | 正在调查 |
+| [LG485](#LG485) |    **无法在 Hyper-V 中登录 Windows 10 增强会话虚拟机**。     | 正在调查 |
+| [LG486](#LG486) |         **Hyper-V 虚拟机启动失败，显示 TPM 故障**。          | 正在调查 |
+| [LG487](#LG487) |                   **麦克风无法正常工作**。                   | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG443](#LG443) |         “设置”>“系统”>“存储”>“临时文件” 扫描时卡住。         | 已修复 ✓ |
 | [LG469](#LG469) |               dao360.dll 崩溃问题未完全修复。                | 已修复 ✓ |
@@ -372,6 +375,33 @@ Microsoft 官方回复：“部分 Windows 预览体验成员可能会遇到 ‘
 **问题**：**关闭 / 卸载 Xbox 应用后仍显示处于在线状态**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAxq9zb](https://aka.ms/AAxq9zb)
+
+---
+
+<SPAN ID = 'LG485'/>编号：LG485  
+日期：2025 年 9 月 19 日  
+版本：Canary 27943  
+**问题**：**无法在 Hyper-V 中登录 Windows 10 增强会话虚拟机**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxz9zr](https://aka.ms/AAxz9zr)
+
+---
+
+<SPAN ID = 'LG486'/>编号：LG486  
+日期：2025 年 9 月 19 日  
+版本：Canary 27943  
+**问题**：**Hyper-V 虚拟机启动失败，显示 TPM 故障**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxzhl8](https://aka.ms/AAxzhl8)
+
+---
+
+<SPAN ID = 'LG487'/>编号：LG487  
+日期：2025 年 9 月 19 日  
+版本：Canary 27943  
+**问题**：**麦克风无法正常工作**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxz9zx](https://aka.ms/AAxz9zx)
 
 <SPAN ID = '2'/>
 
