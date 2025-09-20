@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27950 更新简报
+# WIP Canary 27943 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/9/20)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/9/13)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/09/19/announcing-windows-11-insider-preview-build-27950-canary-channel)、[中文更新公告]() (暂无)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/09/11/announcing-windows-11-insider-preview-build-27943-canary-channel)、[中文更新公告]() (暂无)。
 
 ## 一、新功能
 
@@ -15,20 +15,16 @@
 ## 二、变更和改进
 
 1. 改善了系统整体体验。
-2. “高级设置” 暂时恢复为 “开发者选项”。
-3. 优化了文件资源管理器。
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/09/19/announcing-windows-11-insider-preview-build-27950-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/09/11/announcing-windows-11-insider-preview-build-27943-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “更新回滚并显示 0xC1900101 错误” 的问题。
-2. 修复了 “使用浏览器时屏幕闪烁” 的问题。
-3. 修复了 “音频停止工作” 的问题。
-4. 修复了 “任务栏应用预览窗口没有对齐” 的问题。
-5. 修复了 “动态光效功能消耗过多 CPU” 的问题。
+1. 修复了 “扫描临时文件时卡住” 的问题。
+2. 修复了 “dao360.dll 崩溃” 的问题。
+3. 修复了 “HDR 功能无法正常工作” 的问题。
 
 [**WIP Canary 往期简报**](Documents/Canary_Previous)
 
