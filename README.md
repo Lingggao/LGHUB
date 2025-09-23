@@ -28,31 +28,31 @@
 
 ## 总览
 
-| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2QE) Microsoft Teams 社区 😽 |
+| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2QI) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;在 [Microsoft Lists](https://lghub01-my.sharepoint.com/:l:/g/personal/ling_lghub01_onmicrosoft_com/FClnGu07sUVIgSgS1Wokae4BWoMWWF76fu0nGw-ioJ5FSw) 中访问灵糕中心&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 9 月 20 日 23:00 (UTC+8)。Star 数量：55 ⭐
+上次更新时间：2025 年 9 月 23 日 22:00 (UTC+8)。Star 数量：55 ⭐
 
-收录反馈 488 个，其中正在调查 33 个 (含[搁置](#3) 15 个)、正在处理 5 个、已修复 450 个。
+收录反馈 493 个，其中正在调查 37 个 (含[搁置](#3) 15 个)、正在处理 6 个、已修复 450 个。
 
-反馈更新记录：**今日更新反馈状态**。- Ling 🌽 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG488 - 492**。- Ling 🌾 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27950 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                **[新]** 27950                |  2025/9/20  | [aka.ms/wip27950](https://blogs.windows.com/windows-insider/2025/09/19/announcing-windows-11-insider-preview-build-27950-canary-channel) |
-|       Dev        | **[新]** 26220.6690 |   2025/9/20   | [aka.ms/wip-dev-9-19-25](https://blogs.windows.com/windows-insider/2025/09/19/announcing-windows-11-insider-preview-build-26220-6690-dev-channel) |
-|         Beta         | **[新]** 26120.6690 |   2025/9/20   | [aka.ms/wip-beta-9-19-25](https://blogs.windows.com/windows-insider/2025/09/19/announcing-windows-11-insider-preview-build-26120-6690-beta-channel) |
+|        Canary        |                27950                |  2025/9/20  | [aka.ms/wip27950](https://blogs.windows.com/windows-insider/2025/09/19/announcing-windows-11-insider-preview-build-27950-canary-channel) |
+|       Dev        | 26220.6690 |   2025/9/20   | [aka.ms/wip-dev-9-19-25](https://blogs.windows.com/windows-insider/2025/09/19/announcing-windows-11-insider-preview-build-26220-6690-dev-channel) |
+|         Beta         | 26120.6690 |   2025/9/20   | [aka.ms/wip-beta-9-19-25](https://blogs.windows.com/windows-insider/2025/09/19/announcing-windows-11-insider-preview-build-26120-6690-beta-channel) |
 | Release Preview  | 26200.6718 |  2025/9/18  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/09/12/releasing-windows-11-builds-26100-6713-and-26200-6713-to-the-release-preview-channel) |
-| General Availability |    26100.6584    |  2025/9/10  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5065426) |
+| General Availability |    **[新]** 26100.6588    |  2025/9/23  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5068221) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_1.png))
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_0.png))
 
 ---
 
@@ -86,6 +86,11 @@
 | [LG483](#LG483) | 安装华硕提供的 Intel 串行 I/O 驱动后，无法读取启用 VMD/IRST 的硬盘。 | 正在调查 |
 | [LG485](#LG485) |      无法在 Hyper-V 中登录 Windows 10 增强会话虚拟机。       | 正在调查 |
 | [LG486](#LG486) |           Hyper-V 虚拟机启动失败，显示 TPM 故障。            | 正在调查 |
+| [LG488](#LG488) |            **“画图” 应用的保存对话框变得巨大**。             | 正在处理 |
+| [LG489](#LG489) |             **鼠标滚轮在 Copilot 页面中失效**。              | 正在调查 |
+| [LG490](#LG490) |     **更新 Windows 后，已禁用的网络接口在设置中消失**。      | 正在调查 |
+| [LG491](#LG491) |                    **USB 端口无法使用**。                    | 正在调查 |
+| [LG492](#LG492) |                 **PDF 文件的图标出现异常**。                 | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG477](#LG477) |   安装 Canary 27938 版本时可能回滚并显示 0xC1900101 错误。   | 已修复 ✓ |
 | [LG479](#LG479) |          使用浏览器时 (可能还有其他场景) 屏幕闪烁。          | 已修复 ✓ |
@@ -314,6 +319,53 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 **问题**：**Hyper-V 虚拟机启动失败，显示 TPM 故障**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAxzhl8](https://aka.ms/AAxzhl8)
+
+---
+
+<SPAN ID = 'LG488'/>编号：LG488  
+日期：2025 年 9 月 23 日  
+版本：ALL  
+**问题**：**“画图” 应用的保存对话框变得巨大**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAxzlfl](https://aka.ms/AAxzlfl)
+
+<img src="Images/LG488.png" width = "60%" />
+
+---
+
+<SPAN ID = 'LG489'/>编号：LG489  
+日期：2025 年 9 月 23 日  
+版本：Canary 27950  
+**问题**：**鼠标滚轮在 Copilot 页面中失效**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxzduf](https://aka.ms/AAxzduf)
+
+---
+
+<SPAN ID = 'LG490'/>编号：LG490  
+日期：2025 年 9 月 23 日  
+版本：Canary 27950  
+**问题**：**更新 Windows 后，已禁用的网络接口在设置中消失**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAy1kn7](https://aka.ms/AAy1kn7)
+
+---
+
+<SPAN ID = 'LG491'/>编号：LG491  
+日期：2025 年 9 月 23 日  
+版本：Canary 27950  
+**问题**：**USB 端口无法使用**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAxzlfp](https://aka.ms/AAxzlfp)
+
+---
+
+<SPAN ID = 'LG492'/>编号：LG492  
+日期：2025 年 9 月 23 日  
+版本：ALL  
+**问题**：**PDF 文件的图标出现异常**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAskb6g](https://aka.ms/AAskb6g)
 
 <SPAN ID = '2'/>
 

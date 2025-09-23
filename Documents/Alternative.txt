@@ -394,14 +394,23 @@ https://aka.ms/AAxxs84
 设置应用的搜索框内文字偏移 ×
 https://aka.ms/AAxzhl6
 
-在最近的 Windows Canary 版本中使用 Hyper-V 运行 Windows 10 虚拟机创建增强会话无法进入登录界面，不使用增强会话或使用 Windows 11 虚拟机就不存在此问题 ✓
-https://aka.ms/AAxz9zr
-
-Mic problems no mic works ✓
-https://aka.ms/AAxz9zx
-
-Windows on ARM: after upgrading to 27943.1 Hyper-V VM doesn't start w/ TPM error ✓
-https://aka.ms/AAxzhl8
-
 HDR not turning off with recent update ×
 https://aka.ms/AAx59hi
+
+The save prompt in Windows 11 Paint is suddenly comically large ✓
+https://aka.ms/AAxzlfl
+
+Suddenly cannot use mouse scroll wheel while scrolling copilot ✓
+https://aka.ms/AAxzduf
+
+Disabled network interfaces disappear from Windows Settings app during Windows update ✓
+https://aka.ms/AAy1kn7
+
+After updating to build 26220.6682, JAWS 2025 September 2025 update stopped reading the Start Menu and other UWP UIs ×
+https://aka.ms/AAy03ve
+
+After updating to Builds 27938,27943 or 27950, all USB ports not working any more. Driver issue. ✓
+https://aka.ms/AAxzlfp
+
+PDF (and HTML?) files don't show a proper icon anymore when Edge is the default app on my Insider PC, it shows a generic paper icon ✓
+https://aka.ms/AAskb6g
