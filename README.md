@@ -28,31 +28,31 @@
 
 ## 总览
 
-| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2QI) Microsoft Teams 社区 😽 |
+| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2QM) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;在 [Microsoft Lists](https://lghub01-my.sharepoint.com/:l:/g/personal/ling_lghub01_onmicrosoft_com/FClnGu07sUVIgSgS1Wokae4BWoMWWF76fu0nGw-ioJ5FSw) 中访问灵糕中心&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 9 月 23 日 22:00 (UTC+8)。Star 数量：55 ⭐
+上次更新时间：2025 年 9 月 27 日 3:00 (UTC+8)。Star 数量：55 ⭐
 
-收录反馈 493 个，其中正在调查 37 个 (含[搁置](#3) 15 个)、正在处理 6 个、已修复 450 个。
+收录反馈 496 个，其中正在调查 34 个 (含[搁置](#3) 15 个)、正在处理 7 个、已修复 455 个。
 
-反馈更新记录：**今日更新 LG488 - 492**。- Ling 🌾 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG493 - 495**。- Ling 🦁 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
-[**WIP Canary 27950 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
+[**WIP Canary 27954 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                27950                |  2025/9/20  | [aka.ms/wip27950](https://blogs.windows.com/windows-insider/2025/09/19/announcing-windows-11-insider-preview-build-27950-canary-channel) |
+|        Canary        |                **[新]** 27954                |  2025/9/26  | [aka.ms/wip27954](https://blogs.windows.com/windows-insider/2025/09/25/announcing-windows-11-insider-preview-build-27954-canary-channel) |
 |       Dev        | 26220.6690 |   2025/9/20   | [aka.ms/wip-dev-9-19-25](https://blogs.windows.com/windows-insider/2025/09/19/announcing-windows-11-insider-preview-build-26220-6690-dev-channel) |
 |         Beta         | 26120.6690 |   2025/9/20   | [aka.ms/wip-beta-9-19-25](https://blogs.windows.com/windows-insider/2025/09/19/announcing-windows-11-insider-preview-build-26120-6690-beta-channel) |
 | Release Preview  | 26200.6718 |  2025/9/18  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/09/12/releasing-windows-11-builds-26100-6713-and-26200-6713-to-the-release-preview-channel) |
-| General Availability |    **[新]** 26100.6588    |  2025/9/23  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5068221) |
+| General Availability |    26100.6588    |  2025/9/23  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5068221) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_0.png))
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_1.png))
 
 ---
 
@@ -71,34 +71,31 @@
 | [LG424](#LG424) |      “设置”>“鼠标” 菜单中 “主鼠标按钮” 的选项翻译有误。      | 正在调查 |
 | [LG427](#LG427) |          任务管理器 “性能” 页面中的选项卡无法对齐。          | 正在调查 |
 | [LG429](#LG429) |                      电脑无法正常关机。                      | 正在调查 |
-| [LG448](#LG448) |        **[Copilot+ 电脑]** “回顾” 功能无法正常工作。         | 正在调查 |
 | [LG449](#LG449) |        搜索栏打开时，切换输入法会导致任务栏图标溢出。        | 正在调查 |
 | [LG451](#LG451) |               “更新并关机” 选项无法正常工作。                | 正在处理 |
 | [LG457](#LG457) |           Microsoft Visio 应用窗口冻结 / 无响应。            | 正在处理 |
 | [LG458](#LG458) |                  使用 Word 应用时电脑卡死。                  | 正在调查 |
 | [LG460](#LG460) |           “电池限制” 功能在 Surface UEFI 中消失。            | 正在调查 |
 | [LG462](#LG462) |        使用 Windows 图形捕获 API 的应用无法正常工作。        | 正在调查 |
-| [LG463](#LG463) |           WinGet 在 PowerShell 和 CMD 中无法识别。           | 正在调查 |
-| [LG464](#LG464) |      每次登录 Windows 时，都会自动创建一个系统还原点。       | 正在调查 |
-| [LG470](#LG470) |        在虚拟机中安装 Canary 版本时出现 0x17E 绿屏。         | 正在处理 |
 | [LG472](#LG472) |  “动态锁” 功能频繁激活蓝牙控制器，阻止电脑进入低功耗状态。   | 正在调查 |
 | [LG482](#LG482) |                    电脑卡顿现象有所加重。                    | 正在调查 |
 | [LG483](#LG483) | 安装华硕提供的 Intel 串行 I/O 驱动后，无法读取启用 VMD/IRST 的硬盘。 | 正在调查 |
 | [LG485](#LG485) |      无法在 Hyper-V 中登录 Windows 10 增强会话虚拟机。       | 正在调查 |
 | [LG486](#LG486) |           Hyper-V 虚拟机启动失败，显示 TPM 故障。            | 正在调查 |
-| [LG488](#LG488) |            **“画图” 应用的保存对话框变得巨大**。             | 正在处理 |
-| [LG489](#LG489) |             **鼠标滚轮在 Copilot 页面中失效**。              | 正在调查 |
-| [LG490](#LG490) |     **更新 Windows 后，已禁用的网络接口在设置中消失**。      | 正在调查 |
-| [LG491](#LG491) |                    **USB 端口无法使用**。                    | 正在调查 |
-| [LG492](#LG492) |                 **PDF 文件的图标出现异常**。                 | 正在调查 |
+| [LG488](#LG488) |              “画图” 应用的保存对话框变得巨大。               | 正在处理 |
+| [LG489](#LG489) |               鼠标滚轮在 Copilot 页面中失效。                | 正在调查 |
+| [LG490](#LG490) |       更新 Windows 后，已禁用的网络接口在设置中消失。        | 正在调查 |
+| [LG491](#LG491) |                      USB 端口无法使用。                      | 正在调查 |
+| [LG493](#LG493) |              **连接电源后不显示 “正在充电”**。               | 正在处理 |
+| [LG494](#LG494) |                 **搜索功能仍无法正常使用**。                 | 正在调查 |
+| [LG495](#LG495) |  **“设置”>“存储”>“其他驱动器上使用的存储空间” 菜单崩溃**。   | 正在处理 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
-| [LG477](#LG477) |   安装 Canary 27938 版本时可能回滚并显示 0xC1900101 错误。   | 已修复 ✓ |
-| [LG479](#LG479) |          使用浏览器时 (可能还有其他场景) 屏幕闪烁。          | 已修复 ✓ |
-| [LG480](#LG480) |                        音频停止工作。                        | 已修复 ✓ |
-| [LG466](#LG466) |        无法关闭 Xbox 应用中的 “显示其他游戏库” 设置。        | 已修复 ✓ |
-| [LG484](#LG484) |         关闭 / 卸载 Xbox 应用后仍显示处于在线状态。          | 已修复 ✓ |
-| [LG487](#LG487) |                     麦克风无法正常工作。                     | 已修复 ✓ |
-|       ——        | ***注**：部分未收录的问题详见 [WIP Canary 27950 更新简报](Canary.md)* |    ——    |
+| [LG448](#LG448) |        **[Copilot+ 电脑]** “回顾” 功能无法正常工作。         | 正在调查 |
+| [LG463](#LG463) |           WinGet 在 PowerShell 和 CMD 中无法识别。           | 正在调查 |
+| [LG464](#LG464) |      每次登录 Windows 时，都会自动创建一个系统还原点。       | 正在调查 |
+| [LG470](#LG470) |        在虚拟机中安装 Canary 版本时出现 0x17E 绿屏。         | 正在处理 |
+| [LG492](#LG492) |                   PDF 文件的图标出现异常。                   | 正在调查 |
+|       ——        | ***注**：部分未收录的问题详见 [WIP Canary 27954 更新简报](Canary.md)* |    ——    |
 |       ——        |       ▲ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2)        |    ——    |
 |       ——        | [**Canary - 归档 (已做出更改 >7 天)**](7+.md) \| [**Canary - 搁置 (未做出更改)**](#3) |    ——    |
 
@@ -116,7 +113,7 @@
 
 <SPAN ID = 'LG481'/>编号：LG481  
 日期：2025 年 9 月 13 日  
-版本：Canary 27943 - 27950  
+版本：Canary 27943 - 27954  
 **问题**：**ARM64 设备出现 IRQL_NOT_LESS_OR_EQUAL 绿屏**。  
 状态：<img src="Images/W.png" width = "9%" />
 
@@ -124,7 +121,7 @@
 
 <SPAN ID = 'LG478'/>编号：LG478  
 日期：2025 年 9 月 9 日  
-版本：Canary 27938 - 27950  
+版本：Canary 27938 - 27954  
 **问题**：**PIX on Windows 无法播放 GPU 捕获内容**。  
 状态：<img src="Images/W.png" width = "9%" />  
 Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX 中修复。受此影响的用户可通过 PIX 中的 ‘发送反馈’ 按钮提交问题，或前往 DirectX Discord 服务器联系我们获取私有版本。” *(Ling 译)* <img src="Images/M.png" width = "14%" />
@@ -158,7 +155,7 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 
 <SPAN ID = 'LG424'/>编号：LG424  
 日期：2025 年 7 月 19 日  
-版本：Canary 27902 - 27950  
+版本：Canary 27902 - 27954  
 **问题**：**“设置”>“鼠标” 菜单中 “主鼠标按钮” 的选项翻译有误**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAx2o1o](https://aka.ms/AAx2o1o)
@@ -169,7 +166,7 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 
 <SPAN ID = 'LG427'/>编号：LG427  
 日期：2025 年 7 月 19 日  
-版本：Canary 27902 - 27950  
+版本：Canary 27902 - 27954  
 **问题**：**任务管理器 “性能” 页面中的选项卡无法对齐**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAx0xzj](https://aka.ms/AAx0xzj)
@@ -180,25 +177,16 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 
 <SPAN ID = 'LG429'/>编号：LG429  
 日期：2025 年 7 月 19 日  
-版本：Canary 27891 - 27950  
+版本：Canary 27891 - 27954  
 **问题**：**电脑无法正常关机**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAx2o1u](https://aka.ms/AAx2o1u)
 
 ---
 
-<SPAN ID = 'LG448'/>编号：LG448  
-日期：2025 年 8 月 24 日  
-版本：Canary 27928 - 27950  
-**问题**：**[Copilot+ 电脑] “回顾” 功能无法正常工作**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAxlcug](https://aka.ms/AAxlcug)
-
----
-
 <SPAN ID = 'LG449'/>编号：LG449  
 日期：2025 年 8 月 24 日  
-版本：Canary 27928 - 27950  
+版本：Canary 27928 - 27954  
 **问题**：**搜索栏打开时，切换输入法会导致任务栏图标溢出**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAxljuq](https://aka.ms/AAxljuq)
@@ -216,7 +204,7 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 
 <SPAN ID = 'LG457'/>编号：LG457  
 日期：2025 年 9 月 2 日  
-版本：Canary 27934 - 27950  
+版本：Canary 27934 - 27954  
 **问题**：**Microsoft Visio 应用窗口冻结 / 无响应**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAxoh9o](https://aka.ms/AAxoh9o) <img src="Images/M.png" width = "14%" />
@@ -225,7 +213,7 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 
 <SPAN ID = 'LG458'/>编号：LG458  
 日期：2025 年 9 月 2 日  
-版本：Canary 27934 - 27950  
+版本：Canary 27934 - 27954  
 **问题**：**使用 Word 应用时电脑卡死**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAxqsce](https://aka.ms/AAxqsce)
@@ -234,7 +222,7 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 
 <SPAN ID = 'LG460'/>编号：LG460  
 日期：2025 年 9 月 2 日  
-版本：Canary 27934 - 27950  
+版本：Canary 27934 - 27954  
 **问题**：**“电池限制” 功能在 Surface UEFI 中消失**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAxqzz0](https://aka.ms/AAxqzz0)
@@ -243,43 +231,16 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 
 <SPAN ID = 'LG462'/>编号：LG462  
 日期：2025 年 9 月 2 日  
-版本：Canary 27934 - 27950  
+版本：Canary 27934 - 27954  
 **问题**：**使用 Windows 图形捕获 API 的应用无法正常工作**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAxqsck](https://aka.ms/AAxqsck)
 
 ---
 
-<SPAN ID = 'LG463'/>编号：LG463  
-日期：2025 年 9 月 2 日  
-版本：Canary 27934 - 27950  
-**问题**：**WinGet 在 PowerShell 和 CMD 中无法识别**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAulrb4](https://aka.ms/AAulrb4)
-
----
-
-<SPAN ID = 'LG464'/>编号：LG464  
-日期：2025 年 9 月 2 日  
-版本：Canary 27934 - 27950  
-**问题**：**每次登录 Windows 时，都会自动创建一个系统还原点**。  
-状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAxr7jj](https://aka.ms/AAxr7jj)
-
----
-
-<SPAN ID = 'LG470'/>编号：LG470  
-日期：2025 年 9 月 5 日  
-版本：Canary 27934 - 27950  
-**问题**：**在虚拟机中安装 Canary 版本时出现 0x17E 绿屏**。  
-状态：<img src="Images/W.png" width = "9%" />  
-典型反馈：[aka.ms/AAxu3a9](https://aka.ms/AAxu3a9) <img src="Images/M.png" width = "14%" />
-
----
-
 <SPAN ID = 'LG472'/>编号：LG472  
 日期：2025 年 9 月 8 日  
-版本：Canary 27934 - 27950  
+版本：Canary 27934 - 27954  
 **问题**：**“动态锁” 功能频繁激活蓝牙控制器，阻止电脑进入低功耗状态**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAxuefp](https://aka.ms/AAxuefp)
@@ -288,7 +249,7 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 
 <SPAN ID = 'LG482'/>编号：LG482  
 日期：2025 年 9 月 13 日  
-版本：Canary 27943 - 27950  
+版本：Canary 27943 - 27954  
 **问题**：**电脑卡顿现象有所加重**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAxuckd](https://aka.ms/AAxuckd)
@@ -297,7 +258,7 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 
 <SPAN ID = 'LG483'/>编号：LG483  
 日期：2025 年 9 月 13 日  
-版本：Canary 27938 - 27950  
+版本：Canary 27938 - 27954  
 **问题**：**安装华硕提供的 Intel 串行 I/O 驱动后，无法读取启用 VMD/IRST 的硬盘**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAxxkpl](https://aka.ms/AAxxkpl)
@@ -306,7 +267,7 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 
 <SPAN ID = 'LG485'/>编号：LG485  
 日期：2025 年 9 月 19 日  
-版本：Canary 27943 - 27950  
+版本：Canary 27943 - 27954  
 **问题**：**无法在 Hyper-V 中登录 Windows 10 增强会话虚拟机**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAxz9zr](https://aka.ms/AAxz9zr)
@@ -315,7 +276,7 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 
 <SPAN ID = 'LG486'/>编号：LG486  
 日期：2025 年 9 月 19 日  
-版本：Canary 27943 - 27950  
+版本：Canary 27943 - 27954  
 **问题**：**Hyper-V 虚拟机启动失败，显示 TPM 故障**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAxzhl8](https://aka.ms/AAxzhl8)
@@ -335,7 +296,7 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 
 <SPAN ID = 'LG489'/>编号：LG489  
 日期：2025 年 9 月 23 日  
-版本：Canary 27950  
+版本：Canary 27950 - 27954  
 **问题**：**鼠标滚轮在 Copilot 页面中失效**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAxzduf](https://aka.ms/AAxzduf)
@@ -344,7 +305,7 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 
 <SPAN ID = 'LG490'/>编号：LG490  
 日期：2025 年 9 月 23 日  
-版本：Canary 27950  
+版本：Canary 27950 - 27954  
 **问题**：**更新 Windows 后，已禁用的网络接口在设置中消失**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAy1kn7](https://aka.ms/AAy1kn7)
@@ -353,19 +314,37 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 
 <SPAN ID = 'LG491'/>编号：LG491  
 日期：2025 年 9 月 23 日  
-版本：Canary 27950  
+版本：Canary 27950 - 27954  
 **问题**：**USB 端口无法使用**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAxzlfp](https://aka.ms/AAxzlfp)
 
 ---
 
-<SPAN ID = 'LG492'/>编号：LG492  
-日期：2025 年 9 月 23 日  
-版本：ALL  
-**问题**：**PDF 文件的图标出现异常**。  
+<SPAN ID = 'LG493'/>编号：LG493  
+日期：2025 年 9 月 27 日  
+版本：Canary 27950 - 27954  
+**问题**：**连接电源后不显示 “正在充电”**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAy2hng](https://aka.ms/AAy2hng) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG494'/>编号：LG494  
+日期：2025 年 9 月 27 日  
+版本：Canary 27950 - 27954  
+**问题**：**搜索功能仍无法正常使用**。  
 状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAskb6g](https://aka.ms/AAskb6g)
+典型反馈：[aka.ms/AAy2hnj](https://aka.ms/AAy2hnj)
+
+---
+
+<SPAN ID = 'LG495'/>编号：LG495  
+日期：2025 年 9 月 27 日  
+版本：Canary 27950 - 27954  
+**问题**：**“设置”>“存储”>“其他驱动器上使用的存储空间” 菜单崩溃**。  
+状态：<img src="Images/W.png" width = "9%" />  
+典型反馈：[aka.ms/AAxzqav](https://aka.ms/AAxzqav) <img src="Images/M.png" width = "14%" />
 
 <SPAN ID = '2'/>
 
@@ -379,68 +358,52 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 
 ---
 
-<SPAN ID = 'LG477'/>编号：LG477  
-日期：2025 年 9 月 9 日  
-版本：Canary 27938 - 27943  
-**问题**：**安装 Canary 27938 版本时可能回滚并显示 0xC1900101 错误**。  
-状态：Canary 27950 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-Microsoft 官方回复：“部分 Windows 预览体验成员安装此版本时可能出现回滚，并显示 0xC1900101-0x20017 或 0xC1900101-0x30017 错误。遗憾的是，重新尝试安装仍将再次回滚。我们正在努力修复中。” *(Ling 译)*  
-<img src="Images/M.png" width = "14%" />
+<SPAN ID = 'LG448'/>编号：LG448  
+日期：2025 年 8 月 24 日  
+版本：Canary 27928 - 27950  
+**问题**：**[Copilot+ 电脑] “回顾” 功能无法正常工作**。  
+状态：Canary 27954 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAxlcug](https://aka.ms/AAxlcug)
 
 ---
 
-<SPAN ID = 'LG479'/>编号：LG479  
-日期：2025 年 9 月 9 日  
-版本：Canary 27938 - 27943  
-**问题**：**使用浏览器时 (可能还有其他场景) 屏幕闪烁**。  
-状态：Canary 27950 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓
+<SPAN ID = 'LG463'/>编号：LG463  
+日期：2025 年 9 月 2 日  
+版本：Canary 27934 - 27950  
+**问题**：**WinGet 在 PowerShell 和 CMD 中无法识别**。  
+状态：Canary 27954 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAulrb4](https://aka.ms/AAulrb4)
 
 ---
 
-<SPAN ID = 'LG480'/>编号：LG480  
-日期：2025 年 9 月 9 日  
-版本：Canary 27938 - 27943  
-**问题**：**音频停止工作**。  
-状态：Canary 27950 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-Microsoft 官方回复：“部分 Windows 预览体验成员可能会遇到 ‘音频停止工作’ 的问题。设备管理器中的部分设备 (如 ACPI 音频合成器) 显示黄色感叹号，并提示 ‘Windows 无法加载此硬件的驱动程序，它可能已损坏或丢失’。如果您遇到了此问题，可以参照以下步骤进行恢复。” *(Ling 译)* <img src="Images/M.png" width = "14%" />
-
-**步骤**
-
-1. 右键点击设备管理器中显示黄色感叹号的设备，选择 “更新驱动程序”。
-2. 选择 “浏览我的电脑以查找驱动程序”>“让我从计算机上的可用驱动程序列表中选取”。
-3. 选中日期最近的驱动，点击 “下一步”，黄色感叹号将会消失。
-4. 对其他的异常设备重复上述步骤。
+<SPAN ID = 'LG464'/>编号：LG464  
+日期：2025 年 9 月 2 日  
+版本：Canary 27934 - 27950  
+**问题**：**每次登录 Windows 时，都会自动创建一个系统还原点**。  
+状态：Canary 27954 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAxr7jj](https://aka.ms/AAxr7jj)
 
 ---
 
-<SPAN ID = 'LG466'/>编号：LG466  
+<SPAN ID = 'LG470'/>编号：LG470  
 日期：2025 年 9 月 5 日  
+版本：Canary 27934 - 27950  
+**问题**：**在虚拟机中安装 Canary 版本时出现 0x17E 绿屏**。  
+状态：Canary 27954 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
+典型反馈：[aka.ms/AAxu3a9](https://aka.ms/AAxu3a9) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG492'/>编号：LG492  
+日期：2025 年 9 月 23 日  
 版本：ALL  
-**问题**：**无法关闭 Xbox 应用中的 “显示其他游戏库” 设置**。  
+**问题**：**PDF 文件的图标出现异常**。  
 状态：ALL - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAxu39x](https://aka.ms/AAxu39x)
+典型反馈：[aka.ms/AAskb6g](https://aka.ms/AAskb6g)
 
 ---
 
-<SPAN ID = 'LG484'/>编号：LG484  
-日期：2025 年 9 月 13 日  
-版本：ALL  
-**问题**：**关闭 / 卸载 Xbox 应用后仍显示处于在线状态**。  
-状态：ALL - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAxq9zb](https://aka.ms/AAxq9zb)
-
----
-
-<SPAN ID = 'LG487'/>编号：LG487  
-日期：2025 年 9 月 19 日  
-版本：Canary 27943  
-**问题**：**麦克风无法正常工作**。  
-状态：Canary 27950 - <img src="Images/C_0.png" width = "10%" /> - 已修复 ✓  
-典型反馈：[aka.ms/AAxz9zx](https://aka.ms/AAxz9zx)
-
----
-
-*部分未收录反馈详见 [WIP Canary 27950 更新简报](Canary.md)*
+*部分未收录反馈详见 [WIP Canary 27954 更新简报](Canary.md)*
 
 [Microsoft 已做出更改 >7 天的问题](7+.md)
 

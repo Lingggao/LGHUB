@@ -397,20 +397,17 @@ https://aka.ms/AAxzhl6
 HDR not turning off with recent update ×
 https://aka.ms/AAx59hi
 
-The save prompt in Windows 11 Paint is suddenly comically large ✓
-https://aka.ms/AAxzlfl
-
-Suddenly cannot use mouse scroll wheel while scrolling copilot ✓
-https://aka.ms/AAxzduf
-
-Disabled network interfaces disappear from Windows Settings app during Windows update ✓
-https://aka.ms/AAy1kn7
-
 After updating to build 26220.6682, JAWS 2025 September 2025 update stopped reading the Start Menu and other UWP UIs ×
 https://aka.ms/AAy03ve
 
-After updating to Builds 27938,27943 or 27950, all USB ports not working any more. Driver issue. ✓
-https://aka.ms/AAxzlfp
+无法识别充电状态，电脑插上电源电量在增加，但是不显示正在充电 ✓
+https://aka.ms/AAy2hng
 
-PDF (and HTML?) files don't show a proper icon anymore when Edge is the default app on my Insider PC, it shows a generic paper icon ✓
-https://aka.ms/AAskb6g
+系统版本 27950.1 搜索依旧不可用 ✓
+https://aka.ms/AAy2hnj
+
+文本显示错误或中文翻译错误 ×
+https://aka.ms/AAy2hnx
+
+Selecting storage > storage space used on other storage > any partition will cause the settings to become unresponsive and then crash after the... ✓
+https://aka.ms/AAxzqav
