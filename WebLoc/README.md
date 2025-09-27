@@ -40,6 +40,7 @@
 | [WL020](#WL020) |      “设置”>“鼠标” 菜单中 “主鼠标按钮” 选项的翻译有误。      | 等待 Microsoft 处理 |
 | [WL021](#WL021) |   “更新已完成” 网站错误地将 Windows 11 翻译为 “窗户 11”。    |      用户告知       |
 | [WL022](#WL022) |   Copilot 应用中的 “Copilot 键” 被翻译为 “Copilot 密钥”。    |      用户告知       |
+| [WL023](#WL023) |        “创建部署计划” Windows 文档中文翻译质量较差。         |      用户告知       |
 |      —————      |      ***注**：本版块通常按时间先后排序，底部是最新反馈*      |     ——————————      |
 
 <SPAN ID = 'WL001'/>编号：WL001  
@@ -339,6 +340,20 @@
 传递人：Ling Gao
 
 <img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL022.png?raw=true" width = "50%" />
+
+---
+
+<SPAN ID = 'WL023'/>编号：WL023  
+日期：2025 年 9 月 27 日  
+产品：Microsoft Learn  
+**问题**：**“创建部署计划” Windows 文档中文翻译质量较差**。  
+类别：本地化问题  
+网址：[创建部署计划](https://learn.microsoft.com/zh-cn/windows/deployment/update/create-deployment-plan)  
+状态：**◆用户告知◆** → 递交反馈 → 等待 Microsoft 处理 → 已处理 | 90 天未处理  
+用户：charlesy  
+传递人：Ling Gao
+
+<img src="https://github.com/Lingggao/LGHUB/blob/main/WebLoc/Images/WL023.png?raw=true" width = "50%" />
 
 ---
 
