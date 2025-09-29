@@ -28,31 +28,31 @@
 
 ## 总览
 
-| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2QM) Microsoft Teams 社区 😽 |
+| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2QQ) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;在 [Microsoft Lists](https://lghub01-my.sharepoint.com/:l:/g/personal/ling_lghub01_onmicrosoft_com/FClnGu07sUVIgSgS1Wokae4BWoMWWF76fu0nGw-ioJ5FSw) 中访问灵糕中心&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 9 月 27 日 3:00 (UTC+8)。Star 数量：55 ⭐
+上次更新时间：2025 年 9 月 29 日 23:00 (UTC+8)。Star 数量：55 ⭐
 
-收录反馈 496 个，其中正在调查 34 个 (含[搁置](#3) 15 个)、正在处理 7 个、已修复 455 个。
+收录反馈 499 个，其中正在调查 37 个 (含[搁置](#3) 15 个)、正在处理 7 个、已修复 455 个。
 
-反馈更新记录：**今日更新 LG493 - 495**。- Ling 🦁 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG496 - 498**。- Ling 🥦 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27954 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                **[新]** 27954                |  2025/9/26  | [aka.ms/wip27954](https://blogs.windows.com/windows-insider/2025/09/25/announcing-windows-11-insider-preview-build-27954-canary-channel) |
+|        Canary        |                27954                |  2025/9/26  | [aka.ms/wip27954](https://blogs.windows.com/windows-insider/2025/09/25/announcing-windows-11-insider-preview-build-27954-canary-channel) |
 |       Dev        | 26220.6690 |   2025/9/20   | [aka.ms/wip-dev-9-19-25](https://blogs.windows.com/windows-insider/2025/09/19/announcing-windows-11-insider-preview-build-26220-6690-dev-channel) |
 |         Beta         | 26120.6690 |   2025/9/20   | [aka.ms/wip-beta-9-19-25](https://blogs.windows.com/windows-insider/2025/09/19/announcing-windows-11-insider-preview-build-26120-6690-beta-channel) |
 | Release Preview  | 26200.6718 |  2025/9/18  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/09/12/releasing-windows-11-builds-26100-6713-and-26200-6713-to-the-release-preview-channel) |
 | General Availability |    26100.6588    |  2025/9/23  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5068221) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_1.png))
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_0.png))
 
 ---
 
@@ -86,9 +86,12 @@
 | [LG489](#LG489) |               鼠标滚轮在 Copilot 页面中失效。                | 正在调查 |
 | [LG490](#LG490) |       更新 Windows 后，已禁用的网络接口在设置中消失。        | 正在调查 |
 | [LG491](#LG491) |                      USB 端口无法使用。                      | 正在调查 |
-| [LG493](#LG493) |              **连接电源后不显示 “正在充电”**。               | 正在处理 |
-| [LG494](#LG494) |                 **搜索功能仍无法正常使用**。                 | 正在调查 |
-| [LG495](#LG495) |  **“设置”>“存储”>“其他驱动器上使用的存储空间” 菜单崩溃**。   | 正在处理 |
+| [LG493](#LG493) |                连接电源后不显示 “正在充电”。                 | 正在处理 |
+| [LG494](#LG494) |                   搜索功能仍无法正常使用。                   | 正在调查 |
+| [LG495](#LG495) |    “设置”>“存储”>“其他驱动器上使用的存储空间” 菜单崩溃。     | 正在处理 |
+| [LG496](#LG496) |              **睡眠 / 待机功能无法正常工作**。               | 正在调查 |
+| [LG497](#LG497) |          **Microsoft Edge 浏览器 (Canary) 崩溃**。           | 正在调查 |
+| [LG498](#LG498) |               **键盘无法识别，只能重启电脑**。               | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG448](#LG448) |        **[Copilot+ 电脑]** “回顾” 功能无法正常工作。         | 已修复 ✓ |
 | [LG463](#LG463) |           WinGet 在 PowerShell 和 CMD 中无法识别。           | 已修复 ✓ |
@@ -345,6 +348,33 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 **问题**：**“设置”>“存储”>“其他驱动器上使用的存储空间” 菜单崩溃**。  
 状态：<img src="Images/W.png" width = "9%" />  
 典型反馈：[aka.ms/AAxzqav](https://aka.ms/AAxzqav) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG496'/>编号：LG496  
+日期：2025 年 9 月 29 日  
+版本：Canary 27954  
+**问题**：**睡眠 / 待机功能无法正常工作**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAy2t62](https://aka.ms/AAy2t62)
+
+---
+
+<SPAN ID = 'LG497'/>编号：LG497  
+日期：2025 年 9 月 29 日  
+版本：Edge 142.0.3580.0  
+**问题**：**Microsoft Edge 浏览器 (Canary) 崩溃**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAy2kke](https://aka.ms/AAy2kke) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG498'/>编号：LG498  
+日期：2025 年 9 月 29 日  
+版本：Canary 27954  
+**问题**：**键盘无法识别，只能重启电脑**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAy2kkd](https://aka.ms/AAy2kkd)
 
 <SPAN ID = '2'/>
 

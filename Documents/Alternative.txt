@@ -400,14 +400,20 @@ https://aka.ms/AAx59hi
 After updating to build 26220.6682, JAWS 2025 September 2025 update stopped reading the Start Menu and other UWP UIs ×
 https://aka.ms/AAy03ve
 
-无法识别充电状态，电脑插上电源电量在增加，但是不显示正在充电 ✓
-https://aka.ms/AAy2hng
-
-系统版本 27950.1 搜索依旧不可用 ✓
-https://aka.ms/AAy2hnj
-
 文本显示错误或中文翻译错误 ×
 https://aka.ms/AAy2hnx
 
-Selecting storage > storage space used on other storage > any partition will cause the settings to become unresponsive and then crash after the... ✓
-https://aka.ms/AAxzqav
+With the latest Windows 11 builds, my keyboard is only recognized after I reboot ✓
+https://aka.ms/AAy2kkd
+
+Canary Edge Crashing after Update to Version 142.0.3580.0 ✓
+https://aka.ms/AAy2kke
+
+File Explorer is crashing doing various things like copying and renaming files in the latest Dev and Beta Windows 11 builds ×
+https://aka.ms/AAv7t4d
+
+hey after update the 27954.1br my laptop i'll be heat and fam well be running every time . i thing background taks anything well be running ×
+https://aka.ms/AAy2lix
+
+Sleep / Standby is not working properly on my PC after upgrading to Build 29750 ✓
+https://aka.ms/AAy2t62
