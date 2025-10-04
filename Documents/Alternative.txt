@@ -403,17 +403,35 @@ https://aka.ms/AAy03ve
 文本显示错误或中文翻译错误 ×
 https://aka.ms/AAy2hnx
 
-With the latest Windows 11 builds, my keyboard is only recognized after I reboot ✓
-https://aka.ms/AAy2kkd
-
-Canary Edge Crashing after Update to Version 142.0.3580.0 ✓
-https://aka.ms/AAy2kke
-
 File Explorer is crashing doing various things like copying and renaming files in the latest Dev and Beta Windows 11 builds ×
 https://aka.ms/AAv7t4d
 
 hey after update the 27954.1br my laptop i'll be heat and fam well be running every time . i thing background taks anything well be running ×
 https://aka.ms/AAy2lix
 
-Sleep / Standby is not working properly on my PC after upgrading to Build 29750 ✓
-https://aka.ms/AAy2t62
+任务栏隐藏出现残留图像 ✓
+https://aka.ms/AAy5klm
+
+Starting July 21 2025, trying to use M365 Copilot app, it shows error 0x800704cf / "you need internet for this" even though I have internet ×
+https://aka.ms/AAy10xr
+
+xbox game bar crashing ✓
+https://aka.ms/AAy553y
+
+"App in use" error when notepad is being updated in windows store even when notepad is closed. ✓
+https://aka.ms/AAy5cuj
+
+Copying files from the local drive to a network shared drive crashes often Windows Explorer, so the files aren't fully copied to the shared network ✓
+https://aka.ms/AAy5541
+
+"Pop up" or "hover" menu prevents you from closing a window. ✓
+https://aka.ms/AAy5cul
+
+cloud gaming games will not launch ✓
+https://aka.ms/AAy5cup
+
+All pinned apps in Task bar are gone after reboot. ✓
+https://aka.ms/AAy5klu
+
+problem with file manager ✓
+https://aka.ms/AAy5klx

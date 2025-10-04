@@ -28,31 +28,31 @@
 
 ## 总览
 
-| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2QQ) Microsoft Teams 社区 😽 |
+| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2QU) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;在 [Microsoft Lists](https://lghub01-my.sharepoint.com/:l:/g/personal/ling_lghub01_onmicrosoft_com/FClnGu07sUVIgSgS1Wokae4BWoMWWF76fu0nGw-ioJ5FSw) 中访问灵糕中心&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 9 月 29 日 23:00 (UTC+8)。Star 数量：55 ⭐
+上次更新时间：2025 年 10 月 5 日 3:00 (UTC+8)。Star 数量：55 ⭐
 
-收录反馈 499 个，其中正在调查 37 个 (含[搁置](#3) 15 个)、正在处理 7 个、已修复 455 个。
+收录反馈 507 个，其中正在调查 45 个 (含[搁置](#3) 15 个)、正在处理 7 个、已修复 455 个。
 
-反馈更新记录：**今日更新 LG496 - 498**。- Ling 🥦 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG499 - 506**。- Ling 🍔 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27954 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
 |        Canary        |                27954                |  2025/9/26  | [aka.ms/wip27954](https://blogs.windows.com/windows-insider/2025/09/25/announcing-windows-11-insider-preview-build-27954-canary-channel) |
-|       Dev        | 26220.6690 |   2025/9/20   | [aka.ms/wip-dev-9-19-25](https://blogs.windows.com/windows-insider/2025/09/19/announcing-windows-11-insider-preview-build-26220-6690-dev-channel) |
-|         Beta         | 26120.6690 |   2025/9/20   | [aka.ms/wip-beta-9-19-25](https://blogs.windows.com/windows-insider/2025/09/19/announcing-windows-11-insider-preview-build-26120-6690-beta-channel) |
+|       Dev        | 26220.6760 |   2025/9/30   | [aka.ms/wip-dev-9-29-25](https://blogs.windows.com/windows-insider/2025/09/29/announcing-windows-11-insider-preview-build-26220-6760-dev-channel) |
+|         Beta         | 26120.6760 |   2025/9/30   | [aka.ms/wip-beta-9-29-25](https://blogs.windows.com/windows-insider/2025/09/29/announcing-windows-11-insider-preview-build-26120-6760-beta-channel) |
 | Release Preview  | 26200.6718 |  2025/9/18  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/09/12/releasing-windows-11-builds-26100-6713-and-26200-6713-to-the-release-preview-channel) |
-| General Availability |    26100.6588    |  2025/9/23  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5068221) |
+| General Availability |    26200.6584    |  2025/10/1  | [support.microsoft.com](https://blogs.windows.com/windowsexperience/2025/09/30/how-to-get-the-windows-11-2025-update) |
 
-<img src="Images/Graph_0.png" width = "93%" />
+<img src="Images/Graph_1.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_0.png))
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_1.png))
 
 ---
 
@@ -89,9 +89,17 @@
 | [LG493](#LG493) |                连接电源后不显示 “正在充电”。                 | 正在处理 |
 | [LG494](#LG494) |                   搜索功能仍无法正常使用。                   | 正在调查 |
 | [LG495](#LG495) |    “设置”>“存储”>“其他驱动器上使用的存储空间” 菜单崩溃。     | 正在处理 |
-| [LG496](#LG496) |              **睡眠 / 待机功能无法正常工作**。               | 正在调查 |
-| [LG497](#LG497) |          **Microsoft Edge 浏览器 (Canary) 崩溃**。           | 正在调查 |
-| [LG498](#LG498) |               **键盘无法识别，只能重启电脑**。               | 正在调查 |
+| [LG496](#LG496) |                睡眠 / 待机功能无法正常工作。                 | 正在调查 |
+| [LG497](#LG497) |            Microsoft Edge 浏览器 (Canary) 崩溃。             | 正在调查 |
+| [LG498](#LG498) |                 键盘无法识别，只能重启电脑。                 | 正在调查 |
+| [LG499](#LG499) |           **任务栏无法隐藏，右下角托盘出现残留**。           | 正在调查 |
+| [LG500](#LG500) |                **Xbox 应用中的游戏栏崩溃**。                 | 正在调查 |
+| [LG501](#LG501) |           **无法启动 Xbox Cloud Gaming 云游戏**。            | 正在调查 |
+| [LG502](#LG502) | **即使已关闭应用，更新记事本时仍会提示 “应用正在使用中”**。  | 正在调查 |
+| [LG503](#LG503) |       **鼠标悬停提示可能挡住应用窗口的 “关闭” 按钮**。       | 正在调查 |
+| [LG504](#LG504) | **将文件从本地复制到网络共享驱动器时，文件资源管理器崩溃**。 | 正在调查 |
+| [LG505](#LG505) | **将文件从 C 盘复制 / 移动到其他盘符时，文件资源管理器崩溃**。 | 正在调查 |
+| [LG506](#LG506) |           **重启电脑后，固定在任务栏的应用消失**。           | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG448](#LG448) |        **[Copilot+ 电脑]** “回顾” 功能无法正常工作。         | 已修复 ✓ |
 | [LG463](#LG463) |           WinGet 在 PowerShell 和 CMD 中无法识别。           | 已修复 ✓ |
@@ -183,7 +191,7 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 版本：Canary 27891 - 27954  
 **问题**：**电脑无法正常关机**。  
 状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAx2o1u](https://aka.ms/AAx2o1u)
+典型反馈：[aka.ms/AAx2o1u](https://aka.ms/AAx2o1u) & [aka.ms/AAy553s](https://aka.ms/AAy553s)
 
 ---
 
@@ -375,6 +383,78 @@ Microsoft 官方回复：“此问题将在预计 9 月底发布的新版本 PIX
 **问题**：**键盘无法识别，只能重启电脑**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAy2kkd](https://aka.ms/AAy2kkd)
+
+---
+
+<SPAN ID = 'LG499'/>编号：LG499  
+日期：2025 年 10 月 5 日  
+版本：Canary 27954  
+**问题**：**任务栏无法隐藏，右下角托盘出现残留**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAy5klm](https://aka.ms/AAy5klm) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG500'/>编号：LG500  
+日期：2025 年 10 月 5 日  
+版本：ALL  
+**问题**：**Xbox 应用中的游戏栏崩溃**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAy553y](https://aka.ms/AAy553y)
+
+---
+
+<SPAN ID = 'LG501'/>编号：LG501  
+日期：2025 年 10 月 5 日  
+版本：ALL  
+**问题**：**无法启动 Xbox Cloud Gaming 云游戏**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAy5cvj](https://aka.ms/AAy5cvj)
+
+---
+
+<SPAN ID = 'LG502'/>编号：LG502  
+日期：2025 年 10 月 5 日  
+版本：ALL  
+**问题**：**即使已关闭应用，更新记事本时仍会提示 “应用正在使用中”**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAy5cuj](https://aka.ms/AAy5cuj)
+
+---
+
+<SPAN ID = 'LG503'/>编号：LG503  
+日期：2025 年 10 月 5 日  
+版本：Canary 27954  
+**问题**：**鼠标悬停提示可能挡住应用窗口的 “关闭” 按钮**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAy5cul](https://aka.ms/AAy5cul)
+
+---
+
+<SPAN ID = 'LG504'/>编号：LG504  
+日期：2025 年 10 月 5 日  
+版本：Canary 27954  
+**问题**：**将文件从本地复制到网络共享驱动器时，文件资源管理器崩溃**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAy5541](https://aka.ms/AAy5541)
+
+---
+
+<SPAN ID = 'LG505'/>编号：LG505  
+日期：2025 年 10 月 5 日  
+版本：Canary 27954  
+**问题**：**将文件从 C 盘复制 / 移动到其他盘符时，文件资源管理器崩溃**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAy5klx](https://aka.ms/AAy5klx)
+
+---
+
+<SPAN ID = 'LG506'/>编号：LG506  
+日期：2025 年 10 月 5 日  
+版本：Canary 27954  
+**问题**：**重启电脑后，固定在任务栏的应用消失**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAy5klu](https://aka.ms/AAy5klu)
 
 <SPAN ID = '2'/>
 
