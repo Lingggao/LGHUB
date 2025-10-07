@@ -8,13 +8,13 @@
 >
 > &emsp;本板块记录 Microsoft 的**网站错误** (Microsoft 产品和 Learn / Support 等网站 - 内容错误、UI 异常、图像或链接缺失等) 与**本地化问题** (翻译错误或低质量、字词或语法错误、缺少中文等)。
 >
-> &emsp;Ling Gao 可协助用户向 Microsoft 递交有关**网站错误**和**本地化问题**的反馈。请通过 [**“Ling 的 Windows Insider 小屋”**](https://teams.live.com/l/community/FEADGVjrvbHmT_d2QU) 私人 Teams 社区的 [“3. Windows Insider - 问题”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2QU) 频道分享线索。
+> &emsp;Ling Gao 可协助用户向 Microsoft 递交有关**网站错误**和**本地化问题**的反馈。请通过 [**“Ling 的 Windows Insider 小屋”**](https://teams.live.com/l/community/FEADGVjrvbHmT_d2QY) 私人 Teams 社区的 [“3. Windows Insider - 问题”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2QY) 频道分享线索。
 >
 > &emsp;根据《最有价值专家奖项条款》，“MVP 计划通过在参与者与 Microsoft 产品或工程团队间直接建立联系，将社区的声音融入 Microsoft 的技术路线图”。另据《最有价值专家行为准则》，“MVP 应对自己所说或所做的一切承担全部责任，包括基于在社区获得的建议所采取的行动”。您的反馈不会在传递中丢失。**请注意：Ling Gao 不是 Microsoft 公司员工，不能代表 Microsoft 公司立场、态度**。
 >
 > &emsp;本板块中的反馈独立于 [“灵糕中心”](https://github.com/Lingggao/LGHUB) 主板块，不参与数量统计。
 
-截至 2025 年 9 月，收录反馈 23 个。
+截至 2025 年 10 月，收录反馈 23 个。
 
 |      编号       |                             问题                             |        状态         |
 | :-------------: | :----------------------------------------------------------: | :-----------------: |
