@@ -28,31 +28,31 @@
 
 ## 总览
 
-| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2Qc) Microsoft Teams 社区 😽 |
+| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2Qg) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;在 [Microsoft Lists](https://lghub01-my.sharepoint.com/:l:/g/personal/ling_lghub01_onmicrosoft_com/FClnGu07sUVIgSgS1Wokae4BWoMWWF76fu0nGw-ioJ5FSw) 中访问灵糕中心&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 10 月 9 日 22:00 (UTC+8)。Star 数量：55 ⭐
+上次更新时间：2025 年 10 月 14 日 23:00 (UTC+8)。Star 数量：55 ⭐
 
-收录反馈 509 个，其中正在调查 29 个 (含[搁置](#3) 12 个)、正在处理 8 个、已修复 472 个。
+收录反馈 514 个，其中正在调查 34 个 (含[搁置](#3) 12 个)、正在处理 8 个、已修复 472 个。
 
-反馈更新记录：**今日更新反馈状态**。- Ling 🌡️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG509 - LG513**。- Ling 🌧️ [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27965 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                **[新]** 27965                |  2025/10/9  | [aka.ms/wip27965](https://blogs.windows.com/windows-insider/2025/10/08/announcing-windows-11-insider-preview-build-27965-canary-channel) |
-|       Dev        | 26220.6772 |   2025/10/7   | [aka.ms/wip-dev-10-6-25](https://blogs.windows.com/windows-insider/2025/10/06/announcing-windows-11-insider-preview-build-26220-6772-dev-channel) |
-|         Beta         | 26120.6772 |   2025/10/7   | [aka.ms/wip-beta-10-6-25](https://blogs.windows.com/windows-insider/2025/10/06/announcing-windows-11-insider-preview-build-26120-6772-beta-channel) |
+|        Canary        |                27965                |  2025/10/9  | [aka.ms/wip27965](https://blogs.windows.com/windows-insider/2025/10/08/announcing-windows-11-insider-preview-build-27965-canary-channel) |
+|       Dev        | 26220.6780 |   2025/10/11   | [aka.ms/wip-dev-10-10-25](https://blogs.windows.com/windows-insider/2025/10/10/announcing-windows-11-insider-preview-build-26220-6780-dev-channel) |
+|         Beta         | 26120.6780 |   2025/10/11   | [aka.ms/wip-beta-10-10-25](https://blogs.windows.com/windows-insider/2025/10/10/announcing-windows-11-insider-preview-build-26120-6780-beta-channel) |
 | Release Preview  | 26200.6718 |  2025/9/18  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/09/12/releasing-windows-11-builds-26100-6713-and-26200-6713-to-the-release-preview-channel) |
-| General Availability |    26200.6584    |  2025/10/1  | [support.microsoft.com](https://blogs.windows.com/windowsexperience/2025/09/30/how-to-get-the-windows-11-2025-update) |
+| General Availability |    26200.6725    |  2025/9/30  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5065789) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_1.png))
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_0.png))
 
 ---
 
@@ -64,8 +64,8 @@
 | :-------------: | :----------------------------------------------------------: | :------: |
 |       ——        |              [**Canary - 公告已知问题**](#0) ▼               |    ——    |
 | [LG504](#LG504) |   将文件从本地复制到网络共享驱动器时，文件资源管理器崩溃。   | 正在处理 |
-| [LG507](#LG507) | **点击 “设置”>“系统”>“存储” 中的驱动器信息时，设置菜单崩溃**。 | 正在处理 |
-| [LG508](#LG508) |              **媒体控件无法在锁定屏幕上显示**。              | 正在处理 |
+| [LG507](#LG507) |  点击 “设置”>“系统”>“存储” 中的驱动器信息时，设置菜单崩溃。  | 正在处理 |
+| [LG508](#LG508) |                媒体控件无法在锁定屏幕上显示。                | 正在处理 |
 | [LG429](#LG429) |                      电脑无法正常关机。                      | 正在处理 |
 | [LG496](#LG496) |                睡眠 / 待机功能无法正常工作。                 | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
@@ -88,6 +88,11 @@
 | [LG502](#LG502) |   即使已关闭应用，更新记事本时仍会提示 “应用正在使用中”。    | 正在调查 |
 | [LG503](#LG503) |         鼠标悬停提示可能挡住应用窗口的 “关闭” 按钮。         | 正在调查 |
 | [LG505](#LG505) |  将文件从 C 盘复制 / 移动到其他盘符时，文件资源管理器崩溃。  | 正在调查 |
+| [LG509](#LG509) |           **无法在小组件中登录 Microsoft 账户**。            | 正在调查 |
+| [LG510](#LG510) |              **部分软件显示 0x800F080C 错误**。              | 正在调查 |
+| [LG511](#LG511) |                **屏幕投影 (扩展) 功能卡顿**。                | 正在调查 |
+| [LG512](#LG512) |            **“照片” 应用中的编辑功能无法使用**。             | 正在调查 |
+| [LG513](#LG513) |                  **夜间模式无法自动关闭**。                  | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG460](#LG460) |           “电池限制” 功能在 Surface UEFI 中消失。            | 已修复 ✓ |
 | [LG491](#LG491) |                      USB 端口无法使用。                      | 已修复 ✓ |
@@ -237,7 +242,7 @@
 版本：Canary 27943 - 27965  
 **问题**：**电脑卡顿现象有所加重**。  
 状态：<img src="Images/L.png" width = "9%" />  
-典型反馈：[aka.ms/AAxuckd](https://aka.ms/AAxuckd)
+典型反馈：[aka.ms/AAxuckd](https://aka.ms/AAxuckd) & [aka.ms/AAyafln](https://aka.ms/AAyafln)
 
 ---
 
@@ -330,6 +335,52 @@
 **问题**：**将文件从 C 盘复制 / 移动到其他盘符时，文件资源管理器崩溃**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAy5klx](https://aka.ms/AAy5klx)
+
+---
+
+<SPAN ID = 'LG509'/>编号：LG509  
+日期：2025 年 10 月 14 日  
+版本：Canary 27965  
+**问题**：**无法在小组件中登录 Microsoft 账户**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAyafl8](https://aka.ms/AAyafl8) & [aka.ms/AAyan51](https://aka.ms/AAyan51) <img src="Images/M.png" width = "14%" />
+
+---
+
+<SPAN ID = 'LG510'/>编号：LG510  
+日期：2025 年 10 月 14 日  
+版本：Canary 27965  
+**问题**：**部分软件显示 0x800F080C 错误**。  
+状态：<img src="Images/L.png" width = "9%" />  
+Microsoft 官方回复：“从 Canary 27965 版本开始 .NET Framework 3.5 不再是 Windows 的可选组件。我们认为您遇到的错误与此有关。建议依赖旧版框架的客户迁移至现代 .NET 版本。若您运行的关键业务应用仍需依赖 .NET Framework 3.5，可在[此处](https://go.microsoft.com/fwlink/?linkid=2337635)获取独立安装程序。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
+典型反馈：[aka.ms/AAyan55](https://aka.ms/AAyan55) & [aka.ms/AAya7tb](https://aka.ms/AAya7tb)
+
+---
+
+<SPAN ID = 'LG511'/>编号：LG511  
+日期：2025 年 10 月 14 日  
+版本：Canary 27965  
+**问题**：**屏幕投影 (扩展) 功能卡顿**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAyan5c](https://aka.ms/AAyan5c)
+
+---
+
+<SPAN ID = 'LG512'/>编号：LG512  
+日期：2025 年 10 月 14 日  
+版本：ALL  
+**问题**：**“照片” 应用中的编辑功能无法使用**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAyan5f](https://aka.ms/AAyan5f)
+
+---
+
+<SPAN ID = 'LG513'/>编号：LG513  
+日期：2025 年 10 月 14 日  
+版本：Canary 27965  
+**问题**：**夜间模式无法自动关闭**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAya7tp](https://aka.ms/AAya7tp)
 
 <SPAN ID = '2'/>
 

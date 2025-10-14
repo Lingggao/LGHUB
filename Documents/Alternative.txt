@@ -409,29 +409,29 @@ https://aka.ms/AAv7t4d
 hey after update the 27954.1br my laptop i'll be heat and fam well be running every time . i thing background taks anything well be running ×
 https://aka.ms/AAy2lix
 
-任务栏隐藏出现残留图像 ✓
-https://aka.ms/AAy5klm
-
 Starting July 21 2025, trying to use M365 Copilot app, it shows error 0x800704cf / "you need internet for this" even though I have internet ×
 https://aka.ms/AAy10xr
 
-xbox game bar crashing ✓
-https://aka.ms/AAy553y
+小组件无法正常显示 ✓
+https://aka.ms/AAyan51
 
-"App in use" error when notepad is being updated in windows store even when notepad is closed. ✓
-https://aka.ms/AAy5cuj
+After the latest Windows 11 Insider updates (Oct 2025), I can no longer log into widgets. This is also leading to issues customizing what I see in... ✓
+https://aka.ms/AAyafl8
 
-Copying files from the local drive to a network shared drive crashes often Windows Explorer, so the files aren't fully copied to the shared network ✓
-https://aka.ms/AAy5541
+Starting in Build 27965, I've started seeing, error code 0x800F080C with some apps ✓
+https://aka.ms/AAyan55
 
-"Pop up" or "hover" menu prevents you from closing a window. ✓
-https://aka.ms/AAy5cul
+.NET Framework 3.5 is no longer available after Build 27965 ✓
+https://aka.ms/AAya7tb
 
-cloud gaming games will not launch ✓
-https://aka.ms/AAy5cup
+屏幕扩展 ✓
+https://aka.ms/AAyan5c
 
-All pinned apps in Task bar are gone after reboot. ✓
-https://aka.ms/AAy5klu
+The Edit option in Photos isn't working after the latest updates - just spins / doesn't load ✓
+https://aka.ms/AAyan5f
 
-problem with file manager ✓
-https://aka.ms/AAy5klx
+the device gets stuck a lot ✓
+https://aka.ms/AAyafln
+
+Night Light will not turn off automatically after logging into galaxy book4 edge after being in hibernation ✓
+https://aka.ms/AAya7tp
