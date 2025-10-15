@@ -48,7 +48,7 @@
 |       Dev        | 26220.6780 |   2025/10/11   | [aka.ms/wip-dev-10-10-25](https://blogs.windows.com/windows-insider/2025/10/10/announcing-windows-11-insider-preview-build-26220-6780-dev-channel) |
 |         Beta         | 26120.6780 |   2025/10/11   | [aka.ms/wip-beta-10-10-25](https://blogs.windows.com/windows-insider/2025/10/10/announcing-windows-11-insider-preview-build-26120-6780-beta-channel) |
 | Release Preview  | 26200.6718 |  2025/9/18  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/09/12/releasing-windows-11-builds-26100-6713-and-26200-6713-to-the-release-preview-channel) |
-| General Availability |    26200.6725    |  2025/9/30  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5065789) |
+| General Availability |    **[新]** 26200.6899    |  2025/10/15  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5066835) |
 
 <img src="Images/Graph_0.png" width = "93%" />
 
