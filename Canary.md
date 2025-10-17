@@ -1,43 +1,32 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27965 更新简报
+# WIP Canary 27971 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/10/9)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/10/17)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/10/08/announcing-windows-11-insider-preview-build-27965-canary-channel)、[中文更新公告]() (暂无)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/10/16/announcing-windows-11-insider-preview-build-27972-canary-channel)、[中文更新公告]() (暂无)。
 
 ## 一、新功能
 
-1. 全新开始菜单亮相。
-    - 支持滚动
-    - 尺寸更大
-    - 自适应布局
-    - 无缝跨设备
-
-<img src="Images/27965_1.png" width = "50%" />
-
-<img src="Images/27965_2.png" width = "50%" />
-
-<img src="Images/27965_3.png" width = "50%" />
-
-<img src="Images/27965_4.png" width = "50%" />
+无
 
 ## 二、变更和改进
 
-1. .NET Framework 3.5 不再作为可选组件提供。
-2. 命令行文本编辑器 Edit 随 Windows 系统提供。
+1. 将通知中心的功能扩展至辅助显示器。
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/10/08/announcing-windows-11-insider-preview-build-27965-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/10/16/announcing-windows-11-insider-preview-build-27972-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “无法自动隐藏任务栏” 的问题。
-2. 修复了 “视频和游戏画面变红” 的问题。
-3. 修复了 “受保护视频无法正常播放” 的问题。
+1. 修复了 “将文件复制到网络共享驱动器时崩溃” 的问题。
+2. 修复了 “媒体控件无法在锁定屏幕上显示” 的问题。
+3. 修复了 “触控笔和手写功能无法正常工作” 的问题。
+4. 修复了 “受保护内容播放失败” 的问题。
+5. 修复了 “Hyper-V 虚拟机启动失败，显示 TPM 故障” 的问题。
 
 [**WIP Canary 往期简报**](Documents/Canary_Previous)
 
