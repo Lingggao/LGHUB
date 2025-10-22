@@ -412,26 +412,32 @@ https://aka.ms/AAy2lix
 Starting July 21 2025, trying to use M365 Copilot app, it shows error 0x800704cf / "you need internet for this" even though I have internet ×
 https://aka.ms/AAy10xr
 
-小组件无法正常显示 ✓
-https://aka.ms/AAyan51
+[Build 27971] 任务管理器中的以管理员身份运行任务管理器功能不能正常工作 ✓
+https://aka.ms/AAyclhi
 
-After the latest Windows 11 Insider updates (Oct 2025), I can no longer log into widgets. This is also leading to issues customizing what I see in... ✓
-https://aka.ms/AAyafl8
+[Build 27971] 直接关闭任务管理器窗口不会结束当前任务管理器的进程 ✓
+https://aka.ms/AAyclhk
 
-Starting in Build 27965, I've started seeing, error code 0x800F080C with some apps ✓
-https://aka.ms/AAyan55
+Light / Dark mode is suddenly automatically switching away from what I selected (Oct 16 2025) ✓
+https://aka.ms/AAybp5y
 
-.NET Framework 3.5 is no longer available after Build 27965 ✓
-https://aka.ms/AAya7tb
+Task Manager starts up automatically every time after reboot ✓
+https://aka.ms/AAyc19b
 
-屏幕扩展 ✓
-https://aka.ms/AAyan5c
+Hyper-V Enhanced session non-functional when using PIN login with Microsoft Account ✓
+https://aka.ms/AAybm47
 
-The Edit option in Photos isn't working after the latest updates - just spins / doesn't load ✓
-https://aka.ms/AAyan5f
+No access to disable or enable Task manager in PowerShell 7.5.3 ✓
+https://aka.ms/AAybtih
 
-the device gets stuck a lot ✓
-https://aka.ms/AAyafln
+SLOW LOADING AT STARTUP ×
+https://aka.ms/AAyc19g
 
-Night Light will not turn off automatically after logging into galaxy book4 edge after being in hibernation ✓
-https://aka.ms/AAya7tp
+Cannot boot in safe mode build 27971 ✓
+https://aka.ms/AAybm4c
+
+For some reason, in Windows 11 File Explorer I'm seeing two entries for my OneDrive personal account in the navigation pane, although there should... ✓
+https://aka.ms/AAyc19h
+
+File Explorer Preview shortcut <Alt>-P does not return ×
+https://aka.ms/AAybm4e

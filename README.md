@@ -28,31 +28,31 @@
 
 ## 总览
 
-| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2Qk) Microsoft Teams 社区 😽 |
+| 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2Qo) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;在 [Microsoft Lists](https://lghub01-my.sharepoint.com/:l:/g/personal/ling_lghub01_onmicrosoft_com/FClnGu07sUVIgSgS1Wokae4BWoMWWF76fu0nGw-ioJ5FSw) 中访问灵糕中心&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 10 月 17 日 17:00 (UTC+8)。Star 数量：55 ⭐
+上次更新时间：2025 年 10 月 22 日 22:00 (UTC+8)。Star 数量：55 ⭐
 
-收录反馈 515 个，其中正在调查 29 个 (含[搁置](#3) 12 个)、正在处理 4 个、已修复 482 个。
+收录反馈 523 个，其中正在调查 36 个 (含[搁置](#3) 12 个)、正在处理 5 个、已修复 482 个。
 
-反馈更新记录：**今日更新反馈状态**。- Ling 🫚 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日更新 LG515 - 522**。- Ling 💐 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 27971 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                **[新]** 27971                |  2025/10/17  | [aka.ms/wip27971](https://blogs.windows.com/windows-insider/2025/10/16/announcing-windows-11-insider-preview-build-27972-canary-channel) |
-|       Dev        | 26220.6780 |   2025/10/11   | [aka.ms/wip-dev-10-10-25](https://blogs.windows.com/windows-insider/2025/10/10/announcing-windows-11-insider-preview-build-26220-6780-dev-channel) |
-|         Beta         | 26120.6780 |   2025/10/11   | [aka.ms/wip-beta-10-10-25](https://blogs.windows.com/windows-insider/2025/10/10/announcing-windows-11-insider-preview-build-26120-6780-beta-channel) |
-| Release Preview  | 26200.6718 |  2025/9/18  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/09/12/releasing-windows-11-builds-26100-6713-and-26200-6713-to-the-release-preview-channel) |
-| General Availability |    **[新]** 26200.6899    |  2025/10/15  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5066835) |
+|        Canary        |                27971                |  2025/10/17  | [aka.ms/wip27971](https://blogs.windows.com/windows-insider/2025/10/16/announcing-windows-11-insider-preview-build-27972-canary-channel) |
+|       Dev        | 26220.6972 |   2025/10/18   | [aka.ms/wip-dev-10-17-25](https://blogs.windows.com/windows-insider/2025/10/17/announcing-windows-11-insider-preview-build-26220-6972-dev-channel) |
+|         Beta         | 26120.6972 |   2025/10/18   | [aka.ms/wip-beta-10-17-25](https://blogs.windows.com/windows-insider/2025/10/17/announcing-windows-11-insider-preview-build-26120-6972-beta-channel) |
+| Release Preview  | **[新]** 26200.7015 |  2025/10/22  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/10/21/releasing-windows-11-builds-26100-7015-and-26200-7015-to-the-release-preview-channel) |
+| General Availability |    **[新]** 26200.6901    |  2025/10/21  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5070773) |
 
-<img src="Images/Graph_1.png" width = "93%" />
+<img src="Images/Graph_0.png" width = "93%" />
 
-统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_1.png))
+统计图 - 2024 年 ([1 - 4 月](Images/Graph_2401_2404.png) · [5 - 8 月](Images/Graph_2405_2408.png) · [9 - 12 月](Images/Graph_2409_2412.png)) | 2025 年 ([1 - 4 月](Images/Graph_2501_2504.png) · [5 - 8 月](Images/Graph_2505_2508.png) · [9 - 12 月](Images/Graph_0.png))
 
 ---
 
@@ -64,7 +64,7 @@
 | :-------------: | :----------------------------------------------------------: | :------: |
 |       ——        |              [**Canary - 公告已知问题**](#0) ▼               |    ——    |
 | [LG507](#LG507) |  点击 “设置”>“系统”>“存储” 中的驱动器信息时，设置菜单崩溃。  | 正在处理 |
-| [LG514](#LG514) |             **新版开始菜单可能自动滚动至顶部**。             | 正在处理 |
+| [LG514](#LG514) |               新版开始菜单可能自动滚动至顶部。               | 正在处理 |
 | [LG429](#LG429) |                      电脑无法正常关机。                      | 正在处理 |
 | [LG496](#LG496) |                睡眠 / 待机功能无法正常工作。                 | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
@@ -84,6 +84,14 @@
 | [LG511](#LG511) |                  屏幕投影 (扩展) 功能卡顿。                  | 正在调查 |
 | [LG512](#LG512) |              “照片” 应用中的编辑功能无法使用。               | 正在调查 |
 | [LG513](#LG513) |                    夜间模式无法自动关闭。                    | 正在调查 |
+| [LG515](#LG515) |   **任务管理器中的 “以管理员身份运行” 功能无法正常工作**。   | 正在调查 |
+| [LG516](#LG516) | **关闭任务管理器窗口时其进程不会自动关闭，而是一直在后台运行**。 | 正在调查 |
+| [LG517](#LG517) |          **每次重启电脑后任务管理器都会自动启动**。          | 正在调查 |
+| [LG518](#LG518) |            **无法通过修改注册表禁用任务管理器**。            | 正在调查 |
+| [LG519](#LG519) |              **深色 / 浅色模式突然自动切换**。               | 正在处理 |
+| [LG520](#LG520) | **使用 PIN 登录至 Windows 时，Hyper-V 增强会话无法正常工作**。 | 正在调查 |
+| [LG521](#LG521) |           **以安全模式启动 Windows 时电脑绿屏**。            | 正在调查 |
+| [LG522](#LG522) |      **文件资源管理器的导航窗格中出现两个 OneDrive**。       | 正在调查 |
 |       ——        | [**Canary - 用户反馈问题**](#1) ▲ \| ▼ [**Canary - 归档 (已做出更改 0 - 7 天)**](#2) |    ——    |
 | [LG504](#LG504) |   将文件从本地复制到网络共享驱动器时，文件资源管理器崩溃。   | 已修复 ✓ |
 | [LG508](#LG508) |                媒体控件无法在锁定屏幕上显示。                | 已修复 ✓ |
@@ -294,6 +302,79 @@
 **问题**：**夜间模式无法自动关闭**。  
 状态：<img src="Images/L.png" width = "9%" />  
 典型反馈：[aka.ms/AAya7tp](https://aka.ms/AAya7tp)
+
+---
+
+<SPAN ID = 'LG515'/>编号：LG515  
+日期：2025 年 10 月 22 日  
+版本：Canary 27971  
+**问题**：**任务管理器中的 “以管理员身份运行” 功能无法正常工作**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAyclhi](https://aka.ms/AAyclhi)
+
+---
+
+<SPAN ID = 'LG516'/>编号：LG516  
+日期：2025 年 10 月 22 日  
+版本：Canary 27971  
+**问题**：**关闭任务管理器窗口时其进程不会自动关闭，而是一直在后台运行**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAyclhk](https://aka.ms/AAyclhk)
+
+---
+
+<SPAN ID = 'LG517'/>编号：LG517  
+日期：2025 年 10 月 22 日  
+版本：Canary 27971  
+**问题**：**每次重启电脑后任务管理器都会自动启动**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAyc19b](https://aka.ms/AAyc19b)
+
+---
+
+<SPAN ID = 'LG518'/>编号：LG518  
+日期：2025 年 10 月 22 日  
+版本：Canary 27971  
+**问题**：**无法通过修改注册表禁用任务管理器**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAybtih](https://aka.ms/AAybtih)
+
+---
+
+<SPAN ID = 'LG519'/>编号：LG519  
+日期：2025 年 10 月 22 日  
+版本：PowerToys  
+**问题**：**深色 / 浅色模式突然自动切换**。  
+状态：<img src="Images/W.png" width = "9%" />  
+Microsoft 官方回复：“推测您可能是 PowerToys 用户。此工具新增了自动切换主题功能，默认处于开启状态。GitHub 中有一个 [Issue](https://github.com/microsoft/PowerToys/issues/42386) 跟踪此问题。” *(Ling 译)* <img src="Images/M.png" width = "14%" />  
+典型反馈：[aka.ms/AAybp5y](https://aka.ms/AAybp5y)
+
+---
+
+<SPAN ID = 'LG520'/>编号：LG520  
+日期：2025 年 10 月 22 日  
+版本：Canary 27971  
+**问题**：**使用 PIN 登录至 Windows 时，Hyper-V 增强会话无法正常工作**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAybm47](https://aka.ms/AAybm47)
+
+---
+
+<SPAN ID = 'LG521'/>编号：LG521  
+日期：2025 年 10 月 22 日  
+版本：Canary 27971  
+**问题**：**以安全模式启动 Windows 时电脑绿屏**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAybm4c](https://aka.ms/AAybm4c)
+
+---
+
+<SPAN ID = 'LG522'/>编号：LG522  
+日期：2025 年 10 月 22 日  
+版本：Canary 27971  
+**问题**：**文件资源管理器的导航窗格中出现两个 OneDrive**。  
+状态：<img src="Images/L.png" width = "9%" />  
+典型反馈：[aka.ms/AAyc19h](https://aka.ms/AAyc19h)
 
 <SPAN ID = '2'/>
 
