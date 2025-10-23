@@ -1,7 +1,8 @@
 <div align="center">
 <img src="Images/11 years.jpg" width = "60%" />
 </div>
-  
+
+&emsp;&emsp;
 
 Time flies! We’re finally reaching the 11th anniversary of the Windows Insider Program. Looking back, the 10th anniversary seems like only a short time ago. Seeing the program go through another vibrant and exciting year fills me with gratitude and excitement.
 
@@ -11,11 +12,11 @@ There's probably no other that allows you to collaborate with Microsoft employee
 
 I can’t wait to start our twelfth year with all of you, bringing Microsoft’s mission to life around the world and empowering people everywhere to achieve more. Happy 12th birthday to the Windows Insider Program!
 
-  
+&emsp;&emsp;
 
 \- **Ling Gao**  
-Microsoft Management Community Champion,
-Windows Commercial & Cloud Champion
+Microsoft Management Community Champion,  
+Windows Commercial & Cloud Champion  
 October 23, 2025, Shanghai, China
 
 <img src="Images/Microsoft MCC.png" width = "12%" /> <img src="Images/WCC2024_2.png" width = "12%" /> <img src="Images/WCC2024_1.png" width = "12%" />
