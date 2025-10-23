@@ -10,7 +10,7 @@ I have been a Windows Insider since February 2018, for more than seven years. Du
 
 There's probably no other that allows you to collaborate with Microsoft employees, partners, and Windows Insiders around the world to fight bugs and shape the future of Windows. Our achievements have the power to change the world. These changes will be reflected on more than one billion devices worldwide, providing hundreds of millions of people with a better, more convenient experience. Thanks to the attention of the Microsoft and WIP teams and the joint efforts of Insiders worldwide, we have undoubtedly created two successful, high-quality products: Windows 10 and Windows 11.
 
-I can’t wait to start our twelfth year with all of you, bringing Microsoft’s mission to life around the world and empowering people everywhere to achieve more. Happy 12th birthday to the Windows Insider Program! 🎂🥳🎉
+I can’t wait to start our twelfth year with all of you, bringing Microsoft’s mission to life around the world and empowering people everywhere to achieve more. Happy 11th birthday to the Windows Insider Program! 🎂🥳🎉
 
 &emsp;&emsp;
 
