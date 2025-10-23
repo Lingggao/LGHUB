@@ -1,4 +1,7 @@
-
+<div align="center">
+<img src="Images/11 years.jpg" width = "60%" />
+</div>
+  
 
 Time flies! We’re finally reaching the 11th anniversary of the Windows Insider Program. Looking back, the 10th anniversary seems like only a short time ago. Seeing the program go through another vibrant and exciting year fills me with gratitude and excitement.
 
@@ -7,3 +10,12 @@ I have been a Windows Insider since February 2018, for more than seven years. Du
 There's probably no other that allows you to collaborate with Microsoft employees, partners, and Windows Insiders around the world to fight bugs and shape the future of Windows. Our achievements have the power to change the world. These changes will be reflected on more than one billion devices worldwide, providing hundreds of millions of people with a better, more convenient experience. Thanks to the attention of the Microsoft and WIP teams and the joint efforts of Insiders worldwide, we have undoubtedly created two successful, high-quality products: Windows 10 and Windows 11.
 
 I can’t wait to start our twelfth year with all of you, bringing Microsoft’s mission to life around the world and empowering people everywhere to achieve more. Happy 12th birthday to the Windows Insider Program!
+
+  
+
+\- **Ling Gao**  
+Microsoft Management Community Champion,
+Windows Commercial & Cloud Champion
+October 23, 2025, Shanghai, China
+
+<img src="Images/Microsoft MCC.png" width = "12%" /> <img src="Images/WCC2024_2.png" width = "12%" /> <img src="Images/WCC2024_1.png" width = "12%" />
