@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27975 更新简报
+# WIP Canary 27971 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/10/26)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/10/17)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/10/23/announcing-windows-11-insider-preview-build-27975-canary-channel)、[中文更新公告](https://aka.ms/AAydd1e)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/10/16/announcing-windows-11-insider-preview-build-27972-canary-channel)、[中文更新公告]() (暂无)。
 
 ## 一、新功能
 
@@ -14,17 +14,19 @@
 
 ## 二、变更和改进
 
-1. 改善了系统整体体验。
+1. 将通知中心的功能扩展至辅助显示器。
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/10/23/announcing-windows-11-insider-preview-build-27975-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/10/16/announcing-windows-11-insider-preview-build-27972-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “触摸键盘无法正常工作” 的问题。
-2. 修复了 “更新后 Windows Hello PIN 不可用” 的问题。
-3. 修复了 “点击驱动器信息时设置菜单崩溃” 的问题。
+1. 修复了 “将文件复制到网络共享驱动器时崩溃” 的问题。
+2. 修复了 “媒体控件无法在锁定屏幕上显示” 的问题。
+3. 修复了 “触控笔和手写功能无法正常工作” 的问题。
+4. 修复了 “受保护内容播放失败” 的问题。
+5. 修复了 “Hyper-V 虚拟机启动失败，显示 TPM 故障” 的问题。
 
 [**WIP Canary 往期简报**](Documents/Canary_Previous)
 

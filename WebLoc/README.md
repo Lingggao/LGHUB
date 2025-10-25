@@ -359,7 +359,7 @@
 
 [回到顶部](#HEAD)
 
-<img src="Images/CC.png" width = "3%" /> <img src="Images/BY.png" width = "3%" /> <img src="Images/SA.png" width = "3%" />
+<img src="https://github.com/Lingggao/LGHUB/blob/main/Images/CC.png?raw=true" width = "3%" /> <img src="https://github.com/Lingggao/LGHUB/blob/main/Images/BY.png?raw=true" width = "3%" /> <img src="https://github.com/Lingggao/LGHUB/blob/main/Images/SA.png?raw=true" width = "3%" />
 
 在 “[署名 - 相同方式共享 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans)” 协议 (CC BY-SA 4.0) 之条款下提供。
 
