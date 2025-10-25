@@ -34,7 +34,7 @@
 | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;在 [Microsoft Lists](https://lghub01-my.sharepoint.com/:l:/g/personal/ling_lghub01_onmicrosoft_com/FClnGu07sUVIgSgS1Wokae4BWoMWWF76fu0nGw-ioJ5FSw) 中访问灵糕中心&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :----------------------------------------------------------: |
 
-上次更新时间：2025 年 10 月 22 日 22:00 (UTC+8)。Star 数量：55 ⭐
+上次更新时间：2025 年 10 月 22 日 22:00 (UTC+8)。Star 数量：54 ⭐
 
 收录反馈 523 个，其中正在调查 36 个 (含[搁置](#3) 12 个)、正在处理 5 个、已修复 482 个。
 
