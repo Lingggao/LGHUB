@@ -36,7 +36,7 @@
 
 上次更新时间：2025 年 11 月 5 日 12:00 (UTC+8)。Star 数量：54 ⭐
 
-收录反馈 530 个，其中正在调查 32 个 (含[搁置](#3) 12 个)、正在处理 5 个、已修复 493 个。
+收录反馈 530 个，其中正在调查 30 个 (含[搁置](#3) 12 个)、正在处理 5 个、已修复 495 个。
 
 反馈更新记录：**今日更新 LG523 - LG529**。- Ling 🧊 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
