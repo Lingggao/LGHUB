@@ -412,32 +412,32 @@ https://aka.ms/AAy2lix
 Starting July 21 2025, trying to use M365 Copilot app, it shows error 0x800704cf / "you need internet for this" even though I have internet ×
 https://aka.ms/AAy10xr
 
-[Build 27971] 任务管理器中的以管理员身份运行任务管理器功能不能正常工作 ✓
-https://aka.ms/AAyclhi
-
-[Build 27971] 直接关闭任务管理器窗口不会结束当前任务管理器的进程 ✓
-https://aka.ms/AAyclhk
-
-Light / Dark mode is suddenly automatically switching away from what I selected (Oct 16 2025) ✓
-https://aka.ms/AAybp5y
-
-Task Manager starts up automatically every time after reboot ✓
-https://aka.ms/AAyc19b
-
-Hyper-V Enhanced session non-functional when using PIN login with Microsoft Account ✓
-https://aka.ms/AAybm47
-
-No access to disable or enable Task manager in PowerShell 7.5.3 ✓
-https://aka.ms/AAybtih
-
 SLOW LOADING AT STARTUP ×
 https://aka.ms/AAyc19g
 
-Cannot boot in safe mode build 27971 ✓
-https://aka.ms/AAybm4c
-
-For some reason, in Windows 11 File Explorer I'm seeing two entries for my OneDrive personal account in the navigation pane, although there should... ✓
-https://aka.ms/AAyc19h
-
 File Explorer Preview shortcut <Alt>-P does not return ×
 https://aka.ms/AAybm4e
+
+11 year anniversary badge for the Windows Insider Program in the Feedback Hub shows as "not earned" ✓
+https://aka.ms/AAyj5kz
+
+The option to switch from Dev to Beta is greyed out, although the blog post said it should work once you were on Build 26220.7051 ✓
+https://aka.ms/AAyi6dp
+
+WinGetCOM-<yesterday>.log has a size of 280,9 GB ✓
+https://aka.ms/AAyjd7f
+
+After the latest Windows 11 updates, the Weather app is extremely slow to load - getting stuck at a blank page for a long time ✓
+https://aka.ms/AAyjd7m
+
+Cross Device Service high memory usage ✓
+https://aka.ms/AAyjd7o
+
+With the new Start menu in the latest Windows 11 builds, when I click an app in a folder to launch it, the next time I open Start menu the folder... ✓
+https://aka.ms/AAyj5lp
+
+Animation effects are disabled after every upgrade ✓
+https://aka.ms/AAyi6e4
+
+Explorer tab clicked again while files selected deactivates the tab ×
+https://aka.ms/AAyj5lu

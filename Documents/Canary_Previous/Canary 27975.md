@@ -1,12 +1,12 @@
 <SPAN ID = 'HEAD'/>
 
-# WIP Canary 27982 更新简报
+# WIP Canary 27975 更新简报
 
 > [!TIP]
 >
-> &emsp;Ling Gao 制 (2025/11/5)，不代表 Microsoft 公司立场、态度。
+> &emsp;Ling Gao 制 (2025/10/26)，不代表 Microsoft 公司立场、态度。
 >
-> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/11/04/announcing-windows-11-insider-preview-build-27982-canary-channel)、[中文更新公告]() (暂无)。
+> &emsp;鼓励阅读官方原文：[英文更新公告](https://blogs.windows.com/windows-insider/2025/10/23/announcing-windows-11-insider-preview-build-27975-canary-channel)、[中文更新公告](https://aka.ms/AAydd1e)。
 
 ## 一、新功能
 
@@ -14,20 +14,17 @@
 
 ## 二、变更和改进
 
-1. 优化了锁屏界面小组件的体验。
-2. 小组件中的仪表板提供更多放置空间。
-3. 拖拽文件时屏幕顶部出现文件共享托盘。
+1. 改善了系统整体体验。
 
 ## 三、修复 & 已知问题
 
-详见[官方原文](https://blogs.windows.com/windows-insider/2025/11/04/announcing-windows-11-insider-preview-build-27982-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
+详见[官方原文](https://blogs.windows.com/windows-insider/2025/10/23/announcing-windows-11-insider-preview-build-27975-canary-channel)和[灵糕中心](https://github.com/Lingggao/LGHUB)。
 
 部分重要修复：
 
-1. 修复了 “Microsoft Visio 应用卡死” 的问题。
-2. 修复了 “ARM64 设备玩游戏时崩溃” 的问题。
-3. 修复了 “explorer.exe 反复崩溃” 的问题。
-4. 修复了 “多行文本框中的内容无法正确呈现” 的问题。
+1. 修复了 “触摸键盘无法正常工作” 的问题。
+2. 修复了 “更新后 Windows Hello PIN 不可用” 的问题。
+3. 修复了 “点击驱动器信息时设置菜单崩溃” 的问题。
 
 [**WIP Canary 往期简报**](Documents/Canary_Previous)
 
