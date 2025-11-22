@@ -418,26 +418,47 @@ https://aka.ms/AAyc19g
 File Explorer Preview shortcut <Alt>-P does not return ×
 https://aka.ms/AAybm4e
 
-11 year anniversary badge for the Windows Insider Program in the Feedback Hub shows as "not earned" ✓
-https://aka.ms/AAyj5kz
-
-The option to switch from Dev to Beta is greyed out, although the blog post said it should work once you were on Build 26220.7051 ✓
-https://aka.ms/AAyi6dp
-
-WinGetCOM-<yesterday>.log has a size of 280,9 GB ✓
-https://aka.ms/AAyjd7f
-
-After the latest Windows 11 updates, the Weather app is extremely slow to load - getting stuck at a blank page for a long time ✓
-https://aka.ms/AAyjd7m
-
-Cross Device Service high memory usage ✓
-https://aka.ms/AAyjd7o
-
-With the new Start menu in the latest Windows 11 builds, when I click an app in a folder to launch it, the next time I open Start menu the folder... ✓
-https://aka.ms/AAyj5lp
-
-Animation effects are disabled after every upgrade ✓
-https://aka.ms/AAyi6e4
-
 Explorer tab clicked again while files selected deactivates the tab ×
 https://aka.ms/AAyj5lu
+
+Feedback hub aka links are broken starting on Nov 11 2025 ✓
+https://aka.ms/AAyq1fi
+
+媒体播放器中，排序序列时，汉语拼音序列与英文字母序列未合并。✓
+https://aka.ms/AAymi1w
+
+In the Canary Channel, when the energy saver mode is on, Win32 app's acrylic is strange ✓
+https://aka.ms/AAypm46
+
+Quick Machine Recovery toggle is bugged. ✓
+https://aka.ms/AAyptsx
+
+The WebView2 process for Windows Widgets is causing a memory leak ✓
+https://aka.ms/AAyj6sv
+
+After the latest Dev and Beta builds, when using autohide taskbar, the taskbar invokes before my mouse actually touches the bottom of the screen,... ×
+https://aka.ms/AAypm4b
+
+Bluetooth battery level is not displayed anymore after the latest dev / beta builds ×
+https://aka.ms/AAyq1fl
+
+Drop shadows are broken in Beta channel ×
+https://aka.ms/AAyptt0
+
+Slow loading. 26H1 ×
+https://aka.ms/AAypm4d
+
+Storage Space no longer mounts as of the last few insider builds ✓
+https://aka.ms/AAyq1fo
+
+一个设置对部分应用存在兼容性问题 ✓
+https://aka.ms/AAyui4r
+
+After the latest Windows 11 updates, File Explorer flashes white when navigating through pages in dark mode ✓
+https://aka.ms/AAyui4u
+
+28000.1199 + Administrator Protection freeze device ✓
+https://aka.ms/AAyupuk
+
+Win11sdk_10.0.26100 is not installing in Canary Channel ✓
+https://aka.ms/AAyui4v
