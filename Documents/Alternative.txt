@@ -421,21 +421,6 @@ https://aka.ms/AAybm4e
 Explorer tab clicked again while files selected deactivates the tab ×
 https://aka.ms/AAyj5lu
 
-Feedback hub aka links are broken starting on Nov 11 2025 ✓
-https://aka.ms/AAyq1fi
-
-媒体播放器中，排序序列时，汉语拼音序列与英文字母序列未合并。✓
-https://aka.ms/AAymi1w
-
-In the Canary Channel, when the energy saver mode is on, Win32 app's acrylic is strange ✓
-https://aka.ms/AAypm46
-
-Quick Machine Recovery toggle is bugged. ✓
-https://aka.ms/AAyptsx
-
-The WebView2 process for Windows Widgets is causing a memory leak ✓
-https://aka.ms/AAyj6sv
-
 After the latest Dev and Beta builds, when using autohide taskbar, the taskbar invokes before my mouse actually touches the bottom of the screen,... ×
 https://aka.ms/AAypm4b
 
@@ -448,17 +433,56 @@ https://aka.ms/AAyptt0
 Slow loading. 26H1 ×
 https://aka.ms/AAypm4d
 
-Storage Space no longer mounts as of the last few insider builds ✓
-https://aka.ms/AAyq1fo
+Microsoft store“评分与评价”不可用 ✓
+https://aka.ms/AAz0iev
 
-一个设置对部分应用存在兼容性问题 ✓
-https://aka.ms/AAyui4r
+设置主页性能问题 ✓
+https://aka.ms/AAz0q49
 
-After the latest Windows 11 updates, File Explorer flashes white when navigating through pages in dark mode ✓
-https://aka.ms/AAyui4u
+复制站体大量小文件时文件资源管理器崩溃 ×
+https://aka.ms/AAz0iew
 
-28000.1199 + Administrator Protection freeze device ✓
-https://aka.ms/AAyupuk
+用图片做壁纸，息屏之后从新亮屏，不显示图片，有黑屏现象 ×
+https://aka.ms/AAz0q4b
 
-Win11sdk_10.0.26100 is not installing in Canary Channel ✓
-https://aka.ms/AAyui4v
+安装了 KB5068860 28000.1199 后显示 UAC 界面会导致系统无响应 ✓
+https://aka.ms/AAz0apf
+
+系统设置打开动画效果导致我wallpaper壁纸闪屏 ✓
+https://aka.ms/AAz0if1
+
+26H1 WinRE 的启动设置界面无法使用 USB 设备 ×
+https://aka.ms/AAyvi5m
+
+更新的问题 ×
+https://aka.ms/AAz0q4f
+
+I lost activation on my Windows 11 PC after a bios update ×
+https://aka.ms/AAyxi85
+
+25h2 Install error - 0x8007042b ×
+https://aka.ms/AAz0apm
+
+Outlook is crashing on launch starting Dec 4 2025 ✓
+https://aka.ms/AAz0apq
+
+Boot issue ✓
+https://aka.ms/AAz0q4i
+
+Games with easy anticheat, like war thunder, do not launch in Build 27754 ✓
+https://aka.ms/AAtkikf
+
+CoPilot Discover Preview fails to honor card selections ×
+https://aka.ms/AAz0q4n
+
+Can't see devices in my MS account online ✓
+https://aka.ms/AAz0apv
+
+Sleep / Standby is not working properly on my PC after upgrading to Build 29750 ×
+https://aka.ms/AAy2t62
+
+Can't safe-remove USB devices using the tray thing if Task Manager is opened ✓
+https://aka.ms/AAz0aq0
+
+System doesn't keep personalization settings between startups. Have to reset them all the time. ✓
+https://aka.ms/AAz0ifk
