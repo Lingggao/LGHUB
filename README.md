@@ -28,7 +28,7 @@
 
 ## 总览
 
-| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🥳 庆祝 [灵糕中心](https://github.com/Lingggao/LGHUB) 成立两周年 🎉&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🥳 庆祝 [灵糕中心](https://github.com/Lingggao/LGHUB) 成立两周年 🎉&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | :----------------------------------------------------------: |
 
 | 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2RQ) Microsoft Teams 社区 😽 |
