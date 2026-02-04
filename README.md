@@ -31,21 +31,21 @@
 | 😸 欢迎加入 [“Ling 的 Windows Insider 小屋”](https://teams.live.com/l/community/FEADGVjrvbHmT_d2RY) Microsoft Teams 社区 😽 |
 | :----------------------------------------------------------: |
 
-上次更新时间：2026 年 1 月 15 日 23:00 (UTC+8)。Star 数量：56 ⭐
+上次更新时间：2026 年 2 月 4 日 14:00 (UTC+8)。Star 数量：56 ⭐
 
 收录反馈 550 个，其中正在调查 21 个 (含[搁置](#3) 13 个)、正在处理 3 个、已修复 526 个。
 
-反馈更新记录：**今日更新反馈状态**。- Ling 🐈 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [Microsoft Lists](https://lghub01-my.sharepoint.com/:l:/g/personal/ling_lghub_org/JAApZxrtO7FFSIEoEtVqJGnuAVqDFlhe-n7tJxsPoqCeRUs?e=S6HY0N) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
+反馈更新记录：**今日无更新**。- Ling 😇 [总览图](https://raw.githubusercontent.com/Lingggao/LGHUB/main/Images/Linggao%20Hub.png) | [Microsoft Lists](https://lghub01-my.sharepoint.com/:l:/g/personal/ling_lghub_org/JAApZxrtO7FFSIEoEtVqJGnuAVqDFlhe-n7tJxsPoqCeRUs?e=S6HY0N) | [反馈更新记录](Documents/Update_Feedback.md) | [平台更新记录](Documents/Update_Platform.md)
 
 [**WIP Canary 28020.1371 更新简报**](Canary.md) | [往期简报](Documents/Canary_Previous)
 
 |         频道         |              最新版本               | 时间 (UTC+8) | 公告 |
 | :------------------: | :---------------------------------: | :----------: | :------------------: |
-|        Canary        |                **[新]** 28020.1371                |  2026/1/15  | [aka.ms/WIP-Canary-1-14-2026](https://blogs.windows.com/windows-insider/2026/01/14/announcing-windows-11-insider-preview-build-28020-1371-canary-channel) |
-|       Dev        | 26220.7535 |   2026/1/10   | [aka.ms/WIP-Dev-Beta-1-9-2026](https://blogs.windows.com/windows-insider/2026/01/09/announcing-windows-11-insider-preview-build-26220-7535-dev-beta-channels) |
-|         Beta         | 26220.7535 |   2026/1/10   | [aka.ms/WIP-Dev-Beta-1-9-2026](https://blogs.windows.com/windows-insider/2026/01/09/announcing-windows-11-insider-preview-build-26220-7535-dev-beta-channels) |
-| Release Preview  | 26200.7309 |  2025/11/27  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2025/11/17/releasing-windows-11-builds-26100-7296-and-26200-7296-to-the-release-preview-channel) |
-| General Availability |    **[新]** 26200.7623    |  2026/1/14  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5074109) |
+|        Canary        |                28020.1495                |  2026/1/29  | [aka.ms/WIP-Canary-1-28-2026](https://blogs.windows.com/windows-insider/2026/01/28/announcing-windows-11-insider-preview-build-28020-1495-canary-channel) |
+|       Dev        | **[新]** 26300.7733 |   2026/2/4   | [aka.ms/WIP-Dev-2-3-2026](https://blogs.windows.com/windows-insider/2026/02/03/announcing-windows-11-insider-preview-build-26300-7733-dev-channel) |
+|         Beta         | **[新]** 26220.7752 |   2026/2/4   | [aka.ms/WIP-Beta-2-3-2026](https://blogs.windows.com/windows-insider/2026/02/03/announcing-windows-11-insider-preview-build-26220-7752-beta-channel) |
+| Release Preview  | 26200.7701 |  2026/1/28  | [blogs.windows.com](https://blogs.windows.com/windows-insider/2026/01/27/releasing-windows-11-builds-26100-7701-and-26200-7701-to-the-release-preview-channel) |
+| General Availability |    26200.7705    |  2026/1/30  | [support.microsoft.com](https://support.microsoft.com/en-us/help/5074105) |
 
 <img src="Images/Graph_1.png" width = "93%" />
 
@@ -61,7 +61,7 @@
 |      编号       |                             问题                             |   状态   |
 | :-------------: | :----------------------------------------------------------: | :------: |
 |       ——        |              [**Canary - 公告已知问题**](#0) ▼               |    ——    |
-| [LG549](#LG549) |          **电脑桌面 Insider 水印显示错误的版本号**           | 正在处理 |
+| [LG549](#LG549) |            电脑桌面 Insider 水印显示错误的版本号             | 正在处理 |
 |       ——        | [**Canary - 公告已知问题**](#0) ▲ \| ▼ [**Canary - 用户反馈问题**](#1) |    ——    |
 |       ——        |        ***注**：长期未修复的问题收录于[搁置](#3)板块*        |    ——    |
 | [LG429](#LG429) |                       电脑无法正常关机                       | 正在处理 |
