@@ -16,7 +16,7 @@
 
 > [!IMPORTANT]
 >
-> &emsp;灵糕中心为独立非营利组织，与其他企业不构成隶属、雇佣、代理等关系。其管理者不是 Microsoft 公司员工，不能代表 Microsoft 公司的立场、态度。
+> &emsp;灵糕中心为独立非营利组织，与其他企业不构成隶属、雇佣、代理等关系。灵糕中心的管理者不是 Microsoft 公司员工，不能代表 Microsoft 公司的立场、态度。
 >
 > &emsp;Windows、Windows Insider Program 等是 Microsoft 公司的商标。
 
@@ -48,9 +48,9 @@
 
 ## 内容
 
-//
+&emsp;**2026 年**
 
-//
+- [翻译]《[**我们对 Windows 质量的承诺**](https://github.com/Lingggao/LGHUB/blob/main/Documents/Our%20commitment%20to%20Windows%20quality%20ZH-CN.md)》(2026 年 3 月 20 日)
 
 ---
 
