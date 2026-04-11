@@ -50,7 +50,11 @@
 
 &emsp;**2026 年**
 
-- [翻译]《[**我们对 Windows 质量的承诺**](https://github.com/Lingggao/LGHUB/blob/main/Documents/Our%20commitment%20to%20Windows%20quality%20ZH-CN.md)》(2026 年 3 月 20 日)
+- [翻译]《[**我们对 Windows 质量的承诺**](https://github.com/Lingggao/LGHUB/blob/main/Documents/Translations/Our%20commitment%20to%20Windows%20quality%20ZH-CN.md)》(2026 年 3 月 20 日)
+
+&emsp;**2025 年**
+
+- [短讯]《[**Windows 10 于 2025 年 10 月 14 日终止支持**]()》(2025 年 10 月 14 日)
 
 ---
 
