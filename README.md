@@ -16,7 +16,7 @@
 
 > [!IMPORTANT]
 >
-> &emsp;灵糕中心为独立非营利组织，与其他企业不构成隶属、雇佣、代理等关系，与 Microsoft 公司亦无关联。本中心管理者不是 Microsoft 公司员工，观点不代表官方立场、态度。
+> &emsp;灵糕中心为独立非营利组织，与其他企业不构成隶属、雇佣、代理等关系，与 Microsoft 公司亦无关联。本中心的管理者不是 Microsoft 公司员工，观点不代表官方立场、态度。
 >
 > &emsp;Windows、Windows Insider Program 等是 Microsoft 公司的商标。
 
