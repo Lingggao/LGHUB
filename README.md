@@ -6,7 +6,7 @@
 
 <h1 align="center">灵糕中心</h1>
 
-<h3 align="center">(LGHUB)</h3>
+<h3 align="center">(LGHUB · Linggao Hub)</h3>
 
 [github.com/Lingggao/LGHUB](https://github.com/Lingggao/LGHUB) (GitHub)
 
@@ -26,17 +26,17 @@
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |            |            [**LCZBlog**](https://blog.licaoz.com)            |         [**GuCATs'摸鱼站**](https://blog.gucats.com)         |
 
-|          频道           |      最新版本       | 时间 (UTC+8) |                             公告                             |
-| :---------------------: | :-----------------: | :----------: | :----------------------------------------------------------: |
-|        Canary ()        | **[新]** 29550.1000 |  2026/3/14   | [WIP-Canary-29550.1000-3-13-2026](https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-for-canary-channel-29550-1000) |
-|         Canary          |                     |              |                                                              |
-|           Dev           | **[新]** 26300.8068 |  2026/3/14   | [aka.ms/WIP-Dev-3-13-2026](https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-26300-8068-dev-channel) |
-|          Beta           | **[新]** 26220.8062 |  2026/3/14   | [aka.ms/WIP-Beta-3-13-2026](https://blogs.windows.com/windows-insider/2026/03/13/announcing-windows-11-insider-preview-build-26220-8062-beta-channel) |
-|   Release Preview ()    |     26200.7921      |  2026/2/20   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2026/02/17/releasing-windows-11-builds-26100-7918-and-26200-7918-to-the-release-preview-channel) |
-|   Release Preview ()    |                     |              |                                                              |
-| General Availability () |     26200.8037      |  2026/3/11   | [support.microsoft.com](https://support.microsoft.com/en-us/help/5079473) |
-| General Availability () |                     |              |                                                              |
-| General Availability () |                     |              |                                                              |
+|            频道             |       最新版本       | 时间 (UTC+8) |                             公告                             |
+| :-------------------------: | :------------------: | :----------: | :----------------------------------------------------------: |
+|       Canary (Option)       |      29565.1000      |  2026/4/11   | [WIP-Canary-4-10-2026](https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-for-canary-channel-29565-1000) |
+|           Canary            |      28020.1812      |  2026/4/11   | [WIP-Canary29565-4-10-2026](https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-28020-1812-canary-channel) |
+|             Dev             |      26300.8170      |  2026/4/11   | [WIP-Dev-4-10-2026](https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-26300-8170-dev-channel) |
+|            Beta             |      26220.8165      |  2026/4/11   | [WIP-Beta-4-10-2026](https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-26220-8165-beta-channel) |
+|   Release Preview (25H2)    |      26200.8106      |  2026/3/13   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2026/03/12/releasing-windows-11-builds-26100-8106-and-26200-8106-to-the-release-preview-channel) |
+|   Release Preview (24H2)    |      26100.8106      |  2026/3/13   | [blogs.windows.com](https://blogs.windows.com/windows-insider/2026/03/12/releasing-windows-11-builds-26100-8106-and-26200-8106-to-the-release-preview-channel) |
+| General Availability (26H1) | 28000.1764 (Preview) |  2026/3/27   | [support.microsoft.com](https://support.microsoft.com/en-us/help/5079489) |
+| General Availability (25H2) |   26200.8117 (OOB)   |   2026/4/1   | [support.microsoft.com](https://support.microsoft.com/en-us/help/5086672) |
+| General Availability (24H2) |   26100.8117 (OOB)   |   2026/4/1   | [support.microsoft.com](https://support.microsoft.com/en-us/help/5086672) |
 
 ## 致谢
 
