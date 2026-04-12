@@ -1,8 +1,9 @@
-改善您的 Windows Insider 体验
+# 改善您的 Windows Insider 体验
 
-作者：Alec Oot 及 Windows 预览体验计划团队
-
-发布日期：2026 年 4 月 10 日
+> 原文：[***Our commitment to Windows quality***](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality)  
+> 作者：Alec Oot 与 Windows 预览体验计划团队  
+> 译者：Ling Gao  
+> 日期：2026 年 4 月 10 日
 
 各位 Windows 预览体验成员，大家好：
 
