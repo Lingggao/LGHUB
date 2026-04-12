@@ -12,7 +12,7 @@
 
 &emsp;&emsp;**用于发布 “科技与互联网行业、Microsoft 公司、Windows 及其预览体验计划 (WIP) 相关新闻报道、快讯及文章翻译” 的信息枢纽**。由 2021 Windows Insider 最有价值专家 (MVP) [**Ling Gao**](https://github.com/Lingggao) 领导。
 
-&emsp;&emsp;灵糕中心成立于 2023 年 12 月 12 日，其前身可追溯至 2019 年 5 月 14 日由 Microsoft 社区创建的 “[\[BUG 汇总\] Windows 10 2019 年 5 月更新 (1903_18362) 已知问题与处理进度汇总](https://github.com/Lingggao/LGHUB/blob/main/Images/Inherited.png?raw=true)” 讨论话题。
+&emsp;&emsp;灵糕中心创立于 2023 年 12 月 12 日，其前身可追溯至 2019 年 5 月 14 日由 Microsoft 社区创建的 “[\[BUG 汇总\] Windows 10 2019 年 5 月更新 (1903_18362) 已知问题与处理进度汇总](https://github.com/Lingggao/LGHUB/blob/main/Images/Inherited.png?raw=true)” 讨论话题。
 
 > [!IMPORTANT]
 >
