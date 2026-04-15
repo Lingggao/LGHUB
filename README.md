@@ -1,7 +1,7 @@
 <SPAN ID = 'HEAD'/>
 
 <div align="center">
-<img src="Images/LING_2.png" width = "30%" />
+<img src="Images/LING_2.png" width = "26%" />
 </div>
 
 <h1 align="center">灵糕中心</h1>
