@@ -29,19 +29,19 @@
 ---
 &emsp;【**Windows 预览体验计划 - 各频道最新版本**】
 
-&emsp;&emsp;更新时间：2026 年 4 月 11 日
+&emsp;&emsp;更新时间：2026 年 4 月 15 日
 
-|            频道             |       最新版本       | 时间 (UTC+8) |                             公告                             |
-| :-------------------------: | :------------------: | :----------: | :----------------------------------------------------------: |
-|       Canary (Option)       | **[新]** 29565.1000  |  2026/4/11   | [点此查看](https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-for-canary-channel-29565-1000) |
-|           Canary            | **[新]** 28020.1812  |  2026/4/11   | [点此查看](https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-28020-1812-canary-channel) |
-|             Dev             | **[新]** 26300.8170  |  2026/4/11   | [点此查看](https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-26300-8170-dev-channel) |
-|            Beta             | **[新]** 26220.8165  |  2026/4/11   | [点此查看](https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-26220-8165-beta-channel) |
-|   Release Preview (25H2)    |      26200.8106      |  2026/3/13   | [点此查看](https://blogs.windows.com/windows-insider/2026/03/12/releasing-windows-11-builds-26100-8106-and-26200-8106-to-the-release-preview-channel) |
-|   Release Preview (24H2)    |      26100.8106      |  2026/3/13   | [点此查看](https://blogs.windows.com/windows-insider/2026/03/12/releasing-windows-11-builds-26100-8106-and-26200-8106-to-the-release-preview-channel) |
-| General Availability (26H1) | 28000.1764 (Preview) |  2026/3/27   | [点此查看](https://support.microsoft.com/en-us/help/5079489) |
-| General Availability (25H2) |   26200.8117 (OOB)   |   2026/4/1   | [点此查看](https://support.microsoft.com/en-us/help/5086672) |
-| General Availability (24H2) |   26100.8117 (OOB)   |   2026/4/1   | [点此查看](https://support.microsoft.com/en-us/help/5086672) |
+|            频道             |            最新版本             | 时间 (UTC+8) |                             公告                             |
+| :-------------------------: | :-----------------------------: | :----------: | :----------------------------------------------------------: |
+|       Canary (Option)       |           29565.1000            |  2026/4/11   | [点此查看](https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-for-canary-channel-29565-1000) |
+|           Canary            |           28020.1812            |  2026/4/11   | [点此查看](https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-28020-1812-canary-channel) |
+|             Dev             |           26300.8170            |  2026/4/11   | [点此查看](https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-26300-8170-dev-channel) |
+|            Beta             |           26220.8165            |  2026/4/11   | [点此查看](https://blogs.windows.com/windows-insider/2026/04/10/announcing-windows-11-insider-preview-build-26220-8165-beta-channel) |
+|   Release Preview (25H2)    |           26200.8106            |  2026/3/13   | [点此查看](https://blogs.windows.com/windows-insider/2026/03/12/releasing-windows-11-builds-26100-8106-and-26200-8106-to-the-release-preview-channel) |
+|   Release Preview (24H2)    |           26100.8106            |  2026/3/13   | [点此查看](https://blogs.windows.com/windows-insider/2026/03/12/releasing-windows-11-builds-26100-8106-and-26200-8106-to-the-release-preview-channel) |
+| General Availability (26H1) | **[新]** 28000.1836 (KB5083768) |  2026/4/15   | [点此查看](https://support.microsoft.com/en-us/help/5083768) |
+| General Availability (25H2) | **[新]** 26200.8246 (KB5083769) |  2026/4/15   | [点此查看](https://support.microsoft.com/en-us/help/5083769) |
+| General Availability (24H2) | **[新]** 26100.8246 (KB5083769) |  2026/4/15   | [点此查看](https://support.microsoft.com/en-us/help/5083769) |
 
 ## 致谢
 
